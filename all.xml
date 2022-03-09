@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 11:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 12:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -976,6 +976,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170710_44/W7seI_1499677537300zuhxv_JPEG/VD13895327_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔 1위] STAYC(스테이씨) 챔피언송을 향해 I'LL RUN TO YOU♥ (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25558356</link>
+            <guid>https://tv.naver.com/v/25558356</guid>
+            <pubDate>Wed, 09 Mar 2022 12:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[4:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_297/29Xwg_1646826452098YXb2l_JPEG/CA202203090097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[입덕 LIVE] JINHO(PENTAGON) - Square (원곡: 백예린) (진호(펜타곤) - 스퀘어) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25557386</link>
             <guid>https://tv.naver.com/v/25557386</guid>
@@ -1206,14 +1214,6 @@
             <pubDate>Tue, 08 Mar 2022 11:06:03 GMT</pubDate>
             <content:encoded><![CDATA[3:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_224/RY8zN_16462156583709xjpL_JPEG/CA202203020049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Han Seung Yun - Lovender (한승윤 - 러벤더) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25423813</link>
-            <guid>https://tv.naver.com/v/25423813</guid>
-            <pubDate>Tue, 08 Mar 2022 11:06:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_37/nbtCe_1646215361664FnfSB_JPEG/CA202203020047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
