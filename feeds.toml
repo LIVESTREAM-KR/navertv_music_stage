@@ -64,6 +64,17 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[behindtheshow]
+title = "SBS MTV 비하인드 더 쇼 ─ 네이버TV"
+url = "https://tv.naver.com/sbs.behindtheshow/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [showchampion]
 title = "MBC M 쇼챔피언 ─ 네이버TV"
 url = "https://tv.naver.com/showchampion/clips"
