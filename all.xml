@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 06:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 07:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -496,6 +496,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20190303_177/DMz4G_1551602198592jqLjz_JPEG/VD94948705_w1280_h720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독샷캠4K] 엔믹스 'O.O' 단독샷 별도녹화│NMIXX ONE TAKE STAGE│@SBS Inkigayo_2022.03.06. (SBS KPOP PLAY ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25570448</link>
+            <guid>https://tv.naver.com/v/25570448</guid>
+            <pubDate>Thu, 10 Mar 2022 07:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_280/b6Qcy_1646895153791CJ3bk_JPEG/28ccd1f3-36e3-4830-b519-f553b32413db.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독샷캠4K] 체리블렛 'Love In Space' 단독샷 별도녹화│Cherry Bullet ONE TAKE STAGE│@SBS Inkigayo_2022.03.06. (SBS KPOP PLAY ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25570329</link>
+            <guid>https://tv.naver.com/v/25570329</guid>
+            <pubDate>Thu, 10 Mar 2022 07:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_292/aYKos_1646894854418fFGgj_JPEG/b9a68584-6a89-4816-bba5-106079353cef.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[페이스캠4K] 체리블렛 지원 'Love In Space' (Cherry Bullet JIWON FaceCam)│@SBS Inkigayo_2022.03.06. (SBS KPOP PLAY ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25547376</link>
             <guid>https://tv.naver.com/v/25547376</guid>
@@ -718,22 +734,6 @@
             <pubDate>Wed, 09 Mar 2022 14:33:29 GMT</pubDate>
             <content:encoded><![CDATA[4:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_221/BezSP_16466458539296cH45_JPEG/733bf7ad-d05c-4198-8fdc-b9b779de3aff.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[안방1열 직캠4K] 트레저 하루토 '직진' (TREASURE HARUTO 'JIKJIN' FanCam)│@SBS Inkigayo_2022.03.06. (SBS KPOP PLAY ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25520220</link>
-            <guid>https://tv.naver.com/v/25520220</guid>
-            <pubDate>Wed, 09 Mar 2022 14:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_36/IUc9E_1646645614030awtVI_JPEG/16569c4d-b1cd-4f18-9419-9165111aba0c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[페이스캠4K] 슈퍼주니어 은혁 'Callin'' (SUPER JUNIOR EUNHYUK FaceCam)│@SBS Inkigayo_2022.03.06. (SBS KPOP PLAY ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25520190</link>
-            <guid>https://tv.naver.com/v/25520190</guid>
-            <pubDate>Wed, 09 Mar 2022 14:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_264/aszDf_16466455505264xLPG_JPEG/bbbb1ef3-25b6-4933-a71f-121226b81c46.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['HOT DEBUT' 설렘 주의 'CLASS:y'의 'SURPRISE' 무대 | Mnet 220303 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》이번주 심플리 콘투어는 💌스테이씨(STAYC)와 함께 📍덴마크로 떠난다~!! _510회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25570013</link>
+            <guid>https://tv.naver.com/v/25570013</guid>
+            <pubDate>Thu, 10 Mar 2022 07:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_265/BrmBi_1646893879521CSrfv_PNG/1646893563821.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.509 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25466110</link>
             <guid>https://tv.naver.com/v/25466110</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Tue, 08 Mar 2022 11:06:29 GMT</pubDate>
             <content:encoded><![CDATA[3:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220303_41/UzovR_1646294638805tvD4J_JPEG/1646294119729.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 온리원오브 준지 'suit dance' 직캠 (OnlyOneOf JUNJI 'suit dance') l Simply K-Pop CON-TOUR Ep.509 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25449162</link>
-            <guid>https://tv.naver.com/v/25449162</guid>
-            <pubDate>Tue, 08 Mar 2022 11:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_84/12uYg_1646294631155ekSTC_JPEG/1646294114062.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짙은_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
