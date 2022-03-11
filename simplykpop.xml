@@ -4,9 +4,25 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 03:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 04:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[템페스트 (TEMPEST) - Just A Little Bit + Bad News ★Simply's Spotlight★ _ Ep.510]]></title>
+            <link>https://tv.naver.com/v/25587548</link>
+            <guid>https://tv.naver.com/v/25587548</guid>
+            <pubDate>Fri, 11 Mar 2022 04:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[8:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_46/7lTC9_164697222868541bPa_PNG/1646971685952.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[✨카리스마 터지는 퍼포먼스 제이위버 ‘Jtrap (제이트랩)’ _ Ep.510]]></title>
+            <link>https://tv.naver.com/v/25587392</link>
+            <guid>https://tv.naver.com/v/25587392</guid>
+            <pubDate>Fri, 11 Mar 2022 04:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_212/ey0qX_1646971681624RGjhD_PNG/1646971669034.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[《예고》이번주 심플리 콘투어는 💌스테이씨(STAYC)와 함께 📍덴마크로 떠난다~!! _510회]]></title>
             <link>https://tv.naver.com/v/25570013</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 08 Mar 2022 11:06:29 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_68/7oXak_1646367357850ASQ36_PNG/1646366303442.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 빌리 하람 ‘GingaMingaYo’ 직캠 (Billlie HARAM 'GingaMingaYo (the strange world)') l Simply K-Pop]]></title>
-            <link>https://tv.naver.com/v/25449171</link>
-            <guid>https://tv.naver.com/v/25449171</guid>
-            <pubDate>Tue, 08 Mar 2022 11:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_10/DLBvn_1646294644380awyA7_JPEG/1646294116170.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 빌리 시윤 ‘GingaMingaYo’ 직캠 (Billlie SIYOON 'GingaMingaYo (the strange world)') l Simply K-Pop]]></title>
-            <link>https://tv.naver.com/v/25449168</link>
-            <guid>https://tv.naver.com/v/25449168</guid>
-            <pubDate>Tue, 08 Mar 2022 11:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_41/UzovR_1646294638805tvD4J_JPEG/1646294119729.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
