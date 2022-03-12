@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 11:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 12:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,38 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 빌리 션 직캠 ‘GingaMingaYo’ (Billlie SHEON FanCam) @Show!MusicCore 220312 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25609258</link>
+            <guid>https://tv.naver.com/v/25609258</guid>
+            <pubDate>Sat, 12 Mar 2022 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_8/WAEfI_1647084750700YCkSP_JPEG/clip_20220312200342_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 빌리 문수아 직캠 ‘GingaMingaYo’ (Billlie MOON SUA FanCam) @Show!MusicCore 220312 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25609208</link>
+            <guid>https://tv.naver.com/v/25609208</guid>
+            <pubDate>Sat, 12 Mar 2022 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_268/no6a8_1647084453859wVxlq_JPEG/clip_20220312194833_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 빌리 수현 직캠 ‘GingaMingaYo’ (Billlie SUHYEON FanCam) @Show! MusicCore 220312 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25609207</link>
+            <guid>https://tv.naver.com/v/25609207</guid>
+            <pubDate>Sat, 12 Mar 2022 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_221/oiz5h_1647084452574eSLdt_JPEG/clip_20220312194823_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 빌리 시윤 직캠 ‘GingaMingaYo’ (Billlie SIYOON FanCam) @Show! MusicCore 220312 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25609115</link>
+            <guid>https://tv.naver.com/v/25609115</guid>
+            <pubDate>Sat, 12 Mar 2022 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_284/h89wr_1647084154943TASzl_JPEG/clip_20220312194920_30.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 빌리 하루나 직캠 ‘GingaMingaYo’ (Billlie HARUNA FanCam) @Show! MusicCore 220312 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -222,38 +254,6 @@
             <pubDate>Tue, 08 Mar 2022 11:05:36 GMT</pubDate>
             <content:encoded><![CDATA[4:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_206/IQ8i3_1646645256217mA4tO_JPEG/clip_20220307173423_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 비투비 서은광 직캠 ‘노래 (The Song)’ (BTOB SEO EUNKWANG FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25489718</link>
-            <guid>https://tv.naver.com/v/25489718</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[4:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_221/Dfx9R_1646485354852rfjdy_JPEG/clip_20220305213124_148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 비투비 임현식 직캠 ‘노래 (The Song)’ (BTOB LIM HYUNSIK FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25489717</link>
-            <guid>https://tv.naver.com/v/25489717</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[4:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_295/826Rc_1646485353619QJaTC_JPEG/clip_20220305213115_146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 비투비 이창섭 직캠 ‘노래 (The Song)’ (BTOB LEE CHANGSUB FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25489662</link>
-            <guid>https://tv.naver.com/v/25489662</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[4:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_259/32lA9_1646485057688LBqB0_JPEG/clip_20220305213148_152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 비투비 프니엘 직캠 ‘노래 (The Song)’ (BTOB PENIEL FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25489661</link>
-            <guid>https://tv.naver.com/v/25489661</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[4:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_249/NvVHx_1646485056307blFwl_JPEG/clip_20220305213130_150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘몬스타엑스’의 독보적인 파워! ‘FANTASIA’ (SBS 인기가요 ─ 네이버TV)]]></title>
