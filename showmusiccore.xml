@@ -4,9 +4,89 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 10:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 11:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 빌리 하루나 직캠 ‘GingaMingaYo’ (Billlie HARUNA FanCam) @Show! MusicCore 220312]]></title>
+            <link>https://tv.naver.com/v/25609008</link>
+            <guid>https://tv.naver.com/v/25609008</guid>
+            <pubDate>Sat, 12 Mar 2022 11:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_229/YdvC8_1647083553255PjYRG_JPEG/clip_20220312194956_32.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 빌리 츠키 직캠 ‘GingaMingaYo’ (Billlie TSUKI FanCam) @Show!MusicCore 220312]]></title>
+            <link>https://tv.naver.com/v/25609007</link>
+            <guid>https://tv.naver.com/v/25609007</guid>
+            <pubDate>Sat, 12 Mar 2022 11:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_276/jXhgW_1647083552186oXdyJ_JPEG/clip_20220312194858_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 빌리 하람 직캠 ‘GingaMingaYo’ (Billlie HARAM FanCam) @Show! MusicCore 220312]]></title>
+            <link>https://tv.naver.com/v/25608962</link>
+            <guid>https://tv.naver.com/v/25608962</guid>
+            <pubDate>Sat, 12 Mar 2022 11:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_64/nIpi5_1647083317347AnzlT_JPEG/clip_20220312194842_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔믹스 지우 직캠 ‘O.O’ (NMIXX JIWOO FanCam) @Show!MusicCore 220312]]></title>
+            <link>https://tv.naver.com/v/25608749</link>
+            <guid>https://tv.naver.com/v/25608749</guid>
+            <pubDate>Sat, 12 Mar 2022 11:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_153/o1Ytf_1647082059216iFxOt_JPEG/clip_20220312191914_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔믹스 설윤 직캠 ‘O.O’ (NMIXX SULLYOON FanCam) @Show!MusicCore 220312]]></title>
+            <link>https://tv.naver.com/v/25608746</link>
+            <guid>https://tv.naver.com/v/25608746</guid>
+            <pubDate>Sat, 12 Mar 2022 11:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_156/sOJoe_1647082054090ePQ5k_JPEG/clip_20220312191817_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔믹스 배이 직캠 ‘O.O’ (NMIXX BAE FanCam) @Show!MusicCore 220312]]></title>
+            <link>https://tv.naver.com/v/25608695</link>
+            <guid>https://tv.naver.com/v/25608695</guid>
+            <pubDate>Sat, 12 Mar 2022 11:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_12/f4YnB_1647081763029Bs0CV_JPEG/clip_20220312192027_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔믹스 지니 직캠 ‘O.O’ (NMIXX JINNI FanCam) @Show!MusicCore 220312]]></title>
+            <link>https://tv.naver.com/v/25608692</link>
+            <guid>https://tv.naver.com/v/25608692</guid>
+            <pubDate>Sat, 12 Mar 2022 11:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_208/U8jdf_16470817569698cafA_JPEG/clip_20220312191850_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔믹스 릴리 직캠 ‘O.O’ (NMIXX LILY FanCam) @Show!MusicCore 220312]]></title>
+            <link>https://tv.naver.com/v/25608691</link>
+            <guid>https://tv.naver.com/v/25608691</guid>
+            <pubDate>Sat, 12 Mar 2022 11:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_106/aUwVL_16470817556765rsP7_JPEG/clip_20220312191834_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔믹스 규진 직캠 ‘O.O’ (NMIXX KYUJIN FanCam) @Show!MusicCore 220312]]></title>
+            <link>https://tv.naver.com/v/25608690</link>
+            <guid>https://tv.naver.com/v/25608690</guid>
+            <pubDate>Sat, 12 Mar 2022 11:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_18/ndlKE_1647081754343Q7RNq_JPEG/clip_20220312191756_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔믹스 해원 직캠 ‘O.O’ (NMIXX HAEWON FanCam) @Show!MusicCore 220312]]></title>
+            <link>https://tv.naver.com/v/25608633</link>
+            <guid>https://tv.naver.com/v/25608633</guid>
+            <pubDate>Sat, 12 Mar 2022 11:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_89/o5r5b_1647081455818J2hns_JPEG/clip_20220312192010_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 원호 세로캠 ‘Somebody’ (WONHO FanCam) @Show!MusicCore 220312]]></title>
             <link>https://tv.naver.com/v/25608268</link>
@@ -166,86 +246,6 @@
             <pubDate>Tue, 08 Mar 2022 11:05:36 GMT</pubDate>
             <content:encoded><![CDATA[4:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220305_249/NvVHx_1646485056307blFwl_JPEG/clip_20220305213130_150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 비투비 육성재 직캠 ‘노래 (The Song)’ (BTOB YOOK SUNGJAE FanCam) @Show!MusicCore 220305]]></title>
-            <link>https://tv.naver.com/v/25489595</link>
-            <guid>https://tv.naver.com/v/25489595</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[4:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_57/b9qfX_1646484753674FBfco_JPEG/clip_20220305213052_144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔믹스 지니 직캠 ‘O.O’ (NMIXX JINNI FanCam) @Show!MusicCore 220305]]></title>
-            <link>https://tv.naver.com/v/25488831</link>
-            <guid>https://tv.naver.com/v/25488831</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_195/XTjEO_1646480555252DiYPk_JPEG/clip_20220305201621_138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔믹스 규진 직캠 ‘O.O’ (NMIXX KYUJIN FanCam) @Show!MusicCore 220305]]></title>
-            <link>https://tv.naver.com/v/25488793</link>
-            <guid>https://tv.naver.com/v/25488793</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_132/wugOb_16464803202718CCyB_JPEG/clip_20220305201854_142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔믹스 해원 직캠 ‘O.O’ (NMIXX HAEWON FanCam) @Show!MusicCore 220305]]></title>
-            <link>https://tv.naver.com/v/25488792</link>
-            <guid>https://tv.naver.com/v/25488792</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_191/0BYwq_1646480318758KGJF2_JPEG/clip_20220305201749_140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔믹스 지우 직캠 ‘O.O’ (NMIXX JIWOO FanCam) @Show!MusicCore 220305]]></title>
-            <link>https://tv.naver.com/v/25488775</link>
-            <guid>https://tv.naver.com/v/25488775</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_173/FX1tj_1646480258804jq12i_JPEG/clip_20220305201546_136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔믹스 릴리 직캠 ‘O.O’ (NMIXX LILY FanCam) @Show!MusicCore 220305]]></title>
-            <link>https://tv.naver.com/v/25488774</link>
-            <guid>https://tv.naver.com/v/25488774</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_173/5vlPU_16464802575201fRQB_JPEG/clip_20220305201532_134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔믹스 배이 직캠 ‘O.O’ (NMIXX BAE FanCam) @Show!MusicCore 220305]]></title>
-            <link>https://tv.naver.com/v/25488773</link>
-            <guid>https://tv.naver.com/v/25488773</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_209/YC2RB_16464802561827F2V2_JPEG/clip_20220305201518_132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔믹스 설윤 직캠 ‘O.O’ (NMIXX SULLYOON FanCam) @Show!MusicCore 220305]]></title>
-            <link>https://tv.naver.com/v/25488771</link>
-            <guid>https://tv.naver.com/v/25488771</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_284/XLmPC_1646480254726KTWNi_JPEG/clip_20220305201453_130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 원호 세로캠 ‘'EYE ON YOU’ (WONHO FanCam) @Show!MusicCore 220305]]></title>
-            <link>https://tv.naver.com/v/25488665</link>
-            <guid>https://tv.naver.com/v/25488665</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_142/ez73k_164647965145931j0h_JPEG/clip_20220305200304_128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 스테이씨 세은 직캠 ‘RUN2U’ (STAYC SEEUN FanCam) @Show!MusicCore 220305]]></title>
-            <link>https://tv.naver.com/v/25488598</link>
-            <guid>https://tv.naver.com/v/25488598</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_48/ueY9j_1646479354964TJ9CU_JPEG/clip_20220305195236_126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
