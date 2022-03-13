@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 12:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 13:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -496,6 +496,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20190303_177/DMz4G_1551602198592jqLjz_JPEG/VD94948705_w1280_h720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Rocket Punch(로켓펀치) - CHIQUITA @인기가요 inkigayo 20220313 (SBS KPOP PLAY ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25621783</link>
+            <guid>https://tv.naver.com/v/25621783</guid>
+            <pubDate>Sun, 13 Mar 2022 13:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_297/YzEgl_1647174459181gym4f_JPEG/2e115928-f24b-4998-b934-218dbc69f882.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NMIXX(엔믹스) - O.O @인기가요 inkigayo 20220313 (SBS KPOP PLAY ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25621781</link>
+            <guid>https://tv.naver.com/v/25621781</guid>
+            <pubDate>Sun, 13 Mar 2022 13:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_85/8jBxr_164717445715592PW6_JPEG/002f86eb-d53e-4ae5-bf88-08bc17d2316d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KIM WOO SEOK(김우석) - Switch @인기가요 inkigayo 20220313 (SBS KPOP PLAY ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25621780</link>
+            <guid>https://tv.naver.com/v/25621780</guid>
+            <pubDate>Sun, 13 Mar 2022 13:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_63/OcrKe_1647174454714pkVN7_JPEG/d33a2369-975a-4315-8be3-3e396b4dfef9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TREASURE(트레저) - JIKJIN(직진) @인기가요 inkigayo 20220313 (SBS KPOP PLAY ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25621611</link>
             <guid>https://tv.naver.com/v/25621611</guid>
@@ -528,7 +552,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220313_202/yzAxx_1647173254403RV29v_JPEG/c4bf8d5b-fffb-4d93-b0ba-a4524a776f90.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[VANNER(배너) - Rolin @인기가요 inkigayo 20220313 (SBS KPOP PLAY ─ 네이버TV)]]></title>
+            <title><![CDATA[VANNER(배너) - Rollin @인기가요 inkigayo 20220313 (SBS KPOP PLAY ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25621275</link>
             <guid>https://tv.naver.com/v/25621275</guid>
             <pubDate>Sun, 13 Mar 2022 12:25:03 GMT</pubDate>
@@ -710,30 +734,6 @@
             <pubDate>Sun, 13 Mar 2022 08:18:20 GMT</pubDate>
             <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220313_223/CgUMU_1647156753493alNQA_JPEG/66dbda16-9b68-44e1-b20f-b4e03659b893.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[안방1열 직캠4K] 빌리 'GingaMingaYo' 풀캠 (Billlie Full Cam)│@SBS Inkigayo_2022.03.13. (SBS KPOP PLAY ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25615501</link>
-            <guid>https://tv.naver.com/v/25615501</guid>
-            <pubDate>Sun, 13 Mar 2022 08:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_61/Uo0tp_1647156212952gNtNz_JPEG/36d619a5-8b04-422f-bba4-d4dec432db8e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[항공캠4K] 로켓펀치 'CHIQUITA' (Rocket Punch Sky Cam)│@SBS Inkigayo_2022.03.06. (SBS KPOP PLAY ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25570910</link>
-            <guid>https://tv.naver.com/v/25570910</guid>
-            <pubDate>Thu, 10 Mar 2022 08:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_237/9pIRP_16468963528363q5LC_JPEG/7713d076-586a-4d3b-9f03-35eafa756d98.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[항공캠4K] 체리블렛 'Love In Space' (Cherry Bullet Sky Cam)│@SBS Inkigayo_2022.03.06. (SBS KPOP PLAY ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25570698</link>
-            <guid>https://tv.naver.com/v/25570698</guid>
-            <pubDate>Thu, 10 Mar 2022 08:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_247/J8FTl_1646895813543bJiYg_JPEG/c6eefb27-202b-4eda-a913-e6911db8f2c4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['HOT DEBUT' 설렘 주의 'CLASS:y'의 'SURPRISE' 무대 | Mnet 220303 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
