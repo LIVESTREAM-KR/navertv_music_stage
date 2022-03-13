@@ -4,9 +4,65 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 04:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 05:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 탄 창선 직캠 ‘DU DU DU’ (TAN Lee Chang Sun FanCam) @Show!MusicCore 220312]]></title>
+            <link>https://tv.naver.com/v/25609624</link>
+            <guid>https://tv.naver.com/v/25609624</guid>
+            <pubDate>Sun, 13 Mar 2022 05:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_257/QeNss_1647086553651UtEhP_JPEG/clip_20220312202520_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 탄 성혁 직캠 ‘DU DU DU’ (TAN Seo Sung Hyuk FanCam) @Show!MusicCore 220312]]></title>
+            <link>https://tv.naver.com/v/25609572</link>
+            <guid>https://tv.naver.com/v/25609572</guid>
+            <pubDate>Sun, 13 Mar 2022 05:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_180/1w69B_1647086253196V1JjV_JPEG/clip_20220312202347_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 탄 주안 직캠 ‘DU DU DU’ (TAN Im Joo An FanCam) @Show!MusicCore 220312]]></title>
+            <link>https://tv.naver.com/v/25609523</link>
+            <guid>https://tv.naver.com/v/25609523</guid>
+            <pubDate>Sun, 13 Mar 2022 05:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_199/pOJH5_1647085954724DdKme_JPEG/clip_20220312202448_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 탄 현엽 직캠 ‘DU DU DU’ (TAN Kim Hyun Yeop FanCam) @Show!MusicCore 220312]]></title>
+            <link>https://tv.naver.com/v/25609467</link>
+            <guid>https://tv.naver.com/v/25609467</guid>
+            <pubDate>Sun, 13 Mar 2022 05:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_16/560Gj_1647085718415usbKY_JPEG/clip_20220312202438_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 탄 지성 직캠 ‘DU DU DU’ (TAN Kim Ji Seong FanCam) @Show!MusicCore 220312]]></title>
+            <link>https://tv.naver.com/v/25609466</link>
+            <guid>https://tv.naver.com/v/25609466</guid>
+            <pubDate>Sun, 13 Mar 2022 05:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_62/bYyCb_16470857170385mNXd_JPEG/clip_20220312202427_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 탄 재준 직캠 ‘DU DU DU’ (TAN Lee Jae Jun FanCam) @Show!MusicCore 220312]]></title>
+            <link>https://tv.naver.com/v/25609463</link>
+            <guid>https://tv.naver.com/v/25609463</guid>
+            <pubDate>Sun, 13 Mar 2022 05:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_21/C0PBr_1647085713736uGMQ2_JPEG/clip_20220312202333_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 탄 태훈 직캠 ‘DU DU DU’ (TAN Bang Tae Hoon FanCam) @Show!MusicCore 220312]]></title>
+            <link>https://tv.naver.com/v/25609447</link>
+            <guid>https://tv.naver.com/v/25609447</guid>
+            <pubDate>Sun, 13 Mar 2022 05:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_81/w7voX_1647085659666VYsoc_JPEG/clip_20220312202500_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 빌리 션 직캠 ‘GingaMingaYo’ (Billlie SHEON FanCam) @Show!MusicCore 220312]]></title>
             <link>https://tv.naver.com/v/25609258</link>
@@ -190,62 +246,6 @@
             <pubDate>Sat, 12 Mar 2022 09:15:13 GMT</pubDate>
             <content:encoded><![CDATA[3:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220312_198/BRt2f_1647073113887meV2O_JPEG/clip_20220312165545_65.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔믹스 직캠 ‘O.O’ (NMIXX FanCam) @Show!MusicCore 220312]]></title>
-            <link>https://tv.naver.com/v/25607114</link>
-            <guid>https://tv.naver.com/v/25607114</guid>
-            <pubDate>Sat, 12 Mar 2022 08:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_77/eibY1_1647072754086Saa8c_JPEG/clip_20220312165525_63.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 빌리 직캠 ‘GingaMingaYo (the strange world)’ (Billlie FanCam) @Show!MusicCore 220312]]></title>
-            <link>https://tv.naver.com/v/25606458</link>
-            <guid>https://tv.naver.com/v/25606458</guid>
-            <pubDate>Sat, 12 Mar 2022 08:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_90/ZsV7u_1647069155771OIisD_JPEG/clip_20220312154653_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 오메가엑스 직캠 ‘LIAR’ (OMEGA X FanCam) @Show!MusicCore 220312]]></title>
-            <link>https://tv.naver.com/v/25606282</link>
-            <guid>https://tv.naver.com/v/25606282</guid>
-            <pubDate>Sat, 12 Mar 2022 08:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_195/XM7Xb_1647068259571fRbjg_JPEG/clip_20220312153702_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 원호 직캠 ‘Somebody’ (WONHO FanCam) @Show!MusicCore 220312]]></title>
-            <link>https://tv.naver.com/v/25606281</link>
-            <guid>https://tv.naver.com/v/25606281</guid>
-            <pubDate>Sat, 12 Mar 2022 08:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_181/oufFw_1647068257315L06et_JPEG/clip_20220312153501_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 위클리 직캠 ‘Ven para’ (Weeekly FanCam) @Show!MusicCore 220312]]></title>
-            <link>https://tv.naver.com/v/25606280</link>
-            <guid>https://tv.naver.com/v/25606280</guid>
-            <pubDate>Sat, 12 Mar 2022 08:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_217/zvzKP_1647068255215pqxlk_JPEG/clip_20220312153323_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 트레저 직캠 ‘직진(JIKJIN)’ (TREASURE FanCam) @Show!MusicCore 220312]]></title>
-            <link>https://tv.naver.com/v/25606227</link>
-            <guid>https://tv.naver.com/v/25606227</guid>
-            <pubDate>Sat, 12 Mar 2022 08:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_45/ZBVRP_16470679564200V7wX_JPEG/clip_20220312153227_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 비투비 이민혁 직캠 ‘노래 (The Song)’ (BTOB LEE MINHYUK FanCam) @Show!MusicCore 220305]]></title>
-            <link>https://tv.naver.com/v/25520054</link>
-            <guid>https://tv.naver.com/v/25520054</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[4:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_206/IQ8i3_1646645256217mA4tO_JPEG/clip_20220307173423_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
