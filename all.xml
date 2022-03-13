@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 10:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 11:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -496,6 +496,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20190303_177/DMz4G_1551602198592jqLjz_JPEG/VD94948705_w1280_h720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[안방1열 직캠4K] 김우석 'Switch' (KIM WOO SEOK FanCam)│@SBS Inkigayo_2022.03.13. (SBS KPOP PLAY ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25619559</link>
+            <guid>https://tv.naver.com/v/25619559</guid>
+            <pubDate>Sun, 13 Mar 2022 11:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_296/SfmbV_1647169722873Q5fXj_JPEG/4a2e1668-414b-449c-b78a-6d404d10dc5c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 츠키 'GingaMingaYo(the strange world)' (Billlie TSUKI FanCam)│@SBS Inkigayo_2022.03.13 (SBS KPOP PLAY ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25617459</link>
             <guid>https://tv.naver.com/v/25617459</guid>
@@ -726,14 +734,6 @@
             <pubDate>Wed, 09 Mar 2022 14:33:29 GMT</pubDate>
             <content:encoded><![CDATA[4:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_230/GjG9K_1646732554153nPLwS_JPEG/74a90805-cee2-4068-beda-caa1947423cc.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[페이스캠4K] 스테이씨 재이 'RUN2U' (STAYC J FaceCam)│@SBS Inkigayo_2022.03.06. (SBS KPOP PLAY ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25541442</link>
-            <guid>https://tv.naver.com/v/25541442</guid>
-            <pubDate>Wed, 09 Mar 2022 14:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_298/IPyHw_1646730469728mkaBu_JPEG/c560b086-6285-4c9f-85c7-1741703206b2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['HOT DEBUT' 설렘 주의 'CLASS:y'의 'SURPRISE' 무대 | Mnet 220303 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
