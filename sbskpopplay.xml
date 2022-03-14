@@ -4,7 +4,7 @@
         <title>SBS KPOP PLAY ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 06:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 07:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,12 +240,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220313_296/SfmbV_1647169722873Q5fXj_JPEG/4a2e1668-414b-449c-b78a-6d404d10dc5c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[안방1열 직캠4K] 빌리 츠키 'GingaMingaYo(the strange world)' (Billlie TSUKI FanCam)│@SBS Inkigayo_2022.03.13]]></title>
-            <link>https://tv.naver.com/v/25617459</link>
-            <guid>https://tv.naver.com/v/25617459</guid>
-            <pubDate>Sun, 13 Mar 2022 09:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[4:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_190/loIQH_1647159510238icu9J_JPEG/40779ee2-6515-4c06-b1c9-b418c575b9ca.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[안방1열 직캠4K] 위클리 박소은 'Ven Para' (Weeekly PARK SOEUN FanCam)│@SBS Inkigayo_2022.03.13.]]></title>
+            <link>https://tv.naver.com/v/25618121</link>
+            <guid>https://tv.naver.com/v/25618121</guid>
+            <pubDate>Mon, 14 Mar 2022 07:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_252/DeQav_1647237151034XQaTX_JPEG/7411f054-0a59-4665-a76d-9d3b634458e4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
