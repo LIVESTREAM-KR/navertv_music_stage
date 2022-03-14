@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 01:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 02:38:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NEW MC!!😍 DAEHWI of AB6IX💓  | SIMPLY BEHIND CAM EP.5 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25628368</link>
+            <guid>https://tv.naver.com/v/25628368</guid>
+            <pubDate>Mon, 14 Mar 2022 02:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[4:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_220/cdzAS_16472218136313OeVn_PNG/1647221810871.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[PLYCAM 4K] 스테이씨 아이사 'RUN2U' 직캠 (STAYC ISA ‘RUN2U’) l Simply K-Pop CON-TOUR Ep.510 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25588640</link>
             <guid>https://tv.naver.com/v/25588640</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Fri, 11 Mar 2022 05:15:43 GMT</pubDate>
             <content:encoded><![CDATA[4:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_202/4kCBw_16469752708909zHyR_JPEG/1646975265411.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 템페스트 은찬 'Bad News' 직캠 (TEMPEST EUNCHAN 'Bad News') l Simply K-Pop CON-TOUR Ep.510 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25588567</link>
-            <guid>https://tv.naver.com/v/25588567</guid>
-            <pubDate>Fri, 11 Mar 2022 05:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_151/5l9HN_1646975256654lNNU7_JPEG/1646975250454.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[변진섭_희망사항 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
