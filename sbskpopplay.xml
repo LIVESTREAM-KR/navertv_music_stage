@@ -4,9 +4,57 @@
         <title>SBS KPOP PLAY ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 08:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 09:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[페이스캠4K] 엔믹스 지우 'O.O' (NMIXX JIWOO FaceCam)│@SBS Inkigayo_2022.03.13.]]></title>
+            <link>https://tv.naver.com/v/25637978</link>
+            <guid>https://tv.naver.com/v/25637978</guid>
+            <pubDate>Mon, 14 Mar 2022 09:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_226/NOgxk_1647247655037l36Ab_JPEG/1dc31d0a-2f17-4e80-a882-5570b94d7582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[페이스캠4K] 엔믹스 배이 'O.O' (NMIXX BAE FaceCam)│@SBS Inkigayo_2022.03.13.]]></title>
+            <link>https://tv.naver.com/v/25637640</link>
+            <guid>https://tv.naver.com/v/25637640</guid>
+            <pubDate>Mon, 14 Mar 2022 09:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_208/2EtOB_1647246815538mJgdC_JPEG/6ee319d8-8ebc-48d5-98e5-6175266aa18e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[안방1열 직캠4K] 엔믹스 규진 'O.O' (NMIXX KYUJIN FanCam)│@SBS Inkigayo_2022.03.13.]]></title>
+            <link>https://tv.naver.com/v/25637361</link>
+            <guid>https://tv.naver.com/v/25637361</guid>
+            <pubDate>Mon, 14 Mar 2022 09:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_118/kxhvd_1647246155385RVJ3H_JPEG/e3639e7c-1604-422e-9fd9-69908d39e7fa.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[안방1열 직캠4K] 엔믹스 해원 'O.O' (NMIXX HAEWON FanCam)│@SBS Inkigayo_2022.03.13.]]></title>
+            <link>https://tv.naver.com/v/25637248</link>
+            <guid>https://tv.naver.com/v/25637248</guid>
+            <pubDate>Mon, 14 Mar 2022 09:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_91/iFwJB_16472459210759KBbS_JPEG/c89a45c3-9232-4234-856c-c8a4ca730cf1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[페이스캠4K] 엔믹스 설윤 'O.O' (NMIXX SULLYOON FaceCam)│@SBS Inkigayo_2022.03.13.]]></title>
+            <link>https://tv.naver.com/v/25637209</link>
+            <guid>https://tv.naver.com/v/25637209</guid>
+            <pubDate>Mon, 14 Mar 2022 09:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_84/rzgQ2_1647247118948uWzlN_JPEG/b56f8f9a-f127-4d33-ae2e-9a13d322e989.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[페이스캠4K] 엔믹스 릴리 'O.O' (NMIXX LILY FaceCam)│@SBS Inkigayo_2022.03.13.]]></title>
+            <link>https://tv.naver.com/v/25637207</link>
+            <guid>https://tv.naver.com/v/25637207</guid>
+            <pubDate>Mon, 14 Mar 2022 09:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_138/dLR65_16472458558310zJpM_JPEG/cac0c72d-afa1-406e-a6c2-f1453c2be0f0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[페이스캠4K] 빌리 문수아 'GingaMingaYo(the strange world)' (Billlie Moon Sua FaceCam)│@SBS Inkigayo_20220313]]></title>
             <link>https://tv.naver.com/v/25637053</link>
@@ -14,6 +62,14 @@
             <pubDate>Mon, 14 Mar 2022 08:19:48 GMT</pubDate>
             <content:encoded><![CDATA[4:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220314_191/RSwWU_1647245562185NJN7A_JPEG/f5a1e4a7-900d-410c-8f7b-0659899eaac7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[안방1열 직캠4K] 엔믹스 지니 'O.O' (NMIXX JINNI FanCam)│@SBS Inkigayo_2022.03.13.]]></title>
+            <link>https://tv.naver.com/v/25637052</link>
+            <guid>https://tv.naver.com/v/25637052</guid>
+            <pubDate>Mon, 14 Mar 2022 09:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_109/MMq5o_1647245560697jmAy2_JPEG/250ac1f0-7b2e-4431-a7a9-9f8aa4665ea7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[페이스캠4K] 빌리 수현 'GingaMingaYo(the strange world)' (Billlie SUHYEON FaceCam)│@SBS Inkigayo_2022.03.13]]></title>
@@ -190,62 +246,6 @@
             <pubDate>Sun, 13 Mar 2022 12:25:03 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220314_180/ru2jo_1647184061051L9MuG_JPEG/36f9f153-013f-4840-a3ef-0b7d909d6bf6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TEMPEST(템페스트) - Bad News @인기가요 inkigayo 20220313]]></title>
-            <link>https://tv.naver.com/v/25621070</link>
-            <guid>https://tv.naver.com/v/25621070</guid>
-            <pubDate>Sun, 13 Mar 2022 12:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_105/1Py5v_1647172363735VNp55_JPEG/0c90e8c3-1d05-4be7-b4d1-d09211efb97e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Billlie(빌리) - GingaMingaYo(긴가민가요) @인기가요 inkigayo 20220313]]></title>
-            <link>https://tv.naver.com/v/25621067</link>
-            <guid>https://tv.naver.com/v/25621067</guid>
-            <pubDate>Sun, 13 Mar 2022 12:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_21/TgXS2_16471723613387r25h_JPEG/f7e8a5e7-65e6-4294-92f8-8fce1cc59001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kim Na Hee(김나희) - OhPpaya(오빠야) @인기가요 inkigayo 20220313]]></title>
-            <link>https://tv.naver.com/v/25620958</link>
-            <guid>https://tv.naver.com/v/25620958</guid>
-            <pubDate>Sun, 13 Mar 2022 12:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_299/a6nHP_1647172359841CLkfC_JPEG/ce0191de-1447-4db2-a3a0-297b6fa7b3eb.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLACK LEVEL(블랙레벨) - Infection @인기가요 inkigayo 20220313]]></title>
-            <link>https://tv.naver.com/v/25620758</link>
-            <guid>https://tv.naver.com/v/25620758</guid>
-            <pubDate>Sun, 13 Mar 2022 12:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_184/eGNeC_1647183765758igGAg_JPEG/2e01ade1-1359-4e49-a837-b497d68a557c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HONG EUI JIN(홍의진) - The 8th Spring(여덟 번째 봄) @인기가요 inkigayo 20220313]]></title>
-            <link>https://tv.naver.com/v/25620657</link>
-            <guid>https://tv.naver.com/v/25620657</guid>
-            <pubDate>Sun, 13 Mar 2022 12:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_223/wpoAk_16471714642403CIuc_JPEG/c0bb5610-c023-455c-a2f3-1dba845ca189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Double Decker(이층버스) - When Love Stays Idle(사랑이 게으름으로 잔뜩 쌓여져 갈 때) @인기가요 inkigayo 20220313]]></title>
-            <link>https://tv.naver.com/v/25620655</link>
-            <guid>https://tv.naver.com/v/25620655</guid>
-            <pubDate>Sun, 13 Mar 2022 12:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_258/ms4GB_1647172355532kJzWS_JPEG/46aaf1a1-17c5-459c-b43f-e79e98e58c2b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAXY (크랙시) - Dance with God @인기가요 inkigayo 20220313]]></title>
-            <link>https://tv.naver.com/v/25620635</link>
-            <guid>https://tv.naver.com/v/25620635</guid>
-            <pubDate>Sun, 13 Mar 2022 12:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_7/4quJD_1647172068708TCObU_JPEG/e2311587-2593-4f10-a07b-1f31e031f6ab.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
