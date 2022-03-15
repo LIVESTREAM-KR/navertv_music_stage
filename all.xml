@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 09:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 10:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -496,6 +496,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20190303_177/DMz4G_1551602198592jqLjz_JPEG/VD94948705_w1280_h720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[페이스캠4K] 김우석 'Switch' (KIM WOO SEOK FaceCam)│@SBS Inkigayo_2022.03.13. (SBS KPOP PLAY ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25655926</link>
+            <guid>https://tv.naver.com/v/25655926</guid>
+            <pubDate>Tue, 15 Mar 2022 10:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_194/iT46E_1647329554767gzuyj_JPEG/1754376b-be76-4121-b13d-accd841fa931.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[페이스캠4K] 위클리 먼데이 'Ven Para' (Weeekly MONDAY FaceCam)│@SBS Inkigayo_2022.03.13. (SBS KPOP PLAY ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25655730</link>
             <guid>https://tv.naver.com/v/25655730</guid>
@@ -726,14 +734,6 @@
             <pubDate>Mon, 14 Mar 2022 08:19:48 GMT</pubDate>
             <content:encoded><![CDATA[4:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220314_191/RSwWU_1647245562185NJN7A_JPEG/f5a1e4a7-900d-410c-8f7b-0659899eaac7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[안방1열 직캠4K] 엔믹스 지니 'O.O' (NMIXX JINNI FanCam)│@SBS Inkigayo_2022.03.13. (SBS KPOP PLAY ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25637052</link>
-            <guid>https://tv.naver.com/v/25637052</guid>
-            <pubDate>Mon, 14 Mar 2022 09:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_109/MMq5o_1647245560697jmAy2_JPEG/250ac1f0-7b2e-4431-a7a9-9f8aa4665ea7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['HOT DEBUT' 설렘 주의 'CLASS:y'의 'SURPRISE' 무대 | Mnet 220303 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
