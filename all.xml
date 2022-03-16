@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 06:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 07:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -496,6 +496,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20190303_177/DMz4G_1551602198592jqLjz_JPEG/VD94948705_w1280_h720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[안방1열 직캠4K] 템페스트 형섭 'Bad News' (TEMPEST HYEONGSEOP FanCam)│@SBS Inkigayo_2022.03.13. (SBS KPOP PLAY ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25657326</link>
+            <guid>https://tv.naver.com/v/25657326</guid>
+            <pubDate>Wed, 16 Mar 2022 07:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_268/o10FS_1647332555118n57EC_JPEG/4de0cdd7-7f96-4ab6-9f7b-f6a47af1a1eb.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[안방1열 직캠4K] 템페스트 은찬 'Bad News' (TEMPEST EUNCHAN FanCam)│@SBS Inkigayo_2022.03.13. (SBS KPOP PLAY ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25656042</link>
+            <guid>https://tv.naver.com/v/25656042</guid>
+            <pubDate>Wed, 16 Mar 2022 07:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_215/Qq56b_1647329852689nekN7_JPEG/6d9632ff-d594-4550-984b-54e3d8aeb4ef.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[안방1열 직캠4K] 템페스트 한빈 'Bad News' (TEMPEST HANBIN FanCam)│@SBS Inkigayo_2022.03.13. (SBS KPOP PLAY ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25655927</link>
+            <guid>https://tv.naver.com/v/25655927</guid>
+            <pubDate>Wed, 16 Mar 2022 07:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_203/Eaaju_16473295570097qTxS_JPEG/6a302e24-a544-46ed-98ca-f96189fa87c9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[페이스캠4K] 김우석 'Switch' (KIM WOO SEOK FaceCam)│@SBS Inkigayo_2022.03.13. (SBS KPOP PLAY ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25655926</link>
             <guid>https://tv.naver.com/v/25655926</guid>
@@ -710,30 +734,6 @@
             <pubDate>Mon, 14 Mar 2022 09:16:34 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220314_91/iFwJB_16472459210759KBbS_JPEG/c89a45c3-9232-4234-856c-c8a4ca730cf1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[페이스캠4K] 엔믹스 설윤 'O.O' (NMIXX SULLYOON FaceCam)│@SBS Inkigayo_2022.03.13. (SBS KPOP PLAY ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25637209</link>
-            <guid>https://tv.naver.com/v/25637209</guid>
-            <pubDate>Mon, 14 Mar 2022 09:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_230/B6lyL_1647251554681r8E7u_JPEG/ddc32826-6253-4c69-87a8-f2e82785bfba.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[페이스캠4K] 엔믹스 릴리 'O.O' (NMIXX LILY FaceCam)│@SBS Inkigayo_2022.03.13. (SBS KPOP PLAY ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25637207</link>
-            <guid>https://tv.naver.com/v/25637207</guid>
-            <pubDate>Mon, 14 Mar 2022 09:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_138/dLR65_16472458558310zJpM_JPEG/cac0c72d-afa1-406e-a6c2-f1453c2be0f0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[페이스캠4K] 빌리 문수아 'GingaMingaYo(the strange world)' (Billlie Moon Sua FaceCam)│@SBS Inkigayo_20220313 (SBS KPOP PLAY ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25637053</link>
-            <guid>https://tv.naver.com/v/25637053</guid>
-            <pubDate>Mon, 14 Mar 2022 08:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_191/RSwWU_1647245562185NJN7A_JPEG/f5a1e4a7-900d-410c-8f7b-0659899eaac7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['HOT DEBUT' 설렘 주의 'CLASS:y'의 'SURPRISE' 무대 | Mnet 220303 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
