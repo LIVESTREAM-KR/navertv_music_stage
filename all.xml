@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 03:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 04:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -736,6 +736,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220314_34/3QDw6_1647249155131XQ5sr_JPEG/5cb8b8a4-13b0-4468-ad4f-817b3663e3d1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘최초 공개’ 첫사랑돌 ‘위아이(WEi)’의 ‘Too Bad’ 무대 | Mnet 220317 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25710080</link>
+            <guid>https://tv.naver.com/v/25710080</guid>
+            <pubDate>Fri, 18 Mar 2022 04:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_238/6Az7p_16475206253785lr7W_JPEG/281e7d1a-7988-406f-bd5e-a934a85afcff_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['HOT DEBUT' 설렘 주의 'CLASS:y'의 'SURPRISE' 무대 | Mnet 220303 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25452434</link>
             <guid>https://tv.naver.com/v/25452434</guid>
@@ -966,14 +974,6 @@
             <pubDate>Tue, 08 Mar 2022 11:05:50 GMT</pubDate>
             <content:encoded><![CDATA[3:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210225_17/RFpco_1614184079222zSXOG_JPEG/B120041702_EPI0682_08_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숲속의 체리 공주☞ '유아(오마이걸)'의 '숲의 아이(Bon voyage)' 무대 | Mnet 200917 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/15832010</link>
-            <guid>https://tv.naver.com/v/15832010</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210225_48/bc45F_1614183405734i8yBT_JPEG/B120041702_EPI0682_09_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7월 11일 더쇼 초이스! 영광의 주인공은? (SBS MTV 더쇼 ─ 네이버TV)]]></title>
@@ -1792,6 +1792,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[야생에서 🚩갈고 닦은 팀워크 탄의 ‘DU DU DU (두두두)’ _ Ep.511 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25719393</link>
+            <guid>https://tv.naver.com/v/25719393</guid>
+            <pubDate>Fri, 18 Mar 2022 04:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_139/70Zxh_1647576956703la86w_PNG/1647570952363.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[💙청량💙한 에너지 전달하는 배너의 ‘Rollin (롤린)’ _ Ep.511 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25719389</link>
+            <guid>https://tv.naver.com/v/25719389</guid>
+            <pubDate>Fri, 18 Mar 2022 04:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_243/WugOG_1647576948540X632w_PNG/1647570956421.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[본인 등판!! 빌리 츠키 직캠 뒷 이야기💛 (Billlie TSUKI 'GingaMingaYo') | SIMPLY BEHIND CAM (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25706948</link>
             <guid>https://tv.naver.com/v/25706948</guid>
@@ -1894,22 +1910,6 @@
             <pubDate>Fri, 11 Mar 2022 05:15:43 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_286/ienug_1646975322829sQhWw_JPEG/1646975317014.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 빌리 츠키 'GingaMingaYo‘ 직캠 (Billlie TSUKI 'GingaMingaYo') l Simply K-Pop CON-TOUR Ep.510 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25588590</link>
-            <guid>https://tv.naver.com/v/25588590</guid>
-            <pubDate>Fri, 11 Mar 2022 05:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_251/THWba_1646975307384DR1m8_JPEG/1646975300084.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 빌리 문수아 'GingaMingaYo’ 직캠 (Billlie MOON SUA 'GingaMingaYo') l Simply K-Pop CON-TOUR Ep.510 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25588585</link>
-            <guid>https://tv.naver.com/v/25588585</guid>
-            <pubDate>Fri, 11 Mar 2022 05:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_187/Nsaud_1646975293741ybwGG_JPEG/1646975289254.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[변진섭_희망사항 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>

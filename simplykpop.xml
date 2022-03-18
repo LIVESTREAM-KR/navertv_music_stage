@@ -4,9 +4,25 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 03:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 04:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[야생에서 🚩갈고 닦은 팀워크 탄의 ‘DU DU DU (두두두)’ _ Ep.511]]></title>
+            <link>https://tv.naver.com/v/25719393</link>
+            <guid>https://tv.naver.com/v/25719393</guid>
+            <pubDate>Fri, 18 Mar 2022 04:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_139/70Zxh_1647576956703la86w_PNG/1647570952363.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[💙청량💙한 에너지 전달하는 배너의 ‘Rollin (롤린)’ _ Ep.511]]></title>
+            <link>https://tv.naver.com/v/25719389</link>
+            <guid>https://tv.naver.com/v/25719389</guid>
+            <pubDate>Fri, 18 Mar 2022 04:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_243/WugOG_1647576948540X632w_PNG/1647570956421.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[본인 등판!! 빌리 츠키 직캠 뒷 이야기💛 (Billlie TSUKI 'GingaMingaYo') | SIMPLY BEHIND CAM]]></title>
             <link>https://tv.naver.com/v/25706948</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 11 Mar 2022 05:15:43 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_286/ienug_1646975322829sQhWw_JPEG/1646975317014.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 빌리 츠키 'GingaMingaYo‘ 직캠 (Billlie TSUKI 'GingaMingaYo') l Simply K-Pop CON-TOUR Ep.510]]></title>
-            <link>https://tv.naver.com/v/25588590</link>
-            <guid>https://tv.naver.com/v/25588590</guid>
-            <pubDate>Fri, 11 Mar 2022 05:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_251/THWba_1646975307384DR1m8_JPEG/1646975300084.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 빌리 문수아 'GingaMingaYo’ 직캠 (Billlie MOON SUA 'GingaMingaYo') l Simply K-Pop CON-TOUR Ep.510]]></title>
-            <link>https://tv.naver.com/v/25588585</link>
-            <guid>https://tv.naver.com/v/25588585</guid>
-            <pubDate>Fri, 11 Mar 2022 05:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_187/Nsaud_1646975293741ybwGG_JPEG/1646975289254.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
