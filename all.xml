@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 07:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 08:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] (여자)아이들 직캠 ‘TOMBOY’ ((G)I-DLE FanCam) @Show!MusicCore 220319 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25739085</link>
+            <guid>https://tv.naver.com/v/25739085</guid>
+            <pubDate>Sat, 19 Mar 2022 08:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_25/pJ2ef_1647677519928LFooc_JPEG/clip_20220319164913_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 트레저 최현석 직캠 ‘직진(JIKJIN)’ (TREASURE CHOI HYUN SUK FanCam) @Show! MusicCore 220312 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 12 Mar 2022 11:13:45 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220312_89/o5r5b_1647081455818J2hns_JPEG/clip_20220312192010_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 원호 세로캠 ‘Somebody’ (WONHO FanCam) @Show!MusicCore 220312 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25608268</link>
-            <guid>https://tv.naver.com/v/25608268</guid>
-            <pubDate>Sat, 12 Mar 2022 10:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_18/Vxxm6_1647079412943tNinY_JPEG/clip_20220312184156_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘몬스타엑스’의 독보적인 파워! ‘FANTASIA’ (SBS 인기가요 ─ 네이버TV)]]></title>
