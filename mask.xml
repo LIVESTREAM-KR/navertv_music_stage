@@ -4,17 +4,9 @@
         <title>MBC 복면가왕 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 10:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 11:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['벌써 12시' 2라운드 무대 - Anna, MBC 220320 방송]]></title>
-            <link>https://tv.naver.com/v/25751475</link>
-            <guid>https://tv.naver.com/v/25751475</guid>
-            <pubDate>Sun, 20 Mar 2022 10:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_90/vwYtV_1647771120273oUzzH_JPEG/clip_20220320185746_30.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[엠뚜루마뚜루] 이름은 니가 버터면서 발리는 건 왜 난데,,🍀 싱어송라이돌 정세운💛💜ㅣ#버터 #정세운 MBC210718방송]]></title>
             <link>https://tv.naver.com/v/21430989</link>
@@ -246,6 +238,14 @@
             <pubDate>Tue, 08 Mar 2022 11:06:20 GMT</pubDate>
             <content:encoded><![CDATA[13:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210706_244/xZ1LH_1625554295199s2Lpi_JPEG/clip_20210706152447_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜'화채'를 위협하는 HOT한 도전자들의 등장!＞ 복면가왕 315회 예고, MBC 210711 방송]]></title>
+            <link>https://tv.naver.com/v/21136060</link>
+            <guid>https://tv.naver.com/v/21136060</guid>
+            <pubDate>Sun, 20 Mar 2022 11:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

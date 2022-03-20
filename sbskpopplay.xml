@@ -4,16 +4,96 @@
         <title>SBS KPOP PLAY ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 10:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 11:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[WEi(위아이) - Too Bad @인기가요 inkigayo 20220320]]></title>
-            <link>https://tv.naver.com/v/25751542</link>
-            <guid>https://tv.naver.com/v/25751542</guid>
-            <pubDate>Sun, 20 Mar 2022 10:17:22 GMT</pubDate>
+            <link>https://tv.naver.com/v/25751820</link>
+            <guid>https://tv.naver.com/v/25751820</guid>
+            <pubDate>Sun, 20 Mar 2022 11:14:41 GMT</pubDate>
             <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_163/A2QpS_1647771432120ESDkB_JPEG/25ef6b5c-24c7-414f-8c24-ef93a2908373.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_113/gvJH5_1647772921518P9LrI_JPEG/e266b619-0af1-4d01-ad3a-69d111701e8f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STAYC(스테이씨) - RUN2U @인기가요 inkigayo 20220320]]></title>
+            <link>https://tv.naver.com/v/25751772</link>
+            <guid>https://tv.naver.com/v/25751772</guid>
+            <pubDate>Sun, 20 Mar 2022 11:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_4/DwGeq_1647772679360Jwy4b_JPEG/a4e2216a-79f9-4643-8ba6-5865e5877072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAXY(크랙시) - Trigger(트리거) @인기가요 inkigayo 20220320]]></title>
+            <link>https://tv.naver.com/v/25751761</link>
+            <guid>https://tv.naver.com/v/25751761</guid>
+            <pubDate>Sun, 20 Mar 2022 11:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_257/9Vfff_1647772622995Oc15A_JPEG/09c40561-d38c-48c3-9357-e6b2996eb1b0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KIHYUN(기현) - VOYAGER @인기가요 inkigayo 20220320]]></title>
+            <link>https://tv.naver.com/v/25751649</link>
+            <guid>https://tv.naver.com/v/25751649</guid>
+            <pubDate>Sun, 20 Mar 2022 11:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_116/fPmWY_1647772025020vG2EK_JPEG/dd9f2a93-2a8f-457b-ab41-ad0a484653a0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(G)I-DLE((여자)아이들) - TOMBOY @인기가요 inkigayo 20220320]]></title>
+            <link>https://tv.naver.com/v/25751648</link>
+            <guid>https://tv.naver.com/v/25751648</guid>
+            <pubDate>Sun, 20 Mar 2022 11:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_35/1l0XD_1647772022667Ii2sN_JPEG/005aa002-9020-42b2-a521-b4fea109ae47.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KIM WOO SEOK(김우석) - Switch @인기가요 inkigayo 20220320]]></title>
+            <link>https://tv.naver.com/v/25751647</link>
+            <guid>https://tv.naver.com/v/25751647</guid>
+            <pubDate>Sun, 20 Mar 2022 11:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_183/43oDh_1647772020536zUFjD_JPEG/43e49a0c-3987-403c-a871-51f3e8c2e5f5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KANG SEUNG YOON(강승윤) - BORN TO LOVE YOU @인기가요 inkigayo 20220320]]></title>
+            <link>https://tv.naver.com/v/25751612</link>
+            <guid>https://tv.naver.com/v/25751612</guid>
+            <pubDate>Sun, 20 Mar 2022 11:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_91/sTI3w_1647771782542rIm3J_JPEG/d7f273f4-70c5-4e4b-b58d-27c587ca5512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Solar(솔라) - HONEY(꿀) @인기가요 inkigayo 20220320]]></title>
+            <link>https://tv.naver.com/v/25751611</link>
+            <guid>https://tv.naver.com/v/25751611</guid>
+            <pubDate>Sun, 20 Mar 2022 11:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_158/H0fkk_1647771780455FOeod_JPEG/d834721f-6ce9-419d-b672-cf3f6e849732.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASTRO MOONBIN&SANHA(아스트로 문빈&산하) - WHO @인기가요 inkigayo 20220320]]></title>
+            <link>https://tv.naver.com/v/25751597</link>
+            <guid>https://tv.naver.com/v/25751597</guid>
+            <pubDate>Sun, 20 Mar 2022 11:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_2/VFUcs_1647771722691CnQ6B_JPEG/ebfea00d-8b54-4ed8-a066-6c9d7a14d0be.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cherry Bullet(체리블렛) - Love In Space @인기가요 inkigayo 20220320]]></title>
+            <link>https://tv.naver.com/v/25751596</link>
+            <guid>https://tv.naver.com/v/25751596</guid>
+            <pubDate>Sun, 20 Mar 2022 11:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_288/QudT8_1647771720382YPuER_JPEG/35b071d8-3729-42d4-b097-7c2112ddef27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rocket Punch(로켓펀치) - CHIQUITA @인기가요 inkigayo 20220320]]></title>
+            <link>https://tv.naver.com/v/25751595</link>
+            <guid>https://tv.naver.com/v/25751595</guid>
+            <pubDate>Sun, 20 Mar 2022 11:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_230/lbRiK_1647771718731QfAt0_JPEG/9f374354-5d2f-4203-b993-70dc5c8a5d05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HONG EUI JIN(홍의진) - The 8th Spring(여덟 번째 봄) @인기가요 inkigayo 20220320]]></title>
@@ -22,14 +102,6 @@
             <pubDate>Sun, 20 Mar 2022 10:17:22 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220320_144/gdhno_1647771430124Xbedr_JPEG/16b45413-6ea2-4135-834e-c552b4a1be56.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAXY(크랙시) - Trigger(트리거) @인기가요 inkigayo 20220320]]></title>
-            <link>https://tv.naver.com/v/25751538</link>
-            <guid>https://tv.naver.com/v/25751538</guid>
-            <pubDate>Sun, 20 Mar 2022 10:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_164/yd7cS_1647771427979eJ9Oz_JPEG/47fe7e48-aed3-4f5b-afd3-a802d5ffe3a6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TAN(탄) - DU DU DU @인기가요 inkigayo 20220320]]></title>
@@ -61,7 +133,7 @@
             <guid>https://tv.naver.com/v/25751319</guid>
             <pubDate>Sun, 20 Mar 2022 10:17:22 GMT</pubDate>
             <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_171/nABFG_16477708240273fthT_JPEG/8be9bf57-bcaa-4f20-97cf-6c78f190a64c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_114/xLR9Q_16477717308887joro_JPEG/c7dbb854-1359-4789-85d4-ad61d1320625.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 솔라 '꿀' 풀캠 (Solar 'HONEY' Full Cam)│@SBS Inkigayo_2022.03.20.]]></title>
@@ -174,78 +246,6 @@
             <pubDate>Sun, 20 Mar 2022 08:18:35 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220320_298/WqFNS_1647760621369CJX5z_JPEG/478b35bf-1e70-4d1e-aa09-a4bb472ae8b3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[항공캠4K] 김우석 'Switch' (KIM WOO SEOK Sky Cam)│@SBS Inkigayo_2022.03.13.]]></title>
-            <link>https://tv.naver.com/v/25705226</link>
-            <guid>https://tv.naver.com/v/25705226</guid>
-            <pubDate>Thu, 17 Mar 2022 10:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_136/FhcWz_1647505323624Tj5UF_JPEG/ef1d7a94-9557-46ab-b8b2-f6a43f5d8a4d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독샷캠4K] 위클리 'Ven Para' 단독샷 별도녹화│Weeekly ONE TAKE STAGE│@SBS Inkigayo_2022.03.13.]]></title>
-            <link>https://tv.naver.com/v/25705106</link>
-            <guid>https://tv.naver.com/v/25705106</guid>
-            <pubDate>Thu, 17 Mar 2022 08:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_165/gZIHY_1647505027560Hi8Gw_JPEG/ed1f5819-4673-4ad7-a23c-2478acfaa4d8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[항공캠4K] 트레저 '직진' (TREASURE 'JIKJIN' Sky Cam)│@SBS Inkigayo_2022.03.13.]]></title>
-            <link>https://tv.naver.com/v/25704980</link>
-            <guid>https://tv.naver.com/v/25704980</guid>
-            <pubDate>Thu, 17 Mar 2022 10:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_193/9anTL_1647505325891fyBKG_JPEG/9360fe59-b941-4a47-850d-dbf5e5ba615d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독샷캠4K] 빌리 'GingaMingaYo(the strange world)' 단독샷 별도녹화│Billlie ONE TAKE STAGE│@SBS Inkigayo_2022031]]></title>
-            <link>https://tv.naver.com/v/25704978</link>
-            <guid>https://tv.naver.com/v/25704978</guid>
-            <pubDate>Thu, 17 Mar 2022 08:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_216/DedJT_1647504727633ygHU5_JPEG/f150bd1f-1266-491d-ad06-79616bec1834.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[페이스캠4K] 원호 'Somebody' (WONHO FaceCam)│@SBS Inkigayo_2022.03.13.]]></title>
-            <link>https://tv.naver.com/v/25657965</link>
-            <guid>https://tv.naver.com/v/25657965</guid>
-            <pubDate>Wed, 16 Mar 2022 09:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_270/hN6BG_1647334062878X8YfO_JPEG/b7034499-e2ec-442f-bcd8-773b13f56ed9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[페이스캠4K] 로켓펀치 연희 'CHIQUITA' (Rocket Punch YEONHEE FaceCam)│@SBS Inkigayo_2022.03.13.]]></title>
-            <link>https://tv.naver.com/v/25657963</link>
-            <guid>https://tv.naver.com/v/25657963</guid>
-            <pubDate>Wed, 16 Mar 2022 08:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_290/7u8kH_1647334060828v9hnY_JPEG/a043f042-a944-49aa-babd-c2616b907380.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[안방1열 직캠4K] 로켓펀치 윤경 'CHIQUITA' (Rocket Punch YUNKYOUNG FanCam)│@SBS Inkigayo_2022.03.13.]]></title>
-            <link>https://tv.naver.com/v/25657464</link>
-            <guid>https://tv.naver.com/v/25657464</guid>
-            <pubDate>Wed, 16 Mar 2022 08:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_105/Ae6GD_1647332851903TbiFI_JPEG/12efef05-f674-45e5-9bce-f8bc8b9e8063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[페이스캠4K] 로켓펀치 수윤 'CHIQUITA' (Rocket Punch SUYUN FaceCam)│@SBS Inkigayo_2022.03.13.]]></title>
-            <link>https://tv.naver.com/v/25657327</link>
-            <guid>https://tv.naver.com/v/25657327</guid>
-            <pubDate>Wed, 16 Mar 2022 08:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_10/zqhQA_16473325566594fj55_JPEG/85ef0404-2c59-4db5-8af7-080c567773ed.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[안방1열 직캠4K] 템페스트 형섭 'Bad News' (TEMPEST HYEONGSEOP FanCam)│@SBS Inkigayo_2022.03.13.]]></title>
-            <link>https://tv.naver.com/v/25657326</link>
-            <guid>https://tv.naver.com/v/25657326</guid>
-            <pubDate>Wed, 16 Mar 2022 07:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_268/o10FS_1647332555118n57EC_JPEG/4de0cdd7-7f96-4ab6-9f7b-f6a47af1a1eb.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
