@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 06:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 07:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -496,6 +496,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20190303_177/DMz4G_1551602198592jqLjz_JPEG/VD94948705_w1280_h720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[안방1열 직캠4K] 위아이 'Too Bad' 풀캠 (WEi Full Cam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25748284</link>
+            <guid>https://tv.naver.com/v/25748284</guid>
+            <pubDate>Sun, 20 Mar 2022 07:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_268/r9M1b_16477600201957NG6s_JPEG/e1d3c082-6cd0-46b0-98a5-b718e12b31f3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[항공캠4K] 김우석 'Switch' (KIM WOO SEOK Sky Cam)│@SBS Inkigayo_2022.03.13. (SBS KPOP PLAY ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25705226</link>
             <guid>https://tv.naver.com/v/25705226</guid>
@@ -726,14 +734,6 @@
             <pubDate>Mon, 14 Mar 2022 10:18:25 GMT</pubDate>
             <content:encoded><![CDATA[3:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220314_140/VnAMZ_1647249156543F9F5G_JPEG/c8d24c32-65a5-471b-98b3-2259dd489a05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[안방1열 직캠4K] 트레저 최현석 '직진' (TREASURE CHOI HYUN SUK FanCam)│@SBS Inkigayo_2022.03.13. (SBS KPOP PLAY ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25638486</link>
-            <guid>https://tv.naver.com/v/25638486</guid>
-            <pubDate>Mon, 14 Mar 2022 10:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[4:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_34/3QDw6_1647249155131XQ5sr_JPEG/5cb8b8a4-13b0-4468-ad4f-817b3663e3d1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘최초 공개’ 첫사랑돌 ‘위아이(WEi)’의 ‘Too Bad’ 무대 | Mnet 220317 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
