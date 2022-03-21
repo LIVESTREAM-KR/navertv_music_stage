@@ -4,7 +4,7 @@
         <title>SBS KPOP PLAY ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 09:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 10:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Mon, 21 Mar 2022 08:21:19 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220321_276/lEjKz_1647850081403EjjdY_JPEG/5d482086-9196-4558-8630-d1f090c7bc40.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[페이스캠4K] 기현 'VOYAGER' (KIHYUN FaceCam)│@SBS Inkigayo_2022.03.20.]]></title>
+            <link>https://tv.naver.com/v/25766665</link>
+            <guid>https://tv.naver.com/v/25766665</guid>
+            <pubDate>Mon, 21 Mar 2022 10:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_139/Udk7W_164784822073380bIg_JPEG/e11941e8-3b38-4b1a-ada8-2756a57159f6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[페이스캠4K] 강승윤 'BORN TO LOVE YOU' (KANG SEUNG YOON FaceCam)│@SBS Inkigayo_2022.03.20.]]></title>
+            <link>https://tv.naver.com/v/25766348</link>
+            <guid>https://tv.naver.com/v/25766348</guid>
+            <pubDate>Mon, 21 Mar 2022 10:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_41/qCr8S_1647847623205zP4Yj_JPEG/028311fe-7c32-4652-9c8c-3a286eb29a4c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 아스트로 문빈&산하 산하 'WHO' (MOONBIN&SANHA(ASTRO) SANHA FanCam)│@SBS Inkigayo_2022.03.20.]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 20 Mar 2022 11:14:41 GMT</pubDate>
             <content:encoded><![CDATA[3:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220320_257/9Vfff_1647772622995Oc15A_JPEG/09c40561-d38c-48c3-9357-e6b2996eb1b0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KIHYUN(기현) - VOYAGER @인기가요 inkigayo 20220320]]></title>
-            <link>https://tv.naver.com/v/25751649</link>
-            <guid>https://tv.naver.com/v/25751649</guid>
-            <pubDate>Sun, 20 Mar 2022 11:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_116/fPmWY_1647772025020vG2EK_JPEG/dd9f2a93-2a8f-457b-ab41-ad0a484653a0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(G)I-DLE((여자)아이들) - TOMBOY @인기가요 inkigayo 20220320]]></title>
-            <link>https://tv.naver.com/v/25751648</link>
-            <guid>https://tv.naver.com/v/25751648</guid>
-            <pubDate>Sun, 20 Mar 2022 11:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_35/1l0XD_1647772022667Ii2sN_JPEG/005aa002-9020-42b2-a521-b4fea109ae47.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
