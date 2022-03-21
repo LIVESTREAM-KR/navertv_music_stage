@@ -4,7 +4,7 @@
         <title>SBS KPOP PLAY ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 08:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 09:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220321_276/lEjKz_1647850081403EjjdY_JPEG/5d482086-9196-4558-8630-d1f090c7bc40.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[안방1열 직캠4K] 아스트로 문빈&산하 산하 'WHO' (MOONBIN&SANHA(ASTRO) SANHA FanCam)│@SBS Inkigayo_2022.03.20.]]></title>
+            <link>https://tv.naver.com/v/25766347</link>
+            <guid>https://tv.naver.com/v/25766347</guid>
+            <pubDate>Mon, 21 Mar 2022 09:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_248/cqx76_1647847621838Ybjgd_JPEG/adeefd78-dac4-46e3-a2ee-44701ebe19b3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[안방1열 직캠4K] 스테이씨 세은 'RUN2U' (STAYC SEEUN FanCam)│@SBS Inkigayo_2022.03.20.]]></title>
             <link>https://tv.naver.com/v/25766344</link>
             <guid>https://tv.naver.com/v/25766344</guid>
             <pubDate>Mon, 21 Mar 2022 08:21:19 GMT</pubDate>
             <content:encoded><![CDATA[3:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220321_187/ddgFJ_16478491210003FFYi_JPEG/9a9075ff-119e-4fa8-9eaf-8faef138c1cd.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[안방1열 직캠4K] 아스트로 문빈&산하 문빈 'WHO' (MOONBIN&SANHA(ASTRO) MOONBIN FanCam)│@SBS Inkigayo_2022.03.20.]]></title>
+            <link>https://tv.naver.com/v/25766238</link>
+            <guid>https://tv.naver.com/v/25766238</guid>
+            <pubDate>Mon, 21 Mar 2022 09:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_74/d3jcG_1647847380145xeeRl_JPEG/dd89a635-de57-4a74-8790-93086e332aff.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 스테이씨 재이 'RUN2U' (STAYC J FanCam)│@SBS Inkigayo_2022.03.20.]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 20 Mar 2022 11:14:41 GMT</pubDate>
             <content:encoded><![CDATA[3:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220320_35/1l0XD_1647772022667Ii2sN_JPEG/005aa002-9020-42b2-a521-b4fea109ae47.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KIM WOO SEOK(김우석) - Switch @인기가요 inkigayo 20220320]]></title>
-            <link>https://tv.naver.com/v/25751647</link>
-            <guid>https://tv.naver.com/v/25751647</guid>
-            <pubDate>Sun, 20 Mar 2022 11:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_183/43oDh_1647772020536zUFjD_JPEG/43e49a0c-3987-403c-a871-51f3e8c2e5f5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KANG SEUNG YOON(강승윤) - BORN TO LOVE YOU @인기가요 inkigayo 20220320]]></title>
-            <link>https://tv.naver.com/v/25751612</link>
-            <guid>https://tv.naver.com/v/25751612</guid>
-            <pubDate>Sun, 20 Mar 2022 11:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_91/sTI3w_1647771782542rIm3J_JPEG/d7f273f4-70c5-4e4b-b58d-27c587ca5512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
