@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 06:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 07:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -496,6 +496,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20190303_177/DMz4G_1551602198592jqLjz_JPEG/VD94948705_w1280_h720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25781779</link>
+            <guid>https://tv.naver.com/v/25781779</guid>
+            <pubDate>Tue, 22 Mar 2022 07:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_40/0nFQK_1647918721379xrBWP_JPEG/7896a906-19f7-400b-ba47-890c641d2d57.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[안방1열 직캠4K] 빌리 문수아 'GingaMingaYo(the strange world)' (Billlie Moon Sua FanCam)│@SBSInkigayo20220320 (SBS KPOP PLAY ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25781757</link>
+            <guid>https://tv.naver.com/v/25781757</guid>
+            <pubDate>Tue, 22 Mar 2022 07:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_133/oMFQ8_16479184802699ewUl_JPEG/ea39a3a5-8b18-484b-bc35-426b82b3882c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[페이스캠4K] (여자)아이들 민니 'TOMBOY' ((G)I-DLE MINNIE FaceCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25769582</link>
             <guid>https://tv.naver.com/v/25769582</guid>
@@ -718,22 +734,6 @@
             <pubDate>Mon, 21 Mar 2022 06:20:51 GMT</pubDate>
             <content:encoded><![CDATA[3:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220321_117/SCS9P_1647835919630cjN2F_JPEG/3bc8d73d-e5b1-450f-851a-de4a953c031c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[안방1열 직캠4K] 로켓펀치 'CHIQUITA' 풀캠 (Rocket Punch Full Cam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25761673</link>
-            <guid>https://tv.naver.com/v/25761673</guid>
-            <pubDate>Mon, 21 Mar 2022 06:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_272/jNRS8_1647835682373aUclF_JPEG/59c2eab8-ab2d-476b-995f-9a743adc90d7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[안방1열 직캠4K] 류정운 '비구름' 풀캠 (Ryu jeoung woon 'Raincloud' Full Cam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25761671</link>
-            <guid>https://tv.naver.com/v/25761671</guid>
-            <pubDate>Mon, 21 Mar 2022 06:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_267/H15Fj_1647835679955tNuHb_JPEG/6732a1fc-7bf0-4e63-9bf4-3ea4a1f7ecd3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘최초 공개’ 첫사랑돌 ‘위아이(WEi)’의 ‘Too Bad’ 무대 | Mnet 220317 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
