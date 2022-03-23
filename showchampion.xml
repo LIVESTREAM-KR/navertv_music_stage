@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 11:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 12:29:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔 1위] 존재 자체가 장르♥ (여자)아이들 앵콜 Full ver.]]></title>
+            <link>https://tv.naver.com/v/25814930</link>
+            <guid>https://tv.naver.com/v/25814930</guid>
+            <pubDate>Wed, 23 Mar 2022 12:28:53 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_7/Gfnmf_164803602519008RgB_JPEG/CA202203230062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[COMEBACK] Solar - HONEY (솔라 - 꿀)]]></title>
             <link>https://tv.naver.com/v/25813415</link>
@@ -92,7 +100,7 @@
             <link>https://tv.naver.com/v/25812503</link>
             <guid>https://tv.naver.com/v/25812503</guid>
             <pubDate>Wed, 23 Mar 2022 10:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_267/SbdmQ_1648029183770mpmzR_JPEG/CA202203230030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +116,7 @@
             <link>https://tv.naver.com/v/25812379</link>
             <guid>https://tv.naver.com/v/25812379</guid>
             <pubDate>Wed, 23 Mar 2022 10:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_227/n10h8_164802882762329Ghp_JPEG/CA202203230028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -134,6 +142,14 @@
             <pubDate>Wed, 23 Mar 2022 10:18:30 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_37/M1Z5A_1648028281874MJHls_JPEG/CA202203230025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] MONSTA X KIHYUN - VOYAGER (몬스타엑스 기현 - 보이저) l Show Champion l EP.427]]></title>
+            <link>https://tv.naver.com/v/25812163</link>
+            <guid>https://tv.naver.com/v/25812163</guid>
+            <pubDate>Wed, 23 Mar 2022 12:28:53 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_300/o8hN9_1648028231669hUff1_JPEG/CA202203230022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NAM SEUNG MIN - Stupid Love (남승민 - 바보같은 사람)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 09 Mar 2022 13:21:09 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220309_290/BwRvq_1646824951163UI6L2_JPEG/CA202203090088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] STAYC J - RUN2U (스테이씨 재이 - 런투유) | Show Champion | EP.426]]></title>
-            <link>https://tv.naver.com/v/25557980</link>
-            <guid>https://tv.naver.com/v/25557980</guid>
-            <pubDate>Wed, 09 Mar 2022 13:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_57/ezf3A_1646824711920cFGhH_JPEG/CA202203090078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] STAYC SIEUN - RUN2U (스테이씨 시은 - 런투유) | Show Champion | EP.426]]></title>
-            <link>https://tv.naver.com/v/25557959</link>
-            <guid>https://tv.naver.com/v/25557959</guid>
-            <pubDate>Wed, 09 Mar 2022 13:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_191/NZ6mY_1646824654121WN4r2_JPEG/CA202203090073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
