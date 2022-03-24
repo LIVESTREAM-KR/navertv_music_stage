@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 01:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 02:49:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[원픽캠] MONSTA X KIHYUN - VOYAGER (몬스타엑스 기현 - 보이저) l Show Champion l EP.427 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25824354</link>
+            <guid>https://tv.naver.com/v/25824354</guid>
+            <pubDate>Thu, 24 Mar 2022 02:48:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_15/EX4VM_1648089479481ckKtQ_JPEG/CA202203230094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠] MONSTA X KIHYUN - VOYAGER (몬스타엑스 기현 - 보이저) l Show Champion l EP.427 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25822422</link>
             <guid>https://tv.naver.com/v/25822422</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 23 Mar 2022 11:13:34 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_42/fsVs7_1648030923532wyo8c_JPEG/CA202203230037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25813015</link>
-            <guid>https://tv.naver.com/v/25813015</guid>
-            <pubDate>Wed, 23 Mar 2022 10:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_155/gxEXE_1648030623874PBqXd_JPEG/CA202203230036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
