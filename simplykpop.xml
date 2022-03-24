@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 08:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 09:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[《예고》위아이(WEi)와 함께한 이번주 심플리 콘투어' 이탈리아 편💌~!! _512회]]></title>
+            <link>https://tv.naver.com/v/25832845</link>
+            <guid>https://tv.naver.com/v/25832845</guid>
+            <pubDate>Thu, 24 Mar 2022 09:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_80/zjiwk_1648110990116wiV3c_PNG/1648110985405.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[🤍쿨하고 💛당당한 아우라 로켓펀치의 ‘CHIQUITA (치키타)’ Ep.511]]></title>
             <link>https://tv.naver.com/v/25720493</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 18 Mar 2022 06:20:49 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_253/FySaN_1647499378276qguM4_JPEG/1647499045974.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 빌리 츠키 'GingaMingaYo’ 직캠 (Billlie TSUKI 'GingaMingaYo‘) l Simply K-Pop CON-TOUR Ep.511]]></title>
-            <link>https://tv.naver.com/v/25701548</link>
-            <guid>https://tv.naver.com/v/25701548</guid>
-            <pubDate>Fri, 18 Mar 2022 06:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_66/zVpkl_1647496773252oWQ5D_JPEG/1647496422495.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 08:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 09:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》위아이(WEi)와 함께한 이번주 심플리 콘투어' 이탈리아 편💌~!! _512회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25832845</link>
+            <guid>https://tv.naver.com/v/25832845</guid>
+            <pubDate>Thu, 24 Mar 2022 09:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_80/zjiwk_1648110990116wiV3c_PNG/1648110985405.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[🤍쿨하고 💛당당한 아우라 로켓펀치의 ‘CHIQUITA (치키타)’ Ep.511 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25720493</link>
             <guid>https://tv.naver.com/v/25720493</guid>
@@ -1904,12 +1912,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_253/FySaN_1647499378276qguM4_JPEG/1647499045974.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[PLYCAM 4K] 빌리 츠키 'GingaMingaYo’ 직캠 (Billlie TSUKI 'GingaMingaYo‘) l Simply K-Pop CON-TOUR Ep.511 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25701548</link>
-            <guid>https://tv.naver.com/v/25701548</guid>
-            <pubDate>Fri, 18 Mar 2022 06:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_66/zVpkl_1647496773252oWQ5D_JPEG/1647496422495.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[스텔라장_L'amour, les baguettes, Paris (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25832369</link>
+            <guid>https://tv.naver.com/v/25832369</guid>
+            <pubDate>Thu, 24 Mar 2022 09:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_233/fJAQz_1648110127919WDX4E_JPEG/39a6c465-ab4b-11ec-8c89-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스텔라장_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
@@ -2142,14 +2150,6 @@
             <pubDate>Tue, 08 Mar 2022 11:06:35 GMT</pubDate>
             <content:encoded><![CDATA[3:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220224_133/6HT3v_1645677608040QVYJU_JPEG/ab82c854-952b-11ec-a12c-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빨간의자_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25317897</link>
-            <guid>https://tv.naver.com/v/25317897</guid>
-            <pubDate>Tue, 08 Mar 2022 11:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_104/SZpHv_1645677547108vOvHG_JPEG/85533d43-952b-11ec-ba4e-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
