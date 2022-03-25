@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 04:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 05:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,54 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[WEi (위아이) - Super Bumpy (슈퍼 범피) + Too Bad (투배드) ★Simply's Spotlight★ _ Ep.512 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25849125</link>
+            <guid>https://tv.naver.com/v/25849125</guid>
+            <pubDate>Fri, 25 Mar 2022 05:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[8:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_137/WTXyV_1648184468772Lss76_PNG/1648184465907.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[따뜻한 🌷봄🌷을 그리는 홍의진의 ‘여덟번째 봄’ _ Ep.512 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25848932</link>
+            <guid>https://tv.naver.com/v/25848932</guid>
+            <pubDate>Fri, 25 Mar 2022 05:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_133/w6sun_1648183670582HBhXI_PNG/1648183463800.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[위험한 🍭호기심 빌리의 ‘GingaMingaYo (긴가민가요) (the strange world)’ _ Ep512 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25848860</link>
+            <guid>https://tv.naver.com/v/25848860</guid>
+            <pubDate>Fri, 25 Mar 2022 05:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_81/WTjxk_1648183437704Gl2z5_PNG/1648182869937.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인상적인 🌼노랫말🌼 빌리의 ‘a sign ~ anonymous (어 사인 ~ 어노니머스)’ _ Ep.512 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25848781</link>
+            <guid>https://tv.naver.com/v/25848781</guid>
+            <pubDate>Fri, 25 Mar 2022 05:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_235/fAtVN_1648183189895YyIb2_PNG/1648180988143.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[무대를 압도하는 ✨카리스마 크랙시의 ‘Trigger (트리거)’ _ Ep.512 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25848576</link>
+            <guid>https://tv.naver.com/v/25848576</guid>
+            <pubDate>Fri, 25 Mar 2022 05:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_44/mafbZ_1648182648919JXucz_PNG/1648180984421.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[강렬한 사운드와 🎇퍼포먼스 디크런치의 ‘중독’ _ Ep512 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25848495</link>
+            <guid>https://tv.naver.com/v/25848495</guid>
+            <pubDate>Fri, 25 Mar 2022 05:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_97/38R1w_16481823746694T6mz_PNG/1648180972771.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[🍇청량한 에너지로 잠재력 발산하는 템페스트의 ‘Bad News’ _ Ep.512 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25848423</link>
             <guid>https://tv.naver.com/v/25848423</guid>
@@ -1862,54 +1910,6 @@
             <pubDate>Fri, 18 Mar 2022 05:16:06 GMT</pubDate>
             <content:encoded><![CDATA[3:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220318_220/vxYc4_164757934613107UrW_PNG/1647579343924.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[거침없이 방아쇠를 당기는 ✨청부사 크랙시의 ‘Trigger (트리거)’ _ Ep511 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25720123</link>
-            <guid>https://tv.naver.com/v/25720123</guid>
-            <pubDate>Fri, 18 Mar 2022 05:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_234/cSeUd_1647578874672hqonU_PNG/1647578872540.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가요계를 전해진 📩특보 템페스트의 ‘Bad News (배드뉴스)’ _ Ep.511 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25719741</link>
-            <guid>https://tv.naver.com/v/25719741</guid>
-            <pubDate>Fri, 18 Mar 2022 05:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_278/lGay8_1647577968115b2lCB_PNG/1647577958248.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[힘든 마음 🌷위로🌷하는 홍의진의 ‘여덟 번째 봄’ _ Ep.511 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25719605</link>
-            <guid>https://tv.naver.com/v/25719605</guid>
-            <pubDate>Fri, 18 Mar 2022 05:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_261/9ynGi_1647577583596ziUjg_PNG/1647577550334.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[떠나간 🍃님에 대한 아쉬움 남승민의 ‘바보같은 사람’ _ Ep511 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25719599</link>
-            <guid>https://tv.naver.com/v/25719599</guid>
-            <pubDate>Fri, 18 Mar 2022 05:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_215/jcDzX_1647577575764tppbR_PNG/1647577543168.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[즐거움을 엮는 👊소년들 제이위버의 ‘Jtrap (제이트랩)’ _ Ep.511 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25719597</link>
-            <guid>https://tv.naver.com/v/25719597</guid>
-            <pubDate>Fri, 18 Mar 2022 05:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_31/VXrkU_1647577569005Fk854_PNG/1647577535604.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑과 🌧이별의 본질을 노래하는 류정운의 ‘비구름’ _ Ep511 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25719593</link>
-            <guid>https://tv.naver.com/v/25719593</guid>
-            <pubDate>Fri, 18 Mar 2022 05:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_16/6eIxM_1647577559701kjMDy_PNG/1647577529080.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스텔라장_L'amour, les baguettes, Paris (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
