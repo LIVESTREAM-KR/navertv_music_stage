@@ -4,9 +4,41 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 11:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 12:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 크래비티 성민 직캠 ‘Adrenaline’ (CRAVITY SEONGMIN FanCam) @Show! MusicCore 220326]]></title>
+            <link>https://tv.naver.com/v/25871744</link>
+            <guid>https://tv.naver.com/v/25871744</guid>
+            <pubDate>Sat, 26 Mar 2022 12:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_210/RR3jY_1648293720528XkdX3_JPEG/clip_20220326194140_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 크래비티 세림 직캠 ‘Adrenaline’ (CRAVITY SERIM FanCam) @Show! MusicCore 220326]]></title>
+            <link>https://tv.naver.com/v/25871743</link>
+            <guid>https://tv.naver.com/v/25871743</guid>
+            <pubDate>Sat, 26 Mar 2022 12:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_164/3yEjd_1648293719276bi0e6_JPEG/clip_20220326194127_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 크래비티 태영 직캠 ‘Adrenaline’ (CRAVITY TAEYOUNG FanCam) @Show! MusicCore 220326]]></title>
+            <link>https://tv.naver.com/v/25871679</link>
+            <guid>https://tv.naver.com/v/25871679</guid>
+            <pubDate>Sat, 26 Mar 2022 12:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_74/ma3lU_1648293423085DjC7J_JPEG/clip_20220326194138_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 크래비티 형준 직캠 ‘Adrenaline’ (CRAVITY HYEONGJUN FanCam) @Show! MusicCore 220326]]></title>
+            <link>https://tv.naver.com/v/25871678</link>
+            <guid>https://tv.naver.com/v/25871678</guid>
+            <pubDate>Sat, 26 Mar 2022 12:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_247/tlEJR_1648293421751vIq8B_JPEG/clip_20220326194125_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 크래비티 원진 직캠 ‘Adrenaline’ (CRAVITY WONJIN FanCam) @Show! MusicCore 220326]]></title>
             <link>https://tv.naver.com/v/25871628</link>
@@ -214,38 +246,6 @@
             <pubDate>Sat, 26 Mar 2022 09:14:58 GMT</pubDate>
             <content:encoded><![CDATA[3:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220326_139/apuz0_1648285622009EJV9l_JPEG/clip_20220326174520_63.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 브레이브걸스 직캠 ‘Thank You’ (BraveGirls FanCam) @Show!MusicCore 220326]]></title>
-            <link>https://tv.naver.com/v/25870215</link>
-            <guid>https://tv.naver.com/v/25870215</guid>
-            <pubDate>Sat, 26 Mar 2022 09:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_122/yn8US_1648285324978sKPHe_JPEG/clip_20220326174540_65.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 크래비티 직캠 ‘Adrenaline’ (CRAVITY FanCam) @Show!MusicCore 220326]]></title>
-            <link>https://tv.naver.com/v/25870213</link>
-            <guid>https://tv.naver.com/v/25870213</guid>
-            <pubDate>Sat, 26 Mar 2022 09:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_59/3MfYs_1648285323184Mri1D_JPEG/clip_20220326174535_64.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] (여자)아이들 1위 직캠 'TOMBOY' ((G)I-DLE No.1 Encore FanCam) @Show!MusicCore 220326]]></title>
-            <link>https://tv.naver.com/v/25870154</link>
-            <guid>https://tv.naver.com/v/25870154</guid>
-            <pubDate>Sat, 26 Mar 2022 09:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[5:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_207/bi4y6_1648285021134OY5A9_JPEG/clip_20220326172832_59.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 레드벨벳 직캠 ‘Feel My Rhythm’ (Red Velvet FanCam) @Show!MusicCore 220326]]></title>
-            <link>https://tv.naver.com/v/25870119</link>
-            <guid>https://tv.naver.com/v/25870119</guid>
-            <pubDate>Sat, 26 Mar 2022 09:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_63/ce75L_1648284779704h8JLY_JPEG/clip_20220326173344_60.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
