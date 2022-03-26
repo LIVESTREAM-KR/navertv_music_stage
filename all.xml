@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 12:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 13:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 레드벨벳 웬디 직캠 ‘Feel My Rhythm’ (Red Velvet WENDY FanCam) @Show! MusicCore 220326 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25872790</link>
+            <guid>https://tv.naver.com/v/25872790</guid>
+            <pubDate>Sat, 26 Mar 2022 13:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_283/qS434_1648297919975MywTT_JPEG/clip_20220326210817_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 크래비티 성민 직캠 ‘Adrenaline’ (CRAVITY SEONGMIN FanCam) @Show! MusicCore 220326 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 26 Mar 2022 09:14:58 GMT</pubDate>
             <content:encoded><![CDATA[3:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220326_145/PhoAj_1648285678480ArXbk_JPEG/clip_20220326174637_67.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 하이라이트 직캠 ‘DAYDREAM’ (Highlight FanCam) @Show!MusicCore 220326 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25870261</link>
-            <guid>https://tv.naver.com/v/25870261</guid>
-            <pubDate>Sat, 26 Mar 2022 09:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_139/apuz0_1648285622009EJV9l_JPEG/clip_20220326174520_63.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘몬스타엑스’의 독보적인 파워! ‘FANTASIA’ (SBS 인기가요 ─ 네이버TV)]]></title>
