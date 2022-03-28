@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 02:58:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 03:34:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1912,6 +1912,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_146/uxNnm_1648186415182xM2nF_JPEG/1648185997293.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오곤_Shinsha (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25891149</link>
+            <guid>https://tv.naver.com/v/25891149</guid>
+            <pubDate>Mon, 28 Mar 2022 03:34:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_101/jMqbU_1648436493186890XM_JPEG/2be87885-ae43-11ec-b9b3-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박완규_사랑하기 전에는 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25891118</link>
+            <guid>https://tv.naver.com/v/25891118</guid>
+            <pubDate>Mon, 28 Mar 2022 03:34:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_28/b2fLa_1648436421281JF4aM_JPEG/ffdb76f8-ae42-11ec-89d7-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박완규_사랑 그놈 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25891105</link>
+            <guid>https://tv.naver.com/v/25891105</guid>
+            <pubDate>Mon, 28 Mar 2022 03:34:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_246/rVu5s_1648436349153lP0Xd_JPEG/d13579e1-ae42-11ec-8c0a-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박완규_너를 위해(원곡 임재범) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25891087</link>
+            <guid>https://tv.naver.com/v/25891087</guid>
+            <pubDate>Mon, 28 Mar 2022 03:34:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_70/l1TEu_1648436271467cpUvQ_JPEG/a6eda7c6-ae42-11ec-9e39-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무성_겨울이 오면 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25891068</link>
+            <guid>https://tv.naver.com/v/25891068</guid>
+            <pubDate>Mon, 28 Mar 2022 03:34:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_26/WumaF_1648436199232pqM7e_JPEG/7c3511c5-ae42-11ec-9b7b-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박완규_Lonely Night (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25891047</link>
             <guid>https://tv.naver.com/v/25891047</guid>
@@ -2110,46 +2150,6 @@
             <pubDate>Tue, 08 Mar 2022 11:06:35 GMT</pubDate>
             <content:encoded><![CDATA[3:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220303_116/BeyK7_1646292274243BivSW_JPEG/c8b6d215-9ac2-11ec-bcec-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짙은_백야 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25447804</link>
-            <guid>https://tv.naver.com/v/25447804</guid>
-            <pubDate>Tue, 08 Mar 2022 11:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[4:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_175/PT8G9_1646292208432eF0Bo_JPEG/9d9b0dd5-9ac2-11ec-b19d-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짙은_수면에서 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25447778</link>
-            <guid>https://tv.naver.com/v/25447778</guid>
-            <pubDate>Tue, 08 Mar 2022 11:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_236/CTUL1_1646292147696v9lJK_JPEG/735d25e5-9ac2-11ec-a295-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이키즈_발자국 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25447749</link>
-            <guid>https://tv.naver.com/v/25447749</guid>
-            <pubDate>Tue, 08 Mar 2022 11:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[4:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_295/ylmvQ_1646292071964BUSPJ_JPEG/40be78b0-9ac2-11ec-b35e-a0369ff95ec0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이키즈_사랑이 식었다고 말해도 돼 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25447723</link>
-            <guid>https://tv.naver.com/v/25447723</guid>
-            <pubDate>Tue, 08 Mar 2022 11:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_82/vuwBs_1646291980130USoK3_JPEG/193b6b9e-9ac2-11ec-94f6-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이키즈_미안해, 사랑해, 고마워_즉석앙코르 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25447708</link>
-            <guid>https://tv.naver.com/v/25447708</guid>
-            <pubDate>Tue, 08 Mar 2022 11:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_98/2D72B_1646291926656pmnQD_JPEG/13832fd9-9ac2-11ec-94f6-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
