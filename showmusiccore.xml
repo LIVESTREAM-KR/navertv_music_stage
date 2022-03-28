@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 04:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 05:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 아스트로 문빈 직캠 ‘WHO’ (ASTRO MOONBIN FanCam) @Show!MusicCore 220326]]></title>
+            <link>https://tv.naver.com/v/25893530</link>
+            <guid>https://tv.naver.com/v/25893530</guid>
+            <pubDate>Mon, 28 Mar 2022 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_81/kEV8A_1648444081312liahP_JPEG/clip_20220328134930_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 레드벨벳 웬디 직캠 ‘Feel My Rhythm’ (Red Velvet WENDY FanCam) @Show! MusicCore 220326]]></title>
             <link>https://tv.naver.com/v/25872790</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 26 Mar 2022 09:14:58 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220326_120/LJg48_1648285680684JTpaP_JPEG/clip_20220326174641_68.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아스트로 문빈&산하 직캠 ‘WHO’ (ASTRO MOONBIN&SANHA FanCam) @Show!MusicCore 220326]]></title>
-            <link>https://tv.naver.com/v/25870274</link>
-            <guid>https://tv.naver.com/v/25870274</guid>
-            <pubDate>Sat, 26 Mar 2022 09:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_145/PhoAj_1648285678480ArXbk_JPEG/clip_20220326174637_67.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
