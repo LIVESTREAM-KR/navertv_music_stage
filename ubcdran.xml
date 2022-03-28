@@ -4,9 +4,41 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 01:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 02:58:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박완규_Lonely Night]]></title>
+            <link>https://tv.naver.com/v/25891047</link>
+            <guid>https://tv.naver.com/v/25891047</guid>
+            <pubDate>Mon, 28 Mar 2022 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_161/dsHGL_1648436127209WqwpA_JPEG/563fd0c9-ae42-11ec-bc38-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오무라이스(오곤&무성)_인터뷰]]></title>
+            <link>https://tv.naver.com/v/25891039</link>
+            <guid>https://tv.naver.com/v/25891039</guid>
+            <pubDate>Mon, 28 Mar 2022 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[50:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_129/W54wj_1648436091322Ksv6F_JPEG/13576fba-ae40-11ec-88d2-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박완규_Never Ending Story]]></title>
+            <link>https://tv.naver.com/v/25891023</link>
+            <guid>https://tv.naver.com/v/25891023</guid>
+            <pubDate>Mon, 28 Mar 2022 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_54/1FkDi_16484360610772J4G0_JPEG/30ea2b15-ae42-11ec-9e39-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오무라이스(오곤&무성)_울산 관람차]]></title>
+            <link>https://tv.naver.com/v/25890726</link>
+            <guid>https://tv.naver.com/v/25890726</guid>
+            <pubDate>Mon, 28 Mar 2022 02:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_298/ipVeP_1648435092197kisLx_JPEG/e762fede-ae3f-11ec-9b7b-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스텔라장_L'amour, les baguettes, Paris]]></title>
             <link>https://tv.naver.com/v/25853724</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 08 Mar 2022 11:06:35 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220303_98/2D72B_1646291926656pmnQD_JPEG/13832fd9-9ac2-11ec-94f6-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이키즈_가을안부]]></title>
-            <link>https://tv.naver.com/v/25447705</link>
-            <guid>https://tv.naver.com/v/25447705</guid>
-            <pubDate>Tue, 08 Mar 2022 11:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[5:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_57/JNMYz_1646291914333yqTTH_JPEG/dccd4ba8-9ac1-11ec-b145-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽니_다시]]></title>
-            <link>https://tv.naver.com/v/25317962</link>
-            <guid>https://tv.naver.com/v/25317962</guid>
-            <pubDate>Tue, 08 Mar 2022 11:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_274/SkoxU_1645677739841iTMU2_JPEG/f404cc11-952b-11ec-94fc-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽니_into the light]]></title>
-            <link>https://tv.naver.com/v/25317935</link>
-            <guid>https://tv.naver.com/v/25317935</guid>
-            <pubDate>Tue, 08 Mar 2022 11:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_134/D6V9p_1645677668842QKpul_JPEG/cf02eb7d-952b-11ec-8ff6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽니_Canvas in the sky]]></title>
-            <link>https://tv.naver.com/v/25317918</link>
-            <guid>https://tv.naver.com/v/25317918</guid>
-            <pubDate>Tue, 08 Mar 2022 11:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_133/6HT3v_1645677608040QVYJU_JPEG/ab82c854-952b-11ec-a12c-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
