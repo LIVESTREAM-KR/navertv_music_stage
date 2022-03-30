@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 10:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 11:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,38 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[COMEBACK] Highlight - Night Fog (하이라이트 - 밤안개) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25942603</link>
+            <guid>https://tv.naver.com/v/25942603</guid>
+            <pubDate>Wed, 30 Mar 2022 11:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_284/GEzCW_1648637232351X7fdj_JPEG/CA202203300080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] Brave Girls - Thank You (브레이브걸스 - 땡큐) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25942463</link>
+            <guid>https://tv.naver.com/v/25942463</guid>
+            <pubDate>Wed, 30 Mar 2022 11:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_191/nmsDJ_1648636688531Kjend_JPEG/CA202203300079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] Brave Girls - Love Is Gone (브레이브걸스 - 물거품) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25942371</link>
+            <guid>https://tv.naver.com/v/25942371</guid>
+            <pubDate>Wed, 30 Mar 2022 11:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_51/sMUwr_164863633179783o0H_JPEG/CA202203300078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] Highlight - DAYDREAM (하이라이트 - 데이드림) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25942367</link>
+            <guid>https://tv.naver.com/v/25942367</guid>
+            <pubDate>Wed, 30 Mar 2022 11:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_100/aoPpw_1648636327273Fj6QM_JPEG/CA202203300083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Cherry Bullet - Broken (체리블렛 - 브로큰) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25942090</link>
             <guid>https://tv.naver.com/v/25942090</guid>
@@ -1422,38 +1454,6 @@
             <pubDate>Thu, 24 Mar 2022 01:06:53 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_175/uohmc_1648082220864OxqcT_JPEG/CA202203230092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] NMIXX JINNI - O.O (엔믹스 지니 - 오오) | Show Champion | EP.427 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25816932</link>
-            <guid>https://tv.naver.com/v/25816932</guid>
-            <pubDate>Wed, 23 Mar 2022 14:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_169/bCdpn_1648042320591GRmv5_JPEG/CA202203230088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] NMIXX BAE - O.O (엔믹스 배이 - 오오) | Show Champion | EP.427 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25816931</link>
-            <guid>https://tv.naver.com/v/25816931</guid>
-            <pubDate>Wed, 23 Mar 2022 14:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_245/4Mn1c_1648042318854iTSIH_JPEG/CA202203230086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] (G)I-DLE YUQI - TOMBOY ((여자)아이들 우기 - 톰보이) | Show Champion | EP.427 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25816850</link>
-            <guid>https://tv.naver.com/v/25816850</guid>
-            <pubDate>Wed, 23 Mar 2022 14:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_73/rSv98_1648042027253zCgyJ_JPEG/CA202203230083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] NMIXX LILY - O.O (엔믹스 릴리 - 오오) | Show Champion | EP.427 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25816842</link>
-            <guid>https://tv.naver.com/v/25816842</guid>
-            <pubDate>Wed, 23 Mar 2022 14:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_176/5CLda_1648042022441AgsmR_JPEG/CA202203230085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
