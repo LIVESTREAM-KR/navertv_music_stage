@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 11:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 12:30:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔 1위] 3월 다섯 째 주 챔피언송 Stray Kids 앵콜 Full ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25943939</link>
+            <guid>https://tv.naver.com/v/25943939</guid>
+            <pubDate>Wed, 30 Mar 2022 12:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_141/t5Akx_1648641725448XstnO_JPEG/CA202203300106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[D-CRUNCH - Addiction (디크런치 - 중독) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25943797</link>
+            <guid>https://tv.naver.com/v/25943797</guid>
+            <pubDate>Wed, 30 Mar 2022 12:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_204/smpAB_1648641206568Mr1Oy_JPEG/CA202203300100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[COMEBACK] Highlight - Night Fog (하이라이트 - 밤안개) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25942603</link>
             <guid>https://tv.naver.com/v/25942603</guid>
@@ -1438,22 +1454,6 @@
             <pubDate>Thu, 24 Mar 2022 02:48:47 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_15/EX4VM_1648089479481ckKtQ_JPEG/CA202203230094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] MONSTA X KIHYUN - VOYAGER (몬스타엑스 기현 - 보이저) l Show Champion l EP.427 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25822422</link>
-            <guid>https://tv.naver.com/v/25822422</guid>
-            <pubDate>Thu, 24 Mar 2022 01:06:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_162/GxJPS_1648082819829Go7em_JPEG/CA202203230091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] MAMAMOO SOLAR - HONEY (마마무 솔라 - 꿀) l Show Champion l EP.427 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25822266</link>
-            <guid>https://tv.naver.com/v/25822266</guid>
-            <pubDate>Thu, 24 Mar 2022 01:06:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_175/uohmc_1648082220864OxqcT_JPEG/CA202203230092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
