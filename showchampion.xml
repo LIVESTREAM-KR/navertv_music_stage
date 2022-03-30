@@ -4,7 +4,7 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 12:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 13:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,76 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_204/smpAB_1648641206568Mr1Oy_JPEG/CA202203300100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠] CRAVITY SERIM - Adrenaline (크래비티 세림 - 아드레날린) | Show Champion | EP.428]]></title>
+            <link>https://tv.naver.com/v/25943132</link>
+            <guid>https://tv.naver.com/v/25943132</guid>
+            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_177/IRtzy_1648639020530AzWF0_JPEG/CA202203300082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] CRAVITY WONJIN - Adrenaline (크래비티 원진 - 아드레날린) | Show Champion | EP.428]]></title>
+            <link>https://tv.naver.com/v/25942976</link>
+            <guid>https://tv.naver.com/v/25942976</guid>
+            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_15/1nvLz_1648638420415VIUov_JPEG/CA202203300084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] Billlie TSUKI - a sign ~ anonymous (빌리 츠키 - 어 사인 ~ 어노니머스) | Show Champion | EP.428]]></title>
+            <link>https://tv.naver.com/v/25942762</link>
+            <guid>https://tv.naver.com/v/25942762</guid>
+            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_13/2w4Eh_1648637825015ureRe_JPEG/CA202203300081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[COMEBACK] Highlight - Night Fog (하이라이트 - 밤안개)]]></title>
             <link>https://tv.naver.com/v/25942603</link>
             <guid>https://tv.naver.com/v/25942603</guid>
             <pubDate>Wed, 30 Mar 2022 11:14:26 GMT</pubDate>
             <content:encoded><![CDATA[2:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_284/GEzCW_1648637232351X7fdj_JPEG/CA202203300080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] CRAVITY JUNGMO - Adrenaline (크래비티 정모 - 아드레날린) | Show Champion | EP.428]]></title>
+            <link>https://tv.naver.com/v/25942602</link>
+            <guid>https://tv.naver.com/v/25942602</guid>
+            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_177/ehuoJ_1648637229470cafAz_JPEG/CA202203300085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] Brave Girls EUNJI - Thank You (브레이브걸스 은지 - 땡큐) l Show Champion l EP.428]]></title>
+            <link>https://tv.naver.com/v/25942596</link>
+            <guid>https://tv.naver.com/v/25942596</guid>
+            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_133/6mZFz_16486372226494JaVP_JPEG/CA202203300071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] CRAVITY HYEONGJUN - Adrenaline (크래비티 형준 - 아드레날린) | Show Champion | EP.428]]></title>
+            <link>https://tv.naver.com/v/25942595</link>
+            <guid>https://tv.naver.com/v/25942595</guid>
+            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_124/LxpHx_1648637221344E6j0P_JPEG/CA202203300086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] Brave Girls YUJEONG - Thank You (브레이브걸스 유정 - 땡큐) l Show Champion l EP.428]]></title>
+            <link>https://tv.naver.com/v/25942527</link>
+            <guid>https://tv.naver.com/v/25942527</guid>
+            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_85/fFhEg_1648636930538KdHk9_JPEG/CA202203300070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] Billlie SHEON - a sign ~ anonymous (빌리 션 - 어 사인 ~ 어노니머스) | Show Champion | EP.428]]></title>
+            <link>https://tv.naver.com/v/25942525</link>
+            <guid>https://tv.naver.com/v/25942525</guid>
+            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_16/3OQLw_1648636929175cAntC_JPEG/CA202203300077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[COMEBACK] Brave Girls - Thank You (브레이브걸스 - 땡큐)]]></title>
@@ -56,6 +120,54 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_100/aoPpw_1648636327273Fj6QM_JPEG/CA202203300083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠] Billlie - a sign ~ anonymous (빌리 - 어 사인 ~ 어노니머스) l Show Champion l EP.428]]></title>
+            <link>https://tv.naver.com/v/25942362</link>
+            <guid>https://tv.naver.com/v/25942362</guid>
+            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_65/7zjMW_1648636320219Md2fq_JPEG/CA202203300057_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] Brave Girls YUNA - Thank You (브레이브걸스 유나 - 땡큐) l Show Champion l EP.428]]></title>
+            <link>https://tv.naver.com/v/25942263</link>
+            <guid>https://tv.naver.com/v/25942263</guid>
+            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_248/I9L2u_1648636021925w7Dla_JPEG/CA202203300068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] Billlie MOON SUA - a sign ~ anonymous (빌리 문수아 - 어 사인 ~ 어노니머스) | Show Champion | EP.428]]></title>
+            <link>https://tv.naver.com/v/25942262</link>
+            <guid>https://tv.naver.com/v/25942262</guid>
+            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_140/0whYp_16486360203704FE1n_JPEG/CA202203300075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] Brave Girls MINYOUNG - Thank You (브레이브걸스 민영 - 땡큐) l Show Champion l EP.428]]></title>
+            <link>https://tv.naver.com/v/25942201</link>
+            <guid>https://tv.naver.com/v/25942201</guid>
+            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_17/MmDjI_1648635783692kIa0p_JPEG/CA202203300066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] CRAVITY - Adrenaline (크래비티 - 아드레날린) l Show Champion l EP.428]]></title>
+            <link>https://tv.naver.com/v/25942200</link>
+            <guid>https://tv.naver.com/v/25942200</guid>
+            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_115/toxoo_1648635781584YpCov_JPEG/CA202203300056_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] Brave Girls - Thank You (브레이브걸스 - 땡큐) l Show Champion l EP.428]]></title>
+            <link>https://tv.naver.com/v/25942176</link>
+            <guid>https://tv.naver.com/v/25942176</guid>
+            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_29/Jp03W_1648635720432nVAme_JPEG/CA202203300059_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Cherry Bullet - Broken (체리블렛 - 브로큰)]]></title>
             <link>https://tv.naver.com/v/25942090</link>
             <guid>https://tv.naver.com/v/25942090</guid>
@@ -78,6 +190,14 @@
             <pubDate>Wed, 30 Mar 2022 10:18:39 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_111/XpCBP_16486348850742rHvh_JPEG/CA202203300073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] NMIXX HAEWON - O.O (엔믹스 해원 - 오오) | Show Champion | EP.428]]></title>
+            <link>https://tv.naver.com/v/25941907</link>
+            <guid>https://tv.naver.com/v/25941907</guid>
+            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_175/HnOvn_1648634881458eCxGL_JPEG/CA202203300043_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WEi - Too Bad (위아이 - 투 배드)]]></title>
@@ -112,140 +232,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_111/25VAN_1648633980041AqloL_JPEG/CA202203300065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엔써에게 윙크를! NMIXX 엔딩 요정은 누구0.＜?]]></title>
+            <link>https://tv.naver.com/v/25941488</link>
+            <guid>https://tv.naver.com/v/25941488</guid>
+            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_9/iuF3x_16486336223835b4TU_JPEG/CA202203300064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[HOT DEBUT] LIM SANG HYUN - Honey Milk Tea (임상현 - 달콤하게, 따뜻하게, 부드럽게)]]></title>
             <link>https://tv.naver.com/v/25941298</link>
             <guid>https://tv.naver.com/v/25941298</guid>
             <pubDate>Wed, 30 Mar 2022 10:18:39 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_294/7NYfq_1648633082482pWU1W_JPEG/CA202203300063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[줍줍 TIME] 크래비티와 함께 하는 특별한 수업♬]]></title>
-            <link>https://tv.naver.com/v/25941296</link>
-            <guid>https://tv.naver.com/v/25941296</guid>
-            <pubDate>Wed, 30 Mar 2022 10:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_86/Kpba4_1648633080392wPS0s_JPEG/CA202203300062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAN - DU DU DU(English ver) (탄 - 두두두)]]></title>
-            <link>https://tv.naver.com/v/25941179</link>
-            <guid>https://tv.naver.com/v/25941179</guid>
-            <pubDate>Wed, 30 Mar 2022 10:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_53/2RH0U_1648632726813v9zvO_JPEG/CA202203300061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAXY - Trigger (크랙시 - 트리거)]]></title>
-            <link>https://tv.naver.com/v/25941178</link>
-            <guid>https://tv.naver.com/v/25941178</guid>
-            <pubDate>Wed, 30 Mar 2022 10:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_46/CIX11_16486327245308Pd6Y_JPEG/CA202203300060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryu jeoung woon - Raincloud (류정운 - 비구름)]]></title>
-            <link>https://tv.naver.com/v/25941002</link>
-            <guid>https://tv.naver.com/v/25941002</guid>
-            <pubDate>Wed, 30 Mar 2022 10:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_297/Tq3jf_16486321335668FgYI_JPEG/CA202203300058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스포 권장] 미리 보는 NMIXX 엔딩요정_ 해원ver.]]></title>
-            <link>https://tv.naver.com/v/25931222</link>
-            <guid>https://tv.naver.com/v/25931222</guid>
-            <pubDate>Wed, 30 Mar 2022 03:31:08 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_251/EeWCc_1648605767786g2CHw_JPEG/CA202203300025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스포 권장] 미리 보는 NMIXX 엔딩요정_ 지우ver.]]></title>
-            <link>https://tv.naver.com/v/25931217</link>
-            <guid>https://tv.naver.com/v/25931217</guid>
-            <pubDate>Wed, 30 Mar 2022 03:31:08 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_280/t0kFl_1648605762872754LR_JPEG/CA202203300024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스포 권장] 미리 보는 NMIXX 엔딩요정_ 지니ver.]]></title>
-            <link>https://tv.naver.com/v/25931215</link>
-            <guid>https://tv.naver.com/v/25931215</guid>
-            <pubDate>Wed, 30 Mar 2022 02:56:27 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_291/YFLm0_1648605761705gmz7I_JPEG/CA202203300023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스포 권장] 미리 보는 NMIXX 엔딩요정_ 설윤ver.]]></title>
-            <link>https://tv.naver.com/v/25931214</link>
-            <guid>https://tv.naver.com/v/25931214</guid>
-            <pubDate>Wed, 30 Mar 2022 03:31:08 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_8/uG9E1_1648605760407LxMvA_JPEG/CA202203300022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스포 권장] 미리 보는 NMIXX 엔딩요정_ 배이ver.]]></title>
-            <link>https://tv.naver.com/v/25931105</link>
-            <guid>https://tv.naver.com/v/25931105</guid>
-            <pubDate>Wed, 30 Mar 2022 03:31:08 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_78/oZYUw_1648605443604vckXA_JPEG/CA202203300021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스포 권장] 미리 보는 NMIXX 엔딩요정_ 릴리ver.]]></title>
-            <link>https://tv.naver.com/v/25931103</link>
-            <guid>https://tv.naver.com/v/25931103</guid>
-            <pubDate>Wed, 30 Mar 2022 03:31:08 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_267/UvUtP_1648605442631Ly6BA_JPEG/CA202203300020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스포 권장] 미리 보는 NMIXX 엔딩요정_ 규진ver.]]></title>
-            <link>https://tv.naver.com/v/25931097</link>
-            <guid>https://tv.naver.com/v/25931097</guid>
-            <pubDate>Wed, 30 Mar 2022 03:31:08 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_175/Voymb_1648605435603mMtWd_JPEG/CA202203300019.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예고] '쇼챔 증후군'에 걸린 위아이➷ 요한 의사의 특급 처방법은?!]]></title>
-            <link>https://tv.naver.com/v/25893533</link>
-            <guid>https://tv.naver.com/v/25893533</guid>
-            <pubDate>Mon, 28 Mar 2022 05:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_54/ESCLp_1648444084252uiqTT_JPEG/CA202203300003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3월 4주차 ♥쇼챔피언♡ MC 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.427]]></title>
-            <link>https://tv.naver.com/v/25853982</link>
-            <guid>https://tv.naver.com/v/25853982</guid>
-            <pubDate>Sat, 26 Mar 2022 11:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[9:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_273/IxEcH_16481944205718HzVn_JPEG/CA202203230095_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] TEMPEST - Bad News (템페스트 - 배드 뉴스) l Show Champion l EP.427]]></title>
-            <link>https://tv.naver.com/v/25846045</link>
-            <guid>https://tv.naver.com/v/25846045</guid>
-            <pubDate>Fri, 25 Mar 2022 02:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_157/yR264_16481749804997MLi5_JPEG/CA202203230098_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] WEi - Super Bumpy (위아이 - 슈퍼 범피) l Show Champion l EP.427]]></title>
-            <link>https://tv.naver.com/v/25846018</link>
-            <guid>https://tv.naver.com/v/25846018</guid>
-            <pubDate>Fri, 25 Mar 2022 02:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_246/bhui8_1648174918879gaYzL_JPEG/CA202203230097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[원픽캠] MONSTA X KIHYUN - VOYAGER (몬스타엑스 기현 - 보이저) l Show Champion l EP.427]]></title>
-            <link>https://tv.naver.com/v/25824354</link>
-            <guid>https://tv.naver.com/v/25824354</guid>
-            <pubDate>Thu, 24 Mar 2022 02:48:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_15/EX4VM_1648089479481ckKtQ_JPEG/CA202203230094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
