@@ -4,9 +4,25 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 02:57:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 03:31:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 NMIXX 엔딩요정_ 해원ver.]]></title>
+            <link>https://tv.naver.com/v/25931222</link>
+            <guid>https://tv.naver.com/v/25931222</guid>
+            <pubDate>Wed, 30 Mar 2022 03:31:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_251/EeWCc_1648605767786g2CHw_JPEG/CA202203300025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 NMIXX 엔딩요정_ 지우ver.]]></title>
+            <link>https://tv.naver.com/v/25931217</link>
+            <guid>https://tv.naver.com/v/25931217</guid>
+            <pubDate>Wed, 30 Mar 2022 03:31:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_280/t0kFl_1648605762872754LR_JPEG/CA202203300024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스포 권장] 미리 보는 NMIXX 엔딩요정_ 지니ver.]]></title>
             <link>https://tv.naver.com/v/25931215</link>
@@ -14,6 +30,38 @@
             <pubDate>Wed, 30 Mar 2022 02:56:27 GMT</pubDate>
             <content:encoded><![CDATA[0:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_291/YFLm0_1648605761705gmz7I_JPEG/CA202203300023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 NMIXX 엔딩요정_ 설윤ver.]]></title>
+            <link>https://tv.naver.com/v/25931214</link>
+            <guid>https://tv.naver.com/v/25931214</guid>
+            <pubDate>Wed, 30 Mar 2022 03:31:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_8/uG9E1_1648605760407LxMvA_JPEG/CA202203300022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 NMIXX 엔딩요정_ 배이ver.]]></title>
+            <link>https://tv.naver.com/v/25931105</link>
+            <guid>https://tv.naver.com/v/25931105</guid>
+            <pubDate>Wed, 30 Mar 2022 03:31:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_78/oZYUw_1648605443604vckXA_JPEG/CA202203300021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 NMIXX 엔딩요정_ 릴리ver.]]></title>
+            <link>https://tv.naver.com/v/25931103</link>
+            <guid>https://tv.naver.com/v/25931103</guid>
+            <pubDate>Wed, 30 Mar 2022 03:31:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_267/UvUtP_1648605442631Ly6BA_JPEG/CA202203300020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 NMIXX 엔딩요정_ 규진ver.]]></title>
+            <link>https://tv.naver.com/v/25931097</link>
+            <guid>https://tv.naver.com/v/25931097</guid>
+            <pubDate>Wed, 30 Mar 2022 03:31:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_175/Voymb_1648605435603mMtWd_JPEG/CA202203300019.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] '쇼챔 증후군'에 걸린 위아이➷ 요한 의사의 특급 처방법은?!]]></title>
@@ -198,54 +246,6 @@
             <pubDate>Wed, 23 Mar 2022 13:25:43 GMT</pubDate>
             <content:encoded><![CDATA[4:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_84/hbT5u_1648038720000hudQp_JPEG/CA202203230055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] Billlie MOON SUA - GingaMingaYo (빌리 문수아 - 긴가민가요) | Show Champion | EP.427]]></title>
-            <link>https://tv.naver.com/v/25815677</link>
-            <guid>https://tv.naver.com/v/25815677</guid>
-            <pubDate>Wed, 23 Mar 2022 13:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[4:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_219/2w9ux_1648038419509k0lt5_JPEG/CA202203230048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] Billlie TSUKI - GingaMingaYo (빌리 츠키 - 긴가민가요) | Show Champion | EP.427]]></title>
-            <link>https://tv.naver.com/v/25815346</link>
-            <guid>https://tv.naver.com/v/25815346</guid>
-            <pubDate>Wed, 23 Mar 2022 13:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_121/7g0X3_1648037281163YBaL2_JPEG/CA202203230053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] MOONBIN&SANHA (ASTRO) SANHA-Ghost town (문빈&산하(아스트로) 산하-고스트타운) | Show Champion | EP.427]]></title>
-            <link>https://tv.naver.com/v/25815219</link>
-            <guid>https://tv.naver.com/v/25815219</guid>
-            <pubDate>Wed, 23 Mar 2022 13:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_285/UTwqM_1648036921783XXLYT_JPEG/CA202203230047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] MOONBIN&SANHA (ASTRO) SANHA-  WHO (문빈&산하(아스트로) 산하-후) | Show Champion | EP.427]]></title>
-            <link>https://tv.naver.com/v/25815048</link>
-            <guid>https://tv.naver.com/v/25815048</guid>
-            <pubDate>Wed, 23 Mar 2022 13:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_252/N2jWe_1648036381879bLVj9_JPEG/CA202203230044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] MOONBIN&SANHA (ASTRO) MOONBIN - Ghost town (문빈&산하(아스트로) 문빈 - 고스트 타운) | Show Champion | EP.42]]></title>
-            <link>https://tv.naver.com/v/25815047</link>
-            <guid>https://tv.naver.com/v/25815047</guid>
-            <pubDate>Wed, 23 Mar 2022 13:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_49/117ST_1648036380704Uq4eF_JPEG/CA202203230045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] MOONBIN&SANHA (ASTRO) MOONBIN - WHO (문빈&산하(아스트로) 문빈 - 후) | Show Champion | EP.427]]></title>
-            <link>https://tv.naver.com/v/25815028</link>
-            <guid>https://tv.naver.com/v/25815028</guid>
-            <pubDate>Wed, 23 Mar 2022 13:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_82/yBUCJ_1648036321273FDjFs_JPEG/CA202203230042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
