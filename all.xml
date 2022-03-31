@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 11:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 12:32:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -736,6 +736,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220321_117/SCS9P_1647835919630cjN2F_JPEG/3bc8d73d-e5b1-450f-851a-de4a953c031c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['1위' 한계 없는 성장 '(여자)아이들'의 'TOMBOY' 무대 | Mnet 220331 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25963598</link>
+            <guid>https://tv.naver.com/v/25963598</guid>
+            <pubDate>Thu, 31 Mar 2022 12:31:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_267/k1Z9b_16487248346893seB4_JPEG/856b9d69-3ff0-468f-a60c-ddd04728c3d3_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘최초 공개’ 첫사랑돌 ‘위아이(WEi)’의 ‘Too Bad’ 무대 | Mnet 220317 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25710080</link>
             <guid>https://tv.naver.com/v/25710080</guid>
@@ -966,14 +974,6 @@
             <pubDate>Tue, 08 Mar 2022 11:05:50 GMT</pubDate>
             <content:encoded><![CDATA[4:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210225_78/bgMlm_1614184082338J3nq1_JPEG/B120041702_EPI0682_07_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['러블리즈'의 마법의 주문♬ 'Obliviate' 무대 | Mnet 200917 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/15832005</link>
-            <guid>https://tv.naver.com/v/15832005</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210225_17/RFpco_1614184079222zSXOG_JPEG/B120041702_EPI0682_08_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Hot Debut] 케이팝의 신! 장르는 '기팝', 기현 (몬스타엑스) 'VOYAGER' (SBS MTV 더쇼 ─ 네이버TV)]]></title>
