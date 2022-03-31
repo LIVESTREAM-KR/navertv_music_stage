@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 07:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 08:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[《예고》탄(TAN)과 함께한 이번주 심플리 콘투어 이탈리아 편💌~!! _513회]]></title>
+            <link>https://tv.naver.com/v/25957451</link>
+            <guid>https://tv.naver.com/v/25957451</guid>
+            <pubDate>Thu, 31 Mar 2022 08:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_210/Swh4J_1648712732939oT5HV_PNG/1648712725132.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.512]]></title>
             <link>https://tv.naver.com/v/25851424</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 25 Mar 2022 06:21:48 GMT</pubDate>
             <content:encoded><![CDATA[3:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_201/skh3o_1648186424095soK8G_JPEG/1648185990485.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 탄 서성혁 'DU DU DU' (English ver.) 직캠 (TAN Seo Sung Hyuk 'DU DU DU') l Simply K-Pop CON-TOUR Ep.512]]></title>
-            <link>https://tv.naver.com/v/25850001</link>
-            <guid>https://tv.naver.com/v/25850001</guid>
-            <pubDate>Fri, 25 Mar 2022 06:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_146/uxNnm_1648186415182xM2nF_JPEG/1648185997293.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
