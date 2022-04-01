@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 04:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 05:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,62 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.513 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25976489</link>
+            <guid>https://tv.naver.com/v/25976489</guid>
+            <pubDate>Fri, 01 Apr 2022 05:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[54:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_210/fDaqq_1648789252562Ds83b_PNG/1648789247301.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[청청 의상의 🌼청춘🌼 그 자체 위아이의 ‘Too Bad (투배드)’ _ Ep513 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25976388</link>
+            <guid>https://tv.naver.com/v/25976388</guid>
+            <pubDate>Fri, 01 Apr 2022 05:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_225/9SKUF_1648788740595E8Mg1_PNG/1648787757806.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[미묘한 🧸공포🧸 빌리의 ‘GingaMingaYo (긴가민가요) (the strange world)’ _ Ep513 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25976309</link>
+            <guid>https://tv.naver.com/v/25976309</guid>
+            <pubDate>Fri, 01 Apr 2022 05:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_142/1se0H_1648788553753lG4eY_PNG/1648786597649.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[크랙시 (CRAXY) - Dance With God + Trigger (트리거) ★Simply's Spotlight★ _ Ep.513 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25976306</link>
+            <guid>https://tv.naver.com/v/25976306</guid>
+            <pubDate>Fri, 01 Apr 2022 05:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[8:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_69/oOwPK_1648788548206epOgQ_PNG/1648786592765.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑과 중독의 강렬한 🏷메시지 디크런치의 ‘중독’ _ Ep513 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25975814</link>
+            <guid>https://tv.naver.com/v/25975814</guid>
+            <pubDate>Fri, 01 Apr 2022 05:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_178/JxN1f_1648787290672snzmF_PNG/1648786588835.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🎁올라운더 홍의진의 ‘여덟 번째 봄’ _ Ep.513 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25975808</link>
+            <guid>https://tv.naver.com/v/25975808</guid>
+            <pubDate>Fri, 01 Apr 2022 05:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_122/p8Gl6_1648787281311BEKfB_PNG/1648786580522.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사무치는 ⛈그리움을 담은 류정운의 ‘비구름’ _ Ep513 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25975805</link>
+            <guid>https://tv.naver.com/v/25975805</guid>
+            <pubDate>Fri, 01 Apr 2022 05:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_159/lA5sW_1648787273795NFN7S_PNG/1648785819532.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[완성형 ☘신인☘ TAN (탄의 ‘DU DU DU (두두두) (English ver)’ _ Ep513 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25975468</link>
             <guid>https://tv.naver.com/v/25975468</guid>
@@ -1854,62 +1910,6 @@
             <pubDate>Fri, 25 Mar 2022 06:21:48 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_123/7x2Lp_1648186777209Af1IO_JPEG/1648186028718.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 위아이 유용하 'Too Bad' 가로직캠 (WEi YOO YONG HA 'Too Bad') l Simply K-Pop CON-TOUR Ep.512 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25850153</link>
-            <guid>https://tv.naver.com/v/25850153</guid>
-            <pubDate>Fri, 25 Mar 2022 06:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_72/BaYaN_16481867726213Fy1M_JPEG/1648186018407.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 위아이 장대현 'Too Bad‘ 직캠 (WEi JANG DAE HYEON 'Too Bad') l Simply K-Pop CON-TOUR Ep.512 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25850150</link>
-            <guid>https://tv.naver.com/v/25850150</guid>
-            <pubDate>Fri, 25 Mar 2022 06:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_228/m0lyt_1648186767384nUW4B_JPEG/1648186022450.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 위아이 강석화 'Too Bad' 직캠 (WEi KANG SEOK HWA 'Too Bad') l Simply K-Pop CON-TOUR Ep.512 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25850147</link>
-            <guid>https://tv.naver.com/v/25850147</guid>
-            <pubDate>Fri, 25 Mar 2022 06:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_194/UuWxT_1648186761996F1a9K_JPEG/1648186025138.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 빌리 츠키 'a sign ~ anonymous’ 가로직캠 (Billlie TSUKI 'a sign ~ anonymous') l Simply K-Pop (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25850140</link>
-            <guid>https://tv.naver.com/v/25850140</guid>
-            <pubDate>Fri, 25 Mar 2022 06:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_21/cAx0K_1648186750393lfjcF_JPEG/1648185983655.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 빌리 문수아 'a sign ~ anonymous' 가로직캠 (Billlie MOON SUA 'a sign ~ anonymous') l Simply K-Pop (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25850137</link>
-            <guid>https://tv.naver.com/v/25850137</guid>
-            <pubDate>Fri, 25 Mar 2022 06:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_14/p5Z0Q_16481867458545gNUD_JPEG/1648186002776.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 빌리 하람 ‘GingaMingaYo(the strange world)' 가로직캠 (HARAM 'GingaMingaYo’) l Simply K-Pop (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25850134</link>
-            <guid>https://tv.naver.com/v/25850134</guid>
-            <pubDate>Fri, 25 Mar 2022 06:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_11/8DzaI_1648186739351ou0uq_JPEG/1648186006375.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 빌리 수현 ‘GingaMingaYo(the strange world)’ 직캠 (Billlie SUHYEON 'GingaMingaYo‘) l Simply K-Pop (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25850020</link>
-            <guid>https://tv.naver.com/v/25850020</guid>
-            <pubDate>Fri, 25 Mar 2022 06:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_296/AWSz8_1648186450687NlcN5_JPEG/1648185987000.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오곤_Shinsha (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
