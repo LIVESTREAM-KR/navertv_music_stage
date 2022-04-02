@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 05:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 06:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SIMPLY BEHIND: HWI-log at Simply (w. TEMPEST) (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25995974</link>
+            <guid>https://tv.naver.com/v/25995974</guid>
+            <pubDate>Sat, 02 Apr 2022 06:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[7:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220402_223/tduoY_1648877217172howh6_PNG/1648876974010.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.513 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25976489</link>
             <guid>https://tv.naver.com/v/25976489</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Fri, 01 Apr 2022 06:23:41 GMT</pubDate>
             <content:encoded><![CDATA[3:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220331_94/m2IFg_1648706593090lRd5j_JPEG/1648706526328.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 빌리 시윤 ‘GingaMingaYo(the strange world)’ 직캠 (Billlie SIYOON 'GingaMingaYo‘) l Simply K-Pop (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25955035</link>
-            <guid>https://tv.naver.com/v/25955035</guid>
-            <pubDate>Fri, 01 Apr 2022 06:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_6/nyp3M_16487065853389hF0a_JPEG/1648706529574.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전인권_아침이 밝아올 때 까지 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
