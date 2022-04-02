@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 10:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 11:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[3월 5주차 ♥쇼챔피언♡ MC 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.428 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25960431</link>
+            <guid>https://tv.naver.com/v/25960431</guid>
+            <pubDate>Sat, 02 Apr 2022 11:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[6:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_2/jyEKS_1648716783671bed1y_JPEG/CA202203300120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔 1위] 3월 다섯째 주 챔피언송 Stray Kids 앵콜 Full ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25943939</link>
             <guid>https://tv.naver.com/v/25943939</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_9/iuF3x_16486336223835b4TU_JPEG/CA202203300064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HOT DEBUT] LIM SANG HYUN - Honey Milk Tea (임상현 - 달콤하게, 따뜻하게, 부드럽게) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25941298</link>
-            <guid>https://tv.naver.com/v/25941298</guid>
-            <pubDate>Wed, 30 Mar 2022 10:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_294/7NYfq_1648633082482pWU1W_JPEG/CA202203300063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
