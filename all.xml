@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 06:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 07:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220326_167/g11PA_1648291323569XIjwi_JPEG/clip_20220326192543_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘메이져스’, 무대로 망설임 없이 전진! ‘Salute’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26009036</link>
+            <guid>https://tv.naver.com/v/26009036</guid>
+            <pubDate>Sun, 03 Apr 2022 07:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_225/oLCqk_1648969922269XQfKR_JPEG/28769474-c23f-460e-b0c9-c0815ca60cb7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘나인 아이’, 탄탄한 실력으로 핫 데뷔! ‘Parallel Universe’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26008947</link>
+            <guid>https://tv.naver.com/v/26008947</guid>
+            <pubDate>Sun, 03 Apr 2022 07:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_120/wwksy_16489696207590y0gY_JPEG/cfb7f783-0c03-4bb7-8676-3e4bc911e710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘연준×노정의×서범준’의 케미스트리 폭발 MC 신고식♥ ‘작은 것들을 위한 시’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26008875</link>
+            <guid>https://tv.naver.com/v/26008875</guid>
+            <pubDate>Sun, 03 Apr 2022 07:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_81/vmTKY_164896932221562nhc_JPEG/0a9d9649-966a-4c1f-867a-140f340ca38c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘몬스타엑스’의 독보적인 파워! ‘FANTASIA’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/14167525</link>
             <guid>https://tv.naver.com/v/14167525</guid>
@@ -470,30 +494,6 @@
             <pubDate>Tue, 08 Mar 2022 11:05:44 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20190303_82/AVqCI_1551603109240kYtci_JPEG/VD92400638_w1280_h720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아련미 철철 흐르는 ‘트레이’의 애절한 퍼포먼스 ‘멀어져’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/5559653</link>
-            <guid>https://tv.naver.com/v/5559653</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20190303_287/scf3C_15516031044996lxep_JPEG/VD25089019_w1280_h720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갓창력이 돋보이는 ‘핑크레이디’의 무대 ‘GOD GIRL’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/5559622</link>
-            <guid>https://tv.naver.com/v/5559622</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20190303_76/XQAd6_1551602800957aICiR_JPEG/VD62186629_w1280_h720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깨어나라 연애 세포! ‘일급비밀’의 달콤한 고백 ‘WAKE UP’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/5559553</link>
-            <guid>https://tv.naver.com/v/5559553</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20190303_177/DMz4G_1551602198592jqLjz_JPEG/VD94948705_w1280_h720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
