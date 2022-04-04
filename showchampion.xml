@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 04:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 05:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 사랑을 이루어 드립니다! 크래비티 ♡연애 조작단♡을 찾아온 의뢰인.. 과연 그 결과는?!]]></title>
+            <link>https://tv.naver.com/v/26022790</link>
+            <guid>https://tv.naver.com/v/26022790</guid>
+            <pubDate>Mon, 04 Apr 2022 05:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_19/ZsU1U_1649048887128mt2Nb_JPEG/CA202204060003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3월 5주차 ♥쇼챔피언♡ MC 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.428]]></title>
             <link>https://tv.naver.com/v/25960431</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 30 Mar 2022 10:18:39 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_111/25VAN_1648633980041AqloL_JPEG/CA202203300065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔써에게 윙크를! NMIXX 엔딩 요정은 누구0.＜?]]></title>
-            <link>https://tv.naver.com/v/25941488</link>
-            <guid>https://tv.naver.com/v/25941488</guid>
-            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_9/iuF3x_16486336223835b4TU_JPEG/CA202203300064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
