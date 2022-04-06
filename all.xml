@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 10:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 11:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,38 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[COMEBACK] OH MY GIRL - Real Love (오마이걸 - 리얼 러브) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26076664</link>
+            <guid>https://tv.naver.com/v/26076664</guid>
+            <pubDate>Wed, 06 Apr 2022 11:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_67/ht1HA_1649241424834cGxKh_JPEG/CA202204060064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] OH MY GIRL - Drip (오마이걸 - 드립) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26076504</link>
+            <guid>https://tv.naver.com/v/26076504</guid>
+            <pubDate>Wed, 06 Apr 2022 11:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_108/Pr21s_16492411294379Y0j6_JPEG/CA202204060063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] VERIVERY - O (베리베리 - 오) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26076227</link>
+            <guid>https://tv.naver.com/v/26076227</guid>
+            <pubDate>Wed, 06 Apr 2022 11:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_130/nPhyC_1649240584702PJf6U_JPEG/CA202204060062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAVITY - Adrenaline (크래비티 - 아드레날린) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26076192</link>
+            <guid>https://tv.naver.com/v/26076192</guid>
+            <pubDate>Wed, 06 Apr 2022 11:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_152/OPtqc_1649240520784Mooyh_JPEG/CA202204060061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하이틴 남주가 될 CRAVITY 3대 엔딩 요정은? (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26076041</link>
             <guid>https://tv.naver.com/v/26076041</guid>
@@ -1422,38 +1454,6 @@
             <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_16/3OQLw_1648636929175cAntC_JPEG/CA202203300077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] Brave Girls - Thank You (브레이브걸스 - 땡큐) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25942463</link>
-            <guid>https://tv.naver.com/v/25942463</guid>
-            <pubDate>Wed, 30 Mar 2022 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_191/nmsDJ_1648636688531Kjend_JPEG/CA202203300079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] Brave Girls - Love Is Gone (브레이브걸스 - 물거품) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25942371</link>
-            <guid>https://tv.naver.com/v/25942371</guid>
-            <pubDate>Wed, 30 Mar 2022 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_51/sMUwr_164863633179783o0H_JPEG/CA202203300078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] Highlight - DAYDREAM (하이라이트 - 데이드림) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25942367</link>
-            <guid>https://tv.naver.com/v/25942367</guid>
-            <pubDate>Wed, 30 Mar 2022 11:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_100/aoPpw_1648636327273Fj6QM_JPEG/CA202203300083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] Billlie - a sign ~ anonymous (빌리 - 어 사인 ~ 어노니머스) l Show Champion l EP.428 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25942362</link>
-            <guid>https://tv.naver.com/v/25942362</guid>
-            <pubDate>Wed, 30 Mar 2022 13:27:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_65/7zjMW_1648636320219Md2fq_JPEG/CA202203300057_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
