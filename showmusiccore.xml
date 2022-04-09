@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 08:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 09:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔시티 드림 1위 직캠 ' 버퍼링 (Glitch Mode)' (NCT DREAM No.1 Encore FanCam) @Show!MusicCore 220409]]></title>
+            <link>https://tv.naver.com/v/26134866</link>
+            <guid>https://tv.naver.com/v/26134866</guid>
+            <pubDate>Sat, 09 Apr 2022 09:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[5:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_201/tVrNw_1649495219022efsJx_JPEG/clip_20220409173224_60.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔시티 드림 직캠 ‘버퍼링 (Glitch Mode)’ (NCT DREAM FanCam) @Show!MusicCore 220409]]></title>
+            <link>https://tv.naver.com/v/26134441</link>
+            <guid>https://tv.naver.com/v/26134441</guid>
+            <pubDate>Sat, 09 Apr 2022 09:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_174/9NkGn_164949282022505nl7_JPEG/clip_20220409170315_55.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 스트레이 키즈 직캠 ‘MANIAC’ (Stray Kids FanCam) @Show!MusicCore 220409]]></title>
+            <link>https://tv.naver.com/v/26134412</link>
+            <guid>https://tv.naver.com/v/26134412</guid>
+            <pubDate>Sat, 09 Apr 2022 09:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_100/FWl1Q_1649492583882MRIhP_JPEG/clip_20220409165639_54.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 아이브 직캠 ‘LOVE DIVE’ (IVE FanCam) @Show!MusicCore 220409]]></title>
             <link>https://tv.naver.com/v/26134342</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 26 Mar 2022 11:14:06 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220326_123/eA8hi_1648292820963eYiNf_JPEG/clip_20220326194128_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 강승윤 세로캠 ‘BORN TO LOVE YOU’ (KANG SEUNGYOON FanCam) @Show!MusicCore 220326]]></title>
-            <link>https://tv.naver.com/v/25871392</link>
-            <guid>https://tv.naver.com/v/25871392</guid>
-            <pubDate>Sat, 26 Mar 2022 11:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_242/PZrec_1648291921912NOMVq_JPEG/clip_20220326193420_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 하이라이트 이기광 직캠 ‘DAYDREAM’ (Highlight LEE GI KWANG FanCam) @Show! MusicCore 220326]]></title>
-            <link>https://tv.naver.com/v/25871390</link>
-            <guid>https://tv.naver.com/v/25871390</guid>
-            <pubDate>Sat, 26 Mar 2022 11:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_275/dPVbc_1648291918799ktUBs_JPEG/clip_20220326192541_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 하이라이트 윤두준 직캠 ‘DAYDREAM’ (Highlight YOON DU JUN FanCam) @Show! MusicCore 220326]]></title>
-            <link>https://tv.naver.com/v/25871329</link>
-            <guid>https://tv.naver.com/v/25871329</guid>
-            <pubDate>Sat, 26 Mar 2022 11:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_129/UKuZ4_16482916198907fURM_JPEG/clip_20220326192535_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
