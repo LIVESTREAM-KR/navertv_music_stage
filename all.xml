@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 10:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 11:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,78 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 스트레이 키즈 창빈 직캠 ‘MANIAC’ (Stray Kids CHANGBIN FanCam) @Show! MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26136060</link>
+            <guid>https://tv.naver.com/v/26136060</guid>
+            <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_203/ij9wi_1649502723588ihJTw_JPEG/clip_20220409193908_102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 스트레이 키즈 현진 직캠 ‘MANIAC’ (Stray Kids HYUNJIN FanCam) @Show! MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26136058</link>
+            <guid>https://tv.naver.com/v/26136058</guid>
+            <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_9/ILzAZ_1649502722138NUIaD_JPEG/clip_20220409193841_101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 스트레이 키즈 방찬 직캠 ‘MANIAC’ (Stray Kids BANG CHAN FanCam) @Show! MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26136057</link>
+            <guid>https://tv.naver.com/v/26136057</guid>
+            <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_27/xP5TG_1649502720697JKGtY_JPEG/clip_20220409193832_100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 아이브 장원영 직캠 ‘LOVE DIVE’ (IVE WONYOUNG FanCam) @Show! MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26135779</link>
+            <guid>https://tv.naver.com/v/26135779</guid>
+            <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_275/BsXyS_16495009211212VqCy_JPEG/clip_20220409191807_93.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 아이브 안유진 직캠 ‘LOVE DIVE’ (IVE YUJIN FanCam) @Show! MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26135746</link>
+            <guid>https://tv.naver.com/v/26135746</guid>
+            <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_201/8ZOdF_1649500681300sULQo_JPEG/clip_20220409190856_83.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 아이브 레이 직캠 ‘LOVE DIVE’ (IVE REI FanCam) @Show! MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26135739</link>
+            <guid>https://tv.naver.com/v/26135739</guid>
+            <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_117/2oeJ7_1649500619869t4dGh_JPEG/clip_20220409191018_85.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 아이브 가을 직캠 ‘LOVE DIVE’ (IVE GAEUL FanCam) @Show! MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26135701</link>
+            <guid>https://tv.naver.com/v/26135701</guid>
+            <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_280/eCVHf_1649500324408qql6v_JPEG/clip_20220409191057_86.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 아이브 리즈 직캠 ‘LOVE DIVE’ (IVE LIZ FanCam) @Show! MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26135700</link>
+            <guid>https://tv.naver.com/v/26135700</guid>
+            <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_166/UyboL_1649500323192UxnTa_JPEG/clip_20220409190929_84.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 아이브 이서 직캠 ‘LOVE DIVE’ (IVE LEESEO FanCam) @Show! MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26135699</link>
+            <guid>https://tv.naver.com/v/26135699</guid>
+            <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_59/xqxCp_1649500321607oAe3t_JPEG/clip_20220409190812_82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 권은비 세로캠 ‘Glitch’ (KWON EUN BI FanCam) @Show! MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -182,78 +254,6 @@
             <pubDate>Wed, 30 Mar 2022 09:15:55 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220328_96/kPl6L_1648450921366eblkP_JPEG/clip_20220328153111_42.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 빌리 문수아 직캠 ‘GingaMingaYo’ (Billlie MOON SUA FanCam) @Show! MusicCore 220326 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25895941</link>
-            <guid>https://tv.naver.com/v/25895941</guid>
-            <pubDate>Wed, 30 Mar 2022 09:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_48/bbPH5_1648450919700Pxmcl_JPEG/clip_20220328153059_41.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔믹스 배이 직캠 ‘O.O’ (NMIXX BAE FanCam) @Show!MusicCore 220326 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25894478</link>
-            <guid>https://tv.naver.com/v/25894478</guid>
-            <pubDate>Wed, 30 Mar 2022 09:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_209/16zM4_1648446422814q621E_JPEG/clip_20220328141735_34.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔믹스 규진 직캠 ‘O.O’ (NMIXX KYUJIN FanCam) @Show!MusicCore 220326 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25894339</link>
-            <guid>https://tv.naver.com/v/25894339</guid>
-            <pubDate>Wed, 30 Mar 2022 09:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_17/1LtGu_1648446119063RQscz_JPEG/clip_20220328141727_29.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔믹스 지우 직캠 ‘O.O’ (NMIXX JIWOO FanCam) @Show!MusicCore 220326 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25894248</link>
-            <guid>https://tv.naver.com/v/25894248</guid>
-            <pubDate>Wed, 30 Mar 2022 09:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_27/nqoa3_1648445883248ybIQ4_JPEG/clip_20220328141733_33.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔믹스 해원 직캠 ‘O.O’ (NMIXX HAEWON FanCam) @Show!MusicCore 220326 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25894247</link>
-            <guid>https://tv.naver.com/v/25894247</guid>
-            <pubDate>Wed, 30 Mar 2022 09:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_88/EcUUw_1648445882032MdBBq_JPEG/clip_20220328141732_32.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔믹스 릴리 직캠 ‘O.O’ (NMIXX LILY FanCam) @Show!MusicCore 220326 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25894246</link>
-            <guid>https://tv.naver.com/v/25894246</guid>
-            <pubDate>Wed, 30 Mar 2022 09:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_35/aL3ZK_1648445880494s2DBz_JPEG/clip_20220328141731_31.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔믹스 지니 직캠 ‘O.O’ (NMIXX JINNI FanCam) @Show!MusicCore 220326 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25894245</link>
-            <guid>https://tv.naver.com/v/25894245</guid>
-            <pubDate>Wed, 30 Mar 2022 09:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_55/2kbTW_1648445879147uEdyv_JPEG/clip_20220328141729_30.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아스트로 산하 직캠 ‘WHO’ (ASTRO SANHA FanCam) @Show!MusicCore 220326 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25894097</link>
-            <guid>https://tv.naver.com/v/25894097</guid>
-            <pubDate>Mon, 28 Mar 2022 06:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_115/D8np0_1648445520540EkoRN_JPEG/clip_20220328140751_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아스트로 문빈 직캠 ‘WHO’ (ASTRO MOONBIN FanCam) @Show!MusicCore 220326 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25893530</link>
-            <guid>https://tv.naver.com/v/25893530</guid>
-            <pubDate>Mon, 28 Mar 2022 05:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_81/kEV8A_1648444081312liahP_JPEG/clip_20220328134930_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘하이라이트’, 서정적 보컬로 부르는 절절한 사랑고백! ‘DAYDREAM’ (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[4월 1주차 ♥쇼챔피언♡ MC 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.429 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26115832</link>
+            <guid>https://tv.naver.com/v/26115832</guid>
+            <pubDate>Sat, 09 Apr 2022 11:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[7:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_262/9T37y_1649400420831FWAgs_JPEG/CA202204060111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠] VERIVERY DONGHEON - O (베리베리 동헌 - 오) | Show Champion | EP.429 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26086184</link>
             <guid>https://tv.naver.com/v/26086184</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 06 Apr 2022 10:20:00 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220406_298/o87Me_1649238423956E7sj3_JPEG/CA202204060051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HOT DEBUT] ILY:1 - Love In Bloom (아일리원 - 사랑아 피어라) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26075166</link>
-            <guid>https://tv.naver.com/v/26075166</guid>
-            <pubDate>Wed, 06 Apr 2022 10:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_173/wweHu_1649238421941Yanzn_JPEG/CA202204060050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>

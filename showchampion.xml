@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 10:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 11:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월 1주차 ♥쇼챔피언♡ MC 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.429]]></title>
+            <link>https://tv.naver.com/v/26115832</link>
+            <guid>https://tv.naver.com/v/26115832</guid>
+            <pubDate>Sat, 09 Apr 2022 11:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[7:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_262/9T37y_1649400420831FWAgs_JPEG/CA202204060111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠] VERIVERY DONGHEON - O (베리베리 동헌 - 오) | Show Champion | EP.429]]></title>
             <link>https://tv.naver.com/v/26086184</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Apr 2022 10:20:00 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220406_298/o87Me_1649238423956E7sj3_JPEG/CA202204060051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HOT DEBUT] ILY:1 - Love In Bloom (아일리원 - 사랑아 피어라)]]></title>
-            <link>https://tv.naver.com/v/26075166</link>
-            <guid>https://tv.naver.com/v/26075166</guid>
-            <pubDate>Wed, 06 Apr 2022 10:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_173/wweHu_1649238421941Yanzn_JPEG/CA202204060050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
