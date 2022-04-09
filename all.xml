@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 07:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 08:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 아이브 직캠 ‘LOVE DIVE’ (IVE FanCam) @Show!MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26134342</link>
+            <guid>https://tv.naver.com/v/26134342</guid>
+            <pubDate>Sat, 09 Apr 2022 08:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_149/b9ssp_1649492221638mlypV_JPEG/clip_20220409164436_53.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 설윤 최애직캠 ‘O.O’ (NMIXX SULLYOON Close-up Cam) @Show!MusicCore 220326 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 26 Mar 2022 11:14:06 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220326_129/UKuZ4_16482916198907fURM_JPEG/clip_20220326192535_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 하이라이트 손동운 직캠 ‘DAYDREAM’ (Highlight SON DONG WOON FanCam) @Show! MusicCore 220326 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25871273</link>
-            <guid>https://tv.naver.com/v/25871273</guid>
-            <pubDate>Sat, 26 Mar 2022 11:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_167/g11PA_1648291323569XIjwi_JPEG/clip_20220326192543_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘하이라이트’, 서정적 보컬로 부르는 절절한 사랑고백! ‘DAYDREAM’ (SBS 인기가요 ─ 네이버TV)]]></title>
