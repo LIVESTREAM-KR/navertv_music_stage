@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 06:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 07:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,38 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220409_38/YzWiY_1649497019681OXkMN_JPEG/clip_20220409181453_64.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘킹덤’, 화려한 퍼포먼스로 압도한 무대! ‘승천’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26144544</link>
+            <guid>https://tv.naver.com/v/26144544</guid>
+            <pubDate>Sun, 10 Apr 2022 07:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220410_280/XiDRV_1649574720527uzvBt_JPEG/6a99281d-402d-4c5a-ac58-fbf19989ec30.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘아일리원’, 화사하게 피어나는 첫사랑! ‘사랑아 피어라’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26144471</link>
+            <guid>https://tv.naver.com/v/26144471</guid>
+            <pubDate>Sun, 10 Apr 2022 07:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220410_13/5NE3b_1649574426136hCmwk_JPEG/105a08bd-6a81-4017-8a5b-ec4985d9cc52.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘임상현’의 감미로운 보이스! ‘달콤하게, 따뜻하게, 부드럽게’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26144469</link>
+            <guid>https://tv.naver.com/v/26144469</guid>
+            <pubDate>Sun, 10 Apr 2022 07:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220410_266/RZIjd_1649574422282d1wuM_JPEG/70a3d398-c676-4d99-8ce4-edd280e93cfd.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘나인아이’가 선보이는 새로운 세계! ‘Parallel Universe’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26144367</link>
+            <guid>https://tv.naver.com/v/26144367</guid>
+            <pubDate>Sun, 10 Apr 2022 07:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220410_261/8wuUG_1649573822250RP7I3_JPEG/a9055d42-6070-4638-921d-1a3ef72120a5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘하이라이트’, 서정적 보컬로 부르는 절절한 사랑고백! ‘DAYDREAM’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26009950</link>
             <guid>https://tv.naver.com/v/26009950</guid>
@@ -462,38 +494,6 @@
             <pubDate>Tue, 08 Mar 2022 11:05:43 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200106_46/zEkQy_1578294716776LngfC_JPEG/3e9f420b-735a-4813-b8c8-85d91c43bb22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숨겨왔던 치명美 발산! ‘일급비밀’의 ‘Count down’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/11754757</link>
-            <guid>https://tv.naver.com/v/11754757</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200106_288/Npqb1_1578295004488JyvHE_JPEG/9f09f969-ee8f-431b-8e33-7b46d5814718.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[희망찬 하루를 선사할 뮤지션! ‘희’의 ‘Carry On’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/11754726</link>
-            <guid>https://tv.naver.com/v/11754726</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200106_300/c3PLw_15782947222985dQdD_JPEG/afd6cb13-74eb-4315-abb7-efb0c5dd76d7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무한한 사랑을 표현한 ‘세븐어클락’의 무대! ‘Midnight Sun’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/11754705</link>
-            <guid>https://tv.naver.com/v/11754705</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200106_178/dRsvs_1578294720374fAgEq_JPEG/d3aba369-c3d0-41c6-8228-3be8398d944f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW 실력파 보이 밴드 ‘2Z’의 데뷔 무대! ‘My 1st Hero’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/11754671</link>
-            <guid>https://tv.naver.com/v/11754671</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200106_203/1sbn1_1578295006452h1vRe_JPEG/ac8bc206-bac2-428b-86ef-85f80591378b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
