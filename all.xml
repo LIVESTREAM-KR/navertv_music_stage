@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 11:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 12:29:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,11 +16,19 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[예능연구소 4K] 아이브 장원영 최애직캠 ‘LOVE DIVE’ (IVE WONYOUNG Close-up Cam) @Show!MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26167479</link>
+            <guid>https://tv.naver.com/v/26167479</guid>
+            <pubDate>Mon, 11 Apr 2022 12:28:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220411_13/7UYkW_1649677983888agWv2_JPEG/clip_20220411203136_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예능연구소 4K] 아이브 안유진 최애직캠 ‘LOVE DIVE’ (IVE YUJIN Close-up Cam) @Show!MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26166283</link>
             <guid>https://tv.naver.com/v/26166283</guid>
             <pubDate>Mon, 11 Apr 2022 11:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220411_109/pCzPj_1649674381120BLkVL_JPEG/clip_20220411192812_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
             <content:encoded><![CDATA[3:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220409_166/UyboL_1649500323192UxnTa_JPEG/clip_20220409190929_84.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아이브 이서 직캠 ‘LOVE DIVE’ (IVE LEESEO FanCam) @Show! MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26135699</link>
-            <guid>https://tv.naver.com/v/26135699</guid>
-            <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_59/xqxCp_1649500321607oAe3t_JPEG/clip_20220409190812_82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘수호’만의 색으로 물들일 다이내믹 록 사운드! ‘Grey Suit’ (SBS 인기가요 ─ 네이버TV)]]></title>
