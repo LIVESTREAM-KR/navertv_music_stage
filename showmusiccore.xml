@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 05:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 06:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 수호 최애직캠 ‘Grey Suit’ (SUHO Close-up Cam) @Show!MusicCore 220409]]></title>
+            <link>https://tv.naver.com/v/26159391</link>
+            <guid>https://tv.naver.com/v/26159391</guid>
+            <pubDate>Mon, 11 Apr 2022 06:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220411_260/98C6P_1649654584937IVhNg_JPEG/clip_20220411140053_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 오마이걸 지호 직캠 ‘REAL LOVE’ (OH MY GIRL JIHO FanCam) @Show! MusicCore 220409]]></title>
+            <link>https://tv.naver.com/v/26159281</link>
+            <guid>https://tv.naver.com/v/26159281</guid>
+            <pubDate>Mon, 11 Apr 2022 06:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220411_114/uTHc5_1649654221932d6Crs_JPEG/clip_20220411133954_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 오마이걸 승희 직캠 ‘REAL LOVE’ (OH MY GIRL SEUNGHEE FanCam) @Show! MusicCore 220409]]></title>
+            <link>https://tv.naver.com/v/26159280</link>
+            <guid>https://tv.naver.com/v/26159280</guid>
+            <pubDate>Mon, 11 Apr 2022 06:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220411_14/QHDVY_16496542205018xxwX_JPEG/clip_20220411133947_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 오마이걸 아린 직캠 ‘REAL LOVE’ (OH MY GIRL ARIN FanCam) @Show! MusicCore 220409]]></title>
             <link>https://tv.naver.com/v/26159180</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 09 Apr 2022 10:17:13 GMT</pubDate>
             <content:encoded><![CDATA[3:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220409_266/9ifey_1649499423249z4cVI_JPEG/clip_20220409184538_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 수호 세로캠 ‘Grey Suit’ (SUHO FanCam) @Show! MusicCore 220409]]></title>
-            <link>https://tv.naver.com/v/26135498</link>
-            <guid>https://tv.naver.com/v/26135498</guid>
-            <pubDate>Sat, 09 Apr 2022 10:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_295/9CS1P_1649499120163yod3Q_JPEG/clip_20220409184232_71.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 크래비티 직캠 ‘Adrenaline’ (CRAVITY FanCam) @Show!MusicCore 220409]]></title>
-            <link>https://tv.naver.com/v/26135263</link>
-            <guid>https://tv.naver.com/v/26135263</guid>
-            <pubDate>Sat, 09 Apr 2022 10:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_220/q28Z3_16494976258784LuW3_JPEG/clip_20220409182223_68.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 비에이이173 직캠 ‘JAWS’ (BAE173 FanCam) @Show!MusicCore 220409]]></title>
-            <link>https://tv.naver.com/v/26135262</link>
-            <guid>https://tv.naver.com/v/26135262</guid>
-            <pubDate>Sat, 09 Apr 2022 10:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_213/hFNPh_1649497623613qP38f_JPEG/clip_20220409182151_67.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

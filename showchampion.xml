@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 05:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 06:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] (두구두구) 2022 쇼챔고 반장 선거! 과연 당선자는?! (Feat. 베리베리)]]></title>
+            <link>https://tv.naver.com/v/26159765</link>
+            <guid>https://tv.naver.com/v/26159765</guid>
+            <pubDate>Mon, 11 Apr 2022 06:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220411_189/bYqAs_1649655721566txE99_JPEG/CA202204130003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4월 1주차 ♥쇼챔피언♡ MC 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.429]]></title>
             <link>https://tv.naver.com/v/26115832</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Apr 2022 10:20:00 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220406_127/Dyeuu_1649238430014xCf5i_JPEG/CA202204060052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HOT DEBUT] NINE.i - Parallel Universe (나인아이 - 페러렐 유니버스)]]></title>
-            <link>https://tv.naver.com/v/26075168</link>
-            <guid>https://tv.naver.com/v/26075168</guid>
-            <pubDate>Wed, 06 Apr 2022 10:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_298/o87Me_1649238423956E7sj3_JPEG/CA202204060051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
