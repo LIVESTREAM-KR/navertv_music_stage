@@ -4,9 +4,25 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 10:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 11:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔시티 드림 제노 최애직캠 ‘버퍼링 (Glitch Mode)’ (NCT DREAM JENO Close-up Cam) @Show!MusicCore 220409]]></title>
+            <link>https://tv.naver.com/v/26187771</link>
+            <guid>https://tv.naver.com/v/26187771</guid>
+            <pubDate>Tue, 12 Apr 2022 11:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_33/loKCZ_1649758924261lRNGw_JPEG/clip_20220412185950_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔시티 드림 재민 최애직캠 ‘버퍼링 (Glitch Mode)’ (NCT DREAM JAEMIN Close-up Cam) @Show!MusicCore 22040]]></title>
+            <link>https://tv.naver.com/v/26187770</link>
+            <guid>https://tv.naver.com/v/26187770</guid>
+            <pubDate>Tue, 12 Apr 2022 11:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_137/heNF1_1649758922181rDcbq_JPEG/clip_20220412185642_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 아이브 장원영 최애직캠 ‘LOVE DIVE’ (IVE WONYOUNG Close-up Cam) @Show!MusicCore 220409]]></title>
             <link>https://tv.naver.com/v/26167479</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220409_27/xP5TG_1649502720697JKGtY_JPEG/clip_20220409193832_100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아이브 장원영 직캠 ‘LOVE DIVE’ (IVE WONYOUNG FanCam) @Show! MusicCore 220409]]></title>
-            <link>https://tv.naver.com/v/26135779</link>
-            <guid>https://tv.naver.com/v/26135779</guid>
-            <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_275/BsXyS_16495009211212VqCy_JPEG/clip_20220409191807_93.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아이브 안유진 직캠 ‘LOVE DIVE’ (IVE YUJIN FanCam) @Show! MusicCore 220409]]></title>
-            <link>https://tv.naver.com/v/26135746</link>
-            <guid>https://tv.naver.com/v/26135746</guid>
-            <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_201/8ZOdF_1649500681300sULQo_JPEG/clip_20220409190856_83.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
