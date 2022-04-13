@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 11:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 12:29:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔 1위] 4월 둘째주 챔피언송 IVE 앵콜 Full ver.]]></title>
+            <link>https://tv.naver.com/v/26211009</link>
+            <guid>https://tv.naver.com/v/26211009</guid>
+            <pubDate>Wed, 13 Apr 2022 12:28:33 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_228/MJ3Hs_16498492203258snlB_JPEG/CA202204130083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[입덕 LIVE] KIM JAE HWAN - Your Shampoo Scent In The Flowers (김재환 - 흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야(원곡: 장범준)]]></title>
             <link>https://tv.naver.com/v/26210009</link>
@@ -84,7 +92,7 @@
             <link>https://tv.naver.com/v/26209341</link>
             <guid>https://tv.naver.com/v/26209341</guid>
             <pubDate>Wed, 13 Apr 2022 10:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_54/CFzEj_16498432239476J1uL_JPEG/CA202204130064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Apr 2022 13:28:12 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220406_30/BJtQk_1649243520006JWxjk_JPEG/CA202204060071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] CRAVITY WONJIN - Adrenaline (크래비티 원진 - 아드레날린) | Show Champion | EP.429]]></title>
-            <link>https://tv.naver.com/v/26077337</link>
-            <guid>https://tv.naver.com/v/26077337</guid>
-            <pubDate>Wed, 06 Apr 2022 13:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_38/wEXgd_1649243280230wKRRB_JPEG/CA202204060065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
