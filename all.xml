@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 10:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 11:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[입덕 LIVE] KIM JAE HWAN - Your Shampoo Scent In The Flowers (김재환 - 흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야(원곡: 장범준) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26210009</link>
+            <guid>https://tv.naver.com/v/26210009</guid>
+            <pubDate>Wed, 13 Apr 2022 11:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_71/oIJHJ_1649845627729AbrOb_JPEG/CA202204130073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현재 진행형 아티스트 김재환의 음악 이야기♬ (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26210003</link>
+            <guid>https://tv.naver.com/v/26210003</guid>
+            <pubDate>Wed, 13 Apr 2022 11:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_261/sq3cz_1649845622384f4vxG_JPEG/CA202204130072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] IVE - LOVE DIVE (아이브 - 러브 다이브) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26209942</link>
+            <guid>https://tv.naver.com/v/26209942</guid>
+            <pubDate>Wed, 13 Apr 2022 11:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_72/WFOT3_1649845381413EAo9X_JPEG/CA202204130071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[COMEBACK] KWON EUN BI - Glitch (권은비 - 글리치) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26209845</link>
             <guid>https://tv.naver.com/v/26209845</guid>
@@ -1284,7 +1308,7 @@
             <link>https://tv.naver.com/v/26209236</link>
             <guid>https://tv.naver.com/v/26209236</guid>
             <pubDate>Wed, 13 Apr 2022 10:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_198/Sw4Qh_1649842921923s4JuR_JPEG/CA202204130062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1430,30 +1454,6 @@
             <pubDate>Wed, 06 Apr 2022 13:28:12 GMT</pubDate>
             <content:encoded><![CDATA[3:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220406_38/wEXgd_1649243280230wKRRB_JPEG/CA202204060065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] CRAVITY MINHEE - Adrenaline (크래비티 민희 - 아드레날린) | Show Champion | EP.429 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26077310</link>
-            <guid>https://tv.naver.com/v/26077310</guid>
-            <pubDate>Wed, 06 Apr 2022 13:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_267/Dg86h_1649243222473JLrTc_JPEG/CA202204060069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] OH MY GIRL HYOJUNG - DRIP (오마이걸 효정 - 드립) | Show Champion | EP.429 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26077229</link>
-            <guid>https://tv.naver.com/v/26077229</guid>
-            <pubDate>Wed, 06 Apr 2022 13:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_6/e5Zsf_1649242922058C5iIH_JPEG/CA202204060070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] CRAVITY SEONGMIN - Adrenaline (크래비티 성민 - 아드레날린) | Show Champion | EP.429 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26077063</link>
-            <guid>https://tv.naver.com/v/26077063</guid>
-            <pubDate>Wed, 06 Apr 2022 13:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_53/bUdNm_1649242382368zhHKQ_JPEG/CA202204060067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
