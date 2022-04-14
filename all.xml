@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 08:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 09:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》디케이지(DKZ)와 함께한 이번주 심플리 콘투어 캐나다 편💌~!! _515회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26226272</link>
+            <guid>https://tv.naver.com/v/26226272</guid>
+            <pubDate>Thu, 14 Apr 2022 09:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_193/zkgIu_1649926902213eiJ9A_PNG/1649926898514.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[심플리 비하인드: 대휘에게 물어봐🙋‍♀️ (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26159619</link>
             <guid>https://tv.naver.com/v/26159619</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Fri, 08 Apr 2022 06:21:44 GMT</pubDate>
             <content:encoded><![CDATA[3:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_30/AQk0a_1649395992179Y9Vgo_JPEG/1649395448613.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 킹덤 무진 ’승천‘ 직캠 (KINGDOM MUJIN 'ASCENSION’) l Simply K-Pop CON-TOUR Ep.514 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26113737</link>
-            <guid>https://tv.naver.com/v/26113737</guid>
-            <pubDate>Fri, 08 Apr 2022 06:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_261/UBqVh_1649395984877UYHay_JPEG/1649395451746.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임지훈_사랑의 썰물 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
