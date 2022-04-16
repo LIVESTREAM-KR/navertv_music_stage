@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 10:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 11:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[4월 2주차 ♥쇼챔피언♡ MC 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.430 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26248206</link>
+            <guid>https://tv.naver.com/v/26248206</guid>
+            <pubDate>Sat, 16 Apr 2022 11:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[6:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_299/wCK0W_1650008219297OOvTF_JPEG/CA202204130101_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔 1위] 4월 둘째주 챔피언송 IVE 앵콜 Full ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26211009</link>
             <guid>https://tv.naver.com/v/26211009</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 13 Apr 2022 13:27:45 GMT</pubDate>
             <content:encoded><![CDATA[3:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_25/jLUns_1649838722782ORbSc_JPEG/CA202204130051_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] IVE GAEUL - LOVE DIVE (아이브 가을 - 러브 다이브) | Show Champion | EP.430 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26207254</link>
-            <guid>https://tv.naver.com/v/26207254</guid>
-            <pubDate>Wed, 13 Apr 2022 13:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_80/Y0Ob4_1649837824206UfMeT_JPEG/CA202204130046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
