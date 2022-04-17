@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 01:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 02:56:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[심플리 비하인드: 대휘와 함께 배워봐👏(with 메이져스) (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26275813</link>
+            <guid>https://tv.naver.com/v/26275813</guid>
+            <pubDate>Sun, 17 Apr 2022 02:56:03 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220417_261/K0NAy_1650162660508a2mG4_PNG/1650162574286.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[입덕 유발하는 🎀청량🎀 매력 DKZ (디케이지)의 ‘사랑도둑’ _ Ep.515 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26243964</link>
             <guid>https://tv.naver.com/v/26243964</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Fri, 15 Apr 2022 05:22:27 GMT</pubDate>
             <content:encoded><![CDATA[3:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220414_127/tecvM_1649916051698hUMph_JPEG/1649915995372.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 디케이지 경윤 ’사랑도둑‘ 가로직캠 (DKZ KYOUNG YOON 'Cupid’)ㅣSimply K -Pop Ep.515 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26223636</link>
-            <guid>https://tv.naver.com/v/26223636</guid>
-            <pubDate>Fri, 15 Apr 2022 05:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_298/ucva2_1649916042966onTBt_JPEG/1649916038313.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맥켈리_저녁에 만나 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
