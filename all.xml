@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 06:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 07:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220409_27/xP5TG_1649502720697JKGtY_JPEG/clip_20220409193832_100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘로즈아나’, 파워풀한 보이스의 신예 보컬리스트! ‘꽃샘추위’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26278757</link>
+            <guid>https://tv.naver.com/v/26278757</guid>
+            <pubDate>Sun, 17 Apr 2022 07:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220417_188/xi3BH_1650179281661xAWXG_JPEG/a7779e7e-e7cb-4373-a4f6-1f3926fa96f8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러블리 요정돌 ‘아일리원’의 ‘사랑아 피어라’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26278652</link>
+            <guid>https://tv.naver.com/v/26278652</guid>
+            <pubDate>Sun, 17 Apr 2022 07:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220417_161/SABW9_1650178925656hRnUr_JPEG/1c9e9425-8321-4464-abc0-7aeff996db96.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘수호’만의 색으로 물들일 다이내믹 록 사운드! ‘Grey Suit’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26145232</link>
             <guid>https://tv.naver.com/v/26145232</guid>
@@ -478,22 +494,6 @@
             <pubDate>Sun, 03 Apr 2022 08:19:59 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220403_27/JlhEt_164897112339133LG4_JPEG/c31eb62f-3f9e-44be-8c8a-ceeb40338436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘위클리’의 헤어 나올 수 없는 중독적인 무대! ‘Ven para’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26009287</link>
-            <guid>https://tv.naver.com/v/26009287</guid>
-            <pubDate>Sun, 03 Apr 2022 08:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_176/mMnO2_1648970823155fe10R_JPEG/1335fdc2-fe1d-4eb1-8975-7d15af5ce4ef.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘임상현’의 부드러운 커피 한 잔 같은 무대! ‘달콤하게, 따뜻하게, 부드럽게’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26009285</link>
-            <guid>https://tv.naver.com/v/26009285</guid>
-            <pubDate>Sun, 03 Apr 2022 08:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_41/nRPJ4_1648970820734zWCT1_JPEG/184a8b53-b754-4f80-b551-cc4ae548db28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
