@@ -4,9 +4,65 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 10:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 11:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[COMEBACK] Dreamcatcher - MAISON (드림캐쳐 - 메종)]]></title>
+            <link>https://tv.naver.com/v/26346903</link>
+            <guid>https://tv.naver.com/v/26346903</guid>
+            <pubDate>Wed, 20 Apr 2022 11:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_155/jVIrS_1650450727195WdO1B_JPEG/CA202204200077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IVE - LOVE DIVE (아이브 - 러브 다이브)]]></title>
+            <link>https://tv.naver.com/v/26346805</link>
+            <guid>https://tv.naver.com/v/26346805</guid>
+            <pubDate>Wed, 20 Apr 2022 11:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_207/DnXwU_1650450421115hdVcn_JPEG/CA202204200076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HONG EUI JIN - I Knew I Love(2022) (홍의진 - 사랑하게 될 줄 알았어(2022))]]></title>
+            <link>https://tv.naver.com/v/26346724</link>
+            <guid>https://tv.naver.com/v/26346724</guid>
+            <pubDate>Wed, 20 Apr 2022 11:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_15/3O4Pp_1650450189649zf8uN_JPEG/CA202204200071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KWON EUN BI - Glitch (권은비 - 글리치)]]></title>
+            <link>https://tv.naver.com/v/26346723</link>
+            <guid>https://tv.naver.com/v/26346723</guid>
+            <pubDate>Wed, 20 Apr 2022 11:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_114/A1x7m_1650450187602Ktqmo_JPEG/CA202204200075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DKZ - Cupid (디케이지 - 사랑도둑)]]></title>
+            <link>https://tv.naver.com/v/26346717</link>
+            <guid>https://tv.naver.com/v/26346717</guid>
+            <pubDate>Wed, 20 Apr 2022 11:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_290/bF4pE_1650450183517grmLI_JPEG/CA202204200072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAVITY - Adrenaline (크래비티 - 아드레날린)]]></title>
+            <link>https://tv.naver.com/v/26346692</link>
+            <guid>https://tv.naver.com/v/26346692</guid>
+            <pubDate>Wed, 20 Apr 2022 11:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_101/Zq3tM_1650450122027nhMgS_JPEG/CA202204200074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAVITY - Maybe Baby (크래비티 - 좋아하나봐)]]></title>
+            <link>https://tv.naver.com/v/26346691</link>
+            <guid>https://tv.naver.com/v/26346691</guid>
+            <pubDate>Wed, 20 Apr 2022 11:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_65/pOUl2_1650450119919UjKu7_JPEG/CA202204200073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GHOST9 - X-Ray (고스트나인 - 엑스-레이)]]></title>
             <link>https://tv.naver.com/v/26346564</link>
@@ -190,62 +246,6 @@
             <pubDate>Wed, 13 Apr 2022 10:19:06 GMT</pubDate>
             <content:encoded><![CDATA[3:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_153/YHnXb_1649843830603TzEla_JPEG/CA202204130066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] GHOST9 - X-Ray (고스트나인 - 엑스-레이)]]></title>
-            <link>https://tv.naver.com/v/26209423</link>
-            <guid>https://tv.naver.com/v/26209423</guid>
-            <pubDate>Wed, 13 Apr 2022 10:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_177/8ntam_1649843525853faQOY_JPEG/CA202204130065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[D-CRUNCH - Addiction (디크런치 - 중독)]]></title>
-            <link>https://tv.naver.com/v/26209341</link>
-            <guid>https://tv.naver.com/v/26209341</guid>
-            <pubDate>Wed, 13 Apr 2022 10:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_54/CFzEj_16498432239476J1uL_JPEG/CA202204130064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PURPLE KISS - memeM (퍼플키스 - 맴맴)]]></title>
-            <link>https://tv.naver.com/v/26209338</link>
-            <guid>https://tv.naver.com/v/26209338</guid>
-            <pubDate>Wed, 13 Apr 2022 10:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_106/D7Zt8_1649843221626gpqLo_JPEG/CA202204130063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KINGDOM - Ascension (킹덤 - 승천)]]></title>
-            <link>https://tv.naver.com/v/26209236</link>
-            <guid>https://tv.naver.com/v/26209236</guid>
-            <pubDate>Wed, 13 Apr 2022 10:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_198/Sw4Qh_1649842921923s4JuR_JPEG/CA202204130062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ILY:1 - Love In Bloom (아일리원 - 사랑아 피어라)]]></title>
-            <link>https://tv.naver.com/v/26209235</link>
-            <guid>https://tv.naver.com/v/26209235</guid>
-            <pubDate>Wed, 13 Apr 2022 10:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_224/LKuhN_1649842919685OQLJi_JPEG/CA202204130060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[줍줍 TIME] 다이브를 숨 멎게 할 IVE의 애교 세트♥]]></title>
-            <link>https://tv.naver.com/v/26209156</link>
-            <guid>https://tv.naver.com/v/26209156</guid>
-            <pubDate>Wed, 13 Apr 2022 10:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_52/ny5yK_1649842679507rGvwn_JPEG/CA202204130061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NINE.i - Parallel Universe (나인아이 - 패럴렐 유니버스)]]></title>
-            <link>https://tv.naver.com/v/26209143</link>
-            <guid>https://tv.naver.com/v/26209143</guid>
-            <pubDate>Wed, 13 Apr 2022 10:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_260/Iuwhd_1649842625415vPRDX_JPEG/CA202204130059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
