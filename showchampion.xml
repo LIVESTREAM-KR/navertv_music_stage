@@ -4,9 +4,25 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 11:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 12:33:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PURPLE KISS - memeM (퍼플키스 - 맴맴)]]></title>
+            <link>https://tv.naver.com/v/26347754</link>
+            <guid>https://tv.naver.com/v/26347754</guid>
+            <pubDate>Wed, 20 Apr 2022 12:33:03 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_63/HIIhC_1650453721885VNoHb_JPEG/CA202204200098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔 1위] 4월 셋째 주 챔피언송 드림캐쳐 앵콜 Full ver.]]></title>
+            <link>https://tv.naver.com/v/26347662</link>
+            <guid>https://tv.naver.com/v/26347662</guid>
+            <pubDate>Wed, 20 Apr 2022 12:33:03 GMT</pubDate>
+            <content:encoded><![CDATA[5:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_218/kEoQV_1650453426174kYONX_JPEG/CA202204200094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[COMEBACK] Dreamcatcher - MAISON (드림캐쳐 - 메종)]]></title>
             <link>https://tv.naver.com/v/26346903</link>
@@ -140,7 +156,7 @@
             <link>https://tv.naver.com/v/26345844</link>
             <guid>https://tv.naver.com/v/26345844</guid>
             <pubDate>Wed, 20 Apr 2022 10:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_244/Guoi2_16504474318862lkJi_JPEG/CA202204200056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 13 Apr 2022 10:19:06 GMT</pubDate>
             <content:encoded><![CDATA[3:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_115/spma9_164984472718625rOT_JPEG/CA202204130068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] DKZ - Cupid (디케이지 - 사랑도둑)]]></title>
-            <link>https://tv.naver.com/v/26209656</link>
-            <guid>https://tv.naver.com/v/26209656</guid>
-            <pubDate>Wed, 13 Apr 2022 10:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_260/QUPCt_1649844419005WFmc8_JPEG/CA202204130067_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['거울 공주님'으로 변신할 IVE 엔딩요정은 누구?]]></title>
-            <link>https://tv.naver.com/v/26209499</link>
-            <guid>https://tv.naver.com/v/26209499</guid>
-            <pubDate>Wed, 13 Apr 2022 10:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_153/YHnXb_1649843830603TzEla_JPEG/CA202204130066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
