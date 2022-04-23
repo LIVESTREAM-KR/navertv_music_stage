@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 07:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 08:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 드림캐쳐 직캠 ‘MAISON’ (DREAMCATCHER FanCam) @Show!MusicCore 220423 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26401639</link>
+            <guid>https://tv.naver.com/v/26401639</guid>
+            <pubDate>Sat, 23 Apr 2022 08:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_150/etSNE_1650701826829Iqbw5_JPEG/clip_20220423170040_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 온유 직캠 ‘DICE’ (ONEW FanCam) @Show!MusicCore 220423 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26401635</link>
+            <guid>https://tv.naver.com/v/26401635</guid>
+            <pubDate>Sat, 23 Apr 2022 08:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_264/wfoaG_1650701822470py0Vt_JPEG/clip_20220423165152_67.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 엔시티 드림 제노 최애직캠 ‘버퍼링 (Glitch Mode)’ (NCT DREAM JENO Close-up Cam) @Show!MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220409_203/ij9wi_1649502723588ihJTw_JPEG/clip_20220409193908_102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 스트레이 키즈 현진 직캠 ‘MANIAC’ (Stray Kids HYUNJIN FanCam) @Show! MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26136058</link>
-            <guid>https://tv.naver.com/v/26136058</guid>
-            <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_9/ILzAZ_1649502722138NUIaD_JPEG/clip_20220409193841_101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 스트레이 키즈 방찬 직캠 ‘MANIAC’ (Stray Kids BANG CHAN FanCam) @Show! MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26136057</link>
-            <guid>https://tv.naver.com/v/26136057</guid>
-            <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_27/xP5TG_1649502720697JKGtY_JPEG/clip_20220409193832_100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘온유’에게 내던진 All my heart♬ ‘DICE’ (SBS 인기가요 ─ 네이버TV)]]></title>
