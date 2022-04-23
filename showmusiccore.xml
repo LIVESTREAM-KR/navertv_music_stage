@@ -4,9 +4,57 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 08:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 09:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 아이브 직캠 ‘LOVE DIVE’ (IVE FanCam) @Show!MusicCore 220423]]></title>
+            <link>https://tv.naver.com/v/26402202</link>
+            <guid>https://tv.naver.com/v/26402202</guid>
+            <pubDate>Sat, 23 Apr 2022 09:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_272/8K0R4_1650704882516Nz3o3_JPEG/clip_20220423174630_81.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 퍼플키스 직캠 ‘Pretty Psycho’ (PURPLE KISS FanCam) @Show!MusicCore 220423]]></title>
+            <link>https://tv.naver.com/v/26401806</link>
+            <guid>https://tv.naver.com/v/26401806</guid>
+            <pubDate>Sat, 23 Apr 2022 09:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_107/37CMx_1650702721407defBM_JPEG/clip_20220423170932_78.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 송가인 직캠 ‘비 내리는 금강산’ (SONG GA-IN FanCam) @Show!MusicCore 220423]]></title>
+            <link>https://tv.naver.com/v/26401805</link>
+            <guid>https://tv.naver.com/v/26401805</guid>
+            <pubDate>Sat, 23 Apr 2022 09:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_240/hi2OD_1650702719712d9KVi_JPEG/clip_20220423170234_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] EPEX 직캠 ‘학원歌’ (EPEX FanCam) @Show!MusicCore 220423]]></title>
+            <link>https://tv.naver.com/v/26401748</link>
+            <guid>https://tv.naver.com/v/26401748</guid>
+            <pubDate>Sat, 23 Apr 2022 09:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_48/t9elX_16507024233182jGhj_JPEG/clip_20220423170401_75.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 유나이트 직캠 ‘1 of 9’ (YOUNITE FanCam) @Show!MusicCore 220423]]></title>
+            <link>https://tv.naver.com/v/26401747</link>
+            <guid>https://tv.naver.com/v/26401747</guid>
+            <pubDate>Sat, 23 Apr 2022 09:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_254/PPyWp_1650702420634koSyP_JPEG/clip_20220423170307_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 저스트비 직캠 ‘RE=LOAD’ (JUST B FanCam) @Show!MusicCore 220423]]></title>
+            <link>https://tv.naver.com/v/26401701</link>
+            <guid>https://tv.naver.com/v/26401701</guid>
+            <pubDate>Sat, 23 Apr 2022 09:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_227/mRZBT_1650702180179qyhP4_JPEG/clip_20220423170501_76.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 드림캐쳐 직캠 ‘MAISON’ (DREAMCATCHER FanCam) @Show!MusicCore 220423]]></title>
             <link>https://tv.naver.com/v/26401639</link>
@@ -198,54 +246,6 @@
             <pubDate>Sat, 09 Apr 2022 12:25:33 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220409_220/sG2WZ_1649504221716P8Snz_JPEG/clip_20220409200613_108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 스트레이 키즈 아이엔 직캠 ‘MANIAC’ (Stray Kids I.N FanCam) @Show! MusicCore 220409]]></title>
-            <link>https://tv.naver.com/v/26136233</link>
-            <guid>https://tv.naver.com/v/26136233</guid>
-            <pubDate>Sat, 09 Apr 2022 12:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_52/sW1A4_1649503621006IxwWH_JPEG/clip_20220409194550_107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 스트레이 키즈 한 직캠 ‘MANIAC’ (Stray Kids HAN FanCam) @Show! MusicCore 220409]]></title>
-            <link>https://tv.naver.com/v/26136143</link>
-            <guid>https://tv.naver.com/v/26136143</guid>
-            <pubDate>Sat, 09 Apr 2022 12:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_290/zoHm4_1649503032297a4bs4_JPEG/clip_20220409194327_106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 스트레이 키즈 승민 직캠 ‘MANIAC’ (Stray Kids SEUNGMIN FanCam) @Show! MusicCore 220409]]></title>
-            <link>https://tv.naver.com/v/26136142</link>
-            <guid>https://tv.naver.com/v/26136142</guid>
-            <pubDate>Sat, 09 Apr 2022 12:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_147/2b5Eu_1649503030894JWOmX_JPEG/clip_20220409194319_105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 스트레이 키즈 필릭스 직캠 ‘MANIAC’ (Stray Kids FELIX FanCam) @Show! MusicCore 220409]]></title>
-            <link>https://tv.naver.com/v/26136140</link>
-            <guid>https://tv.naver.com/v/26136140</guid>
-            <pubDate>Sat, 09 Apr 2022 12:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_35/dsVqK_1649503027241d2HGH_JPEG/clip_20220409194233_104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 스트레이 키즈 리노 직캠 ‘MANIAC’ (Stray Kids LEE KNOW FanCam) @Show! MusicCore 220409]]></title>
-            <link>https://tv.naver.com/v/26136137</link>
-            <guid>https://tv.naver.com/v/26136137</guid>
-            <pubDate>Sat, 09 Apr 2022 12:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_205/b4zaF_1649503022899UuLIO_JPEG/clip_20220409194229_103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 스트레이 키즈 창빈 직캠 ‘MANIAC’ (Stray Kids CHANGBIN FanCam) @Show! MusicCore 220409]]></title>
-            <link>https://tv.naver.com/v/26136060</link>
-            <guid>https://tv.naver.com/v/26136060</guid>
-            <pubDate>Sat, 09 Apr 2022 11:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_203/ij9wi_1649502723588ihJTw_JPEG/clip_20220409193908_102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
