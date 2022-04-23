@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 10:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 11:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월 3주차 ♥쇼챔피언♡ MC 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.431]]></title>
+            <link>https://tv.naver.com/v/26382773</link>
+            <guid>https://tv.naver.com/v/26382773</guid>
+            <pubDate>Sat, 23 Apr 2022 11:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[7:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220422_151/DDBXu_16506073224856vdkj_JPEG/CA202204200119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠] DKZ - Cupid (디케이지 - 사랑도둑) l Show Champion l EP.431]]></title>
             <link>https://tv.naver.com/v/26348190</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Apr 2022 10:19:07 GMT</pubDate>
             <content:encoded><![CDATA[2:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_148/e3GKj_1650448384093BAcz7_JPEG/CA202204200062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NINE.i - Parallel Universe (나인아이 - 패럴렐 유니버스)]]></title>
-            <link>https://tv.naver.com/v/26346090</link>
-            <guid>https://tv.naver.com/v/26346090</guid>
-            <pubDate>Wed, 20 Apr 2022 10:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_202/KjAeb_1650448321719Ao2if_JPEG/CA202204200060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
