@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 06:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 07:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220411_13/7UYkW_1649677983888agWv2_JPEG/clip_20220411203136_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘나인아이’, 또 다른 나를 만나는 시간! ‘Parallel Universe’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26412834</link>
+            <guid>https://tv.naver.com/v/26412834</guid>
+            <pubDate>Sun, 24 Apr 2022 07:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220424_72/sVyPP_1650784081689cqNom_JPEG/ac6a7929-058f-4029-ae5d-b9dcb51df448.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘아일리원’의 희망찬 에너지 가득 담긴 ‘사랑아 피어라’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26412815</link>
+            <guid>https://tv.naver.com/v/26412815</guid>
+            <pubDate>Sun, 24 Apr 2022 07:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220424_2/W15RY_1650784022375zK4wn_JPEG/6f4c9b61-f6a9-43ac-bd81-785d5d4338ae.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘온유’에게 내던진 All my heart♬ ‘DICE’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26279540</link>
             <guid>https://tv.naver.com/v/26279540</guid>
@@ -478,22 +494,6 @@
             <pubDate>Sun, 10 Apr 2022 08:18:51 GMT</pubDate>
             <content:encoded><![CDATA[2:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220410_229/AxnPW_1649578026422abaVt_JPEG/4ee4560a-9441-408d-bf80-b7e0f1ba7733.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘BAE173’, 야성미 넘치는 파워풀 카리스마! ‘JAWS’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26144691</link>
-            <guid>https://tv.naver.com/v/26144691</guid>
-            <pubDate>Sun, 10 Apr 2022 08:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220410_163/XSciE_1649575381870EefsG_JPEG/83ed290a-332c-414e-90ad-574b45d4be13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빠져드는 ‘퍼플키스’만의 보랏빛 중독성! ‘memeM’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26144601</link>
-            <guid>https://tv.naver.com/v/26144601</guid>
-            <pubDate>Sun, 10 Apr 2022 08:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220410_288/3JXuH_1649575019553OfWkX_JPEG/1ee9fa27-dc49-40d0-8fe7-d329b3496f5c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
