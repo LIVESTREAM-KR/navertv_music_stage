@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 08:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 09:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 권은비 세로캠 ‘Glitch’ (KWON EUN BI FanCam) @Show! MusicCore 220423]]></title>
+            <link>https://tv.naver.com/v/26433233</link>
+            <guid>https://tv.naver.com/v/26433233</guid>
+            <pubDate>Mon, 25 Apr 2022 09:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220425_188/eDewq_1650877324744JHtRd_JPEG/clip_20220425173919_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 온유 최애직캠 ‘여우비’ (ONEW Close-up Cam) @Show!MusicCore 220423]]></title>
+            <link>https://tv.naver.com/v/26432915</link>
+            <guid>https://tv.naver.com/v/26432915</guid>
+            <pubDate>Mon, 25 Apr 2022 09:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220425_75/Sg4cD_1650876722974kLDdH_JPEG/clip_20220425172613_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 온유 세로캠 ‘여우비’ (ONEW FanCam) @Show! MusicCore 220423]]></title>
+            <link>https://tv.naver.com/v/26432914</link>
+            <guid>https://tv.naver.com/v/26432914</guid>
+            <pubDate>Mon, 25 Apr 2022 09:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220425_41/rwlKc_1650876721710EuUFa_JPEG/clip_20220425172607_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 아이브 이서 직캠 ‘LOVE DIVE’ (IVE LEESEO FanCam) @Show! MusicCore 220423]]></title>
             <link>https://tv.naver.com/v/26403994</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 23 Apr 2022 08:19:29 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220423_264/wfoaG_1650701822470py0Vt_JPEG/clip_20220423165152_67.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔시티 드림 제노 최애직캠 ‘버퍼링 (Glitch Mode)’ (NCT DREAM JENO Close-up Cam) @Show!MusicCore 220409]]></title>
-            <link>https://tv.naver.com/v/26187771</link>
-            <guid>https://tv.naver.com/v/26187771</guid>
-            <pubDate>Tue, 12 Apr 2022 11:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_33/loKCZ_1649758924261lRNGw_JPEG/clip_20220412185950_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔시티 드림 재민 최애직캠 ‘버퍼링 (Glitch Mode)’ (NCT DREAM JAEMIN Close-up Cam) @Show!MusicCore 22040]]></title>
-            <link>https://tv.naver.com/v/26187770</link>
-            <guid>https://tv.naver.com/v/26187770</guid>
-            <pubDate>Tue, 12 Apr 2022 11:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_137/heNF1_1649758922181rDcbq_JPEG/clip_20220412185642_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아이브 장원영 최애직캠 ‘LOVE DIVE’ (IVE WONYOUNG Close-up Cam) @Show!MusicCore 220409]]></title>
-            <link>https://tv.naver.com/v/26167479</link>
-            <guid>https://tv.naver.com/v/26167479</guid>
-            <pubDate>Mon, 11 Apr 2022 12:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220411_13/7UYkW_1649677983888agWv2_JPEG/clip_20220411203136_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
