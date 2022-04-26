@@ -4,9 +4,25 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 06:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 07:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 아이브 안유진 최애직캠 ‘LOVE DIVE’ (IVE YUJIN Close-up Cam) @Show!MusicCore 220423]]></title>
+            <link>https://tv.naver.com/v/26449906</link>
+            <guid>https://tv.naver.com/v/26449906</guid>
+            <pubDate>Tue, 26 Apr 2022 07:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220426_176/fgX5y_1650954180580wMwNN_JPEG/clip_20220426150005_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 아이브 장원영 최애직캠 ‘LOVE DIVE’ (IVE WONYOUNG Close-up Cam) @Show!MusicCore 220423]]></title>
+            <link>https://tv.naver.com/v/26449884</link>
+            <guid>https://tv.naver.com/v/26449884</guid>
+            <pubDate>Tue, 26 Apr 2022 07:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220426_273/ZTvgm_1650954119867jvRmk_JPEG/clip_20220426145612_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 권은비 세로캠 ‘Glitch’ (KWON EUN BI FanCam) @Show! MusicCore 220423]]></title>
             <link>https://tv.naver.com/v/26433233</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 23 Apr 2022 09:15:51 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220423_227/mRZBT_1650702180179qyhP4_JPEG/clip_20220423170501_76.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 드림캐쳐 직캠 ‘MAISON’ (DREAMCATCHER FanCam) @Show!MusicCore 220423]]></title>
-            <link>https://tv.naver.com/v/26401639</link>
-            <guid>https://tv.naver.com/v/26401639</guid>
-            <pubDate>Sat, 23 Apr 2022 08:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_150/etSNE_1650701826829Iqbw5_JPEG/clip_20220423170040_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 온유 직캠 ‘DICE’ (ONEW FanCam) @Show!MusicCore 220423]]></title>
-            <link>https://tv.naver.com/v/26401635</link>
-            <guid>https://tv.naver.com/v/26401635</guid>
-            <pubDate>Sat, 23 Apr 2022 08:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_264/wfoaG_1650701822470py0Vt_JPEG/clip_20220423165152_67.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
