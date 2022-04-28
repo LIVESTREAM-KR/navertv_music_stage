@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 08:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 09:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》권은비(KWON EUN BI)가 추천하는 심플리 콘투어 칠레편~플레이리스트는?? _ 517회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26494268</link>
+            <guid>https://tv.naver.com/v/26494268</guid>
+            <pubDate>Thu, 28 Apr 2022 09:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_286/uXfXR_1651135766602ETRaL_PNG/1651135760594.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[PLYCAM 4K] 디케이지 재찬 ‘사랑도둑’ 가로직캠 (DKZ JAECHAN 'Cupid‘)ㅣSimply K -Pop Ep.516 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26382535</link>
             <guid>https://tv.naver.com/v/26382535</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Fri, 22 Apr 2022 05:37:20 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220421_22/eQXeP_1650528830301EncQr_JPEG/1650528827180.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 드림캐쳐 다미 ‘MAISON’ 직캠 (DREAMCATCHER DAMI 'MAISON')ㅣSimply K -Pop Ep.516 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26364782</link>
-            <guid>https://tv.naver.com/v/26364782</guid>
-            <pubDate>Fri, 22 Apr 2022 05:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_259/sWshf_16505288197718IuIY_JPEG/1650528815579.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몽니_그대와 함께 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
