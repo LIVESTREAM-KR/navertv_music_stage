@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 06:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 07:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -736,6 +736,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220321_117/SCS9P_1647835919630cjN2F_JPEG/3bc8d73d-e5b1-450f-851a-de4a953c031c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[💘🐯🐰🐹🐱🐻🦊💘 'DKZ'의 '사랑도둑 (Cupid)' 무대 | Mnet 220428 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26503413</link>
+            <guid>https://tv.naver.com/v/26503413</guid>
+            <pubDate>Fri, 29 Apr 2022 07:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_148/AkNl5_1651150029780SO2Nb_JPEG/e8bbe2cd-607c-4615-bb25-b173d9ec48b1_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['1위' 한계 없는 성장 '(여자)아이들'의 'TOMBOY' 무대 | Mnet 220331 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25963598</link>
             <guid>https://tv.naver.com/v/25963598</guid>
@@ -966,14 +974,6 @@
             <pubDate>Tue, 08 Mar 2022 11:05:50 GMT</pubDate>
             <content:encoded><![CDATA[3:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210225_130/B0z7O_1614184080667sluYi_JPEG/B120041702_EPI0682_06_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['엠카 댄스 챌린지' 현아 - Bubble Pop! | Mnet 200917 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/15831849</link>
-            <guid>https://tv.naver.com/v/15831849</guid>
-            <pubDate>Thu, 07 Apr 2022 14:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210225_78/bgMlm_1614184082338J3nq1_JPEG/B120041702_EPI0682_07_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Hot Debut] 케이팝의 신! 장르는 '기팝', 기현 (몬스타엑스) 'VOYAGER' (SBS MTV 더쇼 ─ 네이버TV)]]></title>
