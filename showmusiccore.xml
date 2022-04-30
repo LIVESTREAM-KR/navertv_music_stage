@@ -4,9 +4,41 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 08:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 09:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 윤지성 세로캠 ‘BLOOM’ (Yoon Jisung FanCam) @Show! MusicCore 220430]]></title>
+            <link>https://tv.naver.com/v/26535983</link>
+            <guid>https://tv.naver.com/v/26535983</guid>
+            <pubDate>Sat, 30 Apr 2022 09:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_218/sxksQ_1651309324972SaR5l_JPEG/clip_20220430173757_59.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 윤지성 직캠 ‘BLOOM’ (Yoon Jisung FanCam) @Show!MusicCore 220430]]></title>
+            <link>https://tv.naver.com/v/26535981</link>
+            <guid>https://tv.naver.com/v/26535981</guid>
+            <pubDate>Sat, 30 Apr 2022 09:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_240/MMBy9_1651309322588E5wQ6_JPEG/clip_20220430173726_58.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 문별 세로캠 ‘C.I.T.T (Cheese in the Trap)’ (MOONBYUL FanCam) @Show! MusicCore 220430]]></title>
+            <link>https://tv.naver.com/v/26535584</link>
+            <guid>https://tv.naver.com/v/26535584</guid>
+            <pubDate>Sat, 30 Apr 2022 09:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_261/ipVjI_1651307520142ESPM2_JPEG/clip_20220430170603_57.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 문별 직캠 ‘C.I.T.T (Cheese in the Trap)’ (MOONBYUL FanCam) @Show!MusicCore 220430]]></title>
+            <link>https://tv.naver.com/v/26535487</link>
+            <guid>https://tv.naver.com/v/26535487</guid>
+            <pubDate>Sat, 30 Apr 2022 09:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_106/7nk5l_1651306982669f0k3q_JPEG/clip_20220430170556_56.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 베리베리 직캠 ‘Undercover’ (VERIVERY FanCam) @Show!MusicCore 220430]]></title>
             <link>https://tv.naver.com/v/26535180</link>
@@ -214,38 +246,6 @@
             <pubDate>Sat, 23 Apr 2022 11:15:29 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220423_38/fILC7_1650710820378X4JPF_JPEG/clip_20220423192545_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 드림캐쳐 가현 직캠 ‘MAISON’ (DREAMCATCHER GAHYEON FanCam) @Show! MusicCore 220423]]></title>
-            <link>https://tv.naver.com/v/26402886</link>
-            <guid>https://tv.naver.com/v/26402886</guid>
-            <pubDate>Sat, 23 Apr 2022 10:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_275/UCVwo_1650708126501814o3_JPEG/clip_20220423184202_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 송가인 세로캠 ‘비 내리는 금강산’ (SONG GA-IN FanCam) @Show! MusicCore 220423]]></title>
-            <link>https://tv.naver.com/v/26402667</link>
-            <guid>https://tv.naver.com/v/26402667</guid>
-            <pubDate>Sat, 23 Apr 2022 10:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_297/7lyXv_1650706920601WElKt_JPEG/clip_20220423181738_83.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 온유 세로캠 ‘DICE’ (ONEW FanCam) @Show! MusicCore 220423]]></title>
-            <link>https://tv.naver.com/v/26402564</link>
-            <guid>https://tv.naver.com/v/26402564</guid>
-            <pubDate>Sat, 23 Apr 2022 10:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_243/HpbSS_1650706319365ABGFp_JPEG/clip_20220423180629_82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아이브 직캠 ‘LOVE DIVE’ (IVE FanCam) @Show!MusicCore 220423]]></title>
-            <link>https://tv.naver.com/v/26402202</link>
-            <guid>https://tv.naver.com/v/26402202</guid>
-            <pubDate>Sat, 23 Apr 2022 09:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_272/8K0R4_1650704882516Nz3o3_JPEG/clip_20220423174630_81.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
