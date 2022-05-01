@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 06:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 07:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,38 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220426_273/ZTvgm_1650954119867jvRmk_JPEG/clip_20220426145612_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘저스트비’, 태풍이 지나간 듯한 강렬한 무대! ‘RE=LOAD’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26544573</link>
+            <guid>https://tv.naver.com/v/26544573</guid>
+            <pubDate>Sun, 01 May 2022 07:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_247/xI7bf_1651389419873lIjI0_JPEG/4f688bc6-9ba5-449a-b57e-ae7a68a1ec70.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘유나이트’의  미소 짓게 만드는 청량 무대 ‘1 of 9’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26544533</link>
+            <guid>https://tv.naver.com/v/26544533</guid>
+            <pubDate>Sun, 01 May 2022 07:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_111/8quSd_1651389119797eO0w0_JPEG/1f77043d-6e58-4524-89cd-a9563ec0bec5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만찢남 비주얼 ‘이펙스’의 카리스마 넘치는 무대! ‘학원歌’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26544495</link>
+            <guid>https://tv.naver.com/v/26544495</guid>
+            <pubDate>Sun, 01 May 2022 07:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_119/Ffrt5_1651388880039URn6C_JPEG/5cef7f70-b795-4a40-938f-34d6045d9a4b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘아이칠린’이 초대하는 사랑의 게임♬ ‘꼭꼭 숨어라’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26544481</link>
+            <guid>https://tv.naver.com/v/26544481</guid>
+            <pubDate>Sun, 01 May 2022 07:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_291/geALC_16513888212389ftD1_JPEG/38bb0cfe-b31b-44c6-92ed-9c80e4ea6c04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘아이브’의 망설일 시간조차 없는 매력♡ ‘LOVE DIVE’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26413528</link>
             <guid>https://tv.naver.com/v/26413528</guid>
@@ -462,38 +494,6 @@
             <pubDate>Sun, 17 Apr 2022 08:19:37 GMT</pubDate>
             <content:encoded><![CDATA[3:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220417_123/sWmmb_165018101973001if7_JPEG/6c2bf430-ba9e-4a6a-8122-7764d9f69d65.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘홍의진’의 청아한 목소리로 재탄생한 명곡! ‘사랑하게 될 줄 알았어 (2022)’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26279058</link>
-            <guid>https://tv.naver.com/v/26279058</guid>
-            <pubDate>Sun, 17 Apr 2022 08:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220417_161/BtXrF_1650180721076mlsVX_JPEG/55bc96b2-c5b2-4ef0-a97d-672aa95a8c49.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘저스트비’, 탄탄한 기승전결의 빈틈없는 칼군무 ‘RE=LOAD’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26279000</link>
-            <guid>https://tv.naver.com/v/26279000</guid>
-            <pubDate>Sun, 17 Apr 2022 08:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220417_232/mj3Ho_1650180420418fLDVI_JPEG/fd985992-c867-4dbb-a639-512d635d2180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘킹덤’의 구슬프면서도 폭발적인 가창력! ‘승천’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26278954</link>
-            <guid>https://tv.naver.com/v/26278954</guid>
-            <pubDate>Sun, 17 Apr 2022 08:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220417_62/QAoBc_1650180187558aV2s6_JPEG/90c88485-9579-4f7c-99ea-b308fbd920ad.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머릿속을 맴도는 ‘퍼플키스’의 무한 매력! ‘memeM’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26278937</link>
-            <guid>https://tv.naver.com/v/26278937</guid>
-            <pubDate>Sun, 17 Apr 2022 08:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220417_174/usV3J_1650180122576c3B1G_JPEG/3500b4b3-224d-4dcf-8e1f-9ef5662ef25d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
