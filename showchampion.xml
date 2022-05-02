@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 04:52:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 05:30:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 수요일 저녁 6시!! 쇼챔피언으로 Drive 가자~]]></title>
+            <link>https://tv.naver.com/v/26557262</link>
+            <guid>https://tv.naver.com/v/26557262</guid>
+            <pubDate>Mon, 02 May 2022 05:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_294/1AuRZ_1651468029452FlQn8_JPEG/CA202205040003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4월 3주차 ♥쇼챔피언♡ MC 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.431]]></title>
             <link>https://tv.naver.com/v/26382773</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Apr 2022 10:19:07 GMT</pubDate>
             <content:encoded><![CDATA[2:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_35/03oU6_1650448624802DqhhR_JPEG/CA202204200063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MC석 인터뷰] 드림캐쳐가 썸냐들을 위해 부르는 솔로곡♥]]></title>
-            <link>https://tv.naver.com/v/26346107</link>
-            <guid>https://tv.naver.com/v/26346107</guid>
-            <pubDate>Wed, 20 Apr 2022 10:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_148/e3GKj_1650448384093BAcz7_JPEG/CA202204200062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
