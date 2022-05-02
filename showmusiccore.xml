@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 06:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 07:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 미연 최애직캠 ‘Drive’ (MIYEON Close-up Cam) @Show!MusicCore 220430]]></title>
+            <link>https://tv.naver.com/v/26559654</link>
+            <guid>https://tv.naver.com/v/26559654</guid>
+            <pubDate>Mon, 02 May 2022 07:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_109/1VBJG_16514743804823If6F_JPEG/clip_20220502152959_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 아이브 장원영 직캠 ‘LOVE DIVE’ (IVE WONYOUNG FanCam) @Show! MusicCore 220430]]></title>
             <link>https://tv.naver.com/v/26536843</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 26 Apr 2022 07:16:44 GMT</pubDate>
             <content:encoded><![CDATA[3:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220426_176/fgX5y_1650954180580wMwNN_JPEG/clip_20220426150005_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아이브 장원영 최애직캠 ‘LOVE DIVE’ (IVE WONYOUNG Close-up Cam) @Show!MusicCore 220423]]></title>
-            <link>https://tv.naver.com/v/26449884</link>
-            <guid>https://tv.naver.com/v/26449884</guid>
-            <pubDate>Tue, 26 Apr 2022 07:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220426_273/ZTvgm_1650954119867jvRmk_JPEG/clip_20220426145612_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
