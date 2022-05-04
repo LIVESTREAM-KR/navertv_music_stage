@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 12:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 13:39:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[《예고》유나이트(YOUNITE)와 함께한 이번주 심플리 콘투어 필리핀 편💌~!! _518회]]></title>
+            <link>https://tv.naver.com/v/26603543</link>
+            <guid>https://tv.naver.com/v/26603543</guid>
+            <pubDate>Wed, 04 May 2022 13:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_31/YAIc0_1651669518603HB1nB_PNG/1651669507405.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.517]]></title>
             <link>https://tv.naver.com/v/26513051</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 29 Apr 2022 05:20:10 GMT</pubDate>
             <content:encoded><![CDATA[3:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220428_54/LBx9j_1651132338770cOmi9_JPEG/1651130532510.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 권은비 ’Glitch‘ 직캠 (KWON EUN BI 'Glitch') l Simply K-Pop CON-TOUR Ep.517]]></title>
-            <link>https://tv.naver.com/v/26496817</link>
-            <guid>https://tv.naver.com/v/26496817</guid>
-            <pubDate>Fri, 29 Apr 2022 05:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_140/YBA3H_1651132331377wsSqu_JPEG/1651130538928.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
