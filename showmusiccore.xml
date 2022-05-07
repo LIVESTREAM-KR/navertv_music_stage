@@ -4,9 +4,57 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 09:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 10:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 미연 세로캠 ‘Drive’ (MIYEON FanCam) @Show! MusicCore 220507]]></title>
+            <link>https://tv.naver.com/v/26649098</link>
+            <guid>https://tv.naver.com/v/26649098</guid>
+            <pubDate>Sat, 07 May 2022 10:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_272/mqFuL_1651915921292K7BJx_JPEG/clip_20220507180856_77.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 미연 직캠 ‘Drive’ (MIYEON FanCam) @Show!MusicCore 220507]]></title>
+            <link>https://tv.naver.com/v/26649055</link>
+            <guid>https://tv.naver.com/v/26649055</guid>
+            <pubDate>Sat, 07 May 2022 10:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_61/vikGj_1651915618910KYr35_JPEG/clip_20220507180854_76.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] DKZ 종형 직캠 ‘사랑도둑 (Cupid)’ (DKZ JONGHYEONG FanCam) @Show! MusicCore 220507]]></title>
+            <link>https://tv.naver.com/v/26649008</link>
+            <guid>https://tv.naver.com/v/26649008</guid>
+            <pubDate>Sat, 07 May 2022 10:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_257/MnWoP_1651915324097AX0Tr_JPEG/clip_20220507175803_75.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] DKZ 민규 직캠 ‘사랑도둑 (Cupid)’ (DKZ MINGYU  FanCam) @Show! MusicCore 220507]]></title>
+            <link>https://tv.naver.com/v/26649006</link>
+            <guid>https://tv.naver.com/v/26649006</guid>
+            <pubDate>Sat, 07 May 2022 10:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_216/nmpPm_1651915322869Oyc0t_JPEG/clip_20220507175723_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] DKZ 재찬 직캠 ‘사랑도둑 (Cupid)’ (DKZ JAECHAN FanCam) @Show! MusicCore 220507]]></title>
+            <link>https://tv.naver.com/v/26649005</link>
+            <guid>https://tv.naver.com/v/26649005</guid>
+            <pubDate>Sat, 07 May 2022 10:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_285/lPl2S_1651915321617cyIrH_JPEG/clip_20220507175710_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] DKZ 직캠 ‘사랑도둑(Cupid)’ (DKZ FanCam) @Show!MusicCore 220507]]></title>
+            <link>https://tv.naver.com/v/26649004</link>
+            <guid>https://tv.naver.com/v/26649004</guid>
+            <pubDate>Sat, 07 May 2022 10:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_42/SnB4q_1651915319452XdaRq_JPEG/clip_20220507175702_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 문별 세로캠 ‘C.I.T.T (Cheese in the Trap)’ (MOONBYUL FanCam) @Show! MusicCore 220507]]></title>
             <link>https://tv.naver.com/v/26648795</link>
@@ -198,54 +246,6 @@
             <pubDate>Sat, 30 Apr 2022 10:17:40 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220430_151/nmgyL_1651313521991JyHsV_JPEG/clip_20220430184957_76.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아이브 이서 직캠 ‘LOVE DIVE’ (IVE LEESEO FanCam) @Show! MusicCore 220430]]></title>
-            <link>https://tv.naver.com/v/26536758</link>
-            <guid>https://tv.naver.com/v/26536758</guid>
-            <pubDate>Sat, 30 Apr 2022 10:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_266/OmqBH_1651313220272V9bB8_JPEG/clip_20220430185000_78.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 베리베리 동헌 직캠 ‘Undercover’ (VERIVERY DONGHEON FanCam) @Show! MusicCore 220430]]></title>
-            <link>https://tv.naver.com/v/26536699</link>
-            <guid>https://tv.naver.com/v/26536699</guid>
-            <pubDate>Sat, 30 Apr 2022 10:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_159/LmB9M_16513129242039vpCC_JPEG/clip_20220430183140_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 베리베리 연호 직캠 ‘Undercover’ (VERIVERY YEONHO FanCam) @Show! MusicCore 220430]]></title>
-            <link>https://tv.naver.com/v/26536698</link>
-            <guid>https://tv.naver.com/v/26536698</guid>
-            <pubDate>Sat, 30 Apr 2022 10:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_252/QZ8jX_1651312922766WnYV7_JPEG/clip_20220430183139_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 베리베리 민찬 직캠 ‘Undercover’ (VERIVERY MINCHAN FanCam) @Show! MusicCore 220430]]></title>
-            <link>https://tv.naver.com/v/26536697</link>
-            <guid>https://tv.naver.com/v/26536697</guid>
-            <pubDate>Sat, 30 Apr 2022 10:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_104/Ec67Z_1651312921545AMPYC_JPEG/clip_20220430183133_69.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] DKZ 경윤 직캠 ‘사랑도둑 (Cupid)’ (DKZ KYOUNGYOON FanCam) @Show! MusicCore 220430]]></title>
-            <link>https://tv.naver.com/v/26536632</link>
-            <guid>https://tv.naver.com/v/26536632</guid>
-            <pubDate>Sat, 30 Apr 2022 10:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_255/pHnfn_1651312628303mp17Y_JPEG/clip_20220430183707_75.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] DKZ 재찬 직캠 ‘사랑도둑 (Cupid)’ (DKZ JAECHAN FanCam) @Show! MusicCore 220430]]></title>
-            <link>https://tv.naver.com/v/26536631</link>
-            <guid>https://tv.naver.com/v/26536631</guid>
-            <pubDate>Sat, 30 Apr 2022 10:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_190/JZocq_1651312626915xrpIE_JPEG/clip_20220430183705_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
