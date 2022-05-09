@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 05:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 06:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] YOUNITE 이렇게 하면 프로 아이돌밖에 못 돼...♡ (Feat. 쇼챔 라인업) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26670264</link>
+            <guid>https://tv.naver.com/v/26670264</guid>
+            <pubDate>Mon, 09 May 2022 06:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220509_66/eJh4t_1652073726603i7OXB_JPEG/CA202205110003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[5월 1주차 ♥쇼챔피언♡ MC 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.432 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26635922</link>
             <guid>https://tv.naver.com/v/26635922</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 04 May 2022 13:38:33 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220504_12/b8upQ_1651652220967QgRd4_JPEG/CA202205040048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] VERIVERY HOYOUNG - Undercover (베리베리 호영 - 언더커버) | Show Champion | EP.432 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26603047</link>
-            <guid>https://tv.naver.com/v/26603047</guid>
-            <pubDate>Wed, 04 May 2022 13:38:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_244/JuOhd_1651651920823mpvhz_JPEG/CA202205040041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
