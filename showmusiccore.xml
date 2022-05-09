@@ -4,9 +4,25 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 09:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 10:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 몬스타엑스 민혁 최애직캠 ‘LOVE’ (MONSTA X MINHYUK Close-up Cam) @Show!MusicCore 220507]]></title>
+            <link>https://tv.naver.com/v/26675952</link>
+            <guid>https://tv.naver.com/v/26675952</guid>
+            <pubDate>Mon, 09 May 2022 10:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220509_22/pPepW_165208872641904uUv_JPEG/clip_20220509180314_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 몬스타엑스 형원 최애직캠 ‘LOVE’ (MONSTA X HYUNGWON Close-up Cam) @Show!MusicCore 220507]]></title>
+            <link>https://tv.naver.com/v/26675949</link>
+            <guid>https://tv.naver.com/v/26675949</guid>
+            <pubDate>Mon, 09 May 2022 10:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220509_295/EmDUZ_1652088724599BBQGY_JPEG/clip_20220509180253_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 클라씨 박보은 최애직캠 ‘SHUT DOWN’ (CLASS:Y PARK BOEUN Close-up Cam) @Show!MusicCore 220507]]></title>
             <link>https://tv.naver.com/v/26673060</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 07 May 2022 08:21:02 GMT</pubDate>
             <content:encoded><![CDATA[3:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220507_32/66ek3_1651910220211r9L9C_JPEG/clip_20220507163350_50.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 미연 최애직캠 ‘Drive’ (MIYEON Close-up Cam) @Show!MusicCore 220430]]></title>
-            <link>https://tv.naver.com/v/26559654</link>
-            <guid>https://tv.naver.com/v/26559654</guid>
-            <pubDate>Mon, 02 May 2022 07:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_109/1VBJG_16514743804823If6F_JPEG/clip_20220502152959_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아이브 장원영 직캠 ‘LOVE DIVE’ (IVE WONYOUNG FanCam) @Show! MusicCore 220430]]></title>
-            <link>https://tv.naver.com/v/26536843</link>
-            <guid>https://tv.naver.com/v/26536843</guid>
-            <pubDate>Sat, 30 Apr 2022 10:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_74/NRa86_1651313523402J4KzT_JPEG/clip_20220430184959_77.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
