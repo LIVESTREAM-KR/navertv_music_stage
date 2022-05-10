@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 06:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 07:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] DKZ 재찬 최애직캠 ‘사랑도둑(Cupid)’ (DKZ JAECHAN Close-up Cam) @Show!MusicCore 220507 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26693188</link>
+            <guid>https://tv.naver.com/v/26693188</guid>
+            <pubDate>Tue, 10 May 2022 07:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220510_12/7ozmO_1652166424927TSIhC_JPEG/clip_20220510153922_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] WOODZ 최애직캠 ‘난 너 없이 (I hate you)’ (WOODZ Close-up Cam) @Show!MusicCore 220507 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26693020</link>
+            <guid>https://tv.naver.com/v/26693020</guid>
+            <pubDate>Tue, 10 May 2022 07:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220510_78/GDomG_1652166121692pqxfd_JPEG/clip_20220510153917_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 몬스타엑스 민혁 최애직캠 ‘LOVE’ (MONSTA X MINHYUK Close-up Cam) @Show!MusicCore 220507 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 07 May 2022 08:21:02 GMT</pubDate>
             <content:encoded><![CDATA[3:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220507_81/cTsf3_1651910222788OoLc9_JPEG/clip_20220507163534_54.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 몬스타엑스 민혁 직캠 ‘LOVE’ (MONSTA X MINHYUK FanCam) @Show!MusicCore 220507 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26648181</link>
-            <guid>https://tv.naver.com/v/26648181</guid>
-            <pubDate>Sat, 07 May 2022 08:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_7/9yRVE_1651910221651s8PtL_JPEG/clip_20220507163419_51.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 몬스타엑스 기현 직캠 ‘LOVE’ (MONSTA X KIHYUN FanCam) @Show!MusicCore 220507 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26648180</link>
-            <guid>https://tv.naver.com/v/26648180</guid>
-            <pubDate>Sat, 07 May 2022 08:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_32/66ek3_1651910220211r9L9C_JPEG/clip_20220507163350_50.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘려욱’, 드라마틱한 감성에 폭발하는 가창력! ‘오늘만은’ (SBS 인기가요 ─ 네이버TV)]]></title>
