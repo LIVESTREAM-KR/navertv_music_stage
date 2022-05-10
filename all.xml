@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 07:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 08:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 스트레이 키즈 현진 최애직캠 ‘MANIAC’ (Stray Kids HYUNJIN Close-up Cam) @Show!MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26695239</link>
+            <guid>https://tv.naver.com/v/26695239</guid>
+            <pubDate>Tue, 10 May 2022 08:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220510_255/jo0JG_1652170081218vs1kC_JPEG/clip_20220510164413_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 스트레이 키즈 아이엔 최애직캠 ‘MANIAC’ (Stray Kids I.N Close-up Cam) @Show!MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26695198</link>
+            <guid>https://tv.naver.com/v/26695198</guid>
+            <pubDate>Tue, 10 May 2022 08:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220510_224/AQxWq_1652170022970eV6tr_JPEG/clip_20220510164358_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 스트레이 키즈 리노 최애직캠 ‘MANIAC’ (Stray Kids LEE KNOW Close-up Cam) @Show!MusicCore 220409 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26695195</link>
+            <guid>https://tv.naver.com/v/26695195</guid>
+            <pubDate>Tue, 10 May 2022 08:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220510_193/1bjft_1652170020843b95Uk_JPEG/clip_20220510164349_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소 4K] DKZ 재찬 최애직캠 ‘사랑도둑(Cupid)’ (DKZ JAECHAN Close-up Cam) @Show!MusicCore 220507 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Sat, 07 May 2022 08:21:02 GMT</pubDate>
             <content:encoded><![CDATA[3:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220507_268/MRuMS_1651910525451Vnw5n_JPEG/clip_20220507163511_53.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 몬스타엑스 주헌 직캠 ‘LOVE’ (MONSTA X JOOHONEY FanCam) @Show!MusicCore 220507 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26648230</link>
-            <guid>https://tv.naver.com/v/26648230</guid>
-            <pubDate>Sat, 07 May 2022 08:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_141/CZuC0_16519105241203wi1z_JPEG/clip_20220507163439_52.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 몬스타엑스 직캠 ‘LOVE’ (MONSTA X FanCam) @Show!MusicCore 220507 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26648229</link>
-            <guid>https://tv.naver.com/v/26648229</guid>
-            <pubDate>Sat, 07 May 2022 08:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_158/R9cz2_1651910521881eP9f0_JPEG/clip_20220507163330_49.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 몬스타엑스 형원 직캠 ‘LOVE’ (MONSTA X HYUNGWON FanCam) @Show!MusicCore 220507 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26648182</link>
-            <guid>https://tv.naver.com/v/26648182</guid>
-            <pubDate>Sat, 07 May 2022 08:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_81/cTsf3_1651910222788OoLc9_JPEG/clip_20220507163534_54.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘려욱’, 드라마틱한 감성에 폭발하는 가창력! ‘오늘만은’ (SBS 인기가요 ─ 네이버TV)]]></title>
