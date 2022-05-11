@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 12:37:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 13:41:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔직캠] WOODZ - I hate you (조승연 - 난 너 없이) l #쇼챔피언 l EP.433]]></title>
+            <link>https://tv.naver.com/v/26719756</link>
+            <guid>https://tv.naver.com/v/26719756</guid>
+            <pubDate>Wed, 11 May 2022 13:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_151/p8mzS_1652265720284HiUq7_JPEG/CA202205110081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[COMEBACK] WOODZ - I hate you (조승연 - 난 너 없이)]]></title>
             <link>https://tv.naver.com/v/26719613</link>
@@ -30,6 +38,14 @@
             <pubDate>Wed, 11 May 2022 11:15:13 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220511_202/PPuT9_1652264583365yJ35d_JPEG/CA202205110079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[입덕 LIVE] '아티스트' 우기가 전하고 싶은 진솔한 이야기♬]]></title>
+            <link>https://tv.naver.com/v/26719474</link>
+            <guid>https://tv.naver.com/v/26719474</guid>
+            <pubDate>Wed, 11 May 2022 13:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_163/9KqE0_1652264526939vC7r4_JPEG/CA202205110077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[HOT DEBUT] CLASS:y - SHUT DOWN (클라씨 - 셧다운)]]></title>
@@ -88,12 +104,52 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220511_259/FKtHh_1652263625973zsUkX_JPEG/CA202205110074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠] VERIVERY GYEHYEON - Undercover (베리베리 계현 - 언더커버) | Show Champion | EP.433]]></title>
+            <link>https://tv.naver.com/v/26719219</link>
+            <guid>https://tv.naver.com/v/26719219</guid>
+            <pubDate>Wed, 11 May 2022 13:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_29/IFCMA_16522636235621jmIA_JPEG/CA202205110060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[MC석 인터뷰]  '슈퍼 루키' 르세라핌이 전하는 당찬 포부↗]]></title>
             <link>https://tv.naver.com/v/26719127</link>
             <guid>https://tv.naver.com/v/26719127</guid>
             <pubDate>Wed, 11 May 2022 10:20:24 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220511_283/E42l9_1652263326150EnKwh_JPEG/CA202205110070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] VERIVERY YEONHO - Undercover (베리베리 연호 - 언더커버) | Show Champion | EP.433]]></title>
+            <link>https://tv.naver.com/v/26719125</link>
+            <guid>https://tv.naver.com/v/26719125</guid>
+            <pubDate>Wed, 11 May 2022 13:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_198/sktfJ_1652263324629lELMQ_JPEG/CA202205110068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] VERIVERY YONGSEUNG - Undercover (베리베리 용승 - 언더커버) | Show Champion | EP.433]]></title>
+            <link>https://tv.naver.com/v/26719124</link>
+            <guid>https://tv.naver.com/v/26719124</guid>
+            <pubDate>Wed, 11 May 2022 13:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_77/pEwyW_16522633232603tjJU_JPEG/CA202205110067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] VERIVERY DONGHEON - Undercover (베리베리 동헌 - 언더커버) | Show Champion | EP.433]]></title>
+            <link>https://tv.naver.com/v/26719045</link>
+            <guid>https://tv.naver.com/v/26719045</guid>
+            <pubDate>Wed, 11 May 2022 13:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_224/XxN4g_1652263023255CJ227_JPEG/CA202205110064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[원픽캠 4K] (G)I-dle YUQI - Giant + Bonnie&Clyde ((여자)아이들 우기 - 자이언트 + 보니&클라이드) l #쇼챔피언 l EP.433]]></title>
+            <link>https://tv.naver.com/v/26719044</link>
+            <guid>https://tv.naver.com/v/26719044</guid>
+            <pubDate>Wed, 11 May 2022 13:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[5:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_54/BxqKA_1652263021630PyzmL_JPEG/CA202205110056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[COMEBACK] T1419 - RUN UP (티일사일구 - 런 업)]]></title>
@@ -104,12 +160,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220511_203/4uf34_1652262782939Mauhq_JPEG/CA202205110069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠] VERIVERY KANGMIN - Undercover (베리베리 강민 - 언더커버) | Show Champion | EP.433]]></title>
+            <link>https://tv.naver.com/v/26718977</link>
+            <guid>https://tv.naver.com/v/26718977</guid>
+            <pubDate>Wed, 11 May 2022 13:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_62/rtHrX_1652262721176RG6KM_JPEG/CA202205110062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LEE JU HYUK - Meet you at the laundromat (이주혁 - 세탁소에서 만나요)]]></title>
             <link>https://tv.naver.com/v/26718876</link>
             <guid>https://tv.naver.com/v/26718876</guid>
             <pubDate>Wed, 11 May 2022 10:20:24 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220511_200/zoUxW_1652262423593tJJsu_JPEG/CA202205110065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] (G)I-dle YUQI - Giant + Bonnie&Clyde ((여자)아이들 우기 - 자이언트 + 보니&클라이드) l #쇼챔피언 l EP.433]]></title>
+            <link>https://tv.naver.com/v/26718873</link>
+            <guid>https://tv.naver.com/v/26718873</guid>
+            <pubDate>Wed, 11 May 2022 13:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[5:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_33/EriC1_1652262419273Tjoa5_JPEG/CA202205110057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MC석 인터뷰] 방과 후 수업을 마친 CLASS:y가 쇼챔에 왔어요♥]]></title>
@@ -152,100 +224,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220511_209/iR6TI_1652261224524PjeJf_JPEG/CA202205110055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예고] YOUNITE 이렇게 하면 프로 아이돌밖에 못 돼...♡ (Feat. 쇼챔 라인업)]]></title>
-            <link>https://tv.naver.com/v/26670264</link>
-            <guid>https://tv.naver.com/v/26670264</guid>
-            <pubDate>Mon, 09 May 2022 06:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[1:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220509_66/eJh4t_1652073726603i7OXB_JPEG/CA202205110003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[쇼챔직캠] VERIVERY - Undercover (베리베리 - 언더커버) l Show Champion l EP.433]]></title>
+            <link>https://tv.naver.com/v/26718383</link>
+            <guid>https://tv.naver.com/v/26718383</guid>
+            <pubDate>Wed, 11 May 2022 13:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_221/ROpLc_1652260920401QEos2_JPEG/CA202205110054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[5월 1주차 ♥쇼챔피언♡ MC 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.432]]></title>
-            <link>https://tv.naver.com/v/26635922</link>
-            <guid>https://tv.naver.com/v/26635922</guid>
-            <pubDate>Sat, 07 May 2022 11:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[9:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_19/Lniwc_1651826533551Bzyor_JPEG/CA202205040107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[쇼챔직캠] WOODZ - I hate you (조승연 - 난 너 없이) l Show Champion l EP.433]]></title>
+            <link>https://tv.naver.com/v/26718273</link>
+            <guid>https://tv.naver.com/v/26718273</guid>
+            <pubDate>Wed, 11 May 2022 13:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_206/hZNqR_1652260627764Sl9aa_JPEG/CA202205110053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠] PURPLE KISS - Pretty Psycho (퍼플키스 - 프리티 사이코) l Show Champion l EP.432]]></title>
-            <link>https://tv.naver.com/v/26626774</link>
-            <guid>https://tv.naver.com/v/26626774</guid>
-            <pubDate>Fri, 06 May 2022 01:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_50/apg58_1651801319791rT4H1_JPEG/CA202205040100_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] DKZ - Cupid (디케이지 - 사랑도둑) l Show Champion l EP.432]]></title>
-            <link>https://tv.naver.com/v/26626721</link>
-            <guid>https://tv.naver.com/v/26626721</guid>
-            <pubDate>Fri, 06 May 2022 01:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_178/yRxqH_1651799285108mRjuY_JPEG/CA202205040101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] YOON JISUNG - BLOOM (윤지성 - 블룸) l Show Champion l EP.432]]></title>
-            <link>https://tv.naver.com/v/26626720</link>
-            <guid>https://tv.naver.com/v/26626720</guid>
-            <pubDate>Fri, 06 May 2022 01:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_131/CNDZR_1651799282976R6K0c_JPEG/CA202205040102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] (G)I-DLE MIYEON - TE AMO ((여자)아이들 미연 - 티아모) l Show Champion l EP.432]]></title>
-            <link>https://tv.naver.com/v/26626509</link>
-            <guid>https://tv.naver.com/v/26626509</guid>
-            <pubDate>Fri, 06 May 2022 01:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[4:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_252/J3zCv_1651798380422gfE6x_JPEG/CA202205040103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] Moon Byul - C.I.T.T(Cheese in the Trap) (문별 - 치즈인더트랩)]]></title>
-            <link>https://tv.naver.com/v/26606226</link>
-            <guid>https://tv.naver.com/v/26606226</guid>
-            <pubDate>Wed, 04 May 2022 11:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_192/o2Ge3_16516609247379bK2p_JPEG/CA202205040076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SOLO HOT DEBUT] MIYEON((G)I-DLE) - Drive (미연 - 드라이브)]]></title>
-            <link>https://tv.naver.com/v/26606137</link>
-            <guid>https://tv.naver.com/v/26606137</guid>
-            <pubDate>Wed, 04 May 2022 11:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_216/rvtZp_1651660622594BDS9m_JPEG/CA202205040073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SOLO HOT DEBUT] MIYEON((G)I-DLE) - TE AMO (미연 - 티 아모)]]></title>
-            <link>https://tv.naver.com/v/26606136</link>
-            <guid>https://tv.naver.com/v/26606136</guid>
-            <pubDate>Wed, 04 May 2022 11:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_45/GZMM8_1651660620077FDcfV_JPEG/CA202205040071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] Yoon Jisung - BLOOM (윤지성 - 블룸)]]></title>
-            <link>https://tv.naver.com/v/26605866</link>
-            <guid>https://tv.naver.com/v/26605866</guid>
-            <pubDate>Wed, 04 May 2022 11:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_233/7HioI_1651659724651xySz4_JPEG/CA202205040070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] VERIVERY - Undercover (베리베리 - 언더커버)]]></title>
-            <link>https://tv.naver.com/v/26605864</link>
-            <guid>https://tv.naver.com/v/26605864</guid>
-            <pubDate>Wed, 04 May 2022 11:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_136/tEfvh_1651659720022u5cXw_JPEG/CA202205040069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] Song Ga In - Rainy Mt. Geumgang (송가인 - 비 내리는 금강산)]]></title>
-            <link>https://tv.naver.com/v/26605783</link>
-            <guid>https://tv.naver.com/v/26605783</guid>
-            <pubDate>Wed, 04 May 2022 10:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_181/A7nSe_165165942963618ooM_JPEG/CA202205040068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[쇼챔직캠] (G)I-DLE YUQI((여자)아이들 우기) - Giant+Bonnie&Clyde l Show Champion l EP.433]]></title>
+            <link>https://tv.naver.com/v/26717659</link>
+            <guid>https://tv.naver.com/v/26717659</guid>
+            <pubDate>Wed, 11 May 2022 13:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[5:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_188/VyjTn_1652259180851C2Fa7_JPEG/CA202205110051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
