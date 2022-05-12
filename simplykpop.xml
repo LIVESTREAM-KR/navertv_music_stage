@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 07:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 08:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[《예고》멋진 늑대로 변신한 이펙스가 궁금하다면? 심플리 콘투어에서 확인하세요! _ 519회]]></title>
+            <link>https://tv.naver.com/v/26738303</link>
+            <guid>https://tv.naver.com/v/26738303</guid>
+            <pubDate>Thu, 12 May 2022 08:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_169/2WB9o_1652343681147yiNFr_PNG/1652343677818.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[PLYCAM 4K] 유나이트 은상 '1 of 9' 직캠 (YOUNITE EUNSANG '1 of 9') l Simply K-Pop CON-TOUR Ep.518]]></title>
             <link>https://tv.naver.com/v/26631694</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 06 May 2022 06:24:43 GMT</pubDate>
             <content:encoded><![CDATA[3:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220506_139/nf85S_1651815561436rDP6F_JPEG/1651815434388.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 이펙스 금동현 ’학원歌‘ 직캠 (EPEX KEUM) l Simply K-Pop CON-TOUR Ep.518]]></title>
-            <link>https://tv.naver.com/v/26631377</link>
-            <guid>https://tv.naver.com/v/26631377</guid>
-            <pubDate>Fri, 06 May 2022 06:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_254/21S5F_1651815556279QCDuk_JPEG/1651815405330.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
