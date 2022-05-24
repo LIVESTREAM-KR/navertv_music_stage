@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 07:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 08:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 예린 최애직캠 ‘ARIA’ (YERIN Close-up Cam) @Show!MusicCore 220521]]></title>
+            <link>https://tv.naver.com/v/26955721</link>
+            <guid>https://tv.naver.com/v/26955721</guid>
+            <pubDate>Tue, 24 May 2022 08:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220524_282/Of22i_1653379620913Rk8hc_JPEG/clip_20220524164415_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 원어스 환웅 최애직캠 ‘덤벼 (Bring it on)’ (ONEUS HWAN WOONG Close-up Cam) @Show!MusicCore 220521]]></title>
             <link>https://tv.naver.com/v/26953494</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 22 May 2022 16:08:08 GMT</pubDate>
             <content:encoded><![CDATA[3:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220521_157/pzndz_16531171197975LTuk_JPEG/clip_20220521154437_64.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아스트로 진진 직캠 ‘Candy Sugar Pop’ (ASTRO JINJIN FanCam) @Show!MusicCore 220521]]></title>
-            <link>https://tv.naver.com/v/26907761</link>
-            <guid>https://tv.naver.com/v/26907761</guid>
-            <pubDate>Sun, 22 May 2022 16:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220521_14/BD1KY_16531168823535XStj_JPEG/clip_20220521154455_65.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
