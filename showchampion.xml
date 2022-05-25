@@ -4,9 +4,81 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 11:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 12:34:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[COMEBACK] ASTRO - Like stars (아스트로 - 밤하늘의 별처럼)]]></title>
+            <link>https://tv.naver.com/v/26981271</link>
+            <guid>https://tv.naver.com/v/26981271</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_50/Viruo_1653478929125LghyO_JPEG/CA202205250091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] Ciipher - Fame (싸이퍼 - 페임)]]></title>
+            <link>https://tv.naver.com/v/26981262</link>
+            <guid>https://tv.naver.com/v/26981262</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_41/YJ0kY_1653478920164qLV9A_JPEG/CA202205250065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] ASTRO - Candy Sugar Pop (아스트로 - 캔디 슈가 팝)]]></title>
+            <link>https://tv.naver.com/v/26981180</link>
+            <guid>https://tv.naver.com/v/26981180</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_4/cOGkB_16534786807087D3MF_JPEG/CA202205250092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] ONEUS - Bring it on (원어스 - 덤벼)]]></title>
+            <link>https://tv.naver.com/v/26981165</link>
+            <guid>https://tv.naver.com/v/26981165</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_161/MpelI_1653478625480MCb0p_JPEG/CA202205250087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SOLO HOT DEBUT] YERIN - ARIA (예린 - 아리아)]]></title>
+            <link>https://tv.naver.com/v/26981163</link>
+            <guid>https://tv.naver.com/v/26981163</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_7/ZLvyn_1653478623062dbiyD_JPEG/CA202205250090.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] JEONG SEWOON - Roller Coaster (정세운 - 롤러코스터)]]></title>
+            <link>https://tv.naver.com/v/26981161</link>
+            <guid>https://tv.naver.com/v/26981161</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_16/7QJWX_1653478621093g9Mv3_JPEG/CA202205250088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] ONEUS - Intro : Who Got the Joker? (원어스 - 인트로 : 후 갓 더 조커?)]]></title>
+            <link>https://tv.naver.com/v/26981043</link>
+            <guid>https://tv.naver.com/v/26981043</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_120/Jzez5_1653478328538fXwrx_JPEG/CA202205250086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LE SSERAFIM - FEARLESS (르세라핌 - 피어리스)]]></title>
+            <link>https://tv.naver.com/v/26981038</link>
+            <guid>https://tv.naver.com/v/26981038</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_8/1OCKF_1653478324775U7wt2_JPEG/CA202205250082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT DEBUT] TNX - MOVE (티엔엑스 - 비켜)]]></title>
+            <link>https://tv.naver.com/v/26980862</link>
+            <guid>https://tv.naver.com/v/26980862</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_70/1HUm6_1653477781207LSc39_JPEG/CA202205250078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HOT DEBUT] TNX - 180sec (티엔엑스 - 180초)]]></title>
             <link>https://tv.naver.com/v/26980742</link>
@@ -24,12 +96,116 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_141/HkYY4_16534768333609pHKp_JPEG/CA202205250072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠] ONEUS XION (원어스 시온) - Who Got the Jocker? + Bring it on | Show Champion | EP.435]]></title>
+            <link>https://tv.naver.com/v/26980431</link>
+            <guid>https://tv.naver.com/v/26980431</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[5:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_135/838nr_16534765222759H6Iw_JPEG/CA202205250057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] ONEUS HWANWOONG (원어스 환웅) - Who Got the Jocker? + Bring it on | Show Champion | EP.435]]></title>
+            <link>https://tv.naver.com/v/26980334</link>
+            <guid>https://tv.naver.com/v/26980334</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[5:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_187/8kt8L_16534762200908N8II_JPEG/CA202205250060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] ONEUS LEEDO (원어스 이도) - Who Got the Jocker? + Bring it on | Show Champion | EP.435]]></title>
+            <link>https://tv.naver.com/v/26980242</link>
+            <guid>https://tv.naver.com/v/26980242</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[5:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_188/SuXU9_1653475981228ILSHc_JPEG/CA202205250058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] ONEUS KEONHEE (원어스 건희) - Who Got the Jocker? + Bring it on | Show Champion | EP.435]]></title>
+            <link>https://tv.naver.com/v/26980214</link>
+            <guid>https://tv.naver.com/v/26980214</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[5:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_14/puVFD_1653475920119BW2FA_JPEG/CA202205250052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] ONEUS RAVN (원어스 레이븐) - Who Got the Jocker? + Bring it on | Show Champion | EP.435]]></title>
+            <link>https://tv.naver.com/v/26980126</link>
+            <guid>https://tv.naver.com/v/26980126</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[5:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_85/MBknQ_1653475621725L6g0y_JPEG/CA202205250053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] ONEUS SEOHO (원어스 서호) - Who Got the Jocker? + Bring it on | Show Champion | EP.435]]></title>
+            <link>https://tv.naver.com/v/26980125</link>
+            <guid>https://tv.naver.com/v/26980125</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[5:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_134/jA6hk_1653475620083Xa9kf_JPEG/CA202205250056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[COMEBACK] AB6IX - SAVIOR (에이비식스 - 새비어)]]></title>
             <link>https://tv.naver.com/v/26980022</link>
             <guid>https://tv.naver.com/v/26980022</guid>
             <pubDate>Wed, 25 May 2022 11:17:08 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_294/Y06Hv_1653475321322bQkvj_JPEG/CA202205250089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] TNX SUNG JUN - MOVE (티엔엑스 오성준 -  비켜) | Show Champion | EP.435]]></title>
+            <link>https://tv.naver.com/v/26980021</link>
+            <guid>https://tv.naver.com/v/26980021</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_42/Pe71Z_16534753198580Ithl_JPEG/CA202205250041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] TNX HWI - MOVE (티엔엑스 은휘 -  비켜) | Show Champion | EP.435]]></title>
+            <link>https://tv.naver.com/v/26979920</link>
+            <guid>https://tv.naver.com/v/26979920</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_55/QkHtu_1653475020817jaBbr_JPEG/CA202205250045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] TNX JUN HYEOK - MOVE (티엔엑스 천준혁 -  비켜) | Show Champion | EP.435]]></title>
+            <link>https://tv.naver.com/v/26979918</link>
+            <guid>https://tv.naver.com/v/26979918</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_212/JKlgd_1653475018920m2ev2_JPEG/CA202205250050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] TNX HYUN SOO - MOVE (티엔엑스 장현수 -  비켜) | Show Champion | EP.435]]></title>
+            <link>https://tv.naver.com/v/26979820</link>
+            <guid>https://tv.naver.com/v/26979820</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_215/EVwvH_1653474721577t0PyA_JPEG/CA202205250049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] TNX TAE HUN - MOVE (티엔엑스 최태훈 -  비켜) | Show Champion | EP.435]]></title>
+            <link>https://tv.naver.com/v/26979819</link>
+            <guid>https://tv.naver.com/v/26979819</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_27/e9Bij_1653474719675LstXs_JPEG/CA202205250051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] TNX KYUNG JUN - MOVE (티엔엑스 우경준 -  비켜) | Show Champion | EP.435]]></title>
+            <link>https://tv.naver.com/v/26979722</link>
+            <guid>https://tv.naver.com/v/26979722</guid>
+            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_89/UQFJM_1653474422414Buavf_JPEG/CA202205250043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] AB6IX LEE DAE HWI - SAVIOR (에이비식스 이대휘 - 새비어) | Show Champion | EP.435]]></title>
+            <link>https://tv.naver.com/v/26979617</link>
+            <guid>https://tv.naver.com/v/26979617</guid>
+            <pubDate>Wed, 25 May 2022 12:34:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_247/pstOJ_1653474180460B8dl3_JPEG/CA202205250036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[T1419 - RUN UP (티일사일구 - 런업)]]></title>
@@ -70,182 +246,6 @@
             <pubDate>Wed, 25 May 2022 11:17:08 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_287/dQHgA_1653474121773WS1M3_JPEG/CA202205250061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Walking After U - Arirang (워킹애프터유 - 아리랑)]]></title>
-            <link>https://tv.naver.com/v/26979491</link>
-            <guid>https://tv.naver.com/v/26979491</guid>
-            <pubDate>Wed, 25 May 2022 10:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_123/uwYOx_1653473834071E3kWW_JPEG/CA202205250062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Seung Guk Lee - Check you! (승국이 - 검문할게요)]]></title>
-            <link>https://tv.naver.com/v/26979489</link>
-            <guid>https://tv.naver.com/v/26979489</guid>
-            <pubDate>Wed, 25 May 2022 10:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_71/04Xkc_1653473831714tsVNE_JPEG/CA202205250059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kang Butter - Incoherence (강버터 - 모순)]]></title>
-            <link>https://tv.naver.com/v/26979278</link>
-            <guid>https://tv.naver.com/v/26979278</guid>
-            <pubDate>Wed, 25 May 2022 10:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_64/cRMBK_16534732855349w8ar_JPEG/CA202205250054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예고] Candy Sugar Pop♡처럼 달콤한 쇼챔피언 5월 넷째 주 라인업은?]]></title>
-            <link>https://tv.naver.com/v/26933237</link>
-            <guid>https://tv.naver.com/v/26933237</guid>
-            <pubDate>Mon, 23 May 2022 06:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220523_106/OLtxz_16532839221384qnqi_JPEG/CA202205250003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] DAY6(Even of Day) - Right Through Me (데이식스(이븐오브데이) - 뚫고 지나가요)]]></title>
-            <link>https://tv.naver.com/v/26853018</link>
-            <guid>https://tv.naver.com/v/26853018</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_277/Gif7O_1652869330160RbIRb_JPEG/CA202205180054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] BTS - MIC Drop (방탄소년단 - 마이크 드롭)]]></title>
-            <link>https://tv.naver.com/v/26853013</link>
-            <guid>https://tv.naver.com/v/26853013</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_137/VKfRJ_1652869326415KO1SQ_JPEG/CA202205180056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] RED VELVET - Red Flavor (레드벨벳 - 빨간 맛)]]></title>
-            <link>https://tv.naver.com/v/26853010</link>
-            <guid>https://tv.naver.com/v/26853010</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_56/eP6GQ_1652869324615mHyew_JPEG/CA202205180055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] IVE - LOVE DIVE (아이브 - 러브 다이브)]]></title>
-            <link>https://tv.naver.com/v/26853008</link>
-            <guid>https://tv.naver.com/v/26853008</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_99/zKzvH_1652869322141OVLzN_JPEG/CA202205180053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] Seventeen - CLAP (세븐틴 - 박수)]]></title>
-            <link>https://tv.naver.com/v/26852853</link>
-            <guid>https://tv.naver.com/v/26852853</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_214/d13nM_1652868724842DuVqp_JPEG/CA202205180052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] TWICE - MORE & MORE (트와이스 - 모어 앤 모어)]]></title>
-            <link>https://tv.naver.com/v/26852851</link>
-            <guid>https://tv.naver.com/v/26852851</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_142/UkSL8_1652868722624jQuaB_JPEG/CA202205180051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] TOMORROW X TOGETHER - LO$ER=LO♡ER (투모로우바이투게더 - 루저 러버)]]></title>
-            <link>https://tv.naver.com/v/26852739</link>
-            <guid>https://tv.naver.com/v/26852739</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_196/gygnk_1652868420490z6qyz_JPEG/CA202205180050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] WOODZ - I hate you (조승연 - 난 너 없이)]]></title>
-            <link>https://tv.naver.com/v/26852646</link>
-            <guid>https://tv.naver.com/v/26852646</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_260/E6qQo_1652868130668r4qE2_JPEG/CA202205180049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] STAYC - YOUNG LUV (스테이씨 - 영 러브)]]></title>
-            <link>https://tv.naver.com/v/26852642</link>
-            <guid>https://tv.naver.com/v/26852642</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_106/oqGIR_1652868126820iv5cP_JPEG/CA202205180048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이)]]></title>
-            <link>https://tv.naver.com/v/26852640</link>
-            <guid>https://tv.naver.com/v/26852640</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_27/R0OP5_1652868124665xqC16_JPEG/CA202205180046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] Highlight - DAYDREAM (하이라이트 - 데이드림)]]></title>
-            <link>https://tv.naver.com/v/26852545</link>
-            <guid>https://tv.naver.com/v/26852545</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_217/1fWVf_1652867827175FsewS_JPEG/CA202205180047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] Stray Kids - MANIAC (스트레이 키즈 - 매니악)]]></title>
-            <link>https://tv.naver.com/v/26852367</link>
-            <guid>https://tv.naver.com/v/26852367</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_286/Yfol6_165286722173578kfv_JPEG/CA202205180045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] ATEEZ - The Real(Heung Ver.) (에이티즈 - 멋 (흥興 Ver.))]]></title>
-            <link>https://tv.naver.com/v/26852269</link>
-            <guid>https://tv.naver.com/v/26852269</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_29/VwQEe_1652866926346L9IMR_JPEG/CA202205180044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] THE BOYZ - THRILL RIDE (더보이즈 - 스릴 라이드)]]></title>
-            <link>https://tv.naver.com/v/26852265</link>
-            <guid>https://tv.naver.com/v/26852265</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_297/CjcQ3_1652866920382Nznu2_JPEG/CA202205180043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] NMIXX - O.O (엔믹스 - 오오)]]></title>
-            <link>https://tv.naver.com/v/26852158</link>
-            <guid>https://tv.naver.com/v/26852158</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_56/dJxPt_1652866633351qgEsJ_JPEG/CA202205180042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] MONSTA X - Rush Hour (몬스타엑스 - 러시 아워)]]></title>
-            <link>https://tv.naver.com/v/26852157</link>
-            <guid>https://tv.naver.com/v/26852157</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_252/Hdtyg_1652866631270f9MSH_JPEG/CA202205180041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] GFRIEND - LOVE WHISPER (여자친구 - 귀를 기울이면)]]></title>
-            <link>https://tv.naver.com/v/26852058</link>
-            <guid>https://tv.naver.com/v/26852058</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_44/lgJLw_1652866321002AgVEM_JPEG/CA202205180040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] JINHO(PENTAGON) - Square (진호(펜타곤) - 스퀘어(원곡: 백예린))]]></title>
-            <link>https://tv.naver.com/v/26851969</link>
-            <guid>https://tv.naver.com/v/26851969</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_4/L4TXI_1652866023046ILGfj_JPEG/CA202205180039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
