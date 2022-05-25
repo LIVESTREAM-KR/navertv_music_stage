@@ -4,9 +4,33 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 09:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 10:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Walking After U - Arirang (워킹애프터유 - 아리랑)]]></title>
+            <link>https://tv.naver.com/v/26979491</link>
+            <guid>https://tv.naver.com/v/26979491</guid>
+            <pubDate>Wed, 25 May 2022 10:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_123/uwYOx_1653473834071E3kWW_JPEG/CA202205250062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seung Guk Lee - Check you! (승국이 - 검문할게요)]]></title>
+            <link>https://tv.naver.com/v/26979489</link>
+            <guid>https://tv.naver.com/v/26979489</guid>
+            <pubDate>Wed, 25 May 2022 10:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_71/04Xkc_1653473831714tsVNE_JPEG/CA202205250059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kang Butter - Incoherence (강버터 - 모순)]]></title>
+            <link>https://tv.naver.com/v/26979278</link>
+            <guid>https://tv.naver.com/v/26979278</guid>
+            <pubDate>Wed, 25 May 2022 10:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_64/cRMBK_16534732855349w8ar_JPEG/CA202205250054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] Candy Sugar Pop♡처럼 달콤한 쇼챔피언 5월 넷째 주 라인업은?]]></title>
             <link>https://tv.naver.com/v/26933237</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 11 May 2022 11:15:13 GMT</pubDate>
             <content:encoded><![CDATA[5:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220511_93/UuyG8_1652265125105MPGc4_JPEG/CA202205110078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] WOODZ - HIJACK (조승연 - 하이잭)]]></title>
-            <link>https://tv.naver.com/v/26719491</link>
-            <guid>https://tv.naver.com/v/26719491</guid>
-            <pubDate>Wed, 11 May 2022 11:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_202/PPuT9_1652264583365yJ35d_JPEG/CA202205110079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[입덕 LIVE] '아티스트' 우기가 전하고 싶은 진솔한 이야기♬]]></title>
-            <link>https://tv.naver.com/v/26719474</link>
-            <guid>https://tv.naver.com/v/26719474</guid>
-            <pubDate>Wed, 11 May 2022 13:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_163/9KqE0_1652264526939vC7r4_JPEG/CA202205110077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HOT DEBUT] CLASS:y - SHUT DOWN (클라씨 - 셧다운)]]></title>
-            <link>https://tv.naver.com/v/26719472</link>
-            <guid>https://tv.naver.com/v/26719472</guid>
-            <pubDate>Wed, 11 May 2022 11:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_254/edydF_1652264522087Xu2pw_JPEG/CA202205110072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
