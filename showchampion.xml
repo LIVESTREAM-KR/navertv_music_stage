@@ -4,9 +4,73 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 10:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 11:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[HOT DEBUT] TNX - 180sec (티엔엑스 - 180초)]]></title>
+            <link>https://tv.naver.com/v/26980742</link>
+            <guid>https://tv.naver.com/v/26980742</guid>
+            <pubDate>Wed, 25 May 2022 11:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_26/ipmje_16534774203352xVz0_JPEG/CA202205250075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[줍줍 TIME] 아로하를 위한 아스트로의 쇼요일 상큼 건배사♬]]></title>
+            <link>https://tv.naver.com/v/26980564</link>
+            <guid>https://tv.naver.com/v/26980564</guid>
+            <pubDate>Wed, 25 May 2022 11:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_141/HkYY4_16534768333609pHKp_JPEG/CA202205250072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] AB6IX - SAVIOR (에이비식스 - 새비어)]]></title>
+            <link>https://tv.naver.com/v/26980022</link>
+            <guid>https://tv.naver.com/v/26980022</guid>
+            <pubDate>Wed, 25 May 2022 11:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_294/Y06Hv_1653475321322bQkvj_JPEG/CA202205250089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[T1419 - RUN UP (티일사일구 - 런업)]]></title>
+            <link>https://tv.naver.com/v/26979599</link>
+            <guid>https://tv.naver.com/v/26979599</guid>
+            <pubDate>Wed, 25 May 2022 11:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_137/a1atm_16534741311223lseb_JPEG/CA202205250069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최초 '줌 아웃 총쏘기'를 할 AB6IX의 엔딩 요정은?]]></title>
+            <link>https://tv.naver.com/v/26979597</link>
+            <guid>https://tv.naver.com/v/26979597</guid>
+            <pubDate>Wed, 25 May 2022 11:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_287/QZdiC_1653474129423huXOo_JPEG/CA202205250067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MC석 인터뷰] 원어스에게 배우는 '덤벼' 원 포인트 안무 레슨♨]]></title>
+            <link>https://tv.naver.com/v/26979596</link>
+            <guid>https://tv.naver.com/v/26979596</guid>
+            <pubDate>Wed, 25 May 2022 11:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_46/MKlDZ_1653474127090TxpvH_JPEG/CA202205250063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[taru - new way (타루 - 새로운 길)]]></title>
+            <link>https://tv.naver.com/v/26979592</link>
+            <guid>https://tv.naver.com/v/26979592</guid>
+            <pubDate>Wed, 25 May 2022 11:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_279/Clw40_16534741236675eULd_JPEG/CA202205250064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NINE.i - BEAUTY iNSIDE (나인아이 - 뷰티 인사이드)]]></title>
+            <link>https://tv.naver.com/v/26979590</link>
+            <guid>https://tv.naver.com/v/26979590</guid>
+            <pubDate>Wed, 25 May 2022 11:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_287/dQHgA_1653474121773WS1M3_JPEG/CA202205250061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Walking After U - Arirang (워킹애프터유 - 아리랑)]]></title>
             <link>https://tv.naver.com/v/26979491</link>
@@ -182,70 +246,6 @@
             <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220518_4/L4TXI_1652866023046ILGfj_JPEG/CA202205180039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] MIYEON((G)I-DLE) - Drive (미연 - 드라이브)]]></title>
-            <link>https://tv.naver.com/v/26851967</link>
-            <guid>https://tv.naver.com/v/26851967</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_118/GdSB1_1652866021040dhE0k_JPEG/CA202205180038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] KIM JAE HWAN(김재환) - 흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야 (원곡: 장범준))]]></title>
-            <link>https://tv.naver.com/v/26851868</link>
-            <guid>https://tv.naver.com/v/26851868</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_121/LQ1KG_1652865734497HJbwy_JPEG/CA202205180036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 쇼챔 뮤직 페스티벌] ASTRO - Crazy Sexy Cool (아스트로 - 니가 불어와)]]></title>
-            <link>https://tv.naver.com/v/26851861</link>
-            <guid>https://tv.naver.com/v/26851861</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_297/3OGRA_1652865719116Ybcw6_JPEG/CA202205180035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 쇼뮤페에서 함께 즐기SHOW!]]></title>
-            <link>https://tv.naver.com/v/26801801</link>
-            <guid>https://tv.naver.com/v/26801801</guid>
-            <pubDate>Sun, 22 May 2022 16:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220516_224/dgpWG_1652680922287ktwhH_JPEG/CA202205180003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월 2주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.433]]></title>
-            <link>https://tv.naver.com/v/26735922</link>
-            <guid>https://tv.naver.com/v/26735922</guid>
-            <pubDate>Thu, 12 May 2022 11:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[9:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_50/tqJ5h_1652337419718Q2IXc_JPEG/CA202205110113_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] WOODZ - I hate you (조승연 - 난 너 없이) l #쇼챔피언 l EP.433]]></title>
-            <link>https://tv.naver.com/v/26719756</link>
-            <guid>https://tv.naver.com/v/26719756</guid>
-            <pubDate>Wed, 11 May 2022 13:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_151/p8mzS_1652265720284HiUq7_JPEG/CA202205110081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] WOODZ - I hate you (조승연 - 난 너 없이)]]></title>
-            <link>https://tv.naver.com/v/26719613</link>
-            <guid>https://tv.naver.com/v/26719613</guid>
-            <pubDate>Wed, 11 May 2022 11:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_105/YwNpD_165226512683416t4c_JPEG/CA202205110080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[입덕 LIVE] YUQI - Giant(Band Ver.) + Bonnie & Clyde(Band Ver.) (우기((여자)아이들) - 자이언트 + 보니 & 클라이드)]]></title>
-            <link>https://tv.naver.com/v/26719609</link>
-            <guid>https://tv.naver.com/v/26719609</guid>
-            <pubDate>Wed, 11 May 2022 11:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[5:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_93/UuyG8_1652265125105MPGc4_JPEG/CA202205110078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
