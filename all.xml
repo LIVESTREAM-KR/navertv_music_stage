@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 23:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 01:29:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠] LE SSERAFIM - FEARLESS (르세라핌 - 피어리스) l Show Champion l EP.435 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26981718</link>
+            <guid>https://tv.naver.com/v/26981718</guid>
+            <pubDate>Thu, 26 May 2022 01:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_217/685Up_16534801242146szpT_JPEG/CA202205250103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] TNX - 180sec (티엔엑스 - 180초) l Show Champion l EP.435 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26981716</link>
+            <guid>https://tv.naver.com/v/26981716</guid>
+            <pubDate>Thu, 26 May 2022 01:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_282/K4ozR_165348012201194vyD_JPEG/CA202205250100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[COMEBACK] ASTRO - Like stars (아스트로 - 밤하늘의 별처럼) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26981271</link>
             <guid>https://tv.naver.com/v/26981271</guid>
@@ -1438,22 +1454,6 @@
             <pubDate>Wed, 25 May 2022 11:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_46/MKlDZ_1653474127090TxpvH_JPEG/CA202205250063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[taru - new way (타루 - 새로운 길) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26979592</link>
-            <guid>https://tv.naver.com/v/26979592</guid>
-            <pubDate>Wed, 25 May 2022 11:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_279/Clw40_16534741236675eULd_JPEG/CA202205250064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NINE.i - BEAUTY iNSIDE (나인아이 - 뷰티 인사이드) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26979590</link>
-            <guid>https://tv.naver.com/v/26979590</guid>
-            <pubDate>Wed, 25 May 2022 11:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_287/dQHgA_1653474121773WS1M3_JPEG/CA202205250061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
