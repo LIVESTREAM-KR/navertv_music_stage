@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 12:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 13:36:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -736,6 +736,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220321_117/SCS9P_1647835919630cjN2F_JPEG/3bc8d73d-e5b1-450f-851a-de4a953c031c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['COMEBACK' 퍼포먼스 퀸 ‘효연(HYO)'의 'DEEP' 무대 | Mnet 220526 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27001645</link>
+            <guid>https://tv.naver.com/v/27001645</guid>
+            <pubDate>Thu, 26 May 2022 13:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_9/79T1G_1653563226019VL16O_JPEG/139fe24e-601a-4141-b817-75df3fbc0e76_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['1위' 🍬청아아청🍬 ‘아스트로(ASTRO)'의 'Candy Sugar Pop' 무대 | Mnet 220526 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27001559</link>
             <guid>https://tv.naver.com/v/27001559</guid>
@@ -750,6 +758,38 @@
             <pubDate>Thu, 26 May 2022 12:34:08 GMT</pubDate>
             <content:encoded><![CDATA[3:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_184/pTvlv_16535605224581LaoT_JPEG/4c49d176-3a06-417b-bab3-9abaa40b3dff_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💪핌둥이들💪 ‘르세라핌'의 'FEARLESS' 무대 | Mnet 220526 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27004624</link>
+            <guid>https://tv.naver.com/v/27004624</guid>
+            <pubDate>Thu, 26 May 2022 13:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_7/Xcgqi_1653570128353N3mag_JPEG/becb53a7-1126-4120-b4be-fca0ed102015_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['최초 공개' 틴스피릿 ‘LIGHTSUM'의 'ALIVE' 무대 | Mnet 220526 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27000507</link>
+            <guid>https://tv.naver.com/v/27000507</guid>
+            <pubDate>Thu, 26 May 2022 13:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_83/68NCT_1653559632652WnQ5f_JPEG/4b3de568-93a2-431f-9667-de732ca50423_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['HOT DEBUT' 흥신흥왕 ‘TNX'의 '180초' 무대 | Mnet 220526 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27000494</link>
+            <guid>https://tv.naver.com/v/27000494</guid>
+            <pubDate>Thu, 26 May 2022 13:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_16/Gtkjm_1653559620848joozI_JPEG/555c3c94-5c49-460c-8d92-b8c1be1c0e58_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[업그레이드 성숙美 ‘싸이퍼(Ciipher)'의 'Fame' 무대 | Mnet 220526 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27004621</link>
+            <guid>https://tv.naver.com/v/27004621</guid>
+            <pubDate>Thu, 26 May 2022 13:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_196/BoAdv_1653570125333NVRRC_JPEG/7fe576c9-3cc5-4136-ae0e-84861d47f148_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[압도적 카리스마! ‘E’LAST(엘라스트)'의 'Creature' 무대 | Mnet 220512 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
@@ -934,46 +974,6 @@
             <pubDate>Tue, 08 Mar 2022 11:05:50 GMT</pubDate>
             <content:encoded><![CDATA[4:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210730_193/hm5cY_1627636843070qEYGF_JPEG/1627636841105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[’NEXT WEEK’ 규현(KYUHYUN) | Mnet 210701 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21094293</link>
-            <guid>https://tv.naver.com/v/21094293</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210701_146/cApjI_1625135505110YlHVV_JPEG/d095815d-9375-4ee0-9d65-43df159e886d_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성장한 ‘OMEGA X'의 'VAMOS' 무대 | Mnet 210701 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21096104</link>
-            <guid>https://tv.naver.com/v/21096104</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210701_226/73jMh_1625142102563VWvIP_JPEG/987dd021-7c6a-439e-8230-86c7f41d905d_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스가 알려주는 이번 주 엠카운트다운 라인업은? (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/20763057</link>
-            <guid>https://tv.naver.com/v/20763057</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210615_222/RnGGN_1623734796878JJbhx_JPEG/b0cce8ba-a346-43be-8548-9053423b4a42_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감성 자극 '엘라스트 유'의 '봄의 시작' 무대 | Mnet 210527 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/20430504</link>
-            <guid>https://tv.naver.com/v/20430504</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210527_276/AuDxr_1622110615231vgzR4_JPEG/3ce89875-78b5-4059-9496-58d425419754_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['최초 공개' 강렬한 맛🌶️🔥 'NCT DREAM'의 '맛 (Hot Sauce)' 무대 | Mnet 210513 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/20199100</link>
-            <guid>https://tv.naver.com/v/20199100</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210513_66/4wQZY_1620903708104YqBYE_JPEG/d89864b2-c354-43df-83db-bf6e22d3244a_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Hot Debut] 케이팝의 신! 장르는 '기팝', 기현 (몬스타엑스) 'VOYAGER' (SBS MTV 더쇼 ─ 네이버TV)]]></title>
