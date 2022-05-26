@@ -4,9 +4,25 @@
         <title>Mnet 엠카운트다운 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 11:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 12:35:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['1위' 🍬청아아청🍬 ‘아스트로(ASTRO)'의 'Candy Sugar Pop' 무대 | Mnet 220526 방송]]></title>
+            <link>https://tv.naver.com/v/27001559</link>
+            <guid>https://tv.naver.com/v/27001559</guid>
+            <pubDate>Thu, 26 May 2022 12:34:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_130/qkxuK_1653562926171mWnQw_JPEG/ae40c232-36f7-4ec7-a302-8b32a5473c73_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['COMEBACK' 압도적 퍼포먼스 ‘원어스(ONEUS)'의 '덤벼 (Bring it on) 무대 | Mnet 220526 방송]]></title>
+            <link>https://tv.naver.com/v/27000730</link>
+            <guid>https://tv.naver.com/v/27000730</guid>
+            <pubDate>Thu, 26 May 2022 12:34:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_184/pTvlv_16535605224581LaoT_JPEG/4c49d176-3a06-417b-bab3-9abaa40b3dff_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[압도적 카리스마! ‘E’LAST(엘라스트)'의 'Creature' 무대 | Mnet 220512 방송]]></title>
             <link>https://tv.naver.com/v/26743023</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 08 Mar 2022 11:05:50 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210513_66/4wQZY_1620903708104YqBYE_JPEG/d89864b2-c354-43df-83db-bf6e22d3244a_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['1위' 5色 낭만 '뉴이스트'의 'INSIDE OUT' 무대 | Mnet 210429 방송]]></title>
-            <link>https://tv.naver.com/v/19915765</link>
-            <guid>https://tv.naver.com/v/19915765</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210429_172/kVddW_1619694405615FgUnF_JPEG/24b6792b-ac27-4fc9-b208-3de4f7b2287b_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['HOT DEBUT' 당찬 데뷔 '미래소년'의 'KILLA' 무대 | Mnet 210318 방송]]></title>
-            <link>https://tv.naver.com/v/19061776</link>
-            <guid>https://tv.naver.com/v/19061776</guid>
-            <pubDate>Tue, 08 Mar 2022 11:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[4:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210318_83/Za3C9_1616062372972inqSL_JPEG/8a5ea839-3c98-470d-9737-2848c4425042_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
