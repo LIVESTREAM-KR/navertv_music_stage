@@ -4,7 +4,7 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 05:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 06:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.naver.com/v/27014983</guid>
             <pubDate>Fri, 27 May 2022 05:22:35 GMT</pubDate>
             <content:encoded><![CDATA[56:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_212/aucJ9_1653627688548Qrfhl_JPEG/ef81431c-dd79-11ec-b44a-d4f5ef58ad5e_01.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_191/phS3g_1653629366557oeP85_PNG/1653629346662.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[🌷청초하게 돌아온 민의 ‘Hit Me Up (힛 미 업)’ _ Ep.521]]></title>
@@ -112,20 +112,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_6/3jqnn_1653555854557J01iT_PNG/1653555842951.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[심플리 비하인드: 대휘와 함께 배워봐👏(with 유나이트)]]></title>
-            <link>https://tv.naver.com/v/26891834</link>
-            <guid>https://tv.naver.com/v/26891834</guid>
-            <pubDate>Sun, 22 May 2022 16:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220520_27/sh8af_1653023950719JMiRQ_PNG/1653022741313.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[[플리캠 4K] T1419 ON 'Run Up' (Korean ver.) (티일사일구 온 직캠) l Simply K-Pop Ep.521]]></title>
+            <link>https://tv.naver.com/v/26993864</link>
+            <guid>https://tv.naver.com/v/26993864</guid>
+            <pubDate>Fri, 27 May 2022 06:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_222/FCl2f_1653543817619bMrqG_JPEG/1653541036862.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.520]]></title>
-            <link>https://tv.naver.com/v/26891477</link>
-            <guid>https://tv.naver.com/v/26891477</guid>
-            <pubDate>Sun, 22 May 2022 16:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[56:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220520_272/f7WqS_16530232054703Rh8x_PNG/1653023166029.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[[플리캠 4K] T1419 SIAN 'Run Up' (Korean ver.) (티일사일구 시안 직캠) l Simply K-Pop Ep.521]]></title>
+            <link>https://tv.naver.com/v/26993860</link>
+            <guid>https://tv.naver.com/v/26993860</guid>
+            <pubDate>Fri, 27 May 2022 06:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_173/NjG82_1653543811635XDE5F_JPEG/1653541029752.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
