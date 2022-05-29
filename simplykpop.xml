@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 05:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 06:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심플리 비하인드: 대휘로그 in 독일]]></title>
+            <link>https://tv.naver.com/v/27044239</link>
+            <guid>https://tv.naver.com/v/27044239</guid>
+            <pubDate>Sun, 29 May 2022 06:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220529_214/6Kv9p_1653802780447ngySN_PNG/1653802771617.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.521]]></title>
             <link>https://tv.naver.com/v/27014983</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 27 May 2022 06:23:45 GMT</pubDate>
             <content:encoded><![CDATA[2:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_222/FCl2f_1653543817619bMrqG_JPEG/1653541036862.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] T1419 SIAN 'Run Up' (Korean ver.) (티일사일구 시안 직캠) l Simply K-Pop Ep.521]]></title>
-            <link>https://tv.naver.com/v/26993860</link>
-            <guid>https://tv.naver.com/v/26993860</guid>
-            <pubDate>Fri, 27 May 2022 06:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_173/NjG82_1653543811635XDE5F_JPEG/1653541029752.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
