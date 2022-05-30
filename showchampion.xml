@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 07:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 08:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] WHO IS THE JOKER.. 쇼챔 라인업을 훔쳐간 진짜 조커는 과연 누구?! (Feat. 원어스)]]></title>
+            <link>https://tv.naver.com/v/27062365</link>
+            <guid>https://tv.naver.com/v/27062365</guid>
+            <pubDate>Mon, 30 May 2022 08:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_237/wX1u2_1653895379808hbp48_JPEG/CA202206010004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5월 4주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.435]]></title>
             <link>https://tv.naver.com/v/26998261</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 May 2022 11:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_137/a1atm_16534741311223lseb_JPEG/CA202205250069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최초 '줌 아웃 총쏘기'를 할 AB6IX의 엔딩 요정은?]]></title>
-            <link>https://tv.naver.com/v/26979597</link>
-            <guid>https://tv.naver.com/v/26979597</guid>
-            <pubDate>Wed, 25 May 2022 11:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_287/QZdiC_1653474129423huXOo_JPEG/CA202205250067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
