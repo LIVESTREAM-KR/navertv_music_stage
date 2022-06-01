@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 12:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 13:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠] ONEUS RAVN - Bring it on (원어스 레이븐 - 덤벼) | Show Champion | EP.436 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27101390</link>
+            <guid>https://tv.naver.com/v/27101390</guid>
+            <pubDate>Wed, 01 Jun 2022 13:48:39 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_99/ejlM8_1654088821218c0QnR_JPEG/CA202206010036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔 1위] 6월 첫째 주 챔피언송 LE SSERAFIM 앵콜 Full ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27101314</link>
+            <guid>https://tv.naver.com/v/27101314</guid>
+            <pubDate>Wed, 01 Jun 2022 13:48:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_139/EsIJ2_1654088521447erlL3_JPEG/CA202206010078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ONEUS - Bring it on (원어스 - 덤벼) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27100802</link>
             <guid>https://tv.naver.com/v/27100802</guid>
@@ -1438,22 +1454,6 @@
             <pubDate>Wed, 01 Jun 2022 11:16:28 GMT</pubDate>
             <content:encoded><![CDATA[2:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_121/q5RP7_16540819204233es1z_JPEG/CA202206010040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] BVNDIT SEUNGEUN - VENOM (밴디트 승은 - 베놈) | Show Champion | EP.436 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27098255</link>
-            <guid>https://tv.naver.com/v/27098255</guid>
-            <pubDate>Wed, 01 Jun 2022 12:37:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_123/QoBPi_1654075320950xhSfQ_JPEG/CA202206010031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] ONEUS KEONHEE - Bring it on (원어스 건희 - 덤벼) | Show Champion | EP.436 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27098209</link>
-            <guid>https://tv.naver.com/v/27098209</guid>
-            <pubDate>Wed, 01 Jun 2022 12:37:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_187/pXaQJ_1654075024060q1qrL_JPEG/CA202206010035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
