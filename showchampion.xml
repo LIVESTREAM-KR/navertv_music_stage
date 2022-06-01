@@ -4,9 +4,33 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 10:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 11:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NINE.i - BEAUTY iNSIDE (나인아이 - 뷰티 인사이드)]]></title>
+            <link>https://tv.naver.com/v/27099704</link>
+            <guid>https://tv.naver.com/v/27099704</guid>
+            <pubDate>Wed, 01 Jun 2022 11:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_114/xwkKa_1654081925033OJclc_JPEG/CA202206010043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BLANK2Y - Thumbs Up (블랭키 - 떰즈업)]]></title>
+            <link>https://tv.naver.com/v/27099701</link>
+            <guid>https://tv.naver.com/v/27099701</guid>
+            <pubDate>Wed, 01 Jun 2022 11:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_278/TYLLQ_1654081923024oikFh_JPEG/CA202206010042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HWAYEON - blossom (화연 - 꽃핀다)]]></title>
+            <link>https://tv.naver.com/v/27099700</link>
+            <guid>https://tv.naver.com/v/27099700</guid>
+            <pubDate>Wed, 01 Jun 2022 11:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_121/q5RP7_16540819204233es1z_JPEG/CA202206010040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] WHO IS THE JOKER.. 쇼챔 라인업을 훔쳐간 진짜 조커는 과연 누구?! (Feat. 원어스)]]></title>
             <link>https://tv.naver.com/v/27062365</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
             <content:encoded><![CDATA[3:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_27/e9Bij_1653474719675LstXs_JPEG/CA202205250051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] TNX KYUNG JUN - MOVE (티엔엑스 우경준 -  비켜) | Show Champion | EP.435]]></title>
-            <link>https://tv.naver.com/v/26979722</link>
-            <guid>https://tv.naver.com/v/26979722</guid>
-            <pubDate>Wed, 25 May 2022 12:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_89/UQFJM_1653474422414Buavf_JPEG/CA202205250043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] AB6IX LEE DAE HWI - SAVIOR (에이비식스 이대휘 - 새비어) | Show Champion | EP.435]]></title>
-            <link>https://tv.naver.com/v/26979617</link>
-            <guid>https://tv.naver.com/v/26979617</guid>
-            <pubDate>Wed, 25 May 2022 12:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_247/pstOJ_1653474180460B8dl3_JPEG/CA202205250036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[T1419 - RUN UP (티일사일구 - 런업)]]></title>
-            <link>https://tv.naver.com/v/26979599</link>
-            <guid>https://tv.naver.com/v/26979599</guid>
-            <pubDate>Wed, 25 May 2022 11:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_137/a1atm_16534741311223lseb_JPEG/CA202205250069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
