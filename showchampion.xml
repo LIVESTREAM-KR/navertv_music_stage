@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 11:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 12:39:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월 1주차 ♥쇼챔피언♡ MC 모음.zip (베리베리 강민, ONEUS 이도&레이븐) | Show Champion | EP.436]]></title>
+            <link>https://tv.naver.com/v/27117465</link>
+            <guid>https://tv.naver.com/v/27117465</guid>
+            <pubDate>Thu, 02 Jun 2022 12:38:53 GMT</pubDate>
+            <content:encoded><![CDATA[9:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_249/3cP94_1654160882989CJklw_JPEG/CA202206010092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠] ONEUS RAVN - Bring it on (원어스 레이븐 - 덤벼) | Show Champion | EP.436]]></title>
             <link>https://tv.naver.com/v/27101390</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 11:16:28 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_278/TYLLQ_1654081923024oikFh_JPEG/CA202206010042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HWAYEON - blossom (화연 - 꽃핀다)]]></title>
-            <link>https://tv.naver.com/v/27099700</link>
-            <guid>https://tv.naver.com/v/27099700</guid>
-            <pubDate>Wed, 01 Jun 2022 11:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_121/q5RP7_16540819204233es1z_JPEG/CA202206010040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
