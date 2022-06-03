@@ -4,9 +4,33 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 03:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 04:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BLANK2Y (블랭키) - Touch + Thumbs Up ★Simply's Spotlight★ _ Ep.522]]></title>
+            <link>https://tv.naver.com/v/27134625</link>
+            <guid>https://tv.naver.com/v/27134625</guid>
+            <pubDate>Fri, 03 Jun 2022 04:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[8:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220603_171/3dgA2_1654230050279nab2d_PNG/1654223238226.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[☘희망찬 메시지 담은 메이져스의 ‘Giddy up (기디 업)’ _ Ep.522]]></title>
+            <link>https://tv.naver.com/v/27134439</link>
+            <guid>https://tv.naver.com/v/27134439</guid>
+            <pubDate>Fri, 03 Jun 2022 04:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220603_9/oZ8JW_1654229647073sNg65_PNG/1654223229381.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[섬세한 발라드🌼 감성 이대휘의 ‘너의 눈에 내가 보여서’ _ Ep.522]]></title>
+            <link>https://tv.naver.com/v/27134296</link>
+            <guid>https://tv.naver.com/v/27134296</guid>
+            <pubDate>Fri, 03 Jun 2022 04:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220603_133/rULeV_1654229244852ryCRv_PNG/1654223226664.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[《예고》이번주 심플리 콘투어는 에이비식스(AB6IX)와 함께 말레이시아로 떠난다~!! _522회]]></title>
             <link>https://tv.naver.com/v/27114549</link>
@@ -102,30 +126,6 @@
             <pubDate>Fri, 27 May 2022 04:33:51 GMT</pubDate>
             <content:encoded><![CDATA[3:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_89/p09vQ_1653624924283xUjrm_PNG/1653624134808.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[☘싱그러운 힐링 선사하는 나인아이의 ‘BEAUTY iNSIDE (뷰티 인사이드)’ _ Ep.521]]></title>
-            <link>https://tv.naver.com/v/27014025</link>
-            <guid>https://tv.naver.com/v/27014025</guid>
-            <pubDate>Fri, 27 May 2022 04:33:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_59/H25Lc_1653624918626gYbqa_PNG/1653624129562.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기분 좋은 🌼설렘을 전하는 버스터즈의 ‘풋’ _ Ep.521]]></title>
-            <link>https://tv.naver.com/v/27014021</link>
-            <guid>https://tv.naver.com/v/27014021</guid>
-            <pubDate>Fri, 27 May 2022 04:33:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_80/68qK4_1653624909937peab7_PNG/1653624121649.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[《예고》 콘투어 인도네시아 편에서 TNX(티엔엑스)의 매력에 '180초'만에 빠져보자! _ 521회]]></title>
-            <link>https://tv.naver.com/v/26996837</link>
-            <guid>https://tv.naver.com/v/26996837</guid>
-            <pubDate>Thu, 26 May 2022 09:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_6/3jqnn_1653555854557J01iT_PNG/1653555842951.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
