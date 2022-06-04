@@ -4,9 +4,65 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 07:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 08:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 라잇썸 직캠 ‘ALIVE’ (LIGHTSUM FanCam) @Show!MusicCore 220604]]></title>
+            <link>https://tv.naver.com/v/27159993</link>
+            <guid>https://tv.naver.com/v/27159993</guid>
+            <pubDate>Sat, 04 Jun 2022 08:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_129/GYhLN_1654330618822mAiSm_JPEG/clip_20220604165512_56.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 티엔엑스 직캠 ‘비켜 (MOVE)’ (TNX FanCam) @Show!MusicCore 220604]]></title>
+            <link>https://tv.naver.com/v/27159922</link>
+            <guid>https://tv.naver.com/v/27159922</guid>
+            <pubDate>Sat, 04 Jun 2022 08:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_234/jOruw_1654330326581yDrvP_JPEG/clip_20220604164349_55.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 유나이트 직캠 ‘EVERYBODY (Feat. DJ Juice)’ (YOUNITE FanCam) @Show!MusicCore 220604]]></title>
+            <link>https://tv.naver.com/v/27159920</link>
+            <guid>https://tv.naver.com/v/27159920</guid>
+            <pubDate>Sat, 04 Jun 2022 08:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_293/ewqRS_16543303239158Ieyo_JPEG/clip_20220604164236_54.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 클라씨 직캠 ‘CLASSY’ (CLASS:y FanCam) @Show!MusicCore 220604]]></title>
+            <link>https://tv.naver.com/v/27159916</link>
+            <guid>https://tv.naver.com/v/27159916</guid>
+            <pubDate>Sat, 04 Jun 2022 08:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_18/CDY2N_1654330321066zgoyq_JPEG/clip_20220604164210_53.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 빅톤 직캠 ‘Stupid O‘clock’ (VICTON FanCam) @Show!MusicCore 220604]]></title>
+            <link>https://tv.naver.com/v/27159847</link>
+            <guid>https://tv.naver.com/v/27159847</guid>
+            <pubDate>Sat, 04 Jun 2022 08:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_49/V4fLg_1654330082991d789g_JPEG/clip_20220604164048_52.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 조유리 직캠 ‘러브 쉿!’ (JO YURI FanCam) @Show!MusicCore 220604]]></title>
+            <link>https://tv.naver.com/v/27159844</link>
+            <guid>https://tv.naver.com/v/27159844</guid>
+            <pubDate>Sat, 04 Jun 2022 08:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_142/qixD6_16543300806832EkbT_JPEG/clip_20220604163903_50.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 조유리 직캠 ‘Opening’ (JO YURI FanCam) @Show!MusicCore 220604]]></title>
+            <link>https://tv.naver.com/v/27159822</link>
+            <guid>https://tv.naver.com/v/27159822</guid>
+            <pubDate>Sat, 04 Jun 2022 08:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_115/mQTXG_1654330022485oEF49_JPEG/clip_20220604163911_51.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 예린 최애직캠 ‘ARIA’ (YERIN Close-up Cam) @Show!MusicCore 220521]]></title>
             <link>https://tv.naver.com/v/26955721</link>
@@ -190,62 +246,6 @@
             <pubDate>Sun, 22 May 2022 16:08:08 GMT</pubDate>
             <content:encoded><![CDATA[5:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220521_79/oAJVk_1653121019244TlBDe_JPEG/clip_20220521165034_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 효연 세로캠 ‘DEEP’ (HYO FanCam) @Show! MusicCore 220521]]></title>
-            <link>https://tv.naver.com/v/26908436</link>
-            <guid>https://tv.naver.com/v/26908436</guid>
-            <pubDate>Sun, 22 May 2022 16:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220521_258/MWu0X_1653120119873ASSpD_JPEG/clip_20220521163313_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 예린 세로캠 ‘ARIA’ (YERIN FanCam) @Show! MusicCore 220521]]></title>
-            <link>https://tv.naver.com/v/26908349</link>
-            <guid>https://tv.naver.com/v/26908349</guid>
-            <pubDate>Sun, 22 May 2022 16:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220521_179/VnpKw_1653119824433OIqO8_JPEG/clip_20220521163301_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 예린 직캠 ‘ARIA’ (YERIN FanCam) @Show!MusicCore 220521]]></title>
-            <link>https://tv.naver.com/v/26908347</link>
-            <guid>https://tv.naver.com/v/26908347</guid>
-            <pubDate>Sun, 22 May 2022 16:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220521_140/L7biq_16531198225213TtpP_JPEG/clip_20220521163253_71.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 티엔엑스 직캠 ‘비켜 (MOVE)’ (TNX FanCam) @Show!MusicCore 220521]]></title>
-            <link>https://tv.naver.com/v/26908204</link>
-            <guid>https://tv.naver.com/v/26908204</guid>
-            <pubDate>Sun, 22 May 2022 16:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220521_25/1mvnJ_1653119221044S9mvo_JPEG/clip_20220521162220_70.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 효연 직캠 ‘DEEP’ (HYO FanCam) @Show!MusicCore 220521]]></title>
-            <link>https://tv.naver.com/v/26908094</link>
-            <guid>https://tv.naver.com/v/26908094</guid>
-            <pubDate>Sun, 22 May 2022 16:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220521_79/9Czvt_1653118680233I1TvW_JPEG/clip_20220521161128_69.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아스트로 직캠 ‘밤하늘의 별처럼’ (ASTRO FanCam) @Show!MusicCore 220521]]></title>
-            <link>https://tv.naver.com/v/26907926</link>
-            <guid>https://tv.naver.com/v/26907926</guid>
-            <pubDate>Sun, 22 May 2022 16:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220521_220/AZaeg_1653117779778pDOpl_JPEG/clip_20220521160209_68.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아스트로 문빈 직캠 ‘Candy Sugar Pop’ (ASTRO MOON BIN FanCam) @Show!MusicCore 220521]]></title>
-            <link>https://tv.naver.com/v/26907803</link>
-            <guid>https://tv.naver.com/v/26907803</guid>
-            <pubDate>Sun, 22 May 2022 16:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220521_157/pzndz_16531171197975LTuk_JPEG/clip_20220521154437_64.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
