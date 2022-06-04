@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 08:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 09:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 원어스 직캠 ‘덤벼 (Bring it on)’ (ONEUS FanCam) @Show!MusicCore 220604]]></title>
+            <link>https://tv.naver.com/v/27160360</link>
+            <guid>https://tv.naver.com/v/27160360</guid>
+            <pubDate>Sat, 04 Jun 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_58/AQMuB_165433211971800rLq_JPEG/clip_20220604171437_59.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 조유리 세로캠 ‘러브 쉿!’ (JO YURI FanCam) @Show! MusicCore 220604]]></title>
+            <link>https://tv.naver.com/v/27160138</link>
+            <guid>https://tv.naver.com/v/27160138</guid>
+            <pubDate>Sat, 04 Jun 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_89/udNJc_1654331219869s0DG0_JPEG/clip_20220604165601_57.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 조유리 세로캠 ‘Opening’ (JO YURI FanCam) @Show! MusicCore 220604]]></title>
+            <link>https://tv.naver.com/v/27160077</link>
+            <guid>https://tv.naver.com/v/27160077</guid>
+            <pubDate>Sat, 04 Jun 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_111/0GLe9_1654330981541a5axU_JPEG/clip_20220604170409_58.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 라잇썸 직캠 ‘ALIVE’ (LIGHTSUM FanCam) @Show!MusicCore 220604]]></title>
             <link>https://tv.naver.com/v/27159993</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 22 May 2022 16:08:08 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220521_278/qw0zN_165312131944820b1X_JPEG/clip_20220521165106_75.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 원어스 환웅 직캠 ‘덤벼 (Bring it on)’ (ONEUS HWAN WOONG FanCam) @Show!MusicCore 220521]]></title>
-            <link>https://tv.naver.com/v/26908607</link>
-            <guid>https://tv.naver.com/v/26908607</guid>
-            <pubDate>Sun, 22 May 2022 16:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220521_162/hR0Wu_1653121024588iw2Tt_JPEG/clip_20220521165157_79.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 원어스 건희 직캠 ‘덤벼 (Bring it on)’ (ONEUS KEON HEE FanCam) @Show!MusicCore 220521]]></title>
-            <link>https://tv.naver.com/v/26908606</link>
-            <guid>https://tv.naver.com/v/26908606</guid>
-            <pubDate>Sun, 22 May 2022 16:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220521_287/txO5R_1653121023182mrxzr_JPEG/clip_20220521165138_78.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 원어스 직캠 ‘Intro + 덤벼 (Bring it on)’ (ONEUS FanCam) @Show!MusicCore 220521]]></title>
-            <link>https://tv.naver.com/v/26908603</link>
-            <guid>https://tv.naver.com/v/26908603</guid>
-            <pubDate>Sun, 22 May 2022 16:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[5:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220521_79/oAJVk_1653121019244TlBDe_JPEG/clip_20220521165034_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
