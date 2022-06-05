@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 06:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 07:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220523_132/nIcwt_1653286082831namiS_JPEG/clip_20220523143635_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘나인아이’만의 청량한 매력 가득한 무대! ‘BEAUTY iNSIDE’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27176459</link>
+            <guid>https://tv.naver.com/v/27176459</guid>
+            <pubDate>Sun, 05 Jun 2022 07:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220605_132/oAT73_16544128802014udJm_JPEG/9f196c92-4a6a-458d-96c1-b9ec2ea5b792.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘아도라’가 선보이는 일상 속 여행 같은 순간들 ‘Trouble? TRAVEL!’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27176442</link>
+            <guid>https://tv.naver.com/v/27176442</guid>
+            <pubDate>Sun, 05 Jun 2022 07:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220605_57/jscve_1654412820867yLFNO_JPEG/98f27fa4-5f7b-4936-a6b5-6e498dc49731.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘세븐틴’, 태양을 마주한 듯 뜨거운 열기 가득한 무대 ‘HOT’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27046026</link>
             <guid>https://tv.naver.com/v/27046026</guid>
@@ -336,12 +352,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220529_173/LH4Pv_1653810119687C5Flp_JPEG/ec7b3e59-0b99-43c0-89a8-24dc6787ec9a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘TNX’의 웅장하고 파워풀한 퍼포먼스! ‘비켜’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <title><![CDATA[‘티엔엑스’의 웅장하고 파워풀한 퍼포먼스! ‘비켜’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27045698</link>
             <guid>https://tv.naver.com/v/27045698</guid>
             <pubDate>Sun, 29 May 2022 08:20:59 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220529_58/mtHf1_1653809881166uyM6M_JPEG/4876bbb9-937a-49c2-8641-a2f099f8a2fd.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220605_9/uwuqK_1654411625192yse3G_JPEG/b10276f8-7c07-4d07-9293-5a8552858bc5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘아이칠린’만의 톡톡 튀는 매력! ‘꼭꼭 숨어라’ (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -456,20 +472,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220522_257/e3cNl_1653205320964QecY4_JPEG/32d4b4e9-db1a-4a16-b111-003f3b82a0e6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘TNX’의 정적 따위 없는 꽉 찬 무대! ‘비켜’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <title><![CDATA[‘티엔엑스’의 정적 따위 없는 꽉 찬 무대! ‘비켜’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26919471</link>
             <guid>https://tv.naver.com/v/26919471</guid>
             <pubDate>Sun, 22 May 2022 16:08:15 GMT</pubDate>
             <content:encoded><![CDATA[5:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220522_291/gVfBD_1653205080126eRs4f_JPEG/12b1805a-4871-43dc-996b-3e22044839b7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220605_175/WdTMy_1654411626707HE5aR_JPEG/dc3e1170-1eb1-4389-89e0-8508b5b5baf6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘TNX’, 패기 넘치는 싸이표 첫 번째 보이그룹! ‘180초’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <title><![CDATA[‘티엔엑스’, 패기 넘치는 싸이표 첫 번째 보이그룹! ‘180초’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26919388</link>
             <guid>https://tv.naver.com/v/26919388</guid>
             <pubDate>Sun, 22 May 2022 16:08:15 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220522_78/MQpK7_1653204719490NTOGf_JPEG/adf9dc6e-7381-43a4-a718-f3fe475d2d14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220605_283/0VKxl_1654411628405E1d40_JPEG/5e41adc8-ca96-4cd2-bc55-fd8f7553e493.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘원어스’, 자신감으로 무장한 6명의 트릭스터 ‘덤벼’ (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -478,22 +494,6 @@
             <pubDate>Sun, 22 May 2022 16:08:15 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220522_10/i1vXS_1653204421246r9Fxw_JPEG/8ac646e2-8a19-481b-8baa-e12927d7cc5b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘르세라핌’, 중독성 강한 강렬한 퍼포먼스! ‘FEARLESS’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26919304</link>
-            <guid>https://tv.naver.com/v/26919304</guid>
-            <pubDate>Sun, 22 May 2022 16:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220522_77/xgp5T_1653204180895LYzUq_JPEG/a23631f9-a493-42ab-9b37-14e620e2e617.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘다크비’, 독보적 무대 장악력 퍼포먼스돌! ‘안취해’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26919297</link>
-            <guid>https://tv.naver.com/v/26919297</guid>
-            <pubDate>Sun, 22 May 2022 16:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220522_236/JEkvB_165320412604265Ag2_JPEG/69be5388-be62-4014-9e30-ffe728cfe444.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
