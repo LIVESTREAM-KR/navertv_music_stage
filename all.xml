@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 08:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 09:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》원어스(ONEUS)와 함께한 이번주 심플리 콘투어 말레이시아 편💌~!! _523회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27251567</link>
+            <guid>https://tv.naver.com/v/27251567</guid>
+            <pubDate>Thu, 09 Jun 2022 09:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_131/0kGZ9_1654764416390p4psq_PNG/1654764411397.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.522 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27135695</link>
             <guid>https://tv.naver.com/v/27135695</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Fri, 03 Jun 2022 05:18:06 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220602_220/OUl6i_16541558236331hicc_JPEG/1654155820525.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 에이비식스 전웅 ‘SAVIOR’ 가로직캠 (AB6IX JEON WOONG 'SAVIOR') l Simply K-Pop Ep.522 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27115374</link>
-            <guid>https://tv.naver.com/v/27115374</guid>
-            <pubDate>Fri, 03 Jun 2022 05:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_122/WM1qz_16541558123301HWvm_JPEG/1654155809038.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SURL_내 옆 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
