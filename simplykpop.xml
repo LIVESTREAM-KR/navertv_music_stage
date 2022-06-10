@@ -4,9 +4,33 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 03:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 04:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몸이 부서질 듯한 퍼포먼스💥 티엔엑스 (TNX)의 ‘비켜 (MOVE)’ _Ep523]]></title>
+            <link>https://tv.naver.com/v/27271594</link>
+            <guid>https://tv.naver.com/v/27271594</guid>
+            <pubDate>Fri, 10 Jun 2022 04:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_150/d3VFd_1654834724540xw38p_PNG/1654828110792.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[강렬한 밴드 사운드🎸 세마 (SEMA)의 ‘거짓말은 왜 (LIE)’ _ Ep.523]]></title>
+            <link>https://tv.naver.com/v/27271581</link>
+            <guid>https://tv.naver.com/v/27271581</guid>
+            <pubDate>Fri, 10 Jun 2022 04:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_78/w7Ola_1654834695402JRPqr_PNG/1654828106776.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[매력적인 퍼포먼스🕶 블랭키 (BLANK2Y)의 ‘떰즈 업 (Thumbs Up)’ _ Ep.523]]></title>
+            <link>https://tv.naver.com/v/27271404</link>
+            <guid>https://tv.naver.com/v/27271404</guid>
+            <pubDate>Fri, 10 Jun 2022 04:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_26/Eoyvd_1654834253009aoBFL_PNG/1654828102835.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[《예고》원어스(ONEUS)와 함께한 이번주 심플리 콘투어 말레이시아 편💌~!! _523회]]></title>
             <link>https://tv.naver.com/v/27251567</link>
@@ -102,30 +126,6 @@
             <pubDate>Fri, 03 Jun 2022 04:23:25 GMT</pubDate>
             <content:encoded><![CDATA[4:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220603_133/rULeV_1654229244852ryCRv_PNG/1654223226664.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 에이비식스 이대휘 'SAVIOR' 가로직캠 (AB6IX LEE DAEHWI 'SAVIOR') l Simply K-Pop Ep.522]]></title>
-            <link>https://tv.naver.com/v/27115874</link>
-            <guid>https://tv.naver.com/v/27115874</guid>
-            <pubDate>Fri, 03 Jun 2022 05:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_287/iH5GX_16541571121839RAL6_JPEG/1654157026062.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 에이비식스 박우진 ‘SAVIOR’ 가로직캠 (AB6IX PARK WOO JIN 'SAVIOR')ㅣSimply K -Pop CON-TOUR]]></title>
-            <link>https://tv.naver.com/v/27115510</link>
-            <guid>https://tv.naver.com/v/27115510</guid>
-            <pubDate>Fri, 03 Jun 2022 05:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_123/nx64R_1654156144863en662_JPEG/1654156142353.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 에이비식스 김동현 'SAVIOR' 가로직캠 (AB6IX KIM DONG HYUN 'SAVIOR') l Simply K-Pop Ep.522]]></title>
-            <link>https://tv.naver.com/v/27115379</link>
-            <guid>https://tv.naver.com/v/27115379</guid>
-            <pubDate>Fri, 03 Jun 2022 05:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_220/OUl6i_16541558236331hicc_JPEG/1654155820525.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
