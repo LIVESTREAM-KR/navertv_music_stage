@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 08:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 09:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 김재환 직캠 ‘달팽이’ (KIM JAE HWAN FanCam) @Show!MusicCore 220611]]></title>
+            <link>https://tv.naver.com/v/27293013</link>
+            <guid>https://tv.naver.com/v/27293013</guid>
+            <pubDate>Sat, 11 Jun 2022 09:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220611_232/5o4Sv_1654938420391IhfCu_JPEG/clip_20220611174534_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 조유리 세로캠 ‘러브 쉿!’ (JO YURI FanCam) @Show! MusicCore 220604]]></title>
             <link>https://tv.naver.com/v/27224953</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 23 May 2022 06:24:50 GMT</pubDate>
             <content:encoded><![CDATA[3:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220523_33/W6pzq_16532863219620wEUa_JPEG/clip_20220523143633_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 티엔엑스 최태훈 직캠 ‘비켜 (MOVE)’ (TNX TAE HUN FanCam) @Show!MusicCore 220521]]></title>
-            <link>https://tv.naver.com/v/26934088</link>
-            <guid>https://tv.naver.com/v/26934088</guid>
-            <pubDate>Mon, 23 May 2022 06:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220523_132/nIcwt_1653286082831namiS_JPEG/clip_20220523143635_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
