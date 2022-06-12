@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 01:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 03:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[심플리 비하인드: MC휘의 개편 준비 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27299889</link>
+            <guid>https://tv.naver.com/v/27299889</guid>
+            <pubDate>Sun, 12 Jun 2022 03:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[5:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220612_78/VNDWA_16550022463622SPLq_PNG/1655002191217.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.523 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27276918</link>
             <guid>https://tv.naver.com/v/27276918</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Fri, 10 Jun 2022 07:18:02 GMT</pubDate>
             <content:encoded><![CDATA[3:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220609_11/LyL0A_16547565809421YPfm_JPEG/1654756576787.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 원어스 레이븐 ’덤벼‘ 직캠 (ONEUS RAVN 'Bring it on’) l Simply K -Pop CON-TOUR Ep.523 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27253124</link>
-            <guid>https://tv.naver.com/v/27253124</guid>
-            <pubDate>Fri, 10 Jun 2022 07:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_131/UeVNf_1654756571534JCKOu_JPEG/1654756568160.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안예은_출항 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
