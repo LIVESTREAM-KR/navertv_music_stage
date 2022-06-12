@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 06:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 07:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220611_226/DIaZV_16549393211066456g_JPEG/clip_20220611174839_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘유나이트’가 선보이는 복잡한 세상 속 paradise♬ ‘EVERYBODY (Ft. DJ Juice)’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27302773</link>
+            <guid>https://tv.naver.com/v/27302773</guid>
+            <pubDate>Sun, 12 Jun 2022 07:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220612_300/mqWrF_1655017923543qUzFx_JPEG/15b21fde-869d-4424-9338-c2cef9e03ae0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘아도라’, 긍정 메시지 담은 동화적 무드! ‘Trouble? TRAVEL!’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27302772</link>
+            <guid>https://tv.naver.com/v/27302772</guid>
+            <pubDate>Sun, 12 Jun 2022 07:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220612_27/CFGbt_1655017921574NfCrw_JPEG/4c192740-21ef-4744-9f7b-2561842f724d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘세마’,  파워풀한 밴드 사운드에 아련 감성 한 스푼♬ ‘거짓말은 왜’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27302698</link>
+            <guid>https://tv.naver.com/v/27302698</guid>
+            <pubDate>Sun, 12 Jun 2022 07:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220612_26/AcREb_1655017621716AvVls_JPEG/1f51f6dd-b59e-424e-9249-96f754d4b337.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘세븐틴’의 열정적 에너지 담긴 칼군무 ‘HOT’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27177393</link>
             <guid>https://tv.naver.com/v/27177393</guid>
@@ -470,30 +494,6 @@
             <pubDate>Sun, 29 May 2022 08:20:59 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220605_9/uwuqK_1654411625192yse3G_JPEG/b10276f8-7c07-4d07-9293-5a8552858bc5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘아이칠린’만의 톡톡 튀는 매력! ‘꼭꼭 숨어라’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27045529</link>
-            <guid>https://tv.naver.com/v/27045529</guid>
-            <pubDate>Sun, 29 May 2022 08:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220529_276/EJWky_1653808983469y7Ixx_JPEG/af89d568-e289-4c1e-80cf-2723f634b769.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘싸이퍼’, 청량한 사운드로 가득 채운 무대! ‘Fame’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27045527</link>
-            <guid>https://tv.naver.com/v/27045527</guid>
-            <pubDate>Sun, 29 May 2022 08:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220529_174/ZrRlp_1653808981472KOeyt_JPEG/f6e31d9c-ce27-440b-ba46-cc494694e7ff.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트롯계의 샛별 ‘승국이’의 중독성 넘치는 멜로디! ‘검문할게요’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27045468</link>
-            <guid>https://tv.naver.com/v/27045468</guid>
-            <pubDate>Sun, 29 May 2022 07:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220529_271/diubw_1653808619704epjOA_JPEG/8e4115a1-5174-4e3a-99b4-243108090365.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
