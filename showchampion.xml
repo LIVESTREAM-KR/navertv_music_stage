@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 05:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 06:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] This Time 유리의 가방 대.공.개! ✧Show Yuri’s Bag✧]]></title>
+            <link>https://tv.naver.com/v/27319981</link>
+            <guid>https://tv.naver.com/v/27319981</guid>
+            <pubDate>Mon, 13 Jun 2022 06:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_187/HBvlI_1655099826223sm2Pg_JPEG/CA202206150003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6월 2주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.437]]></title>
             <link>https://tv.naver.com/v/27257248</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 08 Jun 2022 13:38:38 GMT</pubDate>
             <content:encoded><![CDATA[3:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_171/XuG0M_1654679223413UhY72_JPEG/CA202206080055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] LIGHTSUM NAYOUNG - ALIVE (라잇썸 나영 - 얼라이브) | Show Champion | EP.437]]></title>
-            <link>https://tv.naver.com/v/27233851</link>
-            <guid>https://tv.naver.com/v/27233851</guid>
-            <pubDate>Wed, 08 Jun 2022 13:38:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_142/cW4ns_1654678922742Vifp3_JPEG/CA202206080052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
