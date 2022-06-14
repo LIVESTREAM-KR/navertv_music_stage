@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 01:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 03:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔직캠] Billlie - GingaMingaYo (빌리 - 긴가민가요) l Show Champion l EP.426]]></title>
+            <link>https://tv.naver.com/v/27334768</link>
+            <guid>https://tv.naver.com/v/27334768</guid>
+            <pubDate>Tue, 14 Jun 2022 03:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_32/VLj9O_1655171591643Cxg7A_JPEG/CA202203090042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] This Time 유리의 가방 대.공.개! ✧Show Yuri’s Bag✧]]></title>
             <link>https://tv.naver.com/v/27319981</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 08 Jun 2022 13:38:38 GMT</pubDate>
             <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_67/DOum0_1654679821248nwkLb_JPEG/CA202206080051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ONEUS RAVN - Bring it on (원어스 레이븐 - 덤벼) | Show Champion | EP.437]]></title>
-            <link>https://tv.naver.com/v/27233971</link>
-            <guid>https://tv.naver.com/v/27233971</guid>
-            <pubDate>Wed, 08 Jun 2022 13:38:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_171/XuG0M_1654679223413UhY72_JPEG/CA202206080055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
