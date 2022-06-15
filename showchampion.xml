@@ -4,9 +4,33 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 10:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 11:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JOYURI - Love Shhh! (조유리 - 러브 쉿!)]]></title>
+            <link>https://tv.naver.com/v/27367994</link>
+            <guid>https://tv.naver.com/v/27367994</guid>
+            <pubDate>Wed, 15 Jun 2022 11:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_300/nvgIE_1655289125453W5y5W_JPEG/CA202206150066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ONEUS - Skydivin' (원어스 - 스카이다이빙)]]></title>
+            <link>https://tv.naver.com/v/27367845</link>
+            <guid>https://tv.naver.com/v/27367845</guid>
+            <pubDate>Wed, 15 Jun 2022 11:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_225/oHtl2_1655288581044pPMv1_JPEG/CA202206150064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최초 공개] JOYURI - This Time (조유리 - 디스 타임)]]></title>
+            <link>https://tv.naver.com/v/27367835</link>
+            <guid>https://tv.naver.com/v/27367835</guid>
+            <pubDate>Wed, 15 Jun 2022 11:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_82/2gz3L_165528852082894qfa_JPEG/CA202206150065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[COMEBACK] woo!ah! - Danger (우아! - 단거)]]></title>
             <link>https://tv.naver.com/v/27367766</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 08 Jun 2022 10:19:36 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_173/KJDgx_1654682526508HIhdU_JPEG/CA202206080064_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BVNDIT - VENOM (밴디트 - 베놈)]]></title>
-            <link>https://tv.naver.com/v/27235057</link>
-            <guid>https://tv.naver.com/v/27235057</guid>
-            <pubDate>Wed, 08 Jun 2022 10:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_176/fWZvp_1654682524059xi7gB_JPEG/CA202206080072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ONEUS KEONHEE - Bring it on (원어스 건희 - 덤벼) | Show Champion | EP.437]]></title>
-            <link>https://tv.naver.com/v/27234972</link>
-            <guid>https://tv.naver.com/v/27234972</guid>
-            <pubDate>Wed, 08 Jun 2022 13:38:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_161/8nwKC_1654682222461DOpcR_JPEG/CA202206080058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BUSTERS - Futt (버스터즈 - 풋)]]></title>
-            <link>https://tv.naver.com/v/27234907</link>
-            <guid>https://tv.naver.com/v/27234907</guid>
-            <pubDate>Wed, 08 Jun 2022 10:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_120/3B3DU_16546819808829mMso_JPEG/CA202206080068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
