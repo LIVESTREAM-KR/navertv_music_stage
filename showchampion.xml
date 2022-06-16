@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 23:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 01:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] TNX - Your Favorite Melody (티엔엑스 - 작은 노래) l Show Champion l EP.438]]></title>
+            <link>https://tv.naver.com/v/27375673</link>
+            <guid>https://tv.naver.com/v/27375673</guid>
+            <pubDate>Thu, 16 Jun 2022 01:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_18/mX66J_1655341681844ERfD7_JPEG/CA202206150095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] TNX SUNG JUN - Your Favorite Melody  (티엔엑스 오성준 -  작은 노래) | Show Champion | EP.438]]></title>
             <link>https://tv.naver.com/v/27371488</link>
@@ -80,7 +88,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220615_232/W1A6V_1655293981016g06YH_JPEG/CA202206150088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] JOYURI - Love Shhh! (조유리 - 러브 쉿!) | Show Champion | EP.438]]></title>
+            <title><![CDATA[[쇼챔직캠 4K] JO YURI - Love Shhh! (조유리 - 러브 쉿!) | Show Champion | EP.438]]></title>
             <link>https://tv.naver.com/v/27369255</link>
             <guid>https://tv.naver.com/v/27369255</guid>
             <pubDate>Wed, 15 Jun 2022 13:36:23 GMT</pubDate>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Jun 2022 10:19:28 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220615_40/9Siqo_1655286424053Qq7pc_JPEG/CA202206150056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] woo!ah! MINSEO - Danger (우아! 민서 - 단거) | Show Champion | EP.438]]></title>
-            <link>https://tv.naver.com/v/27367282</link>
-            <guid>https://tv.naver.com/v/27367282</guid>
-            <pubDate>Wed, 15 Jun 2022 13:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_233/ZQ09k_1655286422571CdKNP_JPEG/CA202206150040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
