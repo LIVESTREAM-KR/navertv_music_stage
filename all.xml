@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 10:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 11:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[6월 3주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.438 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27386889</link>
+            <guid>https://tv.naver.com/v/27386889</guid>
+            <pubDate>Thu, 16 Jun 2022 11:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[9:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_201/MtMNJ_1655369523106ukoUf_JPEG/CA202206150118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] TNX - Your Favorite Melody (티엔엑스 - 작은 노래) l Show Champion l EP.438 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27375673</link>
             <guid>https://tv.naver.com/v/27375673</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 15 Jun 2022 13:36:23 GMT</pubDate>
             <content:encoded><![CDATA[3:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220615_218/d1XYN_1655286719420veQJV_JPEG/CA202206150049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] SECRET NUMBER - DOOMCHITA (시크릿넘버 - 둠치타) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27367283</link>
-            <guid>https://tv.naver.com/v/27367283</guid>
-            <pubDate>Wed, 15 Jun 2022 10:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_40/9Siqo_1655286424053Qq7pc_JPEG/CA202206150056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
