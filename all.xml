@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 05:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 06:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.524 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27402095</link>
+            <guid>https://tv.naver.com/v/27402095</guid>
+            <pubDate>Fri, 17 Jun 2022 06:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[56:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_50/LQs0v_1655442129462xpYtl_PNG/1655442126291.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[SECRET NUMBER (시크릿넘버) - HOLA + DOOMCHITA (둠치타) ★Simply's Spotlight★ _ Ep.524 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27401984</link>
             <guid>https://tv.naver.com/v/27401984</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Fri, 17 Jun 2022 05:18:55 GMT</pubDate>
             <content:encoded><![CDATA[2:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_289/3JDi7_1655364331974npEE8_JPEG/1655364328300.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 비아이 'BTBT (Feat. DeVita)' 직캠 (B.I 'BTBT (Feat. DeVita)') l Simply K -Pop CON-TOUR Ep.524 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27384380</link>
-            <guid>https://tv.naver.com/v/27384380</guid>
-            <pubDate>Fri, 17 Jun 2022 05:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_4/e859R_1655364323612UpAK5_JPEG/1655364321075.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안예은_출항 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
