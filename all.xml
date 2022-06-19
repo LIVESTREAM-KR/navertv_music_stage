@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 05:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 06:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220611_226/DIaZV_16549393211066456g_JPEG/clip_20220611174839_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘밴디트’의 폭발적 에너지 담긴 퍼포먼스! ‘VENOM’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27430195</link>
+            <guid>https://tv.naver.com/v/27430195</guid>
+            <pubDate>Sun, 19 Jun 2022 06:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220619_61/Cew7t_1655619420092G2pHk_JPEG/f8add77e-b884-4792-8b02-2de813a778d9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘클라씨’, 시선 압도하는 당당한 매력! ‘CLASSY’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27430084</link>
+            <guid>https://tv.naver.com/v/27430084</guid>
+            <pubDate>Sun, 19 Jun 2022 06:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220619_278/q0YtO_1655618878864sUYAx_JPEG/f87745ed-be79-4746-9420-7e441daeff4b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝핑 캔디처럼 짜릿하게 터지는 ‘버가부’의 무대! ‘POP’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27430067</link>
+            <guid>https://tv.naver.com/v/27430067</guid>
+            <pubDate>Sun, 19 Jun 2022 06:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220619_130/LFo80_1655618819815PxBqP_JPEG/1752f4cd-9384-4914-9e19-f3e5901ed4cc.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘트렌드지’의 더욱 견고해진 퍼포먼스! ‘WHO’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27430023</link>
+            <guid>https://tv.naver.com/v/27430023</guid>
+            <pubDate>Sun, 19 Jun 2022 06:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220619_82/QYpon_1655618522358dxMsn_JPEG/5427b37d-3893-4810-afad-67a4e89558d7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개성 넘치는 컨셉돌 ‘픽시’의 시네마틱 퍼포먼스! ‘Villain’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27429917</link>
+            <guid>https://tv.naver.com/v/27429917</guid>
+            <pubDate>Sun, 19 Jun 2022 06:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220619_25/ylJae_1655617982299YsmC8_JPEG/b9f98cbd-53f5-4d17-9952-d966d818caa2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[단독 공개! ‘사공이호’, 메타버스 기반 3인조 버추얼 그룹! ‘WAKE UP’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27303935</link>
             <guid>https://tv.naver.com/v/27303935</guid>
@@ -454,46 +494,6 @@
             <pubDate>Sun, 05 Jun 2022 08:19:48 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220605_23/KQ1wF_1654414919863QSvNo_JPEG/508625a3-5393-4bfb-8842-bd89262e6d05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘라잇썸’만의 생동감 넘치는 사랑스러운 무대! ‘ALIVE’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27176998</link>
-            <guid>https://tv.naver.com/v/27176998</guid>
-            <pubDate>Sun, 05 Jun 2022 08:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220605_231/UPqFh_1654414622224ACmMD_JPEG/428ab260-0f74-47d4-91a5-2a83346ecbfc.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘싸이퍼’의 청량한 매력 더해진 퍼포먼스! ‘Fame’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27176997</link>
-            <guid>https://tv.naver.com/v/27176997</guid>
-            <pubDate>Sun, 05 Jun 2022 08:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220605_24/v5HjV_1654414620213QQ1uF_JPEG/e202ff26-f8ac-443b-b93c-86567086c747.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘버스터즈’의 솔직한 풋사랑! ‘풋’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27176910</link>
-            <guid>https://tv.naver.com/v/27176910</guid>
-            <pubDate>Sun, 05 Jun 2022 08:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220605_83/Ur8cW_1654414324055muEPC_JPEG/1fc7fccd-cb5f-4ed5-a981-572e2e88ce49.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘티엔엑스’가 선보이는 파워풀한 에너지! ‘비켜’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27176822</link>
-            <guid>https://tv.naver.com/v/27176822</guid>
-            <pubDate>Sun, 05 Jun 2022 08:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220605_105/AR58C_1654414022670ppf1r_JPEG/da93ce99-4252-4df2-a830-e2bb3ae6a41d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘클라씨’, 칼군무 걸크러시로 무대 장악! ‘CLASSY’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27176731</link>
-            <guid>https://tv.naver.com/v/27176731</guid>
-            <pubDate>Sun, 05 Jun 2022 08:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220605_4/8uB1U_1654413721926BkLvP_JPEG/c3d4cd25-a900-4eb2-b6d3-1050139d5e7c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
