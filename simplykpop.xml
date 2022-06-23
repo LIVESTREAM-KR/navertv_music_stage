@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 08:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 09:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[《예고》오메가엑스(OMEGA X)와 함께한 이번주 심플리 콘투어 베트남 편💌~!! _525회]]></title>
+            <link>https://tv.naver.com/v/27518814</link>
+            <guid>https://tv.naver.com/v/27518814</guid>
+            <pubDate>Thu, 23 Jun 2022 09:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_148/XEcoK_1655973704414DAc1Q_PNG/1655973694805.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.524]]></title>
             <link>https://tv.naver.com/v/27402095</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 17 Jun 2022 05:18:55 GMT</pubDate>
             <content:encoded><![CDATA[3:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_226/Vkhrx_1655364303937fIVt7_JPEG/1655364300456.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 비아이 'BTBT (Feat. DeVita)' 가로직캠 (B.I 'BTBT (Feat. DeVita)') l Simply K -Pop CON-TOUR Ep.524]]></title>
-            <link>https://tv.naver.com/v/27384387</link>
-            <guid>https://tv.naver.com/v/27384387</guid>
-            <pubDate>Fri, 17 Jun 2022 05:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_289/3JDi7_1655364331974npEE8_JPEG/1655364328300.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
