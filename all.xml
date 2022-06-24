@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 05:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 06:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.525 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27540319</link>
+            <guid>https://tv.naver.com/v/27540319</guid>
+            <pubDate>Fri, 24 Jun 2022 06:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[57:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_116/Xxsr6_16560469631087zKfB_PNG/1656046929769.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[당당한 자신감👑 SECRET NUMBER (시크릿넘버)의 ‘DOOMCHITA (둠치타)’ _ Ep.525 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27540174</link>
+            <guid>https://tv.naver.com/v/27540174</guid>
+            <pubDate>Fri, 24 Jun 2022 06:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_119/oZdDS_1656046886230qB2Ul_PNG/1656046883250.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑스러운 비주얼🍭 woo!ah! (우아!)의 ‘Danger (단거)’ _ Ep.525 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27540101</link>
+            <guid>https://tv.naver.com/v/27540101</guid>
+            <pubDate>Fri, 24 Jun 2022 06:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_236/8Zsqj_1656046290335o0JoR_PNG/1656045795096.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[나른하고 독보적인 색채🎨 B.I (비아이)의 ‘BTBT (Feat. DeVita) (비티비티)’ _ Ep.525 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27540031</link>
+            <guid>https://tv.naver.com/v/27540031</guid>
+            <pubDate>Fri, 24 Jun 2022 06:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[2:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_14/pTxPj_1656046090032NvoDR_PNG/1656044968184.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[따뜻한 감성의 위로🌼 TNX (티엔엑스)의 ‘Your Favorite Melody (작은 노래)’ _ Ep.525 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27539881</link>
+            <guid>https://tv.naver.com/v/27539881</guid>
+            <pubDate>Fri, 24 Jun 2022 06:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_203/H5bYq_1656045705572xS2Ie_PNG/1656044974071.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[미련한 사랑🖤 SEMA (세마)의 ‘LIE (거짓말은 왜)’ _ Ep.525 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27539798</link>
             <guid>https://tv.naver.com/v/27539798</guid>
@@ -1856,60 +1896,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_148/XEcoK_1655973704414DAc1Q_PNG/1655973694805.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.524 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27402095</link>
-            <guid>https://tv.naver.com/v/27402095</guid>
-            <pubDate>Fri, 17 Jun 2022 06:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[56:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_50/LQs0v_1655442129462xpYtl_PNG/1655442126291.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SECRET NUMBER (시크릿넘버) - HOLA + DOOMCHITA (둠치타) ★Simply's Spotlight★ _ Ep.524 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27401984</link>
-            <guid>https://tv.naver.com/v/27401984</guid>
-            <pubDate>Fri, 17 Jun 2022 05:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[8:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_231/uR6ll_1655441713011naszE_PNG/1655441462571.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[강렬한 ❤사랑의 이끌림 B.I (비아이)의 ‘BTBT (Feat. DeVita) (비틀비틀)’ _ Ep.524 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27401854</link>
-            <guid>https://tv.naver.com/v/27401854</guid>
-            <pubDate>Fri, 17 Jun 2022 05:18:55 GMT</pubDate>
+            <title><![CDATA[[PLYCAM 4K] 비아이 'BTBT (Feat. DeVita)' 가로직캠 (B.I 'BTBT (Feat. DeVita)') l Simply K -Pop CON-TOUR Ep.525 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27516084</link>
+            <guid>https://tv.naver.com/v/27516084</guid>
+            <pubDate>Fri, 24 Jun 2022 06:22:42 GMT</pubDate>
             <content:encoded><![CDATA[2:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_75/QQ0Tk_1655441188733laUHF_PNG/1655440700617.png?type=f172_97_blend" length="0" type="image/png"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_9/f3aAm_1655961006642t5Ht5_JPEG/1655958897465.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🍫달콤함에 헤어나올 수 없는 woo!ah! (우아!)의 ‘Danger (단거)’ _ Ep.524 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27401795</link>
-            <guid>https://tv.naver.com/v/27401795</guid>
-            <pubDate>Fri, 17 Jun 2022 05:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_144/6EJ6w_16554409922342Xop3_PNG/1655440549076.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[순도 100%의 사랑💖 OMEGA X (오메가엑스)의 ‘PLAY DUMB (플레이덤)’ _ Ep.52 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27401747</link>
-            <guid>https://tv.naver.com/v/27401747</guid>
-            <pubDate>Fri, 17 Jun 2022 05:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_168/DvzZ9_1655440812827i0fRn_PNG/1655440810111.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[밝은 에너지의 힐링송🧸 TNX (티엔엑스)의 ‘작은 노래 (Your Favorite Melody)’ _ Ep.524 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27401643</link>
-            <guid>https://tv.naver.com/v/27401643</guid>
-            <pubDate>Fri, 17 Jun 2022 05:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_282/gslSg_1655440494609ayhQo_PNG/1655440422563.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[상큼한 하이틴 감성🍭 LIGHTSUM (라잇썸)의 ‘ALIVE (얼라이브)’ _ Ep.524 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27401556</link>
-            <guid>https://tv.naver.com/v/27401556</guid>
-            <pubDate>Fri, 17 Jun 2022 04:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_265/p4xJD_1655440238640r6Vnb_PNG/1655439085268.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[[PLYCAM 4K] 비아이 'BTBT (Feat. DeVita)' 직캠 (B.I 'BTBT (Feat. DeVita)') l Simply K -Pop CON-TOUR Ep.525 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27516082</link>
+            <guid>https://tv.naver.com/v/27516082</guid>
+            <pubDate>Fri, 24 Jun 2022 06:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_105/A0goY_1655961002123QJDJI_JPEG/1655958891771.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤언니_커피 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
