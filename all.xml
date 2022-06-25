@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 08:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 09:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,54 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] DRIPPIN - ZERO(드리핀 - 제로) FanCam | Show! MusicCore | MBC220625방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27562424</link>
+            <guid>https://tv.naver.com/v/27562424</guid>
+            <pubDate>Sat, 25 Jun 2022 09:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220625_230/M0xbA_1656147180239Y1tfC_JPEG/clip_20220625172622_52.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TAN - LOUDER(탄 – 라우더) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220625방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27562374</link>
+            <guid>https://tv.naver.com/v/27562374</guid>
+            <pubDate>Sat, 25 Jun 2022 09:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220625_293/HcgfJ_1656146820369fgkGA_JPEG/clip_20220625172740_53.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] LOONA – Flip That(이달의 소녀 - 플립 댓) FanCam | Show! MusicCore | MBC220625방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27562373</link>
+            <guid>https://tv.naver.com/v/27562373</guid>
+            <pubDate>Sat, 25 Jun 2022 09:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220625_228/2E9Vk_1656146818584V2CfC_JPEG/clip_20220625172220_49.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Kep1er - UP!(케플러 - 업!) FanCam | Show! MusicCore | MBC220625방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27562315</link>
+            <guid>https://tv.naver.com/v/27562315</guid>
+            <pubDate>Sat, 25 Jun 2022 09:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220625_54/7PMu2_1656146520018nlyj9_JPEG/clip_20220625171953_48.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NAYEON- POP!(나연 – 팝!) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220625방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27562248</link>
+            <guid>https://tv.naver.com/v/27562248</guid>
+            <pubDate>Sat, 25 Jun 2022 09:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220625_179/pTht9_1656146219927o8Jeh_JPEG/clip_20220625171341_47.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CLASS:y - CLASSY(클라씨 - 클라씨) FanCam | Show! MusicCore | MBC220625방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27562111</link>
+            <guid>https://tv.naver.com/v/27562111</guid>
+            <pubDate>Sat, 25 Jun 2022 09:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220625_113/yS2al_1656145380851klrPz_JPEG/clip_20220625170517_46.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 시크릿넘버 수담 직캠 ‘둠치타(DOOMCHITA)’ (SECRET NUMBER SOODAM FanCam) @Show!MusicCore 220611 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -206,54 +254,6 @@
             <pubDate>Sat, 11 Jun 2022 10:17:18 GMT</pubDate>
             <content:encoded><![CDATA[3:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220611_206/cBcXW_1654939624119DfmFb_JPEG/clip_20220611175137_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 우아! 소라 직캠 ‘Danger(단거)’ (woo!ah! SORA FanCam) @Show! MusicCore 220611 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27293188</link>
-            <guid>https://tv.naver.com/v/27293188</guid>
-            <pubDate>Sat, 11 Jun 2022 10:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[4:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220611_240/nJVqJ_165493962271196mcI_JPEG/clip_20220611174842_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 티엔엑스 직캠 ‘비켜 (MOVE)’ (TNX FanCam) @Show!MusicCore 220611 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27293154</link>
-            <guid>https://tv.naver.com/v/27293154</guid>
-            <pubDate>Sat, 11 Jun 2022 10:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220611_259/5aJGm_1654939327334K6mXu_JPEG/clip_20220611175020_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 빅톤 직캠 ‘Stupid O‘clock’ (VICTON FanCam) @Show!MusicCore 220611 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27293151</link>
-            <guid>https://tv.naver.com/v/27293151</guid>
-            <pubDate>Sat, 11 Jun 2022 10:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220611_28/3b1Cq_1654939325338cKBRG_JPEG/clip_20220611174953_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 우아! 직캠 ‘Danger(단거)’ (woo!ah! FanCam) @Show!MusicCore 220611 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27293149</link>
-            <guid>https://tv.naver.com/v/27293149</guid>
-            <pubDate>Sat, 11 Jun 2022 10:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220611_237/lsvvH_1654939323254xrFf6_JPEG/clip_20220611174917_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 우아! 우연 직캠 ‘Danger(단거)’ (woo!ah! WOOYEON  FanCam) @Show! MusicCore 220611 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27293148</link>
-            <guid>https://tv.naver.com/v/27293148</guid>
-            <pubDate>Sat, 11 Jun 2022 10:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220611_127/5F5Pr_16549393220884ml3b_JPEG/clip_20220611174846_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 우아! 루시 직캠 ‘Danger(단거)’ (woo!ah! LUCY FanCam) @Show! MusicCore 220611 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27293147</link>
-            <guid>https://tv.naver.com/v/27293147</guid>
-            <pubDate>Sat, 11 Jun 2022 10:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220611_226/DIaZV_16549393211066456g_JPEG/clip_20220611174839_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[21세기 팝 아이콘 ‘방탄소년단’의 감동적인 컴백★ ‘Yet To Come’ (SBS 인기가요 ─ 네이버TV)]]></title>
