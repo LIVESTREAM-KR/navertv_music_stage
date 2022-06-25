@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 10:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 11:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,46 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KIM HEE-JAE - Zzan Zzan Zzan(김희재 – 짠짠짠) FanCam | Show! MusicCore | MBC220625방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27563805</link>
+            <guid>https://tv.naver.com/v/27563805</guid>
+            <pubDate>Sat, 25 Jun 2022 11:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220625_28/IIwIm_16561537193718lFVs_JPEG/clip_20220625192421_80.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] BDC - Blue Sky(비디씨 – 어느 밤 Blue Sky) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220625방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27563760</link>
+            <guid>https://tv.naver.com/v/27563760</guid>
+            <pubDate>Sat, 25 Jun 2022 11:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220625_44/WDiL9_1656153479265PkauQ_JPEG/clip_20220625191414_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NAYEON- POP!(나연 – 팝!) FanCam | Show! MusicCore | MBC220625방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27563743</link>
+            <guid>https://tv.naver.com/v/27563743</guid>
+            <pubDate>Sat, 25 Jun 2022 11:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220625_229/4Kqi3_1656153419117uX2Ab_JPEG/clip_20220625191545_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Lim Young-woong - RAINBOW(임영웅 – 무지개) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220625 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27563551</link>
+            <guid>https://tv.naver.com/v/27563551</guid>
+            <pubDate>Sat, 25 Jun 2022 11:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220625_94/HrlZA_16561552254333vMRq_JPEG/clip_20220625195734_91.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] WONHO - CRAZY(원호 – 크레이지) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220625방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27563496</link>
+            <guid>https://tv.naver.com/v/27563496</guid>
+            <pubDate>Sat, 25 Jun 2022 11:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220625_136/H1EMd_1656152220979Pt5J8_JPEG/clip_20220625184609_59.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] Kim Hee-jae - Zzan Zzan Zzan(김희재 – 짠짠짠) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -214,46 +254,6 @@
             <pubDate>Sat, 11 Jun 2022 11:13:32 GMT</pubDate>
             <content:encoded><![CDATA[4:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220611_243/gPA9L_1654942918605EaMVA_JPEG/clip_20220611183932_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 포레스텔라 고우림 직캠 ‘Save our lives’ (Forestella KO WOORIM FanCam) @Show! MusicCore 220611 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27293631</link>
-            <guid>https://tv.naver.com/v/27293631</guid>
-            <pubDate>Sat, 11 Jun 2022 10:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[4:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220611_104/MSX28_1654942621890dx5RT_JPEG/clip_20220611184002_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 포레스텔라 직캠 ‘Save our lives’ (Forestella FanCam) @Show!MusicCore 220611 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27293630</link>
-            <guid>https://tv.naver.com/v/27293630</guid>
-            <pubDate>Sat, 11 Jun 2022 10:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[4:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220611_234/1Y9nS_1654942619807CKBHx_JPEG/clip_20220611183913_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 포레스텔라 조민규 직캠 ‘Save our lives’ (Forestella CHO MINGYU FanCam) @Show! MusicCore 220611 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27293536</link>
-            <guid>https://tv.naver.com/v/27293536</guid>
-            <pubDate>Sat, 11 Jun 2022 10:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[4:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220611_22/YbFSq_1654942083299M36XN_JPEG/clip_20220611183953_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 포레스텔라 강형호 직캠 ‘Save our lives’ (Forestella KANG HYUNGHO FanCam) @Show! MusicCore 220611 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27293534</link>
-            <guid>https://tv.naver.com/v/27293534</guid>
-            <pubDate>Sat, 11 Jun 2022 10:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[4:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220611_253/4o4k8_1654942081927UQWqt_JPEG/clip_20220611183943_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 유나이트 직캠 ‘EVERYBODY (Feat. DJ Juice)’ (YOUNITE FanCam) @Show!MusicCore 220611 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27293356</link>
-            <guid>https://tv.naver.com/v/27293356</guid>
-            <pubDate>Sat, 11 Jun 2022 10:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[4:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220611_285/yEzgc_1654945319434HwKKS_JPEG/clip_20220611195227_39.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[21세기 팝 아이콘 ‘방탄소년단’의 감동적인 컴백★ ‘Yet To Come’ (SBS 인기가요 ─ 네이버TV)]]></title>
