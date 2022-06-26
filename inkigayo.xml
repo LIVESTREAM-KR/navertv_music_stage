@@ -4,9 +4,25 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 06:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 07:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트렌드지의 치명적 퍼포먼스 발산! ‘WHO [吼]’]]></title>
+            <link>https://tv.naver.com/v/27573357</link>
+            <guid>https://tv.naver.com/v/27573357</guid>
+            <pubDate>Sun, 26 Jun 2022 07:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220626_47/nxWh5_165622751855027hcS_JPEG/5a9f26c7-ca21-4fbd-8ec3-bdcdb7fff885.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다국적 걸그룹 ‘라필루스’의 파워풀 틴크러시! ‘HIT YA!’]]></title>
+            <link>https://tv.naver.com/v/27573297</link>
+            <guid>https://tv.naver.com/v/27573297</guid>
+            <pubDate>Sun, 26 Jun 2022 07:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220626_277/10WoG_1656227278623XeByS_JPEG/10d76061-89df-429d-b118-21e6a170a87a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[21세기 팝 아이콘 ‘방탄소년단’의 감동적인 컴백★ ‘Yet To Come’]]></title>
             <link>https://tv.naver.com/v/27430595</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 12 Jun 2022 08:19:23 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220612_212/YgKKv_1655018582502HMmQB_JPEG/c70a8a27-9b94-4133-8c35-c4a6f2ffeaae.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘설하윤’, 속담으로 듣는 사람 사는 이야기! ‘속담파티’]]></title>
-            <link>https://tv.naver.com/v/27302856</link>
-            <guid>https://tv.naver.com/v/27302856</guid>
-            <pubDate>Sun, 12 Jun 2022 08:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220612_276/kS6Ok_1655018224743UjciD_JPEG/97e0d2ce-7eab-4056-b6cb-3669f7d463b6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘유나이트’가 선보이는 복잡한 세상 속 paradise♬ ‘EVERYBODY (Ft. DJ Juice)’]]></title>
-            <link>https://tv.naver.com/v/27302773</link>
-            <guid>https://tv.naver.com/v/27302773</guid>
-            <pubDate>Sun, 12 Jun 2022 07:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220612_300/mqWrF_1655017923543qUzFx_JPEG/15b21fde-869d-4424-9338-c2cef9e03ae0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
