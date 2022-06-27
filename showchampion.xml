@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 04:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 05:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 수요일 저녁 6시! 잊지 말고 Ring The Alarm☆]]></title>
+            <link>https://tv.naver.com/v/27589296</link>
+            <guid>https://tv.naver.com/v/27589296</guid>
+            <pubDate>Mon, 27 Jun 2022 05:28:02 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_180/XqbBH_1656307318116UODda_JPEG/CA202206290003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6월 3주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.438]]></title>
             <link>https://tv.naver.com/v/27386889</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Jun 2022 10:19:28 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220615_267/QhWbw_1655286782047F57o7_JPEG/CA202206150058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] SECRET NUMBER SOODAM- DOOMCHITA (시크릿 넘버 수담 - 둠치타) l Show Champion l EP.438]]></title>
-            <link>https://tv.naver.com/v/27367352</link>
-            <guid>https://tv.naver.com/v/27367352</guid>
-            <pubDate>Wed, 15 Jun 2022 13:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_218/d1XYN_1655286719420veQJV_JPEG/CA202206150049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
