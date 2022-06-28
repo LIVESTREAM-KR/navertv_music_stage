@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 01:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 03:44:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] WONHO - CRAZY(원호 – 크레이지) FanCam | Show! MusicCore | MBC220625방송]]></title>
+            <link>https://tv.naver.com/v/27610976</link>
+            <guid>https://tv.naver.com/v/27610976</guid>
+            <pubDate>Tue, 28 Jun 2022 03:42:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220628_135/eAWLS_16563790201186a6My_JPEG/clip_20220628095444_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[최애직캠] NAYEON - POP!(나연 - 팝!) Close-up Cam | Show! MusicCore | MBC220625방송]]></title>
             <link>https://tv.naver.com/v/27597811</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Jun 2022 12:26:29 GMT</pubDate>
             <content:encoded><![CDATA[3:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220625_21/pXNNr_16561585332179k2IY_JPEG/clip_20220625203708_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] LOONA CHUU - Flip That(이달의 소녀 츄 - 플립 댓) FanCam | Show! MusicCore | MBC220625방송]]></title>
-            <link>https://tv.naver.com/v/27564761</link>
-            <guid>https://tv.naver.com/v/27564761</guid>
-            <pubDate>Sat, 25 Jun 2022 12:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220625_12/qpx9U_16561579808029FsDh_JPEG/clip_20220625201630_116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
