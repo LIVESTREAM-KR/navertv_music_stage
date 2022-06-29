@@ -4,9 +4,33 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 10:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 11:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[COMEBACK] KARD - Ring The Alarm (카드 - 링 디 알람)]]></title>
+            <link>https://tv.naver.com/v/27652570</link>
+            <guid>https://tv.naver.com/v/27652570</guid>
+            <pubDate>Wed, 29 Jun 2022 11:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_287/8cOJf_1656498423872CjBx2_JPEG/CA202206290083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] LOONA - Flip That (이달의 소녀 - 플립 댓)]]></title>
+            <link>https://tv.naver.com/v/27652569</link>
+            <guid>https://tv.naver.com/v/27652569</guid>
+            <pubDate>Wed, 29 Jun 2022 11:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_270/iHVH6_1656498420261keRAs_JPEG/CA202206290082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] ULALA SESSION - I AM FINE  (울랄라세션 - 아이 엠 파인)]]></title>
+            <link>https://tv.naver.com/v/27652467</link>
+            <guid>https://tv.naver.com/v/27652467</guid>
+            <pubDate>Wed, 29 Jun 2022 11:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_111/stKI9_1656498180248pBPPs_JPEG/CA202206290081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[COMEBACK] DRIPPIN - ZERO (드리핀 - 제로)]]></title>
             <link>https://tv.naver.com/v/27652329</link>
@@ -28,7 +52,7 @@
             <link>https://tv.naver.com/v/27652190</link>
             <guid>https://tv.naver.com/v/27652190</guid>
             <pubDate>Wed, 29 Jun 2022 10:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_201/Ozxde_1656497520024XfsEJ_JPEG/CA202206290078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 15 Jun 2022 13:36:23 GMT</pubDate>
             <content:encoded><![CDATA[3:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220615_78/LLqS1_16552954210368Phsp_JPEG/CA202206150089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] JO YURI - Love Shhh! (조유리 - 러브 쉿!) l Show Champion l EP.438]]></title>
-            <link>https://tv.naver.com/v/27369397</link>
-            <guid>https://tv.naver.com/v/27369397</guid>
-            <pubDate>Wed, 15 Jun 2022 13:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_232/W1A6V_1655293981016g06YH_JPEG/CA202206150088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] JO YURI - Love Shhh! (조유리 - 러브 쉿!) | Show Champion | EP.438]]></title>
-            <link>https://tv.naver.com/v/27369255</link>
-            <guid>https://tv.naver.com/v/27369255</guid>
-            <pubDate>Wed, 15 Jun 2022 13:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_134/04ATk_1655293620628gIRoP_JPEG/CA202206150087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ONEUS SEOHO - Skydivin' (원어스 서호 - 스카이다이빙) | Show Champion | EP.438]]></title>
-            <link>https://tv.naver.com/v/27368601</link>
-            <guid>https://tv.naver.com/v/27368601</guid>
-            <pubDate>Wed, 15 Jun 2022 13:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_71/rPaBr_1655291282850H0Epn_JPEG/CA202206150074_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
