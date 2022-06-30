@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 10:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 11:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[6월 5주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.439 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27676049</link>
+            <guid>https://tv.naver.com/v/27676049</guid>
+            <pubDate>Thu, 30 Jun 2022 11:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[5:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_273/8fzbz_1656575222273vFw2K_JPEG/CA202206290118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[COMEBACK] KARD - Ring The Alarm (카드 - 링 디 알람) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27652570</link>
             <guid>https://tv.naver.com/v/27652570</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 29 Jun 2022 13:38:51 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_63/1sGcm_1656490918437oQmSr_JPEG/CA202206290059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] KARD JIWOO - Ring The Alarm (카드 전지우 - 링 디 알람) | Show Champion | EP.439 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27648777</link>
-            <guid>https://tv.naver.com/v/27648777</guid>
-            <pubDate>Wed, 29 Jun 2022 13:38:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_43/7MqeK_16564900790923Si9r_JPEG/CA202206290058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
