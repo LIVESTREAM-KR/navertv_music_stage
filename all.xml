@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 08:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 09:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》이번주 심플리 콘투어에서 카드(KARD)의 신나는 무대가 기다리고있다💌 _ 526회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27674038</link>
+            <guid>https://tv.naver.com/v/27674038</guid>
+            <pubDate>Thu, 30 Jun 2022 09:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_128/dNMKq_1656579067091Lz1h2_PNG/1656579055924.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.525 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27540319</link>
             <guid>https://tv.naver.com/v/27540319</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Fri, 24 Jun 2022 06:22:42 GMT</pubDate>
             <content:encoded><![CDATA[2:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_9/f3aAm_1655961006642t5Ht5_JPEG/1655958897465.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 비아이 'BTBT (Feat. DeVita)' 직캠 (B.I 'BTBT (Feat. DeVita)') l Simply K -Pop CON-TOUR Ep.525 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27516082</link>
-            <guid>https://tv.naver.com/v/27516082</guid>
-            <pubDate>Fri, 24 Jun 2022 06:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_105/A0goY_1655961002123QJDJI_JPEG/1655958891771.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케이시_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
