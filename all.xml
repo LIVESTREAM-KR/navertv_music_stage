@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 06:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 07:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_216/NllqY_1656407524100XqMIc_JPEG/clip_20220628174635_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[박현서, 밤하늘 쏟아지는 유성우처럼 반짝이는 사랑! ‘Sparkling Rain’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27727138</link>
+            <guid>https://tv.naver.com/v/27727138</guid>
+            <pubDate>Sun, 03 Jul 2022 07:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220703_56/FTDlY_1656832318114cPGk7_JPEG/bc73b84a-8e07-486a-b345-7c6fa3e3e460.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘나연’, 과즙美 폭발 본투비 서머퀸♡ ‘POP!’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27574231</link>
             <guid>https://tv.naver.com/v/27574231</guid>
@@ -486,14 +494,6 @@
             <pubDate>Sun, 19 Jun 2022 06:19:31 GMT</pubDate>
             <content:encoded><![CDATA[2:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220619_278/q0YtO_1655618878864sUYAx_JPEG/f87745ed-be79-4746-9420-7e441daeff4b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝핑 캔디처럼 짜릿하게 터지는 ‘버가부’의 무대! ‘POP’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27430067</link>
-            <guid>https://tv.naver.com/v/27430067</guid>
-            <pubDate>Sun, 19 Jun 2022 06:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220619_130/LFo80_1655618819815PxBqP_JPEG/1752f4cd-9384-4914-9e19-f3e5901ed4cc.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
