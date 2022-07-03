@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 04:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 05:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,12 +320,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220626_93/tVNwK_16562293219382MfXl_JPEG/84c980c1-c5df-4231-8aa7-86f2faae3c1a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘아이칠린’, 어두운 밤을 은은하게 비추는 ‘달의 아이’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <title><![CDATA[‘아이칠린’, 어두운 밤을 은은하게 비추는 달의 아이 ‘La Luna’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27573797</link>
             <guid>https://tv.naver.com/v/27573797</guid>
             <pubDate>Sun, 26 Jun 2022 08:19:39 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220626_6/UEBH4_16562290804893s7Ks_JPEG/1e713d6b-248b-44a6-a67f-bc347e45c7ac.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220703_279/Rsdbq_1656824818994eRgr0_JPEG/e5b41f0a-d00b-40aa-ac60-d35db22df9d0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정상을 향해 더 크게 소리치는 ‘탄’의 무대! ‘Louder’ (SBS 인기가요 ─ 네이버TV)]]></title>
