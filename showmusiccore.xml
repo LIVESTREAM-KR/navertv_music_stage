@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 08:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 09:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[최애직캠] HUTA - BOOM(이민혁 - BOOM) Close-up Cam | Show! MusicCore | MBC220702방송]]></title>
+            <link>https://tv.naver.com/v/27746715</link>
+            <guid>https://tv.naver.com/v/27746715</guid>
+            <pubDate>Mon, 04 Jul 2022 09:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_283/QVGxd_1656924420444yAN4w_JPEG/clip_20220704172035_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[최애직캠] SUNMI - Heart Burn(선미 – 열이올라요)Close-up Cam | Show! MusicCore | MBC220702방송]]></title>
             <link>https://tv.naver.com/v/27743398</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Jun 2022 03:48:19 GMT</pubDate>
             <content:encoded><![CDATA[4:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_124/sPZLG_1656471125281m0iMx_JPEG/clip_20220629112938_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] DRIPPIN LEE HYEOP - ZERO(드리핀 이협 - 제로) FanCam | Show! MusicCore | MBC220625방송]]></title>
-            <link>https://tv.naver.com/v/27639899</link>
-            <guid>https://tv.naver.com/v/27639899</guid>
-            <pubDate>Wed, 29 Jun 2022 03:48:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_57/fbeVa_1656471124225HkNLk_JPEG/clip_20220629112853_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
