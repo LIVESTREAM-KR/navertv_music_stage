@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 09:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 10:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,62 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Kep1er MASHIRO - Up!(케플러 마시로 - 업!) FanCam | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27748430</link>
+            <guid>https://tv.naver.com/v/27748430</guid>
+            <pubDate>Mon, 04 Jul 2022 10:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_232/XFlk3_16569298224963oRAd_JPEG/clip_20220704185016_40.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Kep1er YOUNGEUN - Up!(케플러 서영은 - 업!) FanCam | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27748429</link>
+            <guid>https://tv.naver.com/v/27748429</guid>
+            <pubDate>Mon, 04 Jul 2022 10:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_267/Q4qIG_1656929820953Q0jGE_JPEG/clip_20220704184624_37.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] NAYEON - POP!(나연 - 팝!) Close-up Cam | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27748335</link>
+            <guid>https://tv.naver.com/v/27748335</guid>
+            <pubDate>Mon, 04 Jul 2022 10:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_182/e9xlg_16569295193825cMP0_JPEG/clip_20220704184230_36.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] Kep1er HIKARU - Up!(케플러 히카루 - 업!)Close-up Cam | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27748264</link>
+            <guid>https://tv.naver.com/v/27748264</guid>
+            <pubDate>Mon, 04 Jul 2022 10:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_25/wiBqj_1656929281196O2qQY_JPEG/clip_20220704184134_34.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] Kep1er CHAEHYUN - Up!(케플러 김채현 - 업!)Close-up Cam | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27748263</link>
+            <guid>https://tv.naver.com/v/27748263</guid>
+            <pubDate>Mon, 04 Jul 2022 10:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_235/kk7Dg_1656929278895gxAbX_JPEG/clip_20220704184131_33.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Kep1er YUJIN - Up!(케플러 최유진 - 업!) FanCam | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27748154</link>
+            <guid>https://tv.naver.com/v/27748154</guid>
+            <pubDate>Mon, 04 Jul 2022 10:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_270/nIPq7_1656928920507fDkYf_JPEG/clip_20220704184055_31.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Kep1er YESEO - Up!(케플러 강예서 - 업!) FanCam | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27748153</link>
+            <guid>https://tv.naver.com/v/27748153</guid>
+            <pubDate>Mon, 04 Jul 2022 10:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_80/pULcq_1656928919085jVv8w_JPEG/clip_20220704183926_29.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최애직캠] HUTA - BOOM(이민혁 - BOOM) Close-up Cam | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -198,62 +254,6 @@
             <pubDate>Sat, 02 Jul 2022 09:16:01 GMT</pubDate>
             <content:encoded><![CDATA[3:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220702_99/ENGr4_1656752520123KEc2M_JPEG/clip_20220702173739_164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Lapillus CHANTY - HIT YA!(라필루스 샨티 - 힛야!) FanCam | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27717406</link>
-            <guid>https://tv.naver.com/v/27717406</guid>
-            <pubDate>Sat, 02 Jul 2022 09:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_200/evQJJ_1656752518694c9PT7_JPEG/clip_20220702173732_163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] DRIPPIN KIM MIN SEO - ZERO(드리핀 김민서 - 제로) FanCam | Show! MusicCore | MBC220625방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27640051</link>
-            <guid>https://tv.naver.com/v/27640051</guid>
-            <pubDate>Wed, 29 Jun 2022 03:48:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_145/P7sef_1656471427964cXpNK_JPEG/clip_20220629112923_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] DRIPPIN KIM DONG YUN - ZERO(드리핀 김동윤 - 제로) FanCam | Show! MusicCore | MBC220625방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27640050</link>
-            <guid>https://tv.naver.com/v/27640050</guid>
-            <pubDate>Wed, 29 Jun 2022 03:48:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_181/ec8D5_1656471426973jfGwa_JPEG/clip_20220629112917_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] DRIPPIN JOO CHANG UK - ZERO(드리핀 주창욱 - 제로) FanCam | Show! MusicCore | MBC220625방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27640048</link>
-            <guid>https://tv.naver.com/v/27640048</guid>
-            <pubDate>Wed, 29 Jun 2022 03:48:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_281/Euiqg_1656471425317fx14o_JPEG/clip_20220629112911_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] DRIPPIN HWANG YUN SEONG - ZERO(드리핀 황윤성 - 제로) FanCam | Show! MusicCore | MBC220625방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27640045</link>
-            <guid>https://tv.naver.com/v/27640045</guid>
-            <pubDate>Wed, 29 Jun 2022 03:48:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_277/2Y2vO_1656471424106KbE9O_JPEG/clip_20220629112904_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] DRIPPIN ALEX - ZERO(드리핀 알렉스 - 제로) FanCam | Show! MusicCore | MBC220625방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27639902</link>
-            <guid>https://tv.naver.com/v/27639902</guid>
-            <pubDate>Wed, 29 Jun 2022 03:48:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_265/eV1vk_1656471126369EGGNB_JPEG/clip_20220629112947_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] DRIPPIN CHA JUN HO - ZERO(드리핀 차준호 - 제로) FanCam | Show! MusicCore | MBC220625방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27639901</link>
-            <guid>https://tv.naver.com/v/27639901</guid>
-            <pubDate>Wed, 29 Jun 2022 03:48:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_124/sPZLG_1656471125281m0iMx_JPEG/clip_20220629112938_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[솔로 퀸 ‘선미’의 치명적 열병! ‘열이올라요’ (SBS 인기가요 ─ 네이버TV)]]></title>
