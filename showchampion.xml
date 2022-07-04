@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 05:29:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 06:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 미션 임파서블: DRIPPIN💣 (Mission. 쇼챔 라인업을 훔쳐라!)]]></title>
+            <link>https://tv.naver.com/v/27741695</link>
+            <guid>https://tv.naver.com/v/27741695</guid>
+            <pubDate>Mon, 04 Jul 2022 06:26:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_125/AS7FU_1656913623156a9HYK_JPEG/CA202207060005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6월 5주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.439]]></title>
             <link>https://tv.naver.com/v/27676049</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Jun 2022 13:38:51 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_73/pwn1M_1656491221240tUFY9_JPEG/CA202206290060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] KARD SOMIN - Ring The Alarm (카드 전소민 - 링 디 알람) | Show Champion | EP.439]]></title>
-            <link>https://tv.naver.com/v/27649233</link>
-            <guid>https://tv.naver.com/v/27649233</guid>
-            <pubDate>Wed, 29 Jun 2022 13:38:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_63/1sGcm_1656490918437oQmSr_JPEG/CA202206290059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
