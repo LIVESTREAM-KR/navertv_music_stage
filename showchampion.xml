@@ -4,7 +4,7 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 12:45:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 13:44:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_27/PmYx9_16571101193048yM1x_JPEG/CA202207060107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] Lapilus - HIT YA! (라필루스 - 힛 야!) l Show Champion l EP.440]]></title>
+            <link>https://tv.naver.com/v/27791756</link>
+            <guid>https://tv.naver.com/v/27791756</guid>
+            <pubDate>Wed, 06 Jul 2022 13:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_151/7C7Ba_1657107119723iAf2R_JPEG/CA202207060092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] fromis_9 - Rewind (프로미스나인 - 리와인드) l Show Champion l EP.440]]></title>
+            <link>https://tv.naver.com/v/27791592</link>
+            <guid>https://tv.naver.com/v/27791592</guid>
+            <pubDate>Wed, 06 Jul 2022 13:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_214/aKjt0_1657106581502qWwh9_JPEG/CA202207060094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] LEE MINHYUK (HUTA) - Dear My Spring (이민혁 - 넌 나의 봄이야) l Show Champion l EP.440]]></title>
+            <link>https://tv.naver.com/v/27791391</link>
+            <guid>https://tv.naver.com/v/27791391</guid>
+            <pubDate>Wed, 06 Jul 2022 13:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_205/Sl2qH_1657105919371lPsYG_JPEG/CA202207060088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] DRIPPIN ALEX - ZERO (드리핀 알렉스 - 제로) | Show Champion | EP.440]]></title>
+            <link>https://tv.naver.com/v/27790926</link>
+            <guid>https://tv.naver.com/v/27790926</guid>
+            <pubDate>Wed, 06 Jul 2022 13:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_141/qJFoZ_1657104419202r42FA_JPEG/CA202207060062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] DRIPPIN - ZERO (드리핀 - 제로) l Show Champion l EP.440]]></title>
+            <link>https://tv.naver.com/v/27790782</link>
+            <guid>https://tv.naver.com/v/27790782</guid>
+            <pubDate>Wed, 06 Jul 2022 13:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_95/YvcxQ_1657103878989Bt8Bb_JPEG/CA202207060064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[COMEBACK] LEE MINHYUK (HUTA) - BOOM (이민혁 (HUTA) - BOOM)]]></title>
             <link>https://tv.naver.com/v/27790666</link>
             <guid>https://tv.naver.com/v/27790666</guid>
@@ -32,12 +72,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_41/30xFW_1657103520757nv0DA_JPEG/CA202207060082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] DRIPPIN JOO CHANGUK - ZERO (드리핀 주창욱 - 제로) | Show Champion | EP.440]]></title>
+            <link>https://tv.naver.com/v/27790665</link>
+            <guid>https://tv.naver.com/v/27790665</guid>
+            <pubDate>Wed, 06 Jul 2022 13:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_139/XDqta_16571035192763yzB6_JPEG/CA202207060061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[COMEBACK] LEE MINHYUK (HUTA) - Dear My Spring (이민혁 (HUTA) - 넌 나의 봄이야)]]></title>
             <link>https://tv.naver.com/v/27790516</link>
             <guid>https://tv.naver.com/v/27790516</guid>
             <pubDate>Wed, 06 Jul 2022 10:28:29 GMT</pubDate>
             <content:encoded><![CDATA[2:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_214/GaOdl_1657102986975bin4x_JPEG/CA202207060081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] DRIPPIN KIM DONGYUN - ZERO (드리핀 김동윤 - 제로) | Show Champion | EP.440]]></title>
+            <link>https://tv.naver.com/v/27790509</link>
+            <guid>https://tv.naver.com/v/27790509</guid>
+            <pubDate>Wed, 06 Jul 2022 13:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_10/ZSYWe_1657102982703ewJAI_JPEG/CA202207060059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[입덕 LIVE] 아티스트 유태양을 표현하는 언어 '춤'♬]]></title>
@@ -72,6 +128,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_21/j5fWz_1657102621896bH9KX_JPEG/CA202207060077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] DRIPPIN KIM MINSEO - ZERO (드리핀 김민서 - 제로) | Show Champion | EP.440]]></title>
+            <link>https://tv.naver.com/v/27790403</link>
+            <guid>https://tv.naver.com/v/27790403</guid>
+            <pubDate>Wed, 06 Jul 2022 13:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_182/qipue_1657102618905RTIRz_JPEG/CA202207060060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[DRIPPIN - ZERO (드리핀 - 제로)]]></title>
             <link>https://tv.naver.com/v/27790223</link>
             <guid>https://tv.naver.com/v/27790223</guid>
@@ -80,12 +144,36 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_146/H4vh9_1657102023172wNlNA_JPEG/CA202207060076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] DRIPPIN HWANG YUNSEONG - ZERO (드리핀 황윤성 - 제로) | Show Champion | EP.440]]></title>
+            <link>https://tv.naver.com/v/27790218</link>
+            <guid>https://tv.naver.com/v/27790218</guid>
+            <pubDate>Wed, 06 Jul 2022 13:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_51/PzJ0I_165710201992031fN5_JPEG/CA202207060058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OMEGA X - PLAY DUMB (오메가엑스 - 플레이덤)]]></title>
             <link>https://tv.naver.com/v/27790172</link>
             <guid>https://tv.naver.com/v/27790172</guid>
             <pubDate>Wed, 06 Jul 2022 10:28:29 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_192/RP5E1_1657101726935d8u2d_JPEG/CA202207060075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] DRIPPIN CHA JUNHO - ZERO (드리핀 차준호 - 제로) | Show Champion | EP.440]]></title>
+            <link>https://tv.naver.com/v/27790167</link>
+            <guid>https://tv.naver.com/v/27790167</guid>
+            <pubDate>Wed, 06 Jul 2022 13:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_91/UAVW5_1657101721277Fa2UR_JPEG/CA202207060063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] fromis_9 JANG GYU RI - Stay This Way (프로미스나인 장규리 - 스테이 디스 웨이) | Show Champion | EP.440]]></title>
+            <link>https://tv.naver.com/v/27790166</link>
+            <guid>https://tv.naver.com/v/27790166</guid>
+            <pubDate>Wed, 06 Jul 2022 13:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_103/1LFrw_1657101719731B6GRt_JPEG/CA202207060050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PIXY - Villain (픽시 - 빌런)]]></title>
@@ -128,6 +216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_168/2dRkb_16571008228719E9tQ_JPEG/CA202207060070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] fromis_9 BAEK JI HEON - Stay This Way (프로미스나인 백지헌 - 스테이 디스 웨이) | Show Champion | EP.440]]></title>
+            <link>https://tv.naver.com/v/27789946</link>
+            <guid>https://tv.naver.com/v/27789946</guid>
+            <pubDate>Wed, 06 Jul 2022 13:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_286/P7LQn_16571008194102CsaR_JPEG/CA202207060057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[XG - MASCARA (엑스지 - 마스카라)]]></title>
             <link>https://tv.naver.com/v/27789811</link>
             <guid>https://tv.naver.com/v/27789811</guid>
@@ -144,108 +240,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_182/vlz0l_1657100286497udpTg_JPEG/CA202207060068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[MC석 인터뷰] 프로미스나인과 함께라면 우리의 여름은 뜨겁고 눈부셔♥]]></title>
-            <link>https://tv.naver.com/v/27789778</link>
-            <guid>https://tv.naver.com/v/27789778</guid>
-            <pubDate>Wed, 06 Jul 2022 10:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_184/pzFJu_1657100226258cINzY_JPEG/CA202207060069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[F.able - Cloud 9 (페이블 - 여행(클라우드 나인))]]></title>
-            <link>https://tv.naver.com/v/27789684</link>
-            <guid>https://tv.naver.com/v/27789684</guid>
-            <pubDate>Wed, 06 Jul 2022 10:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_128/ayMnU_1657099931211JtVGH_JPEG/CA202207060066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hwang Woo Lim - My Dummy Darling (황우림 - 내사랑 바보)]]></title>
-            <link>https://tv.naver.com/v/27789555</link>
-            <guid>https://tv.naver.com/v/27789555</guid>
-            <pubDate>Wed, 06 Jul 2022 10:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_200/thoXA_1657099622830JRfSa_JPEG/CA202207060065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 미션 임파서블: DRIPPIN💣 (Mission. 쇼챔 라인업을 훔쳐라!)]]></title>
-            <link>https://tv.naver.com/v/27741695</link>
-            <guid>https://tv.naver.com/v/27741695</guid>
-            <pubDate>Mon, 04 Jul 2022 06:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_125/AS7FU_1656913623156a9HYK_JPEG/CA202207060005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6월 5주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.439]]></title>
-            <link>https://tv.naver.com/v/27676049</link>
-            <guid>https://tv.naver.com/v/27676049</guid>
-            <pubDate>Thu, 30 Jun 2022 11:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[5:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_273/8fzbz_1656575222273vFw2K_JPEG/CA202206290118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] KARD - Ring The Alarm (카드 - 링 디 알람)]]></title>
-            <link>https://tv.naver.com/v/27652570</link>
-            <guid>https://tv.naver.com/v/27652570</guid>
-            <pubDate>Wed, 29 Jun 2022 11:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_287/8cOJf_1656498423872CjBx2_JPEG/CA202206290083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] LOONA - Flip That (이달의 소녀 - 플립 댓)]]></title>
-            <link>https://tv.naver.com/v/27652569</link>
-            <guid>https://tv.naver.com/v/27652569</guid>
-            <pubDate>Wed, 29 Jun 2022 11:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_270/iHVH6_1656498420261keRAs_JPEG/CA202206290082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] ULALA SESSION - I AM FINE  (울랄라세션 - 아이 엠 파인)]]></title>
-            <link>https://tv.naver.com/v/27652467</link>
-            <guid>https://tv.naver.com/v/27652467</guid>
-            <pubDate>Wed, 29 Jun 2022 11:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_111/stKI9_1656498180248pBPPs_JPEG/CA202206290081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] DRIPPIN - ZERO (드리핀 - 제로)]]></title>
-            <link>https://tv.naver.com/v/27652329</link>
-            <guid>https://tv.naver.com/v/27652329</guid>
-            <pubDate>Wed, 29 Jun 2022 10:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_278/OtGRU_1656497821919AeVx5_JPEG/CA202206290080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] DRIPPIN - GAME (드리핀 - 게임)]]></title>
-            <link>https://tv.naver.com/v/27652191</link>
-            <guid>https://tv.naver.com/v/27652191</guid>
-            <pubDate>Wed, 29 Jun 2022 10:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_234/2gJE5_1656497521719IGcBN_JPEG/CA202206290079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] Kep1er - UP! (케플러 - 업!)]]></title>
-            <link>https://tv.naver.com/v/27652190</link>
-            <guid>https://tv.naver.com/v/27652190</guid>
-            <pubDate>Wed, 29 Jun 2022 10:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_201/Ozxde_1656497520024XfsEJ_JPEG/CA202206290078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] Kep1er - LE VOYA9E (케플러 - 르 보야지)]]></title>
-            <link>https://tv.naver.com/v/27652079</link>
-            <guid>https://tv.naver.com/v/27652079</guid>
-            <pubDate>Wed, 29 Jun 2022 10:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_224/dxZLV_1656497279567w8dNf_JPEG/CA202206290077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] PIXY - Villain (픽시 - 빌런)]]></title>
-            <link>https://tv.naver.com/v/27651925</link>
-            <guid>https://tv.naver.com/v/27651925</guid>
-            <pubDate>Wed, 29 Jun 2022 10:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_113/BJTDD_16564969195058euhU_JPEG/CA202206290075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[쇼챔직캠 4K] fromis_9 LEE CHAE YOUNG - Stay This Way (프로미스나인 이채영 - 스테이 디스 웨이) | Show Champion | EP.440]]></title>
+            <link>https://tv.naver.com/v/27789798</link>
+            <guid>https://tv.naver.com/v/27789798</guid>
+            <pubDate>Wed, 06 Jul 2022 13:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_93/jIe7y_1657100279127incJs_JPEG/CA202207060054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
