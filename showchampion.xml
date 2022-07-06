@@ -4,11 +4,27 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 11:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 12:45:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[COMEBACK] LEE MINHYUK(HUTA) - BOOM (이민혁(허타) - 붐)]]></title>
+            <title><![CDATA[[쇼챔 짐벌캠] 유태양(SF9) - Don't Call Me(원곡: SHINee) l 쇼챔피언 440회]]></title>
+            <link>https://tv.naver.com/v/27792657</link>
+            <guid>https://tv.naver.com/v/27792657</guid>
+            <pubDate>Wed, 06 Jul 2022 12:45:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_21/FHD6Z_1657110189235k2MEE_JPEG/CA202207060111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔 1위] 7월 첫째 주 챔피언송 프로미스나인 앵콜 Full ver.]]></title>
+            <link>https://tv.naver.com/v/27792622</link>
+            <guid>https://tv.naver.com/v/27792622</guid>
+            <pubDate>Wed, 06 Jul 2022 12:45:06 GMT</pubDate>
+            <content:encoded><![CDATA[4:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_27/PmYx9_16571101193048yM1x_JPEG/CA202207060107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] LEE MINHYUK (HUTA) - BOOM (이민혁 (HUTA) - BOOM)]]></title>
             <link>https://tv.naver.com/v/27790666</link>
             <guid>https://tv.naver.com/v/27790666</guid>
             <pubDate>Wed, 06 Jul 2022 11:16:46 GMT</pubDate>
@@ -16,7 +32,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_41/30xFW_1657103520757nv0DA_JPEG/CA202207060082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[COMEBACK] LEE MINHYUK(HUTA) - Dear MY Spring (이민혁(허타) - 넌 나의 봄이야)]]></title>
+            <title><![CDATA[[COMEBACK] LEE MINHYUK (HUTA) - Dear My Spring (이민혁 (HUTA) - 넌 나의 봄이야)]]></title>
             <link>https://tv.naver.com/v/27790516</link>
             <guid>https://tv.naver.com/v/27790516</guid>
             <pubDate>Wed, 06 Jul 2022 10:28:29 GMT</pubDate>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 29 Jun 2022 10:20:33 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_113/BJTDD_16564969195058euhU_JPEG/CA202206290075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] Kim Hee Jae - ZZAN ZZAN ZZAN (김희재 - 짠짠짠)]]></title>
-            <link>https://tv.naver.com/v/27651801</link>
-            <guid>https://tv.naver.com/v/27651801</guid>
-            <pubDate>Wed, 29 Jun 2022 10:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_142/T5FIa_1656496626241Oq4HT_JPEG/CA202206290076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] OMEGA X - PLAY DUMB (오메가엑스 - 플레이덤)]]></title>
-            <link>https://tv.naver.com/v/27651796</link>
-            <guid>https://tv.naver.com/v/27651796</guid>
-            <pubDate>Wed, 29 Jun 2022 10:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_260/PHdCo_1656496620317BgD4r_JPEG/CA202206290074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
