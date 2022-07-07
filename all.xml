@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 06:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 07:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》드리핀(DRIPPIN)과 함께한 이번주 심플리 콘투어 말레이시아 편💌~!! _527회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27806886</link>
+            <guid>https://tv.naver.com/v/27806886</guid>
+            <pubDate>Thu, 07 Jul 2022 07:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_183/meIxk_1657177772203QPSiH_PNG/1657177764389.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[심플리 비하인드: 대휘로그 in 일본 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27736327</link>
             <guid>https://tv.naver.com/v/27736327</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Fri, 01 Jul 2022 08:23:49 GMT</pubDate>
             <content:encoded><![CDATA[3:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220630_178/T2Xew_1656576899713BPlQ3_JPEG/1656568060204.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 카드 비엠 'Ring The Alarm' 직캠 (KARD BM 'Ring The Alarm') l Simply K -Pop CON-TOUR Ep.526 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27676919</link>
-            <guid>https://tv.naver.com/v/27676919</guid>
-            <pubDate>Fri, 01 Jul 2022 08:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_239/zTp3z_16565768924692Sz5S_JPEG/1656568057222.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송하예_행복해 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
