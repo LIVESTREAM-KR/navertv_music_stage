@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 10:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 11:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[7월 1주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.440 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27793874</link>
+            <guid>https://tv.naver.com/v/27793874</guid>
+            <pubDate>Thu, 07 Jul 2022 11:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[6:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_188/NYmqj_1657114021088XhH1d_JPEG/CA202207060118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔 짐벌캠] 유태양(SF9) - Don't Call Me(원곡: SHINee) l 쇼챔피언 440회 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27792657</link>
             <guid>https://tv.naver.com/v/27792657</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 06 Jul 2022 10:28:29 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_182/vlz0l_1657100286497udpTg_JPEG/CA202207060068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] fromis_9 LEE CHAE YOUNG - Stay This Way (프로미스나인 이채영 - 스테이 디스 웨이) | Show Champion | EP.440 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27789798</link>
-            <guid>https://tv.naver.com/v/27789798</guid>
-            <pubDate>Wed, 06 Jul 2022 13:43:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_93/jIe7y_1657100279127incJs_JPEG/CA202207060054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
