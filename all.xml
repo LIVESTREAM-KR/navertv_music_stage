@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 07:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 08:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,70 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] SUNMI - Heart Burn(선미 – 열이올라요) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220709방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27842660</link>
+            <guid>https://tv.naver.com/v/27842660</guid>
+            <pubDate>Sat, 09 Jul 2022 08:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_123/ZINLK_1657354622950HwXoJ_JPEG/clip_20220709165838_182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] bugAboo - POP(버가부 - 팝) FanCam | Show! MusicCore | MBC220709방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27842659</link>
+            <guid>https://tv.naver.com/v/27842659</guid>
+            <pubDate>Sat, 09 Jul 2022 08:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_139/WjcRK_1657354621354C0tFr_JPEG/clip_20220709165653_181.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] MCND - #MOOD(엠씨엔디 - #무드) FanCam | Show! MusicCore | MBC220709방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27842657</link>
+            <guid>https://tv.naver.com/v/27842657</guid>
+            <pubDate>Sat, 09 Jul 2022 08:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_259/rSEgN_1657354619711MHjqg_JPEG/clip_20220709165506_180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] WJSN – Last Sequence(우주소녀 - 라스트 시퀀스) FanCam | Show! MusicCore | MBC220709방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27842608</link>
+            <guid>https://tv.naver.com/v/27842608</guid>
+            <pubDate>Sat, 09 Jul 2022 08:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_207/X6JR3_1657354319757XkWN4_JPEG/clip_20220709164741_179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VIVIZ - LOVEADE(비비지 - 러브에이드) FanCam | Show! MusicCore | MBC220709방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27842558</link>
+            <guid>https://tv.naver.com/v/27842558</guid>
+            <pubDate>Sat, 09 Jul 2022 08:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_283/Kv8pN_1657354020247zKABh_JPEG/clip_20220709164410_178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] WINNER - I LOVE U(위너 - 아이 러브 유) FanCam | Show! MusicCore | MBC220709방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27842515</link>
+            <guid>https://tv.naver.com/v/27842515</guid>
+            <pubDate>Sat, 09 Jul 2022 08:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_294/zS2eZ_1657353720696jdJeL_JPEG/clip_20220709163609_172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] YOUNGTAK - MMM(영탁 – 신사답게) FanCam | Show! MusicCore | MBC220709방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27842474</link>
+            <guid>https://tv.naver.com/v/27842474</guid>
+            <pubDate>Sat, 09 Jul 2022 08:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_296/4rCOu_1657353423346AXETv_JPEG/clip_20220709163539_171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] YOUNGTAK - MMM(영탁 – 신사답게) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220709방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27842439</link>
+            <guid>https://tv.naver.com/v/27842439</guid>
+            <pubDate>Sat, 09 Jul 2022 08:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_117/Ys2uY_1657353179135bhHjc_JPEG/clip_20220709163507_167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] Kep1er MASHIRO - Up!(케플러 마시로 - 업!) FanCam | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -190,70 +254,6 @@
             <pubDate>Sat, 02 Jul 2022 09:16:01 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220702_4/1pxCc_1656752878283pd5pI_JPEG/clip_20220702174130_171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] YOUNGJAE - SUGAR(영재 – SUGAR) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27717480</link>
-            <guid>https://tv.naver.com/v/27717480</guid>
-            <pubDate>Sat, 02 Jul 2022 09:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_13/ZqOvG_16567528255965oSV6_JPEG/clip_20220702174202_172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NAYEON - POP!(나연 – 팝!) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27717479</link>
-            <guid>https://tv.naver.com/v/27717479</guid>
-            <pubDate>Sat, 02 Jul 2022 09:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_99/qMPWb_16567528236838bD2z_JPEG/clip_20220702174127_170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CLASS:y - SHUT DOWN + CLASSY(클라씨 - 클라씨+셧다운) FanCam | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27717478</link>
-            <guid>https://tv.naver.com/v/27717478</guid>
-            <pubDate>Sat, 02 Jul 2022 09:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[5:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_286/12tOu_1656752821876VNzEd_JPEG/clip_20220702173927_168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SUNMI - Heart Burn(선미 – 열이올라요) FanCam | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27717477</link>
-            <guid>https://tv.naver.com/v/27717477</guid>
-            <pubDate>Sat, 02 Jul 2022 09:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_160/We1VX_1656752820562GqBHP_JPEG/clip_20220702173806_166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Lapillus – HIT YA!(라필루스 - 힛야!) FanCam | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27717476</link>
-            <guid>https://tv.naver.com/v/27717476</guid>
-            <pubDate>Sat, 02 Jul 2022 09:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_82/Jjs6h_1656752818924F2JxM_JPEG/clip_20220702173657_161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Kep1er - Up!(케플러 - 업!) FanCam | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27717410</link>
-            <guid>https://tv.naver.com/v/27717410</guid>
-            <pubDate>Sat, 02 Jul 2022 09:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_126/TLmih_1656752523473tPGF5_JPEG/clip_20220702174006_169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SUNMI - Heart Burn(선미 – 열이올라요) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27717409</link>
-            <guid>https://tv.naver.com/v/27717409</guid>
-            <pubDate>Sat, 02 Jul 2022 09:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_163/tIUiX_1656752521343cSJQJ_JPEG/clip_20220702173918_167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Lapillus HAEUN - HIT YA!(라필루스 하은 - 힛야!) FanCam | Show! MusicCore | MBC220702방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27717407</link>
-            <guid>https://tv.naver.com/v/27717407</guid>
-            <pubDate>Sat, 02 Jul 2022 09:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_99/ENGr4_1656752520123KEc2M_JPEG/clip_20220702173739_164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[솔로 퀸 ‘선미’의 치명적 열병! ‘열이올라요’ (SBS 인기가요 ─ 네이버TV)]]></title>
