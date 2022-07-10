@@ -4,9 +4,17 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 11:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 12:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘프로미스나인’, 여름 여신들의 즉흥 여행♬ ‘Stay This Way’]]></title>
+            <link>https://tv.naver.com/v/27856215</link>
+            <guid>https://tv.naver.com/v/27856215</guid>
+            <pubDate>Sun, 10 Jul 2022 12:28:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220710_265/nG8vO_1657454521250nl38c_JPEG/8f7751cd-e1d1-41e9-84bd-170540f1d5af.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘위너’ 완전체 컴백! 솔직 담백 사랑의 감정 담은 무대! ‘I LOVE U’]]></title>
             <link>https://tv.naver.com/v/27853701</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 03 Jul 2022 08:19:07 GMT</pubDate>
             <content:encoded><![CDATA[2:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220703_194/XVUWK_1656833522251hlLrO_JPEG/b046d744-6db8-4310-8fcb-5906a613356c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘라필루스’의 강렬하고 당찬 포부를 담은 무대! ‘HIT YA!’]]></title>
-            <link>https://tv.naver.com/v/27727355</link>
-            <guid>https://tv.naver.com/v/27727355</guid>
-            <pubDate>Sun, 03 Jul 2022 08:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220703_130/lE8TA_16568332188061qpNe_JPEG/1cb7ce93-128a-4aec-9f02-3a1263dd539f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
