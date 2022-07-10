@@ -4,9 +4,33 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 06:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 07:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘탄’, 카리스마로 무장한 강렬 퍼포먼스 ‘Louder’]]></title>
+            <link>https://tv.naver.com/v/27852868</link>
+            <guid>https://tv.naver.com/v/27852868</guid>
+            <pubDate>Sun, 10 Jul 2022 07:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220710_32/oMP0v_1657437119454ahGsC_JPEG/54a9c991-6a13-4115-a181-4a0acdad8279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘아이리스’, 무한하고 다채로운 빛으로 핫 데뷔! ‘WANNA KNOW’]]></title>
+            <link>https://tv.naver.com/v/27852826</link>
+            <guid>https://tv.naver.com/v/27852826</guid>
+            <pubDate>Sun, 10 Jul 2022 07:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220710_232/3KKwB_1657436879809BD105_JPEG/64792343-e74c-4b97-a52b-084387ec1c81.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트롯의 맛 제대로 보여줄 ‘황우림’의 무대! ‘내 사랑 바보’]]></title>
+            <link>https://tv.naver.com/v/27852811</link>
+            <guid>https://tv.naver.com/v/27852811</guid>
+            <pubDate>Sun, 10 Jul 2022 07:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220710_262/GqKdd_16574368207008v2Gd_JPEG/59b03bc8-0eff-4047-8000-ce9a9d918e15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[솔로 퀸 ‘선미’의 치명적 열병! ‘열이올라요’]]></title>
             <link>https://tv.naver.com/v/27727974</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 26 Jun 2022 08:19:39 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220626_8/wcf9s_1656228720204F8XYB_JPEG/7437d3a2-f474-46cb-9a95-4d026006a90d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘버가부’, 달콤하고 치명적인 카리스마! ‘POP’]]></title>
-            <link>https://tv.naver.com/v/27573588</link>
-            <guid>https://tv.naver.com/v/27573588</guid>
-            <pubDate>Sun, 26 Jun 2022 08:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220626_117/bWkw2_16562284248788vRmi_JPEG/d17ad1a9-626d-446f-864e-72e1dcff794d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘티엔엑스’의 폭발적인 강렬한 퍼포먼스! ‘비켜’]]></title>
-            <link>https://tv.naver.com/v/27573587</link>
-            <guid>https://tv.naver.com/v/27573587</guid>
-            <pubDate>Sun, 26 Jun 2022 08:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220626_7/5qXB0_1656228422850WCQD5_JPEG/a56b4e46-97c8-4322-97e9-39dba31dc199.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘시크릿넘버’, 걸크러시 넘치는 당당한 매력! ‘둠치타’]]></title>
-            <link>https://tv.naver.com/v/27573585</link>
-            <guid>https://tv.naver.com/v/27573585</guid>
-            <pubDate>Sun, 26 Jun 2022 08:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220626_137/eR5r9_1656228420336lc2za_JPEG/8c88059f-2d44-4eaf-afb1-7b222b0903cd.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
