@@ -4,9 +4,41 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 09:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 10:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[최애직캠] WINNER JINU - I LOVE U(위너 김진우 - 아이 러브 유) Close-up Cam | Show! MusicCore | MBC220709방송]]></title>
+            <link>https://tv.naver.com/v/27875648</link>
+            <guid>https://tv.naver.com/v/27875648</guid>
+            <pubDate>Mon, 11 Jul 2022 10:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_294/7xxnY_16575346219544oMPK_JPEG/clip_20220711185358_41.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] WINNER MINO - I LOVE U(위너 송민호 - 아이 러브 유) Close-up Cam | Show! MusicCore | MBC220709방송]]></title>
+            <link>https://tv.naver.com/v/27875647</link>
+            <guid>https://tv.naver.com/v/27875647</guid>
+            <pubDate>Mon, 11 Jul 2022 10:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_44/5jjYs_1657534620152jWxBI_JPEG/clip_20220711184826_35.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] WINNER HOONY - I LOVE U(위너 이승훈 - 아이 러브 유) Close-up Cam | Show! MusicCore | MBC220709방송]]></title>
+            <link>https://tv.naver.com/v/27875571</link>
+            <guid>https://tv.naver.com/v/27875571</guid>
+            <pubDate>Mon, 11 Jul 2022 10:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_178/5THFk_1657534319290P5LBo_JPEG/clip_20220711184846_37.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] WINNER JINU - I LOVE U(위너 김진우 - 아이 러브 유) Close-up Cam | Show! MusicCore | MBC220709방송]]></title>
+            <link>https://tv.naver.com/v/27875569</link>
+            <guid>https://tv.naver.com/v/27875569</guid>
+            <pubDate>Mon, 11 Jul 2022 10:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_132/HyfnV_1657534317482G89Sv_JPEG/clip_20220711184831_36.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] XG JURIN - MASCARA(엑스지 주린 - MASCARA) FanCam | Show! MusicCore | MBC220709방송]]></title>
             <link>https://tv.naver.com/v/27844587</link>
@@ -214,38 +246,6 @@
             <pubDate>Sat, 09 Jul 2022 08:20:06 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220709_139/WjcRK_1657354621354C0tFr_JPEG/clip_20220709165653_181.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] MCND - #MOOD(엠씨엔디 - #무드) FanCam | Show! MusicCore | MBC220709방송]]></title>
-            <link>https://tv.naver.com/v/27842657</link>
-            <guid>https://tv.naver.com/v/27842657</guid>
-            <pubDate>Sat, 09 Jul 2022 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_259/rSEgN_1657354619711MHjqg_JPEG/clip_20220709165506_180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] WJSN – Last Sequence(우주소녀 - 라스트 시퀀스) FanCam | Show! MusicCore | MBC220709방송]]></title>
-            <link>https://tv.naver.com/v/27842608</link>
-            <guid>https://tv.naver.com/v/27842608</guid>
-            <pubDate>Sat, 09 Jul 2022 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_207/X6JR3_1657354319757XkWN4_JPEG/clip_20220709164741_179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VIVIZ - LOVEADE(비비지 - 러브에이드) FanCam | Show! MusicCore | MBC220709방송]]></title>
-            <link>https://tv.naver.com/v/27842558</link>
-            <guid>https://tv.naver.com/v/27842558</guid>
-            <pubDate>Sat, 09 Jul 2022 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_283/Kv8pN_1657354020247zKABh_JPEG/clip_20220709164410_178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] WINNER - I LOVE U(위너 - 아이 러브 유) FanCam | Show! MusicCore | MBC220709방송]]></title>
-            <link>https://tv.naver.com/v/27842515</link>
-            <guid>https://tv.naver.com/v/27842515</guid>
-            <pubDate>Sat, 09 Jul 2022 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_294/zS2eZ_1657353720696jdJeL_JPEG/clip_20220709163609_172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
