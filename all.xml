@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 06:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 07:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,38 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] VIVIZ SINB - LOVEADE(비비지 신비 - 러브에이드) Close-up Cam | Show! MusicCore | MBC220709방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27893540</link>
+            <guid>https://tv.naver.com/v/27893540</guid>
+            <pubDate>Tue, 12 Jul 2022 07:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_263/ORTa1_16576099192430S95h_JPEG/clip_20220712154357_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] VIVIZ UMJI - LOVEADE(비비지 엄지 - 러브에이드) Close-up Cam | Show! MusicCore | MBC220709방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27893400</link>
+            <guid>https://tv.naver.com/v/27893400</guid>
+            <pubDate>Tue, 12 Jul 2022 07:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_103/UJ47g_1657609682802gosBc_JPEG/clip_20220712154404_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] VIVIZ EUNHA - LOVEADE(비비지 은하 - 러브에이드) Close-up Cam | Show! MusicCore | MBC220709방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27893399</link>
+            <guid>https://tv.naver.com/v/27893399</guid>
+            <pubDate>Tue, 12 Jul 2022 07:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_146/VzwoJ_165760968072126bL4_JPEG/clip_20220712154348_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] YOUNGTAK - MMM(영탁 - 신사답게) Close-up Cam | Show! MusicCore | MBC220709방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27893171</link>
+            <guid>https://tv.naver.com/v/27893171</guid>
+            <pubDate>Tue, 12 Jul 2022 07:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_169/vFuvg_16576093194769pxj3_JPEG/clip_20220712153616_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최애직캠] WINNER JINU - I LOVE U(위너 김진우 - 아이 러브 유) Close-up Cam | Show! MusicCore | MBC220709방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -222,38 +254,6 @@
             <pubDate>Sat, 09 Jul 2022 09:16:01 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220709_217/jqRxp_16573558235424Ogyd_JPEG/clip_20220709171459_185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] WINNER MINO - I LOVE U(위너 송민호 - 아이 러브 유) FanCam | Show! MusicCore | MBC220709방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27842857</link>
-            <guid>https://tv.naver.com/v/27842857</guid>
-            <pubDate>Sat, 09 Jul 2022 09:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_279/L9yZ5_1657355822345vprsn_JPEG/clip_20220709171454_184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SUNMI - Heart Burn(선미 – 열이올라요) FanCam | Show! MusicCore | MBC220709방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27842707</link>
-            <guid>https://tv.naver.com/v/27842707</guid>
-            <pubDate>Sat, 09 Jul 2022 09:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_260/WwieM_1657354919091xjyMw_JPEG/clip_20220709171501_186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SUNMI - Heart Burn(선미 – 열이올라요) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220709방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27842660</link>
-            <guid>https://tv.naver.com/v/27842660</guid>
-            <pubDate>Sat, 09 Jul 2022 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_123/ZINLK_1657354622950HwXoJ_JPEG/clip_20220709165838_182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] bugAboo - POP(버가부 - 팝) FanCam | Show! MusicCore | MBC220709방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27842659</link>
-            <guid>https://tv.naver.com/v/27842659</guid>
-            <pubDate>Sat, 09 Jul 2022 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_139/WjcRK_1657354621354C0tFr_JPEG/clip_20220709165653_181.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘프로미스나인’, 여름 여신들의 즉흥 여행♬ ‘Stay This Way’ (SBS 인기가요 ─ 네이버TV)]]></title>
