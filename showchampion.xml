@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 01:49:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 03:52:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] Lapillus - HIT YA! (라필루스 - 힛 야!) l Show Champion l EP.441]]></title>
+            <link>https://tv.naver.com/v/27934116</link>
+            <guid>https://tv.naver.com/v/27934116</guid>
+            <pubDate>Thu, 14 Jul 2022 03:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_252/NmX6d_1657764481208b2QFY_JPEG/CA202207130099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] fromis_9 ROH JI SUN - Stay This Way (프로미스나인 노지선 - 스테이 디스 웨이) | Show Champion | EP.441]]></title>
             <link>https://tv.naver.com/v/27922874</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Jul 2022 10:22:10 GMT</pubDate>
             <content:encoded><![CDATA[3:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220713_16/jyEmh_1657704183623aJbsw_JPEG/CA202207130044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] XG COCONA - MASCARA (엑스지 코코나 - 마스카라) | Show Champion | EP.441]]></title>
-            <link>https://tv.naver.com/v/27920606</link>
-            <guid>https://tv.naver.com/v/27920606</guid>
-            <pubDate>Wed, 13 Jul 2022 13:41:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_127/aEegZ_1657703220054nnYO8_JPEG/CA202207130039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
