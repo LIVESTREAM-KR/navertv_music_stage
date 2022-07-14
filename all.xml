@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 10:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 11:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[7월 2주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.441 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27938314</link>
+            <guid>https://tv.naver.com/v/27938314</guid>
+            <pubDate>Thu, 14 Jul 2022 11:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[5:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_245/uWgCP_1657774381816zfVH4_JPEG/CA202207130100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] Lapillus - HIT YA! (라필루스 - 힛 야!) l Show Champion l EP.441 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27934116</link>
             <guid>https://tv.naver.com/v/27934116</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 13 Jul 2022 13:41:15 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220713_67/Y5bYK_1657704420904XIMWe_JPEG/CA202207130041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BEAUTYBOX - Boggle Boggle (뷰티박스 - 보글보글) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27921005</link>
-            <guid>https://tv.naver.com/v/27921005</guid>
-            <pubDate>Wed, 13 Jul 2022 10:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_16/jyEmh_1657704183623aJbsw_JPEG/CA202207130044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
