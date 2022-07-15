@@ -4,9 +4,17 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 09:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 10:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신유미_Blue Pale Dot]]></title>
+            <link>https://tv.naver.com/v/27944603</link>
+            <guid>https://tv.naver.com/v/27944603</guid>
+            <pubDate>Fri, 15 Jul 2022 10:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_253/Mv37W_1657786533671wgni4_JPEG/d7bd2b3a-034c-11ed-bb44-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부활_인터뷰]]></title>
             <link>https://tv.naver.com/v/27802332</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Jun 2022 10:19:18 GMT</pubDate>
             <content:encoded><![CDATA[4:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_184/FoR2x_1655358048376X5Exj_JPEG/d2ed1d88-ed34-11ec-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이지본_인터뷰]]></title>
-            <link>https://tv.naver.com/v/27381877</link>
-            <guid>https://tv.naver.com/v/27381877</guid>
-            <pubDate>Fri, 17 Jun 2022 10:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[5:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_180/rIa8q_1655358043850huMFD_JPEG/957cf82c-ed34-11ec-b77c-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
