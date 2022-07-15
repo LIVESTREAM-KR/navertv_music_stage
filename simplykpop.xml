@@ -4,7 +4,7 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 07:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 08:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_147/L9gA6_1657849782546QaSRy_PNG/1657849707412.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Lapillus (라필루스) - INTRO + HIT YA! (힛 야!) _ Ep.528 | [4K]]]></title>
-            <link>https://tv.naver.com/v/27958850</link>
-            <guid>https://tv.naver.com/v/27958850</guid>
-            <pubDate>Fri, 15 Jul 2022 05:06:21 GMT</pubDate>
-            <content:encoded><![CDATA[6:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_210/y4CXG_1657849776620Xp8pQ_PNG/1657849702159.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[BUSTERS (버스터즈) - Tropical Romance (여름인걸) _ Ep.528 | [4K]]]></title>
             <link>https://tv.naver.com/v/27958848</link>
             <guid>https://tv.naver.com/v/27958848</guid>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 15 Jul 2022 05:06:21 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_244/5JyAn_1657849744151vxrAh_PNG/1657849683003.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Lapillus (라필루스) - INTRO + HIT YA! (힛 야!) ★Simply's Spotlight★ _ Ep.528 | [4K]]]></title>
+            <link>https://tv.naver.com/v/27958850</link>
+            <guid>https://tv.naver.com/v/27958850</guid>
+            <pubDate>Fri, 15 Jul 2022 05:06:21 GMT</pubDate>
+            <content:encoded><![CDATA[6:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_210/y4CXG_1657849776620Xp8pQ_PNG/1657849702159.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[《예고》라필루스(Lapillus)와 함께한 이번주 심플리 콘투어 뉴질랜드 편💌~!! _528회]]></title>
