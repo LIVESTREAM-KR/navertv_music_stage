@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 06:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 07:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대휘로그 in 심플리 [휘 퀴즈 타임 1] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27981680</link>
+            <guid>https://tv.naver.com/v/27981680</guid>
+            <pubDate>Sat, 16 Jul 2022 07:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_2/Ubyqg_16579553853713faEp_PNG/1657955321757.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.528 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27962868</link>
             <guid>https://tv.naver.com/v/27962868</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Fri, 15 Jul 2022 06:21:44 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220714_67/7U5Ga_1657777741890syg33_JPEG/1657773486328.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 카드 제이셉 'Ring The Alarm' 직캠 (KARD J.Seph 'Ring The Alarm') l Simply K -Pop CON-TOUR Ep.528 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27939862</link>
-            <guid>https://tv.naver.com/v/27939862</guid>
-            <pubDate>Fri, 15 Jul 2022 06:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_111/XAeCW_16577777357041fV1P_JPEG/1657773483405.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신유미_Blue Pale Dot (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
