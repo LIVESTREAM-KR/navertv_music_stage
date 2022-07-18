@@ -4,9 +4,41 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 09:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 10:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[최애직캠] aespa KARINA - Illusion(에스파 카리나 - 도깨비불) Close-up Cam | Show! MusicCore | MBC220716방송]]></title>
+            <link>https://tv.naver.com/v/28014462</link>
+            <guid>https://tv.naver.com/v/28014462</guid>
+            <pubDate>Mon, 18 Jul 2022 10:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220718_52/XigYX_1658136723826AvKUg_JPEG/clip_20220718180128_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] aespa GISELLE - Illusion(에스파 지젤 - 도깨비불) FanCam | Show! MusicCore | MBC220716방송]]></title>
+            <link>https://tv.naver.com/v/28014272</link>
+            <guid>https://tv.naver.com/v/28014272</guid>
+            <pubDate>Mon, 18 Jul 2022 10:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220718_161/4xagO_1658136183432KrOCq_JPEG/clip_20220718175800_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] aespa WINTER - Illusion(에스파 윈터 - 도깨비불) Close-up Cam | Show! MusicCore | MBC220716방송]]></title>
+            <link>https://tv.naver.com/v/28014271</link>
+            <guid>https://tv.naver.com/v/28014271</guid>
+            <pubDate>Mon, 18 Jul 2022 10:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220718_254/9BkF6_1658136181422unS6V_JPEG/clip_20220718175736_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] aespa NINGNING - Illusion(에스파 닝닝 - 도깨비불) FanCam | Show! MusicCore | MBC220716방송]]></title>
+            <link>https://tv.naver.com/v/28014140</link>
+            <guid>https://tv.naver.com/v/28014140</guid>
+            <pubDate>Mon, 18 Jul 2022 10:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220718_9/tPd9y_1658135825219Wcs4R_JPEG/clip_20220718175759_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[최애직캠] aespa GISELLE - Girls(에스파 지젤 - 걸스) Close-up Cam | Show! MusicCore | MBC220716방송]]></title>
             <link>https://tv.naver.com/v/28013503</link>
@@ -214,38 +246,6 @@
             <pubDate>Sat, 16 Jul 2022 10:16:55 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220716_244/Rp6US_1657963019874gCepw_JPEG/clip_20220716175643_214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Apink CHOBOM Cho Rong - Copycat(에이핑크 초봄 박초롱 - 카피캣) FanCam | Show! MusicCore | MBC220716방송]]></title>
-            <link>https://tv.naver.com/v/27983156</link>
-            <guid>https://tv.naver.com/v/27983156</guid>
-            <pubDate>Sat, 16 Jul 2022 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_233/GPqmz_16579621201027FiyH_JPEG/clip_20220716173707_213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Apink CHOBOM YOON BO MI - Copycat(에이핑크 초봄 윤보미 - 카피캣) FanCam | Show! MusicCore | MBC220716방송]]></title>
-            <link>https://tv.naver.com/v/27983155</link>
-            <guid>https://tv.naver.com/v/27983155</guid>
-            <pubDate>Sat, 16 Jul 2022 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_110/bxOif_1657962119124lRwS4_JPEG/clip_20220716173657_212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] aespa NINGNING - Girls(에스파 닝닝 - 걸스) FanCam | Show! MusicCore | MBC220716방송]]></title>
-            <link>https://tv.naver.com/v/27982947</link>
-            <guid>https://tv.naver.com/v/27982947</guid>
-            <pubDate>Sat, 16 Jul 2022 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[4:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_166/fbkb3_1657961222243tekG7_JPEG/clip_20220716171657_210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] aespa WINTER - Girls(에스파 윈터 - 걸스) FanCam | Show! MusicCore | MBC220716방송]]></title>
-            <link>https://tv.naver.com/v/27982946</link>
-            <guid>https://tv.naver.com/v/27982946</guid>
-            <pubDate>Sat, 16 Jul 2022 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[4:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_118/8VF7e_1657961220998esLEy_JPEG/clip_20220716171648_209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
