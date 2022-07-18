@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 08:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 09:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,38 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] aespa GISELLE - Girls(에스파 지젤 - 걸스) Close-up Cam | Show! MusicCore | MBC220716방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28013503</link>
+            <guid>https://tv.naver.com/v/28013503</guid>
+            <pubDate>Mon, 18 Jul 2022 09:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220718_245/zZlhX_1658134325500vunzc_JPEG/clip_20220718172311_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] aespa WINTER - Girls(에스파 윈터 - 걸스) Close-up Cam | Show! MusicCore | MBC220716방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28013500</link>
+            <guid>https://tv.naver.com/v/28013500</guid>
+            <pubDate>Mon, 18 Jul 2022 09:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220718_131/NK96H_1658134321833XHHCQ_JPEG/clip_20220718165746_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] aespa KARINA - Girls(에스파 카리나 - 걸스) Close-up Cam | Show! MusicCore | MBC220716방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28013499</link>
+            <guid>https://tv.naver.com/v/28013499</guid>
+            <pubDate>Mon, 18 Jul 2022 09:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220718_170/tyqmZ_1658134319745EKiiY_JPEG/clip_20220718165745_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] aespa NINGNING - Girls(에스파 닝닝 - 걸스) Close-up Cam | Show! MusicCore | MBC220716방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28013120</link>
+            <guid>https://tv.naver.com/v/28013120</guid>
+            <pubDate>Mon, 18 Jul 2022 09:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220718_113/7RqUr_16581334799617jqwJ_JPEG/clip_20220718165748_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] WJSN – Last Sequence(우주소녀 - 라스트 시퀀스) FanCam | Show! MusicCore | MBC220716방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -222,38 +254,6 @@
             <pubDate>Sat, 16 Jul 2022 09:16:23 GMT</pubDate>
             <content:encoded><![CDATA[4:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220716_118/8VF7e_1657961220998esLEy_JPEG/clip_20220716171648_209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] aespa KARINA - Girls(에스파 카리나 - 걸스) FanCam | Show! MusicCore | MBC220716방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27982945</link>
-            <guid>https://tv.naver.com/v/27982945</guid>
-            <pubDate>Sat, 16 Jul 2022 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[4:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_214/5rWza_1657961219853KTYS1_JPEG/clip_20220716171640_208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] aespa GISELLE - Girls(에스파 지젤 - 걸스) FanCam | Show! MusicCore | MBC220716방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27982882</link>
-            <guid>https://tv.naver.com/v/27982882</guid>
-            <pubDate>Sat, 16 Jul 2022 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[4:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_90/xfoKj_16579609185343j0cG_JPEG/clip_20220716171708_211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Apink CHOBOM – Copycat(에이핑크 초봄 - 카피캣) FanCam | Show! MusicCore | MBC220716방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27982851</link>
-            <guid>https://tv.naver.com/v/27982851</guid>
-            <pubDate>Sat, 16 Jul 2022 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_261/0H1uR_1657963025420m8M6q_JPEG/clip_20220716180841_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SF9 – SCREAM(에스에프나인 - 스크림) FanCam | Show! MusicCore | MBC220716방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27982840</link>
-            <guid>https://tv.naver.com/v/27982840</guid>
-            <pubDate>Sat, 16 Jul 2022 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_237/f3OAT_1657960619343RgM0n_JPEG/clip_20220716171452_206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘위너’, 나의 로맨틱 주인공♡ ‘I LOVE U’ (SBS 인기가요 ─ 네이버TV)]]></title>
