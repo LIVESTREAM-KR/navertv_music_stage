@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 07:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 08:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] CHUNG HA - Sparkling(청하 - 스파클링) Close-up Cam | Show! MusicCore | MBC220716방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28035197</link>
+            <guid>https://tv.naver.com/v/28035197</guid>
+            <pubDate>Tue, 19 Jul 2022 08:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_264/xYHME_1658217122115TiH9g_JPEG/clip_20220719162114_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최애직캠] aespa KARINA - Illusion(에스파 카리나 - 도깨비불) Close-up Cam | Show! MusicCore | MBC220716방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 16 Jul 2022 10:16:55 GMT</pubDate>
             <content:encoded><![CDATA[4:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220716_12/vAwZI_1657963317607lpzPo_JPEG/clip_20220716175654_215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ITZY – SNEAKERS(있지 - 스니커즈) FanCam | Show! MusicCore | MBC220716방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27983362</link>
-            <guid>https://tv.naver.com/v/27983362</guid>
-            <pubDate>Sat, 16 Jul 2022 10:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_244/Rp6US_1657963019874gCepw_JPEG/clip_20220716175643_214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘위너’, 나의 로맨틱 주인공♡ ‘I LOVE U’ (SBS 인기가요 ─ 네이버TV)]]></title>
