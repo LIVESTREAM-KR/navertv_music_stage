@@ -4,9 +4,25 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 09:28:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 10:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[최애직캠] ITZY YEJI - SNEAKERS(있지 예지 - 스니커즈) Close-up Cam | Show! MusicCore | MBC220716방송]]></title>
+            <link>https://tv.naver.com/v/28037756</link>
+            <guid>https://tv.naver.com/v/28037756</guid>
+            <pubDate>Tue, 19 Jul 2022 10:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_171/b26ZF_1658223119037NYqPR_JPEG/clip_20220719175916_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] ITZY RYUJIN - SNEAKERS(있지 류진 - 스니커즈) Close-up Cam | Show! MusicCore | MBC220716방송]]></title>
+            <link>https://tv.naver.com/v/28037648</link>
+            <guid>https://tv.naver.com/v/28037648</guid>
+            <pubDate>Tue, 19 Jul 2022 10:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_55/R4fAr_1658222819817pgdFF_JPEG/clip_20220719175921_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[최애직캠] Apink CHOBOM YOON BO MI - Copycat(에이핑크 초봄 윤보미 - 카피캣) Close-up Cam | Show! MusicCore | MBC220]]></title>
             <link>https://tv.naver.com/v/28037408</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 16 Jul 2022 10:16:55 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220716_175/MmTgv_1657965419089EwyLy_JPEG/clip_20220716183438_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CHUNG HA - Sparkling(청하 – 스파클링) FanCam | Show! MusicCore | MBC220716방송]]></title>
-            <link>https://tv.naver.com/v/27983777</link>
-            <guid>https://tv.naver.com/v/27983777</guid>
-            <pubDate>Sat, 16 Jul 2022 10:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_69/d4iaS_1657965118805S50h9_JPEG/clip_20220716182956_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Lapillus – HIT YA!(라필루스 - 힛야!) FanCam | Show! MusicCore | MBC220716방송]]></title>
-            <link>https://tv.naver.com/v/27983721</link>
-            <guid>https://tv.naver.com/v/27983721</guid>
-            <pubDate>Sat, 16 Jul 2022 10:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_195/p7bVu_1657964818929M7e2z_JPEG/clip_20220716182124_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
