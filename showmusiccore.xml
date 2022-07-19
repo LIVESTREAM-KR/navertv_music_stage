@@ -4,9 +4,25 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 08:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 09:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[최애직캠] Apink CHOBOM YOON BO MI - Copycat(에이핑크 초봄 윤보미 - 카피캣) Close-up Cam | Show! MusicCore | MBC220]]></title>
+            <link>https://tv.naver.com/v/28037408</link>
+            <guid>https://tv.naver.com/v/28037408</guid>
+            <pubDate>Tue, 19 Jul 2022 09:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_234/QeiS4_1658222220618vhcBj_JPEG/clip_20220719174821_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] Apink CHOBOM Cho Rong - Copycat(에이핑크 초봄 박초롱 - 카피캣) Close-up Cam | Show! MusicCore | MBC22071]]></title>
+            <link>https://tv.naver.com/v/28037207</link>
+            <guid>https://tv.naver.com/v/28037207</guid>
+            <pubDate>Tue, 19 Jul 2022 09:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_61/HMk6X_1658221679095jyV91_JPEG/clip_20220719174827_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[최애직캠] CHUNG HA - Sparkling(청하 - 스파클링) Close-up Cam | Show! MusicCore | MBC220716방송]]></title>
             <link>https://tv.naver.com/v/28035197</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 16 Jul 2022 10:16:55 GMT</pubDate>
             <content:encoded><![CDATA[3:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220716_195/p7bVu_1657964818929M7e2z_JPEG/clip_20220716182124_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SGO - SHAKE IT BOOM(사거리 그오빠 – 쉐이크 잇 붐) FanCam | Show! MusicCore | MBC220716방송]]></title>
-            <link>https://tv.naver.com/v/27983424</link>
-            <guid>https://tv.naver.com/v/27983424</guid>
-            <pubDate>Sat, 16 Jul 2022 10:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_120/dkcTo_16579633194485mwlb_JPEG/clip_20220716175712_216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] DRIPPIN - ZERO(드리핀 - 제로) FanCam | Show! MusicCore | MBC220716방송]]></title>
-            <link>https://tv.naver.com/v/27983423</link>
-            <guid>https://tv.naver.com/v/27983423</guid>
-            <pubDate>Sat, 16 Jul 2022 10:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[4:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_12/vAwZI_1657963317607lpzPo_JPEG/clip_20220716175654_215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
