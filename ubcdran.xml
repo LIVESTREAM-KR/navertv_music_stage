@@ -4,9 +4,33 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 07:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 08:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오무라이스(오곤&무성)_울산 관람차]]></title>
+            <link>https://tv.naver.com/v/28059266</link>
+            <guid>https://tv.naver.com/v/28059266</guid>
+            <pubDate>Wed, 20 Jul 2022 08:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_91/SbFhb_1658305157735fal5R_JPEG/5dc81b63-0804-11ed-ba01-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진민호_반만]]></title>
+            <link>https://tv.naver.com/v/28059227</link>
+            <guid>https://tv.naver.com/v/28059227</guid>
+            <pubDate>Wed, 20 Jul 2022 08:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_250/l2Pkv_1658305056329I587h_JPEG/2409da04-0804-11ed-9fa8-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신유미_Hitchhiker]]></title>
+            <link>https://tv.naver.com/v/28059194</link>
+            <guid>https://tv.naver.com/v/28059194</guid>
+            <pubDate>Wed, 20 Jul 2022 08:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_158/PvqwG_16583050006448Nbj4_JPEG/fe9b5520-0803-11ed-a120-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신유미_Blue Pale Dot]]></title>
             <link>https://tv.naver.com/v/27944603</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 17 Jun 2022 10:19:18 GMT</pubDate>
             <content:encoded><![CDATA[3:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_177/CKONS_1655358057917og67w_JPEG/4a472a18-ed35-11ec-9fa8-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤언니_인터뷰]]></title>
-            <link>https://tv.naver.com/v/27381885</link>
-            <guid>https://tv.naver.com/v/27381885</guid>
-            <pubDate>Fri, 17 Jun 2022 10:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_32/EaAuw_1655358054885YLBmT_JPEG/2a8ce935-ed35-11ec-8bba-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이지본_어기여차]]></title>
-            <link>https://tv.naver.com/v/27381884</link>
-            <guid>https://tv.naver.com/v/27381884</guid>
-            <pubDate>Fri, 17 Jun 2022 10:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_295/mJJnB_1655358051784JMSMN_JPEG/0330501f-ed35-11ec-ba01-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤언니_습관]]></title>
-            <link>https://tv.naver.com/v/27381881</link>
-            <guid>https://tv.naver.com/v/27381881</guid>
-            <pubDate>Fri, 17 Jun 2022 10:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[4:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_184/FoR2x_1655358048376X5Exj_JPEG/d2ed1d88-ed34-11ec-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
