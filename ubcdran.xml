@@ -4,9 +4,41 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 08:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 09:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진민호_인터뷰]]></title>
+            <link>https://tv.naver.com/v/28059984</link>
+            <guid>https://tv.naver.com/v/28059984</guid>
+            <pubDate>Wed, 20 Jul 2022 09:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[7:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_21/yMyzS_1658306855556Ay9gl_JPEG/13fc5dd9-0808-11ed-bb44-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신유미_인터뷰]]></title>
+            <link>https://tv.naver.com/v/28059905</link>
+            <guid>https://tv.naver.com/v/28059905</guid>
+            <pubDate>Wed, 20 Jul 2022 09:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[5:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_123/gWeiQ_16583066576375BGYX_JPEG/be577834-0807-11ed-8863-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신유미_How You Like That]]></title>
+            <link>https://tv.naver.com/v/28059858</link>
+            <guid>https://tv.naver.com/v/28059858</guid>
+            <pubDate>Wed, 20 Jul 2022 09:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:13:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_47/OMlzf_1658306549627HyIw2_JPEG/99200ff9-0804-11ed-a120-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진민호_마음]]></title>
+            <link>https://tv.naver.com/v/28059836</link>
+            <guid>https://tv.naver.com/v/28059836</guid>
+            <pubDate>Wed, 20 Jul 2022 09:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[4:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_73/hmFlT_1658306507645kwVKU_JPEG/793bf85b-0807-11ed-8863-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오무라이스(오곤&무성)_울산 관람차]]></title>
             <link>https://tv.naver.com/v/28059266</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 24 Jun 2022 10:19:59 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_44/gUq7l_1655943879159HFn1P_JPEG/f61587ab-f289-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신곡선공개]이수영_천왕성]]></title>
-            <link>https://tv.naver.com/v/27510124</link>
-            <guid>https://tv.naver.com/v/27510124</guid>
-            <pubDate>Fri, 24 Jun 2022 10:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_203/jbcTk_16559438473095zoT5_JPEG/dd4c77b4-f289-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[V.O.S_큰일이다]]></title>
-            <link>https://tv.naver.com/v/27510113</link>
-            <guid>https://tv.naver.com/v/27510113</guid>
-            <pubDate>Fri, 24 Jun 2022 10:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_185/QQr6E_1655943812709Pawwl_JPEG/c3c45cfc-f289-11ec-bb12-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케이시_그때가 좋았어]]></title>
-            <link>https://tv.naver.com/v/27510101</link>
-            <guid>https://tv.naver.com/v/27510101</guid>
-            <pubDate>Fri, 24 Jun 2022 10:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_180/7ySWM_1655943770458OGKsm_JPEG/a973c2f2-f289-11ec-8863-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤언니_커피]]></title>
-            <link>https://tv.naver.com/v/27381888</link>
-            <guid>https://tv.naver.com/v/27381888</guid>
-            <pubDate>Fri, 17 Jun 2022 10:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_177/CKONS_1655358057917og67w_JPEG/4a472a18-ed35-11ec-9fa8-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

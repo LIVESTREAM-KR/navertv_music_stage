@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 08:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 09:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] aespa.zip 📂 Black Mamba부터 Girls까지 | Show! MusicCore]]></title>
+            <link>https://tv.naver.com/v/28059969</link>
+            <guid>https://tv.naver.com/v/28059969</guid>
+            <pubDate>Wed, 20 Jul 2022 09:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[22:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_201/DKuka_1658306821040KLTK4_JPEG/clip_20220720170216_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[최애직캠] ITZY YEJI - SNEAKERS(있지 예지 - 스니커즈) Close-up Cam | Show! MusicCore | MBC220716방송]]></title>
             <link>https://tv.naver.com/v/28037756</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Jul 2022 10:16:55 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220716_285/cHiic_1657966018831K5Fo8_JPEG/clip_20220716184353_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] YOUNGTAK - MMM(영탁 – 신사답게) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220716방송]]></title>
-            <link>https://tv.naver.com/v/27983835</link>
-            <guid>https://tv.naver.com/v/27983835</guid>
-            <pubDate>Sat, 16 Jul 2022 10:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_175/MmTgv_1657965419089EwyLy_JPEG/clip_20220716183438_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
