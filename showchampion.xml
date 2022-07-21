@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 10:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 11:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 3주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.442]]></title>
+            <link>https://tv.naver.com/v/28073073</link>
+            <guid>https://tv.naver.com/v/28073073</guid>
+            <pubDate>Thu, 21 Jul 2022 11:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[5:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_260/ME8wG_1658369280421eH0Qp_JPEG/CA202207200092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] Lapillus - HIT YA! (라필루스 - 힛야!) l Show Champion l EP.442]]></title>
             <link>https://tv.naver.com/v/28071801</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Jul 2022 13:42:33 GMT</pubDate>
             <content:encoded><![CDATA[3:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220720_201/THgX4_1658305922122RdUj5_JPEG/CA202207200032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ITZY YUNA - SNEAKERS (있지 유나 - 스니커즈) | Show Champion | EP.442]]></title>
-            <link>https://tv.naver.com/v/28058947</link>
-            <guid>https://tv.naver.com/v/28058947</guid>
-            <pubDate>Wed, 20 Jul 2022 13:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_109/nfhwL_1658304479729m54aE_JPEG/CA202207200030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
