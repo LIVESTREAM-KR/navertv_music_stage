@@ -4,7 +4,7 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 06:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 07:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 20 Jul 2022 09:18:49 GMT</pubDate>
             <content:encoded><![CDATA[5:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220720_123/gWeiQ_16583066576375BGYX_JPEG/be577834-0807-11ed-8863-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신유미_How You Like That]]></title>
-            <link>https://tv.naver.com/v/28059858</link>
-            <guid>https://tv.naver.com/v/28059858</guid>
-            <pubDate>Wed, 20 Jul 2022 09:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:13:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_47/OMlzf_1658306549627HyIw2_JPEG/99200ff9-0804-11ed-a120-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진민호_마음]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Fri, 24 Jun 2022 10:19:59 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_44/gUq7l_1655943879159HFn1P_JPEG/f61587ab-f289-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신곡선공개]이수영_천왕성]]></title>
+            <link>https://tv.naver.com/v/27510124</link>
+            <guid>https://tv.naver.com/v/27510124</guid>
+            <pubDate>Thu, 21 Jul 2022 07:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_203/jbcTk_16559438473095zoT5_JPEG/dd4c77b4-f289-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
