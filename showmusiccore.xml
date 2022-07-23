@@ -4,9 +4,49 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 10:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 11:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] WJSN – Last Sequence(우주소녀 - 라스트 시퀀스) FanCam | Show! MusicCore | MBC220723방송]]></title>
+            <link>https://tv.naver.com/v/28121925</link>
+            <guid>https://tv.naver.com/v/28121925</guid>
+            <pubDate>Sat, 23 Jul 2022 11:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_156/rryVf_1658572919690ia88K_JPEG/clip_20220723191642_31.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CHUNG HA - Sparkling(청하 – 스파클링) FanCam | Show! MusicCore | MBC220723방송]]></title>
+            <link>https://tv.naver.com/v/28121772</link>
+            <guid>https://tv.naver.com/v/28121772</guid>
+            <pubDate>Sat, 23 Jul 2022 11:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_260/k81FP_1658572321236NHIT9_JPEG/clip_20220723190756_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CHUNG HA - Sparkling(청하 – 스파클링) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220723방송]]></title>
+            <link>https://tv.naver.com/v/28121703</link>
+            <guid>https://tv.naver.com/v/28121703</guid>
+            <pubDate>Sat, 23 Jul 2022 11:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_272/RAc65_1658572020235tH4Mq_JPEG/clip_20220723190748_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] SF9 YOO TAE YANG - SCREAM(에스에프나인 유태양 - 스크림) FanCam | Show! MusicCore | MBC220723방송]]></title>
+            <link>https://tv.naver.com/v/28121639</link>
+            <guid>https://tv.naver.com/v/28121639</guid>
+            <pubDate>Sat, 23 Jul 2022 11:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_118/ZhUgv_16585717821512kGMr_JPEG/clip_20220723185922_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] SF9 – SCREAM(에스에프나인 - 스크림) FanCam | Show! MusicCore | MBC220723방송]]></title>
+            <link>https://tv.naver.com/v/28121638</link>
+            <guid>https://tv.naver.com/v/28121638</guid>
+            <pubDate>Sat, 23 Jul 2022 11:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_140/lrujB_1658571780545Bzz0T_JPEG/clip_20220723185902_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] SF9 DA WON - SCREAM(에스에프나인 다원 - 스크림) FanCam | Show! MusicCore | MBC220723방송]]></title>
             <link>https://tv.naver.com/v/28121554</link>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 19 Jul 2022 10:20:25 GMT</pubDate>
             <content:encoded><![CDATA[3:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220719_171/b26ZF_1658223119037NYqPR_JPEG/clip_20220719175916_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] ITZY RYUJIN - SNEAKERS(있지 류진 - 스니커즈) Close-up Cam | Show! MusicCore | MBC220716방송]]></title>
-            <link>https://tv.naver.com/v/28037648</link>
-            <guid>https://tv.naver.com/v/28037648</guid>
-            <pubDate>Tue, 19 Jul 2022 10:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_55/R4fAr_1658222819817pgdFF_JPEG/clip_20220719175921_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] Apink CHOBOM YOON BO MI - Copycat(에이핑크 초봄 윤보미 - 카피캣) Close-up Cam | Show! MusicCore | MBC220]]></title>
-            <link>https://tv.naver.com/v/28037408</link>
-            <guid>https://tv.naver.com/v/28037408</guid>
-            <pubDate>Tue, 19 Jul 2022 09:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_234/QeiS4_1658222220618vhcBj_JPEG/clip_20220719174821_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] Apink CHOBOM Cho Rong - Copycat(에이핑크 초봄 박초롱 - 카피캣) Close-up Cam | Show! MusicCore | MBC22071]]></title>
-            <link>https://tv.naver.com/v/28037207</link>
-            <guid>https://tv.naver.com/v/28037207</guid>
-            <pubDate>Tue, 19 Jul 2022 09:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_61/HMk6X_1658221679095jyV91_JPEG/clip_20220719174827_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] CHUNG HA - Sparkling(청하 - 스파클링) Close-up Cam | Show! MusicCore | MBC220716방송]]></title>
-            <link>https://tv.naver.com/v/28035197</link>
-            <guid>https://tv.naver.com/v/28035197</guid>
-            <pubDate>Tue, 19 Jul 2022 08:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_264/xYHME_1658217122115TiH9g_JPEG/clip_20220719162114_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] aespa KARINA - Illusion(에스파 카리나 - 도깨비불) Close-up Cam | Show! MusicCore | MBC220716방송]]></title>
-            <link>https://tv.naver.com/v/28014462</link>
-            <guid>https://tv.naver.com/v/28014462</guid>
-            <pubDate>Mon, 18 Jul 2022 10:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220718_52/XigYX_1658136723826AvKUg_JPEG/clip_20220718180128_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
