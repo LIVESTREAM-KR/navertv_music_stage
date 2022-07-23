@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 13:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 14:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,7 +144,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220723_216/A954j_1658567521448OWPIw_JPEG/clip_20220723174359_218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] WSG워너비(가야G) - 그때 그 순간 그대로 (그그그) 1위 직캠 FanCam | Show! MusicCore | MBC220723방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <title><![CDATA[[예능연구소] WSG워너비(가야G) 1위 직캠 - 그때 그 순간 그대로 (그그그) FanCam | Show! MusicCore | MBC220723방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28120709</link>
             <guid>https://tv.naver.com/v/28120709</guid>
             <pubDate>Sat, 23 Jul 2022 09:16:26 GMT</pubDate>
