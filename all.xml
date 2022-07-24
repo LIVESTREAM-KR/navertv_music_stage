@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 23:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 01:51:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대휘로그 in 심플리 [휘 퀴즈 타임 2] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28118575</link>
+            <guid>https://tv.naver.com/v/28118575</guid>
+            <pubDate>Sun, 24 Jul 2022 01:51:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_105/KmrUS_1658557999882fBCQ1_PNG/1658557976675.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.529 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28099003</link>
             <guid>https://tv.naver.com/v/28099003</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Fri, 22 Jul 2022 05:26:34 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220721_14/OcBUW_1658389305262CXstf_JPEG/1658380237998.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 카드 비엠 'Ring The Alarm' 직캠 (KARD BM 'Ring The Alarm') l Simply K -Pop CON-TOUR Ep.529 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28081384</link>
-            <guid>https://tv.naver.com/v/28081384</guid>
-            <pubDate>Fri, 22 Jul 2022 05:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_210/DzrU7_1658389300522cNSeN_JPEG/1658380224765.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신유미_How you like that (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
