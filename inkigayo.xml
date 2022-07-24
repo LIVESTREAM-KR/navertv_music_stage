@@ -4,9 +4,25 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 06:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 07:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘블리처스’의 파워 보컬X화려한 랩핑 무대! ‘Hit The Bass’]]></title>
+            <link>https://tv.naver.com/v/28132120</link>
+            <guid>https://tv.naver.com/v/28132120</guid>
+            <pubDate>Sun, 24 Jul 2022 07:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220724_82/6MiMK_1658646720227ON9pr_JPEG/cd6d423a-ac75-4c5a-8a55-cde6b05a333a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘아이리스’, 무한하고 다채로운 빛으로 핫 데뷔! ‘WANNA KNOW’]]></title>
+            <link>https://tv.naver.com/v/28132045</link>
+            <guid>https://tv.naver.com/v/28132045</guid>
+            <pubDate>Sun, 24 Jul 2022 07:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220724_160/xHQPb_1658646420589XvAOf_JPEG/7c494200-5681-4161-95fe-7459df5a8f4f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘위너’, 나의 로맨틱 주인공♡ ‘I LOVE U’]]></title>
             <link>https://tv.naver.com/v/27993858</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 10 Jul 2022 08:19:42 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220710_259/CJSEk_1657438321207V7LaD_JPEG/3bc23ab9-e309-44a6-a77d-9b6ae0a90a0b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘픽시’, 감각적이고 강렬한 퍼포먼스 ‘Villain’]]></title>
-            <link>https://tv.naver.com/v/27853032</link>
-            <guid>https://tv.naver.com/v/27853032</guid>
-            <pubDate>Sun, 10 Jul 2022 08:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220710_68/YZwCE_1657438022905gjDvW_JPEG/d0bd6238-8500-48b6-863f-101b41114d0d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘하이키’와 함께 마음이 향하는 곳으로 ‘RUN’]]></title>
-            <link>https://tv.naver.com/v/27852980</link>
-            <guid>https://tv.naver.com/v/27852980</guid>
-            <pubDate>Sun, 10 Jul 2022 08:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220710_14/wiwQu_1657437722923214i2_JPEG/237935d7-0769-4b37-b5ea-c0eb1eb5e717.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
