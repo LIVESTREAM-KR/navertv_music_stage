@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 05:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 06:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] STAYC SEEUN - BEAUTIFUL MONSTER(스테이씨 세은 - 뷰티풀 몬스터)Close-up Cam | Show! MusicCore |MBC220723방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28147590</link>
+            <guid>https://tv.naver.com/v/28147590</guid>
+            <pubDate>Mon, 25 Jul 2022 06:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_124/gtjNo_1658728320088HCuxt_JPEG/clip_20220725141827_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] STAYC ISA - BEAUTIFUL MONSTER(스테이씨 아이사 - 뷰티풀 몬스터)Close-up Cam | Show! MusicCore | MBC220723방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28147291</link>
+            <guid>https://tv.naver.com/v/28147291</guid>
+            <pubDate>Mon, 25 Jul 2022 06:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_61/i5qYc_1658727480066K8dYR_JPEG/clip_20220725141759_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] HyunA - Nabillera(현아 – 나빌레라) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220723방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 23 Jul 2022 09:16:26 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220723_130/DmrA2_1658565479371oPH8A_JPEG/clip_20220723171506_207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] STAYC – BEAUTIFUL MONSTER(스테이씨 - 뷰티풀 몬스터) FanCam | Show! MusicCore | MBC220723방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28120022</link>
-            <guid>https://tv.naver.com/v/28120022</guid>
-            <pubDate>Sat, 23 Jul 2022 09:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_21/RGqse_1658564582459Bb39K_JPEG/clip_20220723170130_203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] aespa.zip 📂 Black Mamba부터 Girls까지 | Show! MusicCore (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28059969</link>
-            <guid>https://tv.naver.com/v/28059969</guid>
-            <pubDate>Wed, 20 Jul 2022 09:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[22:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_201/DKuka_1658306821040KLTK4_JPEG/clip_20220720170216_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘현아’의 경쾌한 트로피칼 리듬♬ ‘나빌레라’ (SBS 인기가요 ─ 네이버TV)]]></title>
