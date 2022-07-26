@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 01:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:06:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[최애직캠] HyunA - Nabillera(현아 - 나빌레라) Close-up Cam | Show! MusicCore | MBC220723방송]]></title>
+            <link>https://tv.naver.com/v/28166705</link>
+            <guid>https://tv.naver.com/v/28166705</guid>
+            <pubDate>Tue, 26 Jul 2022 04:05:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_242/1R9Pv_1658802722267OGSax_JPEG/clip_20220726110825_98.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[최애직캠] STAYC SEEUN - BEAUTIFUL MONSTER(스테이씨 세은 - 뷰티풀 몬스터)Close-up Cam | Show! MusicCore |MBC220723방]]></title>
             <link>https://tv.naver.com/v/28147590</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 23 Jul 2022 09:16:26 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220723_296/DgyyS_1658566020758QQbgi_JPEG/clip_20220723172057_208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ITZY – SNEAKERS(있지 - 스니커즈) FanCam | Show! MusicCore | MBC220723방송]]></title>
-            <link>https://tv.naver.com/v/28120207</link>
-            <guid>https://tv.naver.com/v/28120207</guid>
-            <pubDate>Sat, 23 Jul 2022 09:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_130/DmrA2_1658565479371oPH8A_JPEG/clip_20220723171506_207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

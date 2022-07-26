@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 01:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:06:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] HyunA - Nabillera(현아 - 나빌레라) Close-up Cam | Show! MusicCore | MBC220723방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28166705</link>
+            <guid>https://tv.naver.com/v/28166705</guid>
+            <pubDate>Tue, 26 Jul 2022 04:05:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_242/1R9Pv_1658802722267OGSax_JPEG/clip_20220726110825_98.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최애직캠] STAYC SEEUN - BEAUTIFUL MONSTER(스테이씨 세은 - 뷰티풀 몬스터)Close-up Cam | Show! MusicCore |MBC220723방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 23 Jul 2022 09:16:26 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220723_296/DgyyS_1658566020758QQbgi_JPEG/clip_20220723172057_208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ITZY – SNEAKERS(있지 - 스니커즈) FanCam | Show! MusicCore | MBC220723방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28120207</link>
-            <guid>https://tv.naver.com/v/28120207</guid>
-            <pubDate>Sat, 23 Jul 2022 09:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_130/DmrA2_1658565479371oPH8A_JPEG/clip_20220723171506_207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘현아’의 경쾌한 트로피칼 리듬♬ ‘나빌레라’ (SBS 인기가요 ─ 네이버TV)]]></title>
