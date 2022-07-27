@@ -4,9 +4,25 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 10:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 11:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2022 쇼챔 상반기 결산 리포트] YOO TAE YANG(SF9) - Don't Call Me(원곡 : SHINee) (유태양(에스에프나인) - 돈콜미)]]></title>
+            <link>https://tv.naver.com/v/28198974</link>
+            <guid>https://tv.naver.com/v/28198974</guid>
+            <pubDate>Wed, 27 Jul 2022 11:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_88/nq6vW_1658917620176zU3tz_JPEG/CA202207270037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022 쇼챔 상반기 결산 리포트] KIM JAE HWAN - Your Shampoo Scent In The Flowers (김재환 - 흔들리는 꽃들 속에서 네 샴푸향이 느껴진]]></title>
+            <link>https://tv.naver.com/v/28198856</link>
+            <guid>https://tv.naver.com/v/28198856</guid>
+            <pubDate>Wed, 27 Jul 2022 11:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_92/GN55Q_1658917317788az1a4_JPEG/CA202207270036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2022 쇼챔 상반기 결산 리포트] WEi - TOMBOY (위아이 - 톰보이(원곡: (여자)아이들))]]></title>
             <link>https://tv.naver.com/v/28198769</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 20 Jul 2022 13:42:33 GMT</pubDate>
             <content:encoded><![CDATA[3:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220720_156/8q6eB_1658310423885KnrT1_JPEG/CA202207200040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] SF9 DA WON - SCREAM (에스에프나인 다원 - 스크림) | Show Champion | EP.442]]></title>
-            <link>https://tv.naver.com/v/28061470</link>
-            <guid>https://tv.naver.com/v/28061470</guid>
-            <pubDate>Wed, 20 Jul 2022 13:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_151/v0qKP_1658310422497DaujD_JPEG/CA202207200038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lapillus - HIT YA! (라필루스 - 힛야!)]]></title>
-            <link>https://tv.naver.com/v/28061354</link>
-            <guid>https://tv.naver.com/v/28061354</guid>
-            <pubDate>Wed, 20 Jul 2022 10:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_71/R2U4Z_165831012003465mow_JPEG/CA202207200049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
