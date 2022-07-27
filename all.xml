@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 09:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 10:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,102 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[2022 쇼챔 상반기 결산 리포트] WEi - TOMBOY (위아이 - 톰보이(원곡: (여자)아이들)) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28198769</link>
+            <guid>https://tv.naver.com/v/28198769</guid>
+            <pubDate>Wed, 27 Jul 2022 10:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_30/XlpT5_1658917027186kysjX_JPEG/CA202207270035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022 쇼챔 상반기 결산 리포트] JINHO(PENTAGON) - Square (진호(펜타곤) - 스퀘어(원곡: 백예린)) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28198767</link>
+            <guid>https://tv.naver.com/v/28198767</guid>
+            <pubDate>Wed, 27 Jul 2022 10:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_70/pTxe8_1658917025149magck_JPEG/CA202207270034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022 쇼챔 상반기 결산 리포트] YUQI - Giant(Band Ver.) + Bonnie & Clyde(Band Ver.) (우기((여자)아이들) - 자이언트 + 보니 & (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28198764</link>
+            <guid>https://tv.naver.com/v/28198764</guid>
+            <pubDate>Wed, 27 Jul 2022 10:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[4:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_262/4Z9CB_1658917020722hku5m_JPEG/CA202207270032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022 쇼챔 상반기 결산 리포트] ONEUS - Bring it on (원어스 - 덤벼) (건희 엔딩 ver.) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28198763</link>
+            <guid>https://tv.naver.com/v/28198763</guid>
+            <pubDate>Wed, 27 Jul 2022 10:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[8:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_155/f45Rf_16589170191513oPwR_JPEG/CA202207270031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022 쇼챔 상반기 결산 리포트] OH MY GIRL - Real Love (오마이걸 - 리얼 러브) (미미 엔딩 ver.) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28198609</link>
+            <guid>https://tv.naver.com/v/28198609</guid>
+            <pubDate>Wed, 27 Jul 2022 10:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[7:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_84/PZ9xy_1658916479202PXphu_JPEG/CA202207270029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022 쇼챔 상반기 결산 리포트] CRAVITY - Adrenaline (크래비티 - 아드레날린) (원진 엔딩 ver.) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28198345</link>
+            <guid>https://tv.naver.com/v/28198345</guid>
+            <pubDate>Wed, 27 Jul 2022 10:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[7:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_74/YWsLs_1658915579145FEyIH_JPEG/CA202207270027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022 쇼챔 상반기 결산 리포트] NMIXX - O.O (엔믹스 - 오오) (지니 엔딩 ver.) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28198247</link>
+            <guid>https://tv.naver.com/v/28198247</guid>
+            <pubDate>Wed, 27 Jul 2022 10:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[7:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_233/BPYlA_1658915220470C2v6R_JPEG/CA202207270026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022 쇼챔 상반기 결산 리포트] TNX - 180sec (티엔엑스 - 180초) (준혁 엔딩 ver.) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28198245</link>
+            <guid>https://tv.naver.com/v/28198245</guid>
+            <pubDate>Wed, 27 Jul 2022 10:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[7:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_121/WIxyX_1658915218848AqzdJ_JPEG/CA202207270025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022 쇼챔 상반기 결산 리포트] Stray Kids - MANIAC (스트레이 키즈 - 매니악) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28197901</link>
+            <guid>https://tv.naver.com/v/28197901</guid>
+            <pubDate>Wed, 27 Jul 2022 10:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_37/8Bb4o_1658914022741ildS9_JPEG/CA202207270024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022 쇼챔 상반기 결산 리포트] IVE - LOVE DIVE (아이브 - 러브 다이브) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28197852</link>
+            <guid>https://tv.naver.com/v/28197852</guid>
+            <pubDate>Wed, 27 Jul 2022 10:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_27/xmVkR_1658913785432WgzCy_JPEG/CA202207270022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022 쇼챔 상반기 결산 리포트] LE SSERAFIM - FEARLESS (르세라핌 - 피어리스) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28197854</link>
+            <guid>https://tv.naver.com/v/28197854</guid>
+            <pubDate>Wed, 27 Jul 2022 10:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_220/sqaq7_1658913787565TjIlh_JPEG/CA202207270023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022 쇼챔 상반기 결산 리포트] NCT DREAM - Beatbox (엔시티 드림 - 비트박스) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28197830</link>
+            <guid>https://tv.naver.com/v/28197830</guid>
+            <pubDate>Wed, 27 Jul 2022 10:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_180/JjREQ_16589137245198fAOi_JPEG/CA202207270021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예고] 주목! 쇼챔피언 상반기 결산 리포트 발표를 시작합니다! (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28145922</link>
             <guid>https://tv.naver.com/v/28145922</guid>
@@ -1358,102 +1454,6 @@
             <pubDate>Wed, 20 Jul 2022 10:19:03 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220720_71/R2U4Z_165831012003465mow_JPEG/CA202207200049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] BUSTERS - Tropical Romance (버스터즈 - 여름인걸) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28061254</link>
-            <guid>https://tv.naver.com/v/28061254</guid>
-            <pubDate>Wed, 20 Jul 2022 10:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_11/XrMIQ_1658309880827NcwAs_JPEG/CA202207200047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] SF9 ZU HO - SCREAM (에스에프나인 주호 - 스크림) | Show Champion | EP.442 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28061253</link>
-            <guid>https://tv.naver.com/v/28061253</guid>
-            <pubDate>Wed, 20 Jul 2022 13:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_14/rF0O2_1658309879563s2CTQ_JPEG/CA202207200039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MC석 인터뷰] SF9의 '으른 청량'? 너무 좋아서 'SCREAM'↗ (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28061227</link>
-            <guid>https://tv.naver.com/v/28061227</guid>
-            <pubDate>Wed, 20 Jul 2022 10:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_227/Lnwuc_1658309825954GQeNU_JPEG/CA202207200048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] ILY:1 - Que Sera Sera (아일리원 - 케세라세라) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28061224</link>
-            <guid>https://tv.naver.com/v/28061224</guid>
-            <pubDate>Wed, 20 Jul 2022 10:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_32/nJU9A_1658309823884ys2oz_JPEG/CA202207200046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[XG - MASCARA (엑스지 - 마스카라) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28061085</link>
-            <guid>https://tv.naver.com/v/28061085</guid>
-            <pubDate>Wed, 20 Jul 2022 10:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_225/xm7w1_1658309521843GBc7N_JPEG/CA202207200045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] SF9 HWI YOUNG - SCREAM (에스에프나인 휘영 - 스크림) | Show Champion | EP.442 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28061084</link>
-            <guid>https://tv.naver.com/v/28061084</guid>
-            <pubDate>Wed, 20 Jul 2022 13:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_181/0zp8Y_1658309520511Id9sv_JPEG/CA202207200041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1CHU - OASIS (원츄 - 오아시스) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28060961</link>
-            <guid>https://tv.naver.com/v/28060961</guid>
-            <pubDate>Wed, 20 Jul 2022 10:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_140/89Hs2_1658309219471NHYUt_JPEG/CA202207200044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] SF9 CHA NI - SCREAM (에스에프나인 찬희 - 스크림) | Show Champion | EP.442 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28060705</link>
-            <guid>https://tv.naver.com/v/28060705</guid>
-            <pubDate>Wed, 20 Jul 2022 13:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_197/Q7GaX_1658308622232mNpnO_JPEG/CA202207200042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] SF9 JAE YOON - SCREAM (에스에프나인 재윤 - 스크림) | Show Champion | EP.442 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28060704</link>
-            <guid>https://tv.naver.com/v/28060704</guid>
-            <pubDate>Wed, 20 Jul 2022 13:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_135/UyYkK_1658308620849Cx1F5_JPEG/CA202207200037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[원픽캠 4K] CHUNG HA - Sparkling (청하 - 스파클링) l Show Champion l EP.442 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28060123</link>
-            <guid>https://tv.naver.com/v/28060123</guid>
-            <pubDate>Wed, 20 Jul 2022 13:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_211/x6Ngp_1658307121670aXicr_JPEG/CA202207200035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] CHUNG HA - Sparkling (청하 - 스파클링) l Show Champion l EP.442 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28059970</link>
-            <guid>https://tv.naver.com/v/28059970</guid>
-            <pubDate>Wed, 20 Jul 2022 13:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_64/byaeZ_1658306823011WxttG_JPEG/CA202207200033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] CHUNG HA - Sparkling (청하 - 스파클링) l Show Champion l EP.442 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28059843</link>
-            <guid>https://tv.naver.com/v/28059843</guid>
-            <pubDate>Wed, 20 Jul 2022 13:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_208/qqSN1_1658306520699V4Pxu_JPEG/CA202207200034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
