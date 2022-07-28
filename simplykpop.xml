@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 07:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 08:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[《예고》뮤 수파싯(Mew Suppasit)과 함께한 이번주 심플리 콘투어 태국 편💌~!! _530회]]></title>
+            <link>https://tv.naver.com/v/28207037</link>
+            <guid>https://tv.naver.com/v/28207037</guid>
+            <pubDate>Thu, 28 Jul 2022 08:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_269/Ew2hE_1658995483411Pe16x_PNG/1658995480600.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[대휘로그 in 심플리 [휘 퀴즈 타임 2]]]></title>
             <link>https://tv.naver.com/v/28118575</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 21 Jul 2022 08:23:40 GMT</pubDate>
             <content:encoded><![CDATA[1:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220721_2/nHjrV_1658389434575pKAx3_PNG/1658389430061.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 카드 전지우 'Ring The Alarm' 직캠 (KARD JIWOO 'Ring The Alarm') l Simply K -Pop CON-TOUR Ep.529]]></title>
-            <link>https://tv.naver.com/v/28081388</link>
-            <guid>https://tv.naver.com/v/28081388</guid>
-            <pubDate>Fri, 22 Jul 2022 05:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_14/OcBUW_1658389305262CXstf_JPEG/1658380237998.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

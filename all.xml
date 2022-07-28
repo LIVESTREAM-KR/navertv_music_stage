@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 07:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 08:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://tv.naver.com/v/28171639</guid>
             <pubDate>Tue, 26 Jul 2022 07:16:25 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_37/g34PO_1658974619651h9hog_JPEG/clip_20220728110803_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_173/iNEjE_16589953275745oCCu_JPEG/clip_20220728165104_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최애직캠] HyunA - Nabillera(현아 - 나빌레라) Close-up Cam | Show! MusicCore | MBC220723방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》뮤 수파싯(Mew Suppasit)과 함께한 이번주 심플리 콘투어 태국 편💌~!! _530회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28207037</link>
+            <guid>https://tv.naver.com/v/28207037</guid>
+            <pubDate>Thu, 28 Jul 2022 08:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_269/Ew2hE_1658995483411Pe16x_PNG/1658995480600.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[대휘로그 in 심플리 [휘 퀴즈 타임 2] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28118575</link>
             <guid>https://tv.naver.com/v/28118575</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Thu, 21 Jul 2022 08:23:40 GMT</pubDate>
             <content:encoded><![CDATA[1:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220721_2/nHjrV_1658389434575pKAx3_PNG/1658389430061.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 카드 전지우 'Ring The Alarm' 직캠 (KARD JIWOO 'Ring The Alarm') l Simply K -Pop CON-TOUR Ep.529 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28081388</link>
-            <guid>https://tv.naver.com/v/28081388</guid>
-            <pubDate>Fri, 22 Jul 2022 05:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_14/OcBUW_1658389305262CXstf_JPEG/1658380237998.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신유미_How you like that (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
