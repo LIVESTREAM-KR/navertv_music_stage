@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 08:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 09:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Mew Suppasit, Billboard's World Digital Song Sales Chart Star (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28218608</link>
+            <guid>https://tv.naver.com/v/28218608</guid>
+            <pubDate>Thu, 28 Jul 2022 09:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[11:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_61/8TIkS_1658997786678KL3xX_PNG/1658996238703.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[《예고》퍼플키스(PURPLE KISS)와 함께한 이번주 심플리 콘투어 태국 편💌~!! _530회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28213480</link>
+            <guid>https://tv.naver.com/v/28213480</guid>
+            <pubDate>Thu, 28 Jul 2022 09:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_22/hD49H_1658998275127U1Jox_PNG/1658998271359.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[《예고》뮤 수파싯(Mew Suppasit)과 함께한 이번주 심플리 콘투어 태국 편💌~!! _530회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28207037</link>
             <guid>https://tv.naver.com/v/28207037</guid>
@@ -1894,22 +1910,6 @@
             <pubDate>Fri, 22 Jul 2022 04:45:04 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_244/u0zUN_165846318353742Whv_PNG/1658462515741.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BUSTERS (버스터즈) - Tropical Romance (여름인걸) _ Ep.529 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28097827</link>
-            <guid>https://tv.naver.com/v/28097827</guid>
-            <pubDate>Fri, 22 Jul 2022 04:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_69/TqYJs_1658462914596b3gXF_PNG/1658462513154.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[《예고》엠씨엔디(MCND)와 함께한 이번주 심플리 콘투어 뉴질랜드 편💌~!! _529회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28081454</link>
-            <guid>https://tv.naver.com/v/28081454</guid>
-            <pubDate>Thu, 21 Jul 2022 08:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_2/nHjrV_1658389434575pKAx3_PNG/1658389430061.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[신유미_How you like that (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
