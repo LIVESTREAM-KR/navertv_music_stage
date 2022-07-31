@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 06:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 07:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220723_53/BKvfr_1658566024243KU6WA_JPEG/clip_20220723172132_212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘하이키’, 건강미 넘치는 에너지 뿜뿜! ‘RUN’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28278588</link>
+            <guid>https://tv.naver.com/v/28278588</guid>
+            <pubDate>Sun, 31 Jul 2022 07:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_123/yn5lw_1659251519255qOevm_JPEG/12a9623c-e8ee-4a2c-89a7-912961f83107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘트렌드지’, 클릭을 부르는 하이퀄리티 퍼포먼스 ‘CLIQUE’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28278477</link>
+            <guid>https://tv.naver.com/v/28278477</guid>
+            <pubDate>Sun, 31 Jul 2022 07:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_187/egiJJ_1659251220817TH89U_JPEG/4a399749-e567-4b83-9de3-04915cbc623d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘현아’의 경쾌한 트로피칼 리듬♬ ‘나빌레라’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28132956</link>
             <guid>https://tv.naver.com/v/28132956</guid>
@@ -478,22 +494,6 @@
             <pubDate>Sun, 17 Jul 2022 08:20:47 GMT</pubDate>
             <content:encoded><![CDATA[2:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220718_261/p3zxv_1658119923143hscGm_JPEG/b6bbc8fc-a403-45cc-b2ee-b874086d0986.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 스트레스를 한방에 날려 버리는 ‘하이키’의 싱그러운 무대! ‘RUN’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27993376</link>
-            <guid>https://tv.naver.com/v/27993376</guid>
-            <pubDate>Sun, 17 Jul 2022 08:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220718_128/eQcZ3_1658120226101P0s6k_JPEG/f37a06ad-4821-4bac-ba57-f5dd6ed7188d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘영탁’, 매너 있는 댄스 가수의 탄생! ‘신사답게 (MMM)’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27993306</link>
-            <guid>https://tv.naver.com/v/27993306</guid>
-            <pubDate>Sun, 17 Jul 2022 08:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220718_108/iMX2f_165811332552279AJH_JPEG/4c70effc-1eac-4fc7-81f8-09d632ec495d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
