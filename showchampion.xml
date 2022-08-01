@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 05:53:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 06:35:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 8월의 컴백대잔치! 우리 함께 춤을 춰~♬]]></title>
+            <link>https://tv.naver.com/v/28294551</link>
+            <guid>https://tv.naver.com/v/28294551</guid>
+            <pubDate>Mon, 01 Aug 2022 06:34:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_248/Wm1ol_16593328236940py8H_JPEG/CA202208030002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2022 쇼챔 상반기 결산 리포트] YOO TAE YANG(SF9) - Don't Call Me(원곡 : SHINee) (유태양(에스에프나인) - 돈콜미)]]></title>
             <link>https://tv.naver.com/v/28198974</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Jul 2022 10:19:03 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220720_230/MdWBe_16583104250813SPkJ_JPEG/CA202207200050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] SF9 YOO TAE YANG - SCREAM (에스에프나인 유태양 - 스크림) | Show Champion | EP.442]]></title>
-            <link>https://tv.naver.com/v/28061471</link>
-            <guid>https://tv.naver.com/v/28061471</guid>
-            <pubDate>Wed, 20 Jul 2022 13:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_156/8q6eB_1658310423885KnrT1_JPEG/CA202207200040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
