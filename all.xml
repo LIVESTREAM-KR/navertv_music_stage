@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 08:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 09:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》최예나(YENA)와 함께한 이번주 심플리 콘투어 태국 편💌~!! _531회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28370784</link>
+            <guid>https://tv.naver.com/v/28370784</guid>
+            <pubDate>Thu, 04 Aug 2022 09:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_135/qa709_1659602136845u9Pcm_PNG/1659602133997.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[PLYCAM 4K] 뮤 수파싯 'FOREVER LOVE (Feat. BUMKEY)' 직캠 (Mew Suppasit 'FOREVER LOVE (Feat. BUMKEY)') (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28245110</link>
             <guid>https://tv.naver.com/v/28245110</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Fri, 29 Jul 2022 04:51:03 GMT</pubDate>
             <content:encoded><![CDATA[3:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_213/3Sxyz_1659068171324uczEk_PNG/1659067248356.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BUSTERS (버스터즈) - Tropical Romance (여름인걸) _ Ep.530 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28237932</link>
-            <guid>https://tv.naver.com/v/28237932</guid>
-            <pubDate>Fri, 29 Jul 2022 04:51:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_138/z3fI3_1659067849401TESO3_PNG/1659067244696.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이지영_Miracle (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
