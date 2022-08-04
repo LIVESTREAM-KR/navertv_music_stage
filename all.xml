@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 01:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 03:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,38 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] CSR - Pop? Pop! (첫사랑 - 첫사랑(팝? 팝!)) l Show Champion l EP.444 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28359972</link>
+            <guid>https://tv.naver.com/v/28359972</guid>
+            <pubDate>Thu, 04 Aug 2022 03:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_60/2oxU3_1659576181130Ci3dB_JPEG/CA202208030104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] ATBO - Monochrome(Color) (에이티비오 - 모노크롬(컬러)) l Show Champion l EP.444 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28359688</link>
+            <guid>https://tv.naver.com/v/28359688</guid>
+            <pubDate>Thu, 04 Aug 2022 03:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_171/4O1wn_1659574923917YECiX_JPEG/CA202208030103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] P1Harmony - Doom Du Doom (피원하모니 - 둠두둠) l Show Champion l EP.444 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28359686</link>
+            <guid>https://tv.naver.com/v/28359686</guid>
+            <pubDate>Thu, 04 Aug 2022 03:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_136/3Uef8_1659574921770OB0IS_JPEG/CA202208030102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] ATEEZ - Sector 1 (에이티즈 - 섹터 원) l Show Champion l EP.444 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28359596</link>
+            <guid>https://tv.naver.com/v/28359596</guid>
+            <pubDate>Thu, 04 Aug 2022 03:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_61/mDIoL_1659574619537MSPy7_JPEG/CA202208030101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] TO1 DONG GEON - Drummin' (티오원 동건 - 드럼인) | Show Champion | EP.444 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28348530</link>
             <guid>https://tv.naver.com/v/28348530</guid>
@@ -1422,38 +1454,6 @@
             <pubDate>Wed, 03 Aug 2022 13:39:44 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220803_71/zU7j3_1659520019562xJOp7_JPEG/CA202208030036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] YOUNITE Hyunseung - AVIATOR (유나이트 현승 - 에비에이터) | Show Champion | EP.444 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28347095</link>
-            <guid>https://tv.naver.com/v/28347095</guid>
-            <pubDate>Wed, 03 Aug 2022 13:39:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_207/3SEVF_1659519479338dQeDV_JPEG/CA202208030039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TO1 DAIGO - Drummin' (티오원 다이고 - 드럼인) | Show Champion | EP.444 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28347069</link>
-            <guid>https://tv.naver.com/v/28347069</guid>
-            <pubDate>Wed, 03 Aug 2022 13:39:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_205/3XdMH_16595194194922WF3I_JPEG/CA202208030041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HOT DEBUT] ATBO - Monochrome(Color) (에이티비오 - 모노크롬(컬러)) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28346972</link>
-            <guid>https://tv.naver.com/v/28346972</guid>
-            <pubDate>Wed, 03 Aug 2022 10:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_234/iQIhT_1659519129508q6Lrs_JPEG/CA202208030049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] STAYC SIEUN - BEAUTIFUL MONSTER (스테이씨 시은 - 뷰티풀 몬스터) | Show Champion | EP.444 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28346971</link>
-            <guid>https://tv.naver.com/v/28346971</guid>
-            <pubDate>Wed, 03 Aug 2022 13:39:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_201/A4Mba_1659519128271r4Sld_JPEG/CA202208030048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
