@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 10:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 11:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 1주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.444]]></title>
+            <link>https://tv.naver.com/v/28372662</link>
+            <guid>https://tv.naver.com/v/28372662</guid>
+            <pubDate>Thu, 04 Aug 2022 11:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[6:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_46/BnM3x_165960762239452glB_JPEG/CA202208030105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] CSR - Pop? Pop! (첫사랑 - 첫사랑(팝? 팝!)) l Show Champion l EP.444]]></title>
             <link>https://tv.naver.com/v/28359972</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 03 Aug 2022 13:39:44 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220803_155/1J6YO_1659520021025xB6tW_JPEG/CA202208030040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] YOUNITE Eunsang - AVIATOR (유나이트 은상 - 에비에이터) | Show Champion | EP.444]]></title>
-            <link>https://tv.naver.com/v/28347252</link>
-            <guid>https://tv.naver.com/v/28347252</guid>
-            <pubDate>Wed, 03 Aug 2022 13:39:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_71/zU7j3_1659520019562xJOp7_JPEG/CA202208030036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
