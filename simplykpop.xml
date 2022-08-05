@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 04:46:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 05:33:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.531]]></title>
+            <link>https://tv.naver.com/v/28388181</link>
+            <guid>https://tv.naver.com/v/28388181</guid>
+            <pubDate>Fri, 05 Aug 2022 05:33:07 GMT</pubDate>
+            <content:encoded><![CDATA[50:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_6/eNBI4_1659676771922IDAS3_PNG/1659676768789.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[《예고》최예나(YENA)와 함께한 이번주 심플리 콘투어 태국 편💌~!! _531회]]></title>
             <link>https://tv.naver.com/v/28370784</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 29 Jul 2022 04:51:03 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_173/GXlyP_1659068211843r5O4v_PNG/1659067585330.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[XG (엑스지 ) - Tippy Toe (티피 토즈) _ Ep530 | [4K]]]></title>
-            <link>https://tv.naver.com/v/28238097</link>
-            <guid>https://tv.naver.com/v/28238097</guid>
-            <pubDate>Fri, 29 Jul 2022 04:51:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_213/3Sxyz_1659068171324uczEk_PNG/1659067248356.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
