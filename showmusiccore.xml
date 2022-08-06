@@ -4,9 +4,57 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 08:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 09:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] STAYC J - BEAUTIFUL MONSTER(스테이씨 재이 - 뷰티풀 몬스터) FanCam | Show! MusicCore | MBC220806방송]]></title>
+            <link>https://tv.naver.com/v/28408183</link>
+            <guid>https://tv.naver.com/v/28408183</guid>
+            <pubDate>Sat, 06 Aug 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_9/H214q_1659775620865D29Uk_JPEG/clip_20220806171640_187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] STAYC SEEUN - BEAUTIFUL MONSTER(스테이씨 세은 - 뷰티풀 몬스터) FanCam | Show! MusicCore | MBC220806방송]]></title>
+            <link>https://tv.naver.com/v/28408182</link>
+            <guid>https://tv.naver.com/v/28408182</guid>
+            <pubDate>Sat, 06 Aug 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_247/kSeap_1659775619585WdN3b_JPEG/clip_20220806171616_184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] STAYC SUMIN - BEAUTIFUL MONSTER(스테이씨 수민 - 뷰티풀 몬스터) FanCam | Show! MusicCore | MBC220806방송]]></title>
+            <link>https://tv.naver.com/v/28408124</link>
+            <guid>https://tv.naver.com/v/28408124</guid>
+            <pubDate>Sat, 06 Aug 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_6/xhYfS_1659775325219so83Q_JPEG/clip_20220806171704_189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] STAYC SIEUN - BEAUTIFUL MONSTER(스테이씨 시은 - 뷰티풀 몬스터) FanCam | Show! MusicCore | MBC220806방송]]></title>
+            <link>https://tv.naver.com/v/28408123</link>
+            <guid>https://tv.naver.com/v/28408123</guid>
+            <pubDate>Sat, 06 Aug 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_292/HW490_1659775323924POBdG_JPEG/clip_20220806171648_188.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] STAYC YOON - BEAUTIFUL MONSTER(스테이씨 윤 - 뷰티풀 몬스터) FanCam | Show! MusicCore | MBC220806방송]]></title>
+            <link>https://tv.naver.com/v/28408120</link>
+            <guid>https://tv.naver.com/v/28408120</guid>
+            <pubDate>Sat, 06 Aug 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_199/0UyxG_1659775322613hYIex_JPEG/clip_20220806171633_186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] STAYC ISA - BEAUTIFUL MONSTER(스테이씨 아이사 - 뷰티풀 몬스터) FanCam | Show! MusicCore | MBC220806방송]]></title>
+            <link>https://tv.naver.com/v/28408119</link>
+            <guid>https://tv.naver.com/v/28408119</guid>
+            <pubDate>Sat, 06 Aug 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_41/mHkU5_1659775321395xJbwz_JPEG/clip_20220806171625_185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] STAYC – BEAUTIFUL MONSTER(스테이씨 - 뷰티풀 몬스터) FanCam | Show! MusicCore | MBC220806방송]]></title>
             <link>https://tv.naver.com/v/28407868</link>
@@ -198,54 +246,6 @@
             <pubDate>Sat, 23 Jul 2022 10:18:00 GMT</pubDate>
             <content:encoded><![CDATA[3:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220723_253/Ri6oa_16585681197879DySu_JPEG/clip_20220723175751_222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] HYOLYN - NO THANKS(효린 – 노 땡스) FanCam | Show! MusicCore | MBC220723방송]]></title>
-            <link>https://tv.naver.com/v/28120773</link>
-            <guid>https://tv.naver.com/v/28120773</guid>
-            <pubDate>Sat, 23 Jul 2022 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_92/eeuqT_1658567819294aOsuT_JPEG/clip_20220723175740_221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ITZY YUNA - SNEAKERS(있지 유나 - 스니커즈) FanCam | Show! MusicCore | MBC220723방송]]></title>
-            <link>https://tv.naver.com/v/28120711</link>
-            <guid>https://tv.naver.com/v/28120711</guid>
-            <pubDate>Sat, 23 Jul 2022 09:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_134/GU3kX_16585675228125UGsL_JPEG/clip_20220723174531_219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ITZY CHAERYEONG - SNEAKERS(있지 채령 - 스니커즈) FanCam | Show! MusicCore | MBC220723방송]]></title>
-            <link>https://tv.naver.com/v/28120710</link>
-            <guid>https://tv.naver.com/v/28120710</guid>
-            <pubDate>Sat, 23 Jul 2022 09:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_216/A954j_1658567521448OWPIw_JPEG/clip_20220723174359_218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] WSG워너비(가야G) 1위 직캠 - 그때 그 순간 그대로 (그그그) FanCam | Show! MusicCore | MBC220723방송]]></title>
-            <link>https://tv.naver.com/v/28120709</link>
-            <guid>https://tv.naver.com/v/28120709</guid>
-            <pubDate>Sat, 23 Jul 2022 09:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[8:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_29/Vm4xI_16585675193629rdn2_JPEG/clip_20220723172901_214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ITZY RYUJIN - SNEAKERS(있지 류진 - 스니커즈) FanCam | Show! MusicCore | MBC220723방송]]></title>
-            <link>https://tv.naver.com/v/28120661</link>
-            <guid>https://tv.naver.com/v/28120661</guid>
-            <pubDate>Sat, 23 Jul 2022 09:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_272/Nuku3_16585672826803ujkk_JPEG/clip_20220723174352_217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ITZY LIA - SNEAKERS(있지 리아 - 스니커즈) FanCam | Show! MusicCore | MBC220723방송]]></title>
-            <link>https://tv.naver.com/v/28120660</link>
-            <guid>https://tv.naver.com/v/28120660</guid>
-            <pubDate>Sat, 23 Jul 2022 09:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_35/Pn5DU_1658567281571jPklo_JPEG/clip_20220723174346_216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
