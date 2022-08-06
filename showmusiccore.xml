@@ -4,9 +4,57 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 09:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 10:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] YENA - WithOrWithOut(최예나 – 위드오어위드아웃)FanCam (Horizontal Ver.) | Show! MusicCore | MBC220806방]]></title>
+            <link>https://tv.naver.com/v/28409164</link>
+            <guid>https://tv.naver.com/v/28409164</guid>
+            <pubDate>Sat, 06 Aug 2022 10:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_1/mn6oI_1659780481576nUdob_JPEG/clip_20220806185038_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] YENA - WithOrWithOut(최예나 – 위드오어위드아웃) FanCam | Show! MusicCore | MBC220806방송]]></title>
+            <link>https://tv.naver.com/v/28409148</link>
+            <guid>https://tv.naver.com/v/28409148</guid>
+            <pubDate>Sat, 06 Aug 2022 10:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_198/Vv8w4_1659780423735QrjkV_JPEG/clip_20220806185058_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Xdinary Heroes – Test Me(엑스디너리 히어로즈 - 테스트 미) FanCam | Show! MusicCore | MBC220806방송]]></title>
+            <link>https://tv.naver.com/v/28409145</link>
+            <guid>https://tv.naver.com/v/28409145</guid>
+            <pubDate>Sat, 06 Aug 2022 10:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_85/Hub8s_1659780419924V7j7A_JPEG/clip_20220806184305_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATBO - Graffiti(에이티비오 - 그래피티) FanCam | Show! MusicCore | MBC220806방송]]></title>
+            <link>https://tv.naver.com/v/28409050</link>
+            <guid>https://tv.naver.com/v/28409050</guid>
+            <pubDate>Sat, 06 Aug 2022 10:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_192/O7r4r_1659779820053b2JYO_JPEG/clip_20220806183407_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] MC.MINZY - O EH O(MC.민지 with 은지(브레이브걸스) - 오 에 오) FanCam | Show! MusicCore | MBC220806방송]]></title>
+            <link>https://tv.naver.com/v/28409000</link>
+            <guid>https://tv.naver.com/v/28409000</guid>
+            <pubDate>Sat, 06 Aug 2022 10:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_181/M3cIW_1659779579372Qoj4J_JPEG/clip_20220806183429_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] PURPLE KISS - Nerdy(퍼플키스 - 널디) FanCam | Show! MusicCore | MBC220806방송]]></title>
+            <link>https://tv.naver.com/v/28408985</link>
+            <guid>https://tv.naver.com/v/28408985</guid>
+            <pubDate>Sat, 06 Aug 2022 10:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_192/iyWzJ_1659779521706BQJ36_JPEG/clip_20220806183420_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] STAYC J - BEAUTIFUL MONSTER(스테이씨 재이 - 뷰티풀 몬스터) FanCam | Show! MusicCore | MBC220806방송]]></title>
             <link>https://tv.naver.com/v/28408183</link>
@@ -198,54 +246,6 @@
             <pubDate>Sat, 23 Jul 2022 10:18:00 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220723_46/eIs4T_1658570820328n3nxH_JPEG/clip_20220723183933_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Apink CHOBOM YOON BO MI - Copycat(에이핑크 초봄 윤보미 - 카피캣) FanCam | Show! MusicCore | MBC220723방송]]></title>
-            <link>https://tv.naver.com/v/28121359</link>
-            <guid>https://tv.naver.com/v/28121359</guid>
-            <pubDate>Sat, 23 Jul 2022 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_238/lgo71_1658570522660Tirhi_JPEG/clip_20220723183946_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Apink CHOBOM – Copycat(에이핑크 초봄 - 카피캣) FanCam | Show! MusicCore | MBC220723방송]]></title>
-            <link>https://tv.naver.com/v/28121358</link>
-            <guid>https://tv.naver.com/v/28121358</guid>
-            <pubDate>Sat, 23 Jul 2022 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_163/exRkV_1658570521173E9NwB_JPEG/clip_20220723183921_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] P1Harmony - Doom Du Doom(피원하모니 - 둠두둠) FanCam | Show! MusicCore | MBC220723방송]]></title>
-            <link>https://tv.naver.com/v/28121181</link>
-            <guid>https://tv.naver.com/v/28121181</guid>
-            <pubDate>Sat, 23 Jul 2022 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_50/RFUiL_16585696192813MYE0_JPEG/clip_20220723182203_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SGO JIHYUNWOO - SHAKE IT BOOM(사거리 그오빠 지현우– 쉐이크 잇 붐) FanCam | Show! MusicCore | MBC220723방송]]></title>
-            <link>https://tv.naver.com/v/28121114</link>
-            <guid>https://tv.naver.com/v/28121114</guid>
-            <pubDate>Sat, 23 Jul 2022 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_147/c33U0_1658569322000UBAH7_JPEG/clip_20220723181829_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SGO - SHAKE IT BOOM(사거리 그오빠 – 쉐이크 잇 붐) FanCam | Show! MusicCore | MBC220723방송]]></title>
-            <link>https://tv.naver.com/v/28121113</link>
-            <guid>https://tv.naver.com/v/28121113</guid>
-            <pubDate>Sat, 23 Jul 2022 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_141/0K2Xb_1658569320262hmiUo_JPEG/clip_20220723181823_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] HYOLYN - NO THANKS(효린 – 노 땡스) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220723방송]]></title>
-            <link>https://tv.naver.com/v/28120846</link>
-            <guid>https://tv.naver.com/v/28120846</guid>
-            <pubDate>Sat, 23 Jul 2022 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_253/Ri6oa_16585681197879DySu_JPEG/clip_20220723175751_222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
