@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 06:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 07:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220723_272/RAc65_1658572020235tH4Mq_JPEG/clip_20220723190748_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘에이티비오’만의 색으로 물들일 일곱 소년! ‘Monochrome’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28417577</link>
+            <guid>https://tv.naver.com/v/28417577</guid>
+            <pubDate>Sun, 07 Aug 2022 07:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220807_255/DPSHv_1659856320328vb0yl_JPEG/c9b4952d-e750-4217-b918-a1b2e5a60ffe.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘첫사랑’, 청춘 영화 그 자체인 열일곱 소녀들! ‘첫사랑’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28417558</link>
+            <guid>https://tv.naver.com/v/28417558</guid>
+            <pubDate>Sun, 07 Aug 2022 07:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220807_217/OoevG_1659856019140YEKrO_JPEG/23386f12-ff39-46b2-830c-88d3922d2e3c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[원더걸스 ‘선예’의 고품격 솔로 스테이지! ‘Just A Dancer’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28279717</link>
             <guid>https://tv.naver.com/v/28279717</guid>
@@ -478,22 +494,6 @@
             <pubDate>Sun, 24 Jul 2022 08:22:30 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220724_115/oAk0a_1658647324559T8HlG_JPEG/3c1f2bd6-7be2-42f5-8bec-6292aa42cedc.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘엠씨엔디’의 당당하고 자유로운 ‘#MOOD’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28132271</link>
-            <guid>https://tv.naver.com/v/28132271</guid>
-            <pubDate>Sun, 24 Jul 2022 08:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220724_29/hJvGb_16586473227518an5q_JPEG/d71b92af-9455-40a7-a1dd-0053bff73fa7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘라필루스’의 강렬하고 당찬 포부가 담긴 무대 ‘HIT YA!’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28132203</link>
-            <guid>https://tv.naver.com/v/28132203</guid>
-            <pubDate>Sun, 24 Jul 2022 08:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220724_209/i7Yrz_1658647020065WjwOW_JPEG/fd8df0b3-e354-40e2-9446-c3e91c01b753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
