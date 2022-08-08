@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 04:35:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 05:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -324,16 +324,16 @@
             <link>https://tv.naver.com/v/28417765</link>
             <guid>https://tv.naver.com/v/28417765</guid>
             <pubDate>Sun, 07 Aug 2022 08:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220807_16/QC37p_1659857878050JBaVN_JPEG/ef747f4d-24d5-4845-94eb-00a07a024a16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_265/UCddU_1659934019105KwExp_JPEG/c24aa029-6440-4e2b-a9a7-fdeda339f29f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘티에이엔’, 빠져나올 수 없는 치명적인 매력 ‘Walking On The Moon’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <title><![CDATA[‘티에이엔’, 빠져나올 수 없는 치명적인 매력 ‘Walking on the moon’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28417760</link>
             <guid>https://tv.naver.com/v/28417760</guid>
             <pubDate>Sun, 07 Aug 2022 08:20:00 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220807_14/CTRQO_1659857820284EWryi_JPEG/f2053169-9660-44a5-9eca-66c408cc3899.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_156/fu6QN_1659933779196QuDk5_JPEG/e8929b1a-6e3a-4dba-897a-11fa9bd5a74f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘뉴진스’, 신기록과 함께 슈퍼 핫 데뷔♨ ‘Attention’ (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] Special Stage 총 출동! ★쇼챔피언 in 군산★ (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28432655</link>
+            <guid>https://tv.naver.com/v/28432655</guid>
+            <pubDate>Mon, 08 Aug 2022 05:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_54/n4YtT_1659935521255MAWbi_JPEG/CA202208100003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[8월 1주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.444 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28372662</link>
             <guid>https://tv.naver.com/v/28372662</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 03 Aug 2022 13:39:44 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220803_71/WY1zg_16595206217883c2qa_JPEG/CA202208030044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TO1 KYUNG HO - Drummin' (티오원 경호 - 드러민) | Show Champion | EP.444 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28347253</link>
-            <guid>https://tv.naver.com/v/28347253</guid>
-            <pubDate>Wed, 03 Aug 2022 13:39:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_155/1J6YO_1659520021025xB6tW_JPEG/CA202208030040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
