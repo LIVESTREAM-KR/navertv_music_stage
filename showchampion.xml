@@ -4,9 +4,49 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 10:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 11:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[COMEBACK] KOYOTE - GO (코요테 - 고)]]></title>
+            <link>https://tv.naver.com/v/28487917</link>
+            <guid>https://tv.naver.com/v/28487917</guid>
+            <pubDate>Wed, 10 Aug 2022 11:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_297/0h9cD_1660127523749eCaC3_JPEG/CA202208100041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SPECIAL STAGE] MOONBIN&SANHA(ASTRO) - BOO (문빈&산하(아스트로) - 부)]]></title>
+            <link>https://tv.naver.com/v/28487916</link>
+            <guid>https://tv.naver.com/v/28487916</guid>
+            <pubDate>Wed, 10 Aug 2022 11:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_213/tN7Pa_1660127521620z28K3_JPEG/CA202208100040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATEEZ - Guerrilla (에이티즈 - 게릴라)]]></title>
+            <link>https://tv.naver.com/v/28487833</link>
+            <guid>https://tv.naver.com/v/28487833</guid>
+            <pubDate>Wed, 10 Aug 2022 11:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_90/sk7FH_1660127219976ClEXf_JPEG/CA202208100039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATEEZ - Sector 1 (에이티즈 - 섹터 원)]]></title>
+            <link>https://tv.naver.com/v/28487737</link>
+            <guid>https://tv.naver.com/v/28487737</guid>
+            <pubDate>Wed, 10 Aug 2022 11:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_99/5GubL_1660126922184iAubS_JPEG/CA202208100038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엔딩 원샷] 나를 따르라! 'Guerrilla' 깃발 쟁탈전에서 승리한 ATEEZ 엔딩 요정은?]]></title>
+            <link>https://tv.naver.com/v/28487736</link>
+            <guid>https://tv.naver.com/v/28487736</guid>
+            <pubDate>Wed, 10 Aug 2022 11:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_36/nYaeP_16601269204070jS7Q_JPEG/CA202208100037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nicole - YOU.F.O (니콜 - 유.에프.오)]]></title>
             <link>https://tv.naver.com/v/28487661</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 03 Aug 2022 11:16:14 GMT</pubDate>
             <content:encoded><![CDATA[3:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220803_152/BrYkU_1659522725509gQmdr_JPEG/CA202208030069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] ATEEZ - Guerrilla (에이티즈 - 게릴라)]]></title>
-            <link>https://tv.naver.com/v/28348142</link>
-            <guid>https://tv.naver.com/v/28348142</guid>
-            <pubDate>Wed, 03 Aug 2022 11:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_289/SAwd5_1659522723651K5kgO_JPEG/CA202208030071_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] MC.MINZY with Eunji(Brave Girls) - O EH O (MC 민지 with 은지(브레이브걸스) - 오 에 오)]]></title>
-            <link>https://tv.naver.com/v/28348048</link>
-            <guid>https://tv.naver.com/v/28348048</guid>
-            <pubDate>Wed, 03 Aug 2022 11:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_259/oKM6c_1659522427999WhH4t_JPEG/CA202208030062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SOLO HOT DEBUT] SUNYE - Just A Dancer (선예 - 저스트 어 댄서)]]></title>
-            <link>https://tv.naver.com/v/28348042</link>
-            <guid>https://tv.naver.com/v/28348042</guid>
-            <pubDate>Wed, 03 Aug 2022 11:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_290/hp16F_1659522421990mMLHv_JPEG/CA202208030067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] BLITZERS - Hit The Bass (블리처스 - 힛 더 베이스)]]></title>
-            <link>https://tv.naver.com/v/28347943</link>
-            <guid>https://tv.naver.com/v/28347943</guid>
-            <pubDate>Wed, 03 Aug 2022 11:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_284/WWoaL_16595221189128C99C_JPEG/CA202208030058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] Nicole - YOU.F.O (니콜 - 유.에프.오)]]></title>
-            <link>https://tv.naver.com/v/28347834</link>
-            <guid>https://tv.naver.com/v/28347834</guid>
-            <pubDate>Wed, 03 Aug 2022 10:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_14/aQuCt_1659521832996FK21l_JPEG/CA202208030066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
