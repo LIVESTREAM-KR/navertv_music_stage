@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 10:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 11:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[8월 2주차 ♥쇼챔피언♡ MC 딴콩 모음.zip (아스트로 문빈&산하) | Show Champion | EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28511728</link>
+            <guid>https://tv.naver.com/v/28511728</guid>
+            <pubDate>Thu, 11 Aug 2022 11:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[5:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_153/F2L5w_1660208516299Xzky5_JPEG/CA202208100105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] MOONBIN&SANHA(ASTRO) YOONSANHA - BOO (문빈&산하(아스트로) 윤산하 - 부) | Show Champion | EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28507458</link>
             <guid>https://tv.naver.com/v/28507458</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Thu, 11 Aug 2022 08:21:05 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220811_115/M7dlh_1660183678290WywwL_JPEG/CA202208100075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ATEEZ - Sector 1 (에이티즈 - 섹터 원) l Show Champion l EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28499524</link>
-            <guid>https://tv.naver.com/v/28499524</guid>
-            <pubDate>Thu, 11 Aug 2022 09:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_299/WR68X_1660183322404fe5I3_JPEG/CA202208100076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
