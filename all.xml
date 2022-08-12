@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 04:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 05:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,62 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.532 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28529833</link>
+            <guid>https://tv.naver.com/v/28529833</guid>
+            <pubDate>Fri, 12 Aug 2022 05:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:00:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_105/D5tiK_16602805937083dcT7_PNG/1660280562494.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[YENA (최예나) - SMARTPHONE (스마트폰) _ Ep.532 _ [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28529654</link>
+            <guid>https://tv.naver.com/v/28529654</guid>
+            <pubDate>Fri, 12 Aug 2022 05:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_117/QJ0Ze_1660281043879hzqtJ_PNG/1660281040675.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SooHyun(UKISS) (수현(유키스)) - The Soju Fairy (소주의 요정) _ Ep.532 _ [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28529373</link>
+            <guid>https://tv.naver.com/v/28529373</guid>
+            <pubDate>Fri, 12 Aug 2022 05:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_89/acKL9_1660279566751U4Lg0_PNG/1660279562031.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PURPLE KISS (퍼플키스) - Nerdy (널디) _ Ep.532 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28529135</link>
+            <guid>https://tv.naver.com/v/28529135</guid>
+            <pubDate>Fri, 12 Aug 2022 05:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_246/7CAWL_1660279067477UGmFV_PNG/1660279052626.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Lee Sojung (이소정) - The song I loved (내가 제일 사랑했던 노래) _ Ep.532 _ [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28529133</link>
+            <guid>https://tv.naver.com/v/28529133</guid>
+            <pubDate>Fri, 12 Aug 2022 05:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_75/tLzt7_16602790619073fkGm_PNG/1660279049645.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[DALsooobin (달수빈) - HOOKAH (훅) _ Ep.532 _ [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28529130</link>
+            <guid>https://tv.naver.com/v/28529130</guid>
+            <pubDate>Fri, 12 Aug 2022 05:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_125/FJE8q_1660279057190riUNp_PNG/1660279045292.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[YOUNITE (유나이트) - COME AROUND + AVIATOR ★Simply's Spotlight★ _ Ep.532 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28528483</link>
+            <guid>https://tv.naver.com/v/28528483</guid>
+            <pubDate>Fri, 12 Aug 2022 05:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[7:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_14/e87AC_1660277492355KkJhT_PNG/1660277374013.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[ILY:1 (아일리원) - Que Sera Sera (케 세라 세라) _ Ep532 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28528469</link>
             <guid>https://tv.naver.com/v/28528469</guid>
@@ -1854,62 +1910,6 @@
             <pubDate>Fri, 05 Aug 2022 06:23:07 GMT</pubDate>
             <content:encoded><![CDATA[8:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220805_159/tdPaO_16596800649812o9Vs_PNG/1659680062451.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[PURPLE KISS (퍼플키스) - Nerdy (널디) _ Ep.531 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28390104</link>
-            <guid>https://tv.naver.com/v/28390104</guid>
-            <pubDate>Fri, 05 Aug 2022 06:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_289/3CssD_1659680038289uVx7M_PNG/1659680036328.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Nicole (니콜) - YOU.F.O (유.에프.오) _ Ep.531 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28390092</link>
-            <guid>https://tv.naver.com/v/28390092</guid>
-            <pubDate>Fri, 05 Aug 2022 06:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_251/0Ifcx_1659680017347XW5hp_PNG/1659680014374.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[GreatGuys (멋진녀석들) - BLIND LOVE (블라인드 러브) _ Ep.531 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28390081</link>
-            <guid>https://tv.naver.com/v/28390081</guid>
-            <pubDate>Fri, 05 Aug 2022 06:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_82/LRRf9_1659679992513UMscC_PNG/1659679989462.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Ahn Yeeun (안예은) - RATvolution (쥐) _ Ep.531 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28390065</link>
-            <guid>https://tv.naver.com/v/28390065</guid>
-            <pubDate>Fri, 05 Aug 2022 06:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_298/Hes6t_1659679967456uO07z_PNG/1659679965107.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Hi-L (하이엘) - Hi-Way (하이웨이) _ Ep.531 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28390057</link>
-            <guid>https://tv.naver.com/v/28390057</guid>
-            <pubDate>Fri, 05 Aug 2022 06:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_258/e1Sou_1659679948988vFkH7_PNG/1659679946477.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Hezz (Hong eui jin) (홍의진) - Churup! (츄릅) _ Ep.531 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28390046</link>
-            <guid>https://tv.naver.com/v/28390046</guid>
-            <pubDate>Fri, 05 Aug 2022 06:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_79/9P9uc_1659679927828eH07n_PNG/1659679925638.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[YOUNITE (유나이트) - AVIATOR (에비에이터) _ Ep.531 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28390032</link>
-            <guid>https://tv.naver.com/v/28390032</guid>
-            <pubDate>Fri, 05 Aug 2022 06:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_30/UQkfD_1659679902015CWvxq_PNG/1659679893472.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[김경호_탈출 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
