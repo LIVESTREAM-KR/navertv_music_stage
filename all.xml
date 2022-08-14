@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 06:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 07:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220723_272/RAc65_1658572020235tH4Mq_JPEG/clip_20220723190748_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[하이틴 악동으로 돌아온 ’트라이비’의 무대! ‘KISS’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28562373</link>
+            <guid>https://tv.naver.com/v/28562373</guid>
+            <pubDate>Sun, 14 Aug 2022 07:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220814_136/fGZOB_16604611180280rJOc_JPEG/cd38b7e3-f390-4fae-845a-31f380a797d2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[’아일리원‘의 싱그러운 사랑의 주문! ‘Que Sera Sera’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28562370</link>
+            <guid>https://tv.naver.com/v/28562370</guid>
+            <pubDate>Sun, 14 Aug 2022 07:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220814_159/MaDgr_16604611161250O4Bv_JPEG/08d637e8-5186-4a07-8d2e-e5ab5da054a8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘에이티즈’, 스케일이 다른 블록버스터급 세계관! ‘Guerrilla’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28417964</link>
             <guid>https://tv.naver.com/v/28417964</guid>
@@ -478,22 +494,6 @@
             <pubDate>Sun, 31 Jul 2022 08:19:34 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220731_123/PCuP0_1659252719596EOHpP_JPEG/8090fabc-db98-4e38-b983-a39b096a5674.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘엑스디너리 히어로즈’, 당찬 에너지와 강렬한 밴드 사운드! ‘Test Me’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28278840</link>
-            <guid>https://tv.naver.com/v/28278840</guid>
-            <pubDate>Sun, 31 Jul 2022 08:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_6/pBN75_1659252180498yy7OK_JPEG/279d6d1c-77f1-4459-89ee-f78b797aa08d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘첫사랑’ 감성 그대로 담은 기분 좋은 설렘! ‘첫사랑’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28278815</link>
-            <guid>https://tv.naver.com/v/28278815</guid>
-            <pubDate>Sun, 31 Jul 2022 08:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_93/6zIQl_1659252119958cTiFK_JPEG/89eb21b6-a69a-4e83-aeeb-9a40c2df2837.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
