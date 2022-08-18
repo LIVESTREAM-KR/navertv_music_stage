@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 08:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 09:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》에이티비오(ATBO)와 함께한 이번주 심플리 콘투어 멕시코 편💌~!! _533회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28647254</link>
+            <guid>https://tv.naver.com/v/28647254</guid>
+            <pubDate>Thu, 18 Aug 2022 09:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_295/bT0tP_1660812229949OYNwA_PNG/1660812226253.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.532 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28529833</link>
             <guid>https://tv.naver.com/v/28529833</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Fri, 12 Aug 2022 06:24:23 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220811_292/05MA7_1660205723172uF4JX_JPEG/1660205719934.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 최예나 'SMARTPHONE' 직캠 (YENA 'SMARTPHONE') l Simply K -Pop CON-TOUR Ep.532 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28509997</link>
-            <guid>https://tv.naver.com/v/28509997</guid>
-            <pubDate>Fri, 12 Aug 2022 06:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_16/q5UaM_1660205715925HiybN_JPEG/1660205713190.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이수영_천왕성 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
