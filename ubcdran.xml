@@ -4,9 +4,65 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 09:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 10:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워킹애프터유_Goodbye sad days]]></title>
+            <link>https://tv.naver.com/v/28640655</link>
+            <guid>https://tv.naver.com/v/28640655</guid>
+            <pubDate>Fri, 19 Aug 2022 10:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_21/3gb69_16607987583281wwDC_JPEG/54408631-1eb2-11ed-bf94-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워킹애프터유_아리랑(Arirang)]]></title>
+            <link>https://tv.naver.com/v/28640630</link>
+            <guid>https://tv.naver.com/v/28640630</guid>
+            <pubDate>Fri, 19 Aug 2022 10:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[5:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_161/9Qdzx_16607987041261thiR_JPEG/14fe383f-1eb2-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워킹애프터유_인터뷰]]></title>
+            <link>https://tv.naver.com/v/28640577</link>
+            <guid>https://tv.naver.com/v/28640577</guid>
+            <pubDate>Fri, 19 Aug 2022 10:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[9:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_18/JQyE3_1660798596248HOmfM_JPEG/ae4e873b-1eb1-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테이_사랑은 향기를 남기고]]></title>
+            <link>https://tv.naver.com/v/28640541</link>
+            <guid>https://tv.naver.com/v/28640541</guid>
+            <pubDate>Fri, 19 Aug 2022 10:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[48:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_162/7nkQq_1660798524370bXyPK_JPEG/90b9f723-1eaf-11ed-bbda-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테이_인터뷰]]></title>
+            <link>https://tv.naver.com/v/28640028</link>
+            <guid>https://tv.naver.com/v/28640028</guid>
+            <pubDate>Fri, 19 Aug 2022 10:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[6:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_63/nDaNg_1660797511219P66Dx_JPEG/492b7cbf-1eaf-11ed-bbda-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테이_같은 베개]]></title>
+            <link>https://tv.naver.com/v/28639967</link>
+            <guid>https://tv.naver.com/v/28639967</guid>
+            <pubDate>Fri, 19 Aug 2022 10:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[4:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_28/Ys6Sr_1660797386929PEk9i_JPEG/1b488218-1eaf-11ed-bbda-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테이_나의 운명은 그대 - 뮤지컬 명성황후]]></title>
+            <link>https://tv.naver.com/v/28639927</link>
+            <guid>https://tv.naver.com/v/28639927</guid>
+            <pubDate>Fri, 19 Aug 2022 10:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_79/Pgtee_16607973103732I5X2_JPEG/f7a76972-1eae-11ed-a14d-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이수영_천왕성]]></title>
             <link>https://tv.naver.com/v/28507584</link>
@@ -190,62 +246,6 @@
             <pubDate>Fri, 29 Jul 2022 10:22:48 GMT</pubDate>
             <content:encoded><![CDATA[4:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220728_299/cWGAk_1658983967157nhuwm_JPEG/e68d91c0-0e30-11ed-8e34-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노을_너는 어땠을까]]></title>
-            <link>https://tv.naver.com/v/28211369</link>
-            <guid>https://tv.naver.com/v/28211369</guid>
-            <pubDate>Fri, 29 Jul 2022 10:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_130/6YgaT_1658983886128Acfpl_JPEG/b8e4ba5a-0e30-11ed-b77c-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노을_전부 너였다]]></title>
-            <link>https://tv.naver.com/v/28211342</link>
-            <guid>https://tv.naver.com/v/28211342</guid>
-            <pubDate>Fri, 29 Jul 2022 10:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_139/sXZCw_1658983825425pF9on_JPEG/8b64a023-0e30-11ed-89b9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신유미_How you like that]]></title>
-            <link>https://tv.naver.com/v/28093846</link>
-            <guid>https://tv.naver.com/v/28093846</guid>
-            <pubDate>Fri, 22 Jul 2022 01:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_91/R0yun_1658450590213a7bmu_JPEG/1d30b7ee-0957-11ed-b769-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진민호_인터뷰]]></title>
-            <link>https://tv.naver.com/v/28059984</link>
-            <guid>https://tv.naver.com/v/28059984</guid>
-            <pubDate>Wed, 20 Jul 2022 09:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[7:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_21/yMyzS_1658306855556Ay9gl_JPEG/13fc5dd9-0808-11ed-bb44-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신유미_인터뷰]]></title>
-            <link>https://tv.naver.com/v/28059905</link>
-            <guid>https://tv.naver.com/v/28059905</guid>
-            <pubDate>Wed, 20 Jul 2022 09:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[5:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_123/gWeiQ_16583066576375BGYX_JPEG/be577834-0807-11ed-8863-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진민호_마음]]></title>
-            <link>https://tv.naver.com/v/28059836</link>
-            <guid>https://tv.naver.com/v/28059836</guid>
-            <pubDate>Wed, 20 Jul 2022 09:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_73/hmFlT_1658306507645kwVKU_JPEG/793bf85b-0807-11ed-8863-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오무라이스(오곤&무성)_울산 관람차]]></title>
-            <link>https://tv.naver.com/v/28059266</link>
-            <guid>https://tv.naver.com/v/28059266</guid>
-            <pubDate>Wed, 20 Jul 2022 08:25:25 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_91/SbFhb_1658305157735fal5R_JPEG/5dc81b63-0804-11ed-ba01-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
