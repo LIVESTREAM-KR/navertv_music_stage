@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 09:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 10:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,70 @@
             <pubDate>Tue, 08 Mar 2022 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] YENA - SMARTPHONE(최예나 – 스마트폰) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28688621</link>
+            <guid>https://tv.naver.com/v/28688621</guid>
+            <pubDate>Sat, 20 Aug 2022 10:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_148/fp7KR_1660988217851syUXT_JPEG/clip_20220820181518_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ Q - WHISPER(더보이즈 큐 - 위스퍼) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28688582</link>
+            <guid>https://tv.naver.com/v/28688582</guid>
+            <pubDate>Sat, 20 Aug 2022 10:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_57/yjErq_1660987918549dnFFn_JPEG/clip_20220820180254_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ YOUNGHOON - WHISPER(더보이즈 영훈 - 위스퍼) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28688579</link>
+            <guid>https://tv.naver.com/v/28688579</guid>
+            <pubDate>Sat, 20 Aug 2022 10:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_192/MzzNt_1660987917190xnwKC_JPEG/clip_20220820180144_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ JUYEON - WHISPER(더보이즈 주연 - 위스퍼) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28688502</link>
+            <guid>https://tv.naver.com/v/28688502</guid>
+            <pubDate>Sat, 20 Aug 2022 10:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_295/zIVqZ_1660987621972WxOVW_JPEG/clip_20220820180415_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ HYUNJAE - WHISPER(더보이즈 현재 - 위스퍼) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28688500</link>
+            <guid>https://tv.naver.com/v/28688500</guid>
+            <pubDate>Sat, 20 Aug 2022 10:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_287/dIswQ_1660987620594jREp6_JPEG/clip_20220820180350_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] GIRLS’ GENERATION SUNNY - FOREVER 1(소녀시대 써니 - 포에버 원) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28688499</link>
+            <guid>https://tv.naver.com/v/28688499</guid>
+            <pubDate>Sat, 20 Aug 2022 10:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_149/nKW7Z_1660987619173TDqKF_JPEG/clip_20220820171419_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ NEW - WHISPER(더보이즈 뉴 - 위스퍼) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28688442</link>
+            <guid>https://tv.naver.com/v/28688442</guid>
+            <pubDate>Sat, 20 Aug 2022 10:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_57/sCKcc_1660987378898LDCdg_JPEG/clip_20220820180322_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ SUNWOO - WHISPER(더보이즈 선우 - 위스퍼) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28688441</link>
+            <guid>https://tv.naver.com/v/28688441</guid>
+            <pubDate>Sat, 20 Aug 2022 10:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_18/T8fUV_16609873778559czwG_JPEG/clip_20220820180214_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] YENA - SMARTPHONE(최예나 – 스마트폰) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -190,70 +254,6 @@
             <pubDate>Sat, 06 Aug 2022 10:17:34 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220806_1/mn6oI_1659780481576nUdob_JPEG/clip_20220806185038_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] YENA - WithOrWithOut(최예나 – 위드오어위드아웃) FanCam | Show! MusicCore | MBC220806방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28409148</link>
-            <guid>https://tv.naver.com/v/28409148</guid>
-            <pubDate>Sat, 06 Aug 2022 10:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_198/Vv8w4_1659780423735QrjkV_JPEG/clip_20220806185058_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Xdinary Heroes – Test Me(엑스디너리 히어로즈 - 테스트 미) FanCam | Show! MusicCore | MBC220806방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28409145</link>
-            <guid>https://tv.naver.com/v/28409145</guid>
-            <pubDate>Sat, 06 Aug 2022 10:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_85/Hub8s_1659780419924V7j7A_JPEG/clip_20220806184305_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ATBO - Graffiti(에이티비오 - 그래피티) FanCam | Show! MusicCore | MBC220806방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28409050</link>
-            <guid>https://tv.naver.com/v/28409050</guid>
-            <pubDate>Sat, 06 Aug 2022 10:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_192/O7r4r_1659779820053b2JYO_JPEG/clip_20220806183407_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] MC.MINZY - O EH O(MC.민지 with 은지(브레이브걸스) - 오 에 오) FanCam | Show! MusicCore | MBC220806방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28409000</link>
-            <guid>https://tv.naver.com/v/28409000</guid>
-            <pubDate>Sat, 06 Aug 2022 10:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_181/M3cIW_1659779579372Qoj4J_JPEG/clip_20220806183429_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] PURPLE KISS - Nerdy(퍼플키스 - 널디) FanCam | Show! MusicCore | MBC220806방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28408985</link>
-            <guid>https://tv.naver.com/v/28408985</guid>
-            <pubDate>Sat, 06 Aug 2022 10:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_192/iyWzJ_1659779521706BQJ36_JPEG/clip_20220806183420_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] STAYC J - BEAUTIFUL MONSTER(스테이씨 재이 - 뷰티풀 몬스터) FanCam | Show! MusicCore | MBC220806방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28408183</link>
-            <guid>https://tv.naver.com/v/28408183</guid>
-            <pubDate>Sat, 06 Aug 2022 09:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_9/H214q_1659775620865D29Uk_JPEG/clip_20220806171640_187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] STAYC SEEUN - BEAUTIFUL MONSTER(스테이씨 세은 - 뷰티풀 몬스터) FanCam | Show! MusicCore | MBC220806방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28408182</link>
-            <guid>https://tv.naver.com/v/28408182</guid>
-            <pubDate>Sat, 06 Aug 2022 09:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_247/kSeap_1659775619585WdN3b_JPEG/clip_20220806171616_184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] STAYC SUMIN - BEAUTIFUL MONSTER(스테이씨 수민 - 뷰티풀 몬스터) FanCam | Show! MusicCore | MBC220806방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28408124</link>
-            <guid>https://tv.naver.com/v/28408124</guid>
-            <pubDate>Sat, 06 Aug 2022 09:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220806_6/xhYfS_1659775325219so83Q_JPEG/clip_20220806171704_189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무더위 탈피! ‘코요태’와 함께하는 뜨거운 여름! ‘GO’ (SBS 인기가요 ─ 네이버TV)]]></title>
