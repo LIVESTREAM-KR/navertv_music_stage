@@ -4,9 +4,25 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 09:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[최애직캠] THE BOYZ JUYEON - WHISPER(더보이즈 주연 - 위스퍼) Close-up Cam | Show! MusicCore | MBC220820방송]]></title>
+            <link>https://tv.naver.com/v/28719342</link>
+            <guid>https://tv.naver.com/v/28719342</guid>
+            <pubDate>Mon, 22 Aug 2022 09:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_161/4rBat_1661156580873jSltG_JPEG/clip_20220822165743_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] THE BOYZ HYUNJAE - WHISPER(더보이즈 현재 - 위스퍼) Close-up Cam | Show! MusicCore | MBC220820방송]]></title>
+            <link>https://tv.naver.com/v/28719339</link>
+            <guid>https://tv.naver.com/v/28719339</guid>
+            <pubDate>Mon, 22 Aug 2022 09:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_285/zpAeD_1661156579045yXiUt_JPEG/clip_20220822165741_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] THE BOYZ Q - Timeless(더보이즈 큐 - 타임리스) FanCam | Show! MusicCore | MBC220820방송]]></title>
             <link>https://tv.naver.com/v/28715571</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 20 Aug 2022 09:16:23 GMT</pubDate>
             <content:encoded><![CDATA[3:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220820_105/ouqpt_16609852183225sAUq_JPEG/clip_20220820171417_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] GIRLS’ GENERATION SOOYOUNG - FOREVER 1(소녀시대 수영 - 포에버 원) FanCam | Show! MusicCore | MBC22082]]></title>
-            <link>https://tv.naver.com/v/28687811</link>
-            <guid>https://tv.naver.com/v/28687811</guid>
-            <pubDate>Sat, 20 Aug 2022 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_35/Tx1Do_1660984678378IrB3p_JPEG/clip_20220820171441_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] GIRLS’ GENERATION TIFFANY - FOREVER 1(소녀시대 티파니 - 포에버 원) FanCam | Show! MusicCore | MBC22082]]></title>
-            <link>https://tv.naver.com/v/28687810</link>
-            <guid>https://tv.naver.com/v/28687810</guid>
-            <pubDate>Sat, 20 Aug 2022 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_187/AvoGW_16609846766661ffvU_JPEG/clip_20220820171422_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
