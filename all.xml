@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 10:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 11:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[입덕 LIVE] YENA - Only One (최예나 - 온리 원 (원곡 : BoA)) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28771935</link>
+            <guid>https://tv.naver.com/v/28771935</guid>
+            <pubDate>Wed, 24 Aug 2022 11:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_286/AWHaj_1661337718936CReNu_JPEG/CA202208240076_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[입덕 LIVE] 다음이 기대되는 아티스트, 예나가 준비한 특별한 무대♥ (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28771872</link>
+            <guid>https://tv.naver.com/v/28771872</guid>
+            <pubDate>Wed, 24 Aug 2022 11:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[5:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_82/WiIQ3_1661336578969V2WfT_JPEG/CA202208240075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lee Sojung - The song I loved (이소정 - 내가 제일 사랑했던 노래) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28771754</link>
             <guid>https://tv.naver.com/v/28771754</guid>
@@ -1438,22 +1454,6 @@
             <pubDate>Wed, 24 Aug 2022 09:17:33 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220811_226/Wha86_1660198622042MTrEm_JPEG/CA202208100093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TO1 - Drummin' (티오원 - 드러민) l Show Champion l EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28506151</link>
-            <guid>https://tv.naver.com/v/28506151</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_250/j7gUf_1660198619205Ugh12_JPEG/CA202208100092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] PURPLE KISS - Nerdy (퍼플키스 - 널디) l Show Champion l EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28505674</link>
-            <guid>https://tv.naver.com/v/28505674</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_272/dIsBZ_16601977218529Jl0h_JPEG/CA202208100091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
