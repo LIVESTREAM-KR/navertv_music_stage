@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 12:36:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 13:36:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1296,6 +1296,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_249/OeQWw_16613347800698CK5u_JPEG/CA202208240061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] PURPLE KISS CHAEIN - Nerdy (퍼플키스 채인 - 널디) | Show Champion | EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28771343</link>
+            <guid>https://tv.naver.com/v/28771343</guid>
+            <pubDate>Wed, 24 Aug 2022 13:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_250/w1JpE_1661334778712X5CW7_JPEG/CA202208240059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] LUCY CHO WON SANG - PLAY (루시 조원상 - 놀이) | Show Champion | EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28771342</link>
+            <guid>https://tv.naver.com/v/28771342</guid>
+            <pubDate>Wed, 24 Aug 2022 13:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_280/HtJnb_1661334777309ErtqN_JPEG/CA202208240051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SKYLE - Bye Bye Bye (스카이리 - 바이 바이 바이) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28771322</link>
             <guid>https://tv.naver.com/v/28771322</guid>
@@ -1320,6 +1336,38 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_272/3tDmy_1661334430538XBQeR_JPEG/CA202208240063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] PURPLE KISS YUKI - Nerdy (퍼플키스 유키 - 널디) | Show Champion | EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28771231</link>
+            <guid>https://tv.naver.com/v/28771231</guid>
+            <pubDate>Wed, 24 Aug 2022 13:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_96/ZFBV6_1661334427257XVily_JPEG/CA202208240057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] PURPLE KISS DOSIE - Nerdy (퍼플키스 도시 - 널디) | Show Champion | EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28771227</link>
+            <guid>https://tv.naver.com/v/28771227</guid>
+            <pubDate>Wed, 24 Aug 2022 13:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_225/83Loa_16613344259587gG4z_JPEG/CA202208240056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] PURPLE KISS - Nerdy (퍼플키스 - 널디) l Show Champion l EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28771226</link>
+            <guid>https://tv.naver.com/v/28771226</guid>
+            <pubDate>Wed, 24 Aug 2022 13:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_208/wJpij_1661334423711YtQFn_JPEG/CA202208240053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] LUCY SHIN YE CHAN - PLAY (루시 신예찬 - 놀이) | Show Champion | EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28771225</link>
+            <guid>https://tv.naver.com/v/28771225</guid>
+            <pubDate>Wed, 24 Aug 2022 13:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_29/wx0y4_1661334422402BUjLw_JPEG/CA202208240049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[CRAXY - Undercover (크랙시 - 언더커버) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28771123</link>
             <guid>https://tv.naver.com/v/28771123</guid>
@@ -1336,6 +1384,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_232/3ZgRd_1661334117690kMbFL_JPEG/CA202208240065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] LUCY SHIN GWANG IL - PLAY (루시 신광일 - 놀이) | Show Champion | EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28770968</link>
+            <guid>https://tv.naver.com/v/28770968</guid>
+            <pubDate>Wed, 24 Aug 2022 13:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_238/J4nef_1661333517716eVvko_JPEG/CA202208240052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lee A Young - I shouldn't have met you (이아영 - 나는 널 만나지 않았어야 해) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28770890</link>
             <guid>https://tv.naver.com/v/28770890</guid>
@@ -1344,116 +1400,60 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_127/q0e2y_1661333219120MlPN9_JPEG/CA202208240062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예고] 이번 주 수요일에도 쇼챔피언으로 DaSH~ (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28713409</link>
-            <guid>https://tv.naver.com/v/28713409</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_7/o3m8Z_1661144522974ParFu_JPEG/CA202208240003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[쇼챔직캠 4K] PURPLE KISS SWAN - Nerdy (퍼플키스 수안 - 널디) | Show Champion | EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28770889</link>
+            <guid>https://tv.naver.com/v/28770889</guid>
+            <pubDate>Wed, 24 Aug 2022 13:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_29/98Tlj_1661333217945cFU9B_JPEG/CA202208240060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[8월 2주차 ♥쇼챔피언♡ MC 딴콩 모음.zip (아스트로 문빈&산하) | Show Champion | EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28511728</link>
-            <guid>https://tv.naver.com/v/28511728</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[5:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_153/F2L5w_1660208516299Xzky5_JPEG/CA202208100105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[쇼챔직캠 4K] PURPLE KISS IREH - Nerdy (퍼플키스 이레 - 널디) | Show Champion | EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28770812</link>
+            <guid>https://tv.naver.com/v/28770812</guid>
+            <pubDate>Wed, 24 Aug 2022 13:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_11/78v5w_1661332978618TDLYs_JPEG/CA202208240058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] MOONBIN&SANHA(ASTRO) YOONSANHA - BOO (문빈&산하(아스트로) 윤산하 - 부) | Show Champion | EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28507458</link>
-            <guid>https://tv.naver.com/v/28507458</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_231/ut6JU_1660201327937FFbKu_JPEG/CA202208100104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[쇼챔직캠 4K] PURPLE KISS NA GO EUN - Nerdy (퍼플키스 나고은 - 널디) | Show Champion | EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28770781</link>
+            <guid>https://tv.naver.com/v/28770781</guid>
+            <pubDate>Wed, 24 Aug 2022 13:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_202/zG8dr_1661332917390YKTAO_JPEG/CA202208240055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] MOONBIN&SANHA(ASTRO) MOONBIN - BOO (문빈&산하(아스트로) 문빈 - 부) | Show Champion | EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28507455</link>
-            <guid>https://tv.naver.com/v/28507455</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_109/Stbf1_1660201324179N2Xnw_JPEG/CA202208100103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[쇼챔직캠 4K] PURPLE KISS PARK JI EUN - Nerdy (퍼플키스 박지은 - 널디) | Show Champion | EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28770658</link>
+            <guid>https://tv.naver.com/v/28770658</guid>
+            <pubDate>Wed, 24 Aug 2022 13:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_142/ZUjUI_16613326227685I3Ai_JPEG/CA202208240054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] MOONBIN&SANHA(ASTRO) - BOO (문빈&산하(아스트로) - 부) l Show Champion l EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28507454</link>
-            <guid>https://tv.naver.com/v/28507454</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_27/8SRbp_16602013216661RCe3_JPEG/CA202208100102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[쇼챔직캠 4K] LUCY - PLAY (루시 - 놀이) l Show Champion l EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28770657</link>
+            <guid>https://tv.naver.com/v/28770657</guid>
+            <pubDate>Wed, 24 Aug 2022 13:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_190/FPwVk_16613326212335gG3o_JPEG/CA202208240048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] CSR - Pop? Pop! (첫사랑 - 첫사랑(팝?팝!)) l Show Champion l EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28507183</link>
-            <guid>https://tv.naver.com/v/28507183</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_72/ubOIW_166020071903031rlw_JPEG/CA202208100099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[쇼챔직캠 4K] LUCY CHOI SANG YEOP - PLAY (루시 최상엽 - 놀이) | Show Champion | EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28770559</link>
+            <guid>https://tv.naver.com/v/28770559</guid>
+            <pubDate>Wed, 24 Aug 2022 13:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_168/beRdy_1661332318112k7ffi_JPEG/CA202208240050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] P1Harmony - Doom Du Doom (피원하모니 - 둠두둠) l Show Champion l EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28507039</link>
-            <guid>https://tv.naver.com/v/28507039</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_249/be6R0_1660201079777YgP8j_JPEG/CA202208100097_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Xdinary Heroes O.de - Strawberry Cake(엑스디너리히어로즈 오드 - 스트로베리케이크) | Show Champion | EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28507036</link>
-            <guid>https://tv.naver.com/v/28507036</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_229/a3QRq_166020041982378zt0_JPEG/CA202208100095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TRENDZ - CLIQUE (트렌드지- 클릭) l Show Champion l EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28506882</link>
-            <guid>https://tv.naver.com/v/28506882</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_137/ZWUlj_1660200121279DIjEh_JPEG/CA202208100101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] BLITZERS - Hit The Bass (블리처스 - 힛 더 베이스) l Show Champion l EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28506881</link>
-            <guid>https://tv.naver.com/v/28506881</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_216/F8l7p_1660200119050qF27d_JPEG/CA202208100100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] LUCY - Hero (루시 - 히어로) l Show Champion l EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28506593</link>
-            <guid>https://tv.naver.com/v/28506593</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_231/c826w_1660199520358ujwLv_JPEG/CA202208100098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Xdinary Heroes JOOYEON - Strawberry Cake(엑스디너리히어로즈 주연-스트로베리케이크) | Show Champion | EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28506591</link>
-            <guid>https://tv.naver.com/v/28506591</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_166/ERQZd_1660199519026T4QxI_JPEG/CA202208100094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Xdinary Heroes JUNGSU - Strawberry Cake(엑스디너리히어로즈 정수-스트로베리케이크) | Show Champion | EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28506433</link>
-            <guid>https://tv.naver.com/v/28506433</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_111/PHTol_16601992197798bjQT_JPEG/CA202208100096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Xdinary Heroes - Strawberry Cake (엑스디너리히어로즈 - 스트로베리 케이크) l Show Champion l EP.445 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28506154</link>
-            <guid>https://tv.naver.com/v/28506154</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_226/Wha86_1660198622042MTrEm_JPEG/CA202208100093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[쇼챔직캠 4K] BAE173 J-MIN - DaSH (비에이이173 제이민 - 대시) | Show Champion | EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28769974</link>
+            <guid>https://tv.naver.com/v/28769974</guid>
+            <pubDate>Wed, 24 Aug 2022 13:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_228/DFjod_166133111748921wCv_JPEG/CA202208240046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
