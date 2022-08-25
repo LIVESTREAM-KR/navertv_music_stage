@@ -4,7 +4,7 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 06:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 07:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Wed, 24 Aug 2022 09:18:09 GMT</pubDate>
             <content:encoded><![CDATA[9:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220818_18/JQyE3_1660798596248HOmfM_JPEG/ae4e873b-1eb1-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테이_사랑은 향기를 남기고]]></title>
-            <link>https://tv.naver.com/v/28640541</link>
-            <guid>https://tv.naver.com/v/28640541</guid>
-            <pubDate>Wed, 24 Aug 2022 09:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[48:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_162/7nkQq_1660798524370bXyPK_JPEG/90b9f723-1eaf-11ed-bbda-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테이_인터뷰]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Wed, 24 Aug 2022 09:18:09 GMT</pubDate>
             <content:encoded><![CDATA[4:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220728_299/cWGAk_1658983967157nhuwm_JPEG/e68d91c0-0e30-11ed-8e34-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노을_너는 어땠을까]]></title>
+            <link>https://tv.naver.com/v/28211369</link>
+            <guid>https://tv.naver.com/v/28211369</guid>
+            <pubDate>Thu, 25 Aug 2022 07:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_130/6YgaT_1658983886128Acfpl_JPEG/b8e4ba5a-0e30-11ed-b77c-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
