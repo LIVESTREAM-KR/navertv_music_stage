@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 08:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 09:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1912,6 +1912,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220820_130/golrJ_1660961486971EVkGl_JPEG/1660961484480.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[테이_사랑은 향기를 남기고 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28793497</link>
+            <guid>https://tv.naver.com/v/28793497</guid>
+            <pubDate>Thu, 25 Aug 2022 09:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220825_75/bnDNB_16614174651906pzBV_JPEG/d39a0db4-2452-11ed-8892-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[워킹애프터유_Goodbye sad days (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28640655</link>
             <guid>https://tv.naver.com/v/28640655</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Wed, 24 Aug 2022 09:18:09 GMT</pubDate>
             <content:encoded><![CDATA[4:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220728_299/cWGAk_1658983967157nhuwm_JPEG/e68d91c0-0e30-11ed-8e34-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노을_너는 어땠을까 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28211369</link>
-            <guid>https://tv.naver.com/v/28211369</guid>
-            <pubDate>Thu, 25 Aug 2022 07:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_130/6YgaT_1658983886128Acfpl_JPEG/b8e4ba5a-0e30-11ed-b77c-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
