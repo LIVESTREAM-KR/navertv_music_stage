@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 07:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 08:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》트라이비(TRI.BE)와 함께한 이번주 심플리 콘투어 폴란드 편💌~!! _534회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28792492</link>
+            <guid>https://tv.naver.com/v/28792492</guid>
+            <pubDate>Thu, 25 Aug 2022 08:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220825_156/jWCnv_16614154937794UqSa_PNG/1661415488933.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[플리캠 4K 가로] TRI.BE Kelly 'KISS' (트라이비 켈리 직캠) l Simply K-Pop CON-TOUR Ep.533 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28683022</link>
             <guid>https://tv.naver.com/v/28683022</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Wed, 24 Aug 2022 09:18:02 GMT</pubDate>
             <content:encoded><![CDATA[3:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220820_130/golrJ_1660961486971EVkGl_JPEG/1660961484480.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] ATBO RYU JUNMIN 'Monochrome (Color)' (에이티비오 류준민 직캠) l Simply K -Pop CON-TOUR Ep.533 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28682989</link>
-            <guid>https://tv.naver.com/v/28682989</guid>
-            <pubDate>Wed, 24 Aug 2022 09:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_137/fj4WJ_1660961459906W3L9m_JPEG/1660961458445.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워킹애프터유_Goodbye sad days (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
