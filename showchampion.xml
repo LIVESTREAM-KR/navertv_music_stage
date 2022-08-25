@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 10:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 11:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 4주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.446]]></title>
+            <link>https://tv.naver.com/v/28787799</link>
+            <guid>https://tv.naver.com/v/28787799</guid>
+            <pubDate>Thu, 25 Aug 2022 11:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[7:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220825_283/djNJd_16614067178297LsAv_JPEG/CA202208240110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[입덕 LIVE] YENA - Only One (최예나 - 온리 원 (원곡 : BoA))]]></title>
             <link>https://tv.naver.com/v/28771935</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 Aug 2022 13:36:02 GMT</pubDate>
             <content:encoded><![CDATA[3:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_168/beRdy_1661332318112k7ffi_JPEG/CA202208240050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] BAE173 J-MIN - DaSH (비에이이173 제이민 - 대시) | Show Champion | EP.446]]></title>
-            <link>https://tv.naver.com/v/28769974</link>
-            <guid>https://tv.naver.com/v/28769974</guid>
-            <pubDate>Wed, 24 Aug 2022 13:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_228/DFjod_166133111748921wCv_JPEG/CA202208240046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
