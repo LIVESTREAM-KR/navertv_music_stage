@@ -4,9 +4,25 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 01:53:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 04:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BLANK2Y (블랭키) - I Wish + FUEGO(Burn it up) ★Simply's Spotlight★ _ Ep.534 | [4K]]]></title>
+            <link>https://tv.naver.com/v/28812718</link>
+            <guid>https://tv.naver.com/v/28812718</guid>
+            <pubDate>Fri, 26 Aug 2022 04:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[9:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_13/qVObs_1661487493025GhKnm_PNG/1661480305653.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SKYLE (스카이리) - Bye Bye Bye (바이 바이 바이) _ Ep.534 | [4K]]]></title>
+            <link>https://tv.naver.com/v/28812559</link>
+            <guid>https://tv.naver.com/v/28812559</guid>
+            <pubDate>Fri, 26 Aug 2022 04:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_203/yFjyC_1661487163603IwPfW_PNG/1661480302145.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[《예고》트라이비(TRI.BE)와 함께한 이번주 심플리 콘투어 폴란드 편💌~!! _534회]]></title>
             <link>https://tv.naver.com/v/28792492</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 25 Aug 2022 12:35:33 GMT</pubDate>
             <content:encoded><![CDATA[3:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220820_62/YKo7r_16609614932084xMGt_JPEG/1660961491813.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] ATBO BAE HYUNJUN 'Monochrome (Color)' (에이티비오 배현준 직캠) l Simply K -Pop CON-TOUR Ep.533]]></title>
-            <link>https://tv.naver.com/v/28682992</link>
-            <guid>https://tv.naver.com/v/28682992</guid>
-            <pubDate>Thu, 25 Aug 2022 12:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_31/rMlG1_1660961467170Dy3KJ_JPEG/1660961465630.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] ATBO JEONG SEUNGHWAN 'Monochrome (Color)' (에이티비오 정승환 직캠) l Simply K -Pop CON-TOUR]]></title>
-            <link>https://tv.naver.com/v/28682994</link>
-            <guid>https://tv.naver.com/v/28682994</guid>
-            <pubDate>Thu, 25 Aug 2022 12:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_130/golrJ_1660961486971EVkGl_JPEG/1660961484480.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
