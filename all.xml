@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 10:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 11:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,54 @@
             <pubDate>Thu, 25 Aug 2022 12:34:13 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TWICE TZUYU - Talk that Talk(트와이스 쯔위 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28844582</link>
+            <guid>https://tv.naver.com/v/28844582</guid>
+            <pubDate>Sat, 27 Aug 2022 11:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_5/rCE6t_1661598723609JdXnk_JPEG/clip_20220827193229_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TWICE MOMO - Talk that Talk(트와이스 모모 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28844581</link>
+            <guid>https://tv.naver.com/v/28844581</guid>
+            <pubDate>Sat, 27 Aug 2022 11:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_242/qJQ82_1661598722247s4lX0_JPEG/clip_20220827193157_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TWICE NAYEON - Talk that Talk(트와이스 나연 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28844580</link>
+            <guid>https://tv.naver.com/v/28844580</guid>
+            <pubDate>Sat, 27 Aug 2022 11:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_281/Pwkol_1661598720903XISWL_JPEG/clip_20220827193137_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TWICE SANA - Talk that Talk(트와이스 사나 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28844478</link>
+            <guid>https://tv.naver.com/v/28844478</guid>
+            <pubDate>Sat, 27 Aug 2022 11:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_277/yAOhb_1661598420483CdWh6_JPEG/clip_20220827193203_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TWICE MINA - Talk that Talk(트와이스 미나 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28844354</link>
+            <guid>https://tv.naver.com/v/28844354</guid>
+            <pubDate>Sat, 27 Aug 2022 11:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_180/7vT5D_1661597819134ShudD_JPEG/clip_20220827193211_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] IVE LEESEO - AFTER LIKE(아이브 이서 - 애프터 라이크) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28843893</link>
+            <guid>https://tv.naver.com/v/28843893</guid>
+            <pubDate>Sat, 27 Aug 2022 11:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_142/iQyNm_1661595717145sScG3_JPEG/clip_20220827184223_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] TWICE – TALK THAT TALK(트와이스 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -206,54 +254,6 @@
             <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220820_287/dIswQ_1660987620594jREp6_JPEG/clip_20220820180350_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] GIRLS’ GENERATION SUNNY - FOREVER 1(소녀시대 써니 - 포에버 원) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28688499</link>
-            <guid>https://tv.naver.com/v/28688499</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_149/nKW7Z_1660987619173TDqKF_JPEG/clip_20220820171419_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ NEW - WHISPER(더보이즈 뉴 - 위스퍼) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28688442</link>
-            <guid>https://tv.naver.com/v/28688442</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_57/sCKcc_1660987378898LDCdg_JPEG/clip_20220820180322_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ SUNWOO - WHISPER(더보이즈 선우 - 위스퍼) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28688441</link>
-            <guid>https://tv.naver.com/v/28688441</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_18/T8fUV_16609873778559czwG_JPEG/clip_20220820180214_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] YENA - SMARTPHONE(최예나 – 스마트폰) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28688294</link>
-            <guid>https://tv.naver.com/v/28688294</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_204/IPcEO_1660986717027LsNtd_JPEG/clip_20220820173150_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Golden Child BONG JAE HYUN - Replay(골든차일드 봉재현 - 리플레이) FanCam | Show! MusicCore | MBC220820방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28688240</link>
-            <guid>https://tv.naver.com/v/28688240</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_293/3CLje_1660986476675FsFG1_JPEG/clip_20220820171610_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Golden Child LEE JANG JUN - Replay(골든차일드 이장준 - 리플레이) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28688141</link>
-            <guid>https://tv.naver.com/v/28688141</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_295/V3Jwc_1660986116990R6qWY_JPEG/clip_20220820171627_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데뷔 15주년 기념, ‘소녀시대’의 화려한 선상 파티! ‘FOREVER 1’ (SBS 인기가요 ─ 네이버TV)]]></title>
