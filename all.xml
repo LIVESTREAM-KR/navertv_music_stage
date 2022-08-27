@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 11:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 12:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,198 @@
             <pubDate>Thu, 25 Aug 2022 12:34:13 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CIX HYUNSUK - 458(씨아이엑스 현석 - 458) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28845483</link>
+            <guid>https://tv.naver.com/v/28845483</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_211/oIiA9_1661602981042pST9W_JPEG/clip_20220827202943_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Lavndr - Ma chérie(라벤더 – 마셰리) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28845482</link>
+            <guid>https://tv.naver.com/v/28845482</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_24/UaT0t_16616029793287YKS1_JPEG/clip_20220827202844_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ JACOB - WHISPER(더보이즈 제이콥 - 위스퍼) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28845470</link>
+            <guid>https://tv.naver.com/v/28845470</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_274/4yeNS_1661602918447nUC5n_JPEG/clip_20220827202352_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CIX – 458(씨아이엑스 - 458) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28845424</link>
+            <guid>https://tv.naver.com/v/28845424</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_76/8HeJG_1661602618857kUcWm_JPEG/clip_20220827202938_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ SANGYEON - WHISPER(더보이즈 상연 - 위스퍼) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28845422</link>
+            <guid>https://tv.naver.com/v/28845422</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_114/KhYrC_16616026176286ggp1_JPEG/clip_20220827201759_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ SUNWOO - WHISPER(더보이즈 선우 - 위스퍼) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28845191</link>
+            <guid>https://tv.naver.com/v/28845191</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_147/Smqo5_1661601719964fSrtM_JPEG/clip_20220827201811_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ HYUNJAE - WHISPER(더보이즈 현재 - 위스퍼) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28845190</link>
+            <guid>https://tv.naver.com/v/28845190</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_213/ixieR_1661601718942sj0Hk_JPEG/clip_20220827201754_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ JUHAKNYEON - WHISPER(더보이즈 주학년 - 위스퍼) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28845189</link>
+            <guid>https://tv.naver.com/v/28845189</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_92/e6kYp_1661601717747aavdO_JPEG/clip_20220827201741_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ NEW - WHISPER(더보이즈 뉴 - 위스퍼) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28845038</link>
+            <guid>https://tv.naver.com/v/28845038</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_7/qOwsP_1661600829329FPXpT_JPEG/clip_20220827202009_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ KEVIN - WHISPER(더보이즈 케빈 - 위스퍼) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28845037</link>
+            <guid>https://tv.naver.com/v/28845037</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_213/BeNqV_1661600828170tEB59_JPEG/clip_20220827201820_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ Q - WHISPER(더보이즈 큐 - 위스퍼) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28845035</link>
+            <guid>https://tv.naver.com/v/28845035</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_298/dzTRy_1661600826956izj48_JPEG/clip_20220827201816_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ JUYEON - WHISPER(더보이즈 주연 - 위스퍼) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28845034</link>
+            <guid>https://tv.naver.com/v/28845034</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_177/xNM8r_1661600825942JBL9H_JPEG/clip_20220827201749_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ – WHISPER(더보이즈 - 위스퍼) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28845033</link>
+            <guid>https://tv.naver.com/v/28845033</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_55/bLOta_16616008241460QzLJ_JPEG/clip_20220827201430_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] 9001 - 백일홍(나인티오원 – 백일홍) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28845032</link>
+            <guid>https://tv.naver.com/v/28845032</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_103/HeuCH_16616008223186NQuW_JPEG/clip_20220827201026_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATBO - Monochrome(Color)(에이티비오 – 모노크롬(컬러)) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28845031</link>
+            <guid>https://tv.naver.com/v/28845031</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_89/YpwBE_1661600820044uKciY_JPEG/clip_20220827201016_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] LEO - Losing Game(레오 – 루징 게임) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28845027</link>
+            <guid>https://tv.naver.com/v/28845027</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_36/BwxQr_166160081783524JQW_JPEG/clip_20220827200950_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ YOUNGHOON - WHISPER(더보이즈 영훈 - 위스퍼) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28844938</link>
+            <guid>https://tv.naver.com/v/28844938</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_163/QTUeQ_1661600277690Iwf1f_JPEG/clip_20220827201746_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Honey J - Honey Drop(허니제이 – 허니 드롭) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28844840</link>
+            <guid>https://tv.naver.com/v/28844840</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_290/80aEz_1661599921041Ejbbd_JPEG/clip_20220827200532_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] DKB - 넌 매일(24/7)(다크비 – 넌 매일(24/7)) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28844839</link>
+            <guid>https://tv.naver.com/v/28844839</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_252/WTMV8_1661599919714fSaET_JPEG/clip_20220827200345_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ(더보이즈) – WHISPER(위스퍼) 1위 직캠 FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28844838</link>
+            <guid>https://tv.naver.com/v/28844838</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[6:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_33/22xdL_1661599918165eRwhN_JPEG/clip_20220827200215_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Honey J - Honey Drop(허니제이 – 허니 드롭) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28844760</link>
+            <guid>https://tv.naver.com/v/28844760</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_11/3ctxS_1661599620544Yad3h_JPEG/clip_20220827200538_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TWICE DAHYUN - Talk that Talk(트와이스 다현 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28844759</link>
+            <guid>https://tv.naver.com/v/28844759</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_191/bErxk_1661599619355jaHkR_JPEG/clip_20220827193217_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TWICE JEONGYEON - Talk that Talk(트와이스 정연 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28844695</link>
+            <guid>https://tv.naver.com/v/28844695</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_105/0Ps04_16615993181743Mosg_JPEG/clip_20220827193149_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TWICE CHAEYOUNG - TALK THAT TALK(트와이스 채영 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28844625</link>
+            <guid>https://tv.naver.com/v/28844625</guid>
+            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_223/SoSeQ_1661599017874G2gSt_JPEG/clip_20220827193223_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] TWICE TZUYU - Talk that Talk(트와이스 쯔위 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -56,204 +248,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220827_180/7vT5D_1661597819134ShudD_JPEG/clip_20220827193211_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] IVE LEESEO - AFTER LIKE(아이브 이서 - 애프터 라이크) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <title><![CDATA[[예능연구소] IVE LEESEO - After LIKE(아이브 이서 - 애프터 라이크) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28843893</link>
             <guid>https://tv.naver.com/v/28843893</guid>
             <pubDate>Sat, 27 Aug 2022 11:14:27 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220827_142/iQyNm_1661595717145sScG3_JPEG/clip_20220827184223_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TWICE – TALK THAT TALK(트와이스 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28843838</link>
-            <guid>https://tv.naver.com/v/28843838</guid>
-            <pubDate>Sat, 27 Aug 2022 10:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_113/AVbgd_1661595420146YJ5ix_JPEG/clip_20220827184550_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE LIZ - AFTER LIKE(아이브 리즈 - 애프터 라이크) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28843836</link>
-            <guid>https://tv.naver.com/v/28843836</guid>
-            <pubDate>Sat, 27 Aug 2022 10:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_230/5Ei4n_166159541905564dNP_JPEG/clip_20220827184218_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE GAEUL - AFTER LIKE(아이브 가을 - 애프터 라이크) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28843835</link>
-            <guid>https://tv.naver.com/v/28843835</guid>
-            <pubDate>Sat, 27 Aug 2022 10:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_227/rWDUF_16615954179003w3Hx_JPEG/clip_20220827184155_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE JANG WONYOUNG - AFTER LIKE(아이브 장원영 - 애프터 라이크) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28843783</link>
-            <guid>https://tv.naver.com/v/28843783</guid>
-            <pubDate>Sat, 27 Aug 2022 10:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_297/fzj8o_1661595117339HQFP4_JPEG/clip_20220827184212_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE REI - AFTER LIKE(아이브 레이 - 애프터 라이크) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28843717</link>
-            <guid>https://tv.naver.com/v/28843717</guid>
-            <pubDate>Sat, 27 Aug 2022 10:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_101/yXWGh_16615948232927hb0i_JPEG/clip_20220827184204_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE AN YUJIN - AFTER LIKE(아이브 안유진 - 애프터 라이크) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28843715</link>
-            <guid>https://tv.naver.com/v/28843715</guid>
-            <pubDate>Sat, 27 Aug 2022 10:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_22/SzV2C_1661594821918zm04y_JPEG/clip_20220827184148_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE – AFTER LIKE(아이브 - 애프터 라이크) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28843714</link>
-            <guid>https://tv.naver.com/v/28843714</guid>
-            <pubDate>Sat, 27 Aug 2022 10:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_62/4uRYL_1661594819777zIM7k_JPEG/clip_20220827183233_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] THE BOYZ JUYEON - WHISPER(더보이즈 주연 - 위스퍼) Close-up Cam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28719342</link>
-            <guid>https://tv.naver.com/v/28719342</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_161/4rBat_1661156580873jSltG_JPEG/clip_20220822165743_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] THE BOYZ HYUNJAE - WHISPER(더보이즈 현재 - 위스퍼) Close-up Cam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28719339</link>
-            <guid>https://tv.naver.com/v/28719339</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_285/zpAeD_1661156579045yXiUt_JPEG/clip_20220822165741_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ Q - Timeless(더보이즈 큐 - 타임리스) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28715571</link>
-            <guid>https://tv.naver.com/v/28715571</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_215/U1Ln5_1661148476748Ril9p_JPEG/clip_20220822142312_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ KEVIN - Timeless(더보이즈 케빈 - 타임리스) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28715411</link>
-            <guid>https://tv.naver.com/v/28715411</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_81/XLoBV_1661148119358Di59L_JPEG/clip_20220822142314_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ JACOB - Timeless(더보이즈 제이콥 - 타임리스) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28715409</link>
-            <guid>https://tv.naver.com/v/28715409</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_146/sQmdb_1661148118399LG0Lm_JPEG/clip_20220822142309_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ SANGYEON - Timeless(더보이즈 상연 - 타임리스) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28715263</link>
-            <guid>https://tv.naver.com/v/28715263</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_217/JNxTG_166114781879308vhp_JPEG/clip_20220822142308_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] THE BOYZ YOUNGHOON - Timeless(더보이즈 영훈 - 타임리스) Close-up Cam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28715134</link>
-            <guid>https://tv.naver.com/v/28715134</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_207/JRx1u_1661147577570PVKOM_JPEG/clip_20220822141800_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ NEW - Timeless(더보이즈 뉴 - 타임리스) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28715107</link>
-            <guid>https://tv.naver.com/v/28715107</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_134/Jldpy_16611475183397pvNa_JPEG/clip_20220822142307_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] THE BOYZ HYUNJAE - Timeless(더보이즈 현재 - 타임리스) Close-up Cam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28715106</link>
-            <guid>https://tv.naver.com/v/28715106</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_278/Hz7ry_1661147516356aSKTm_JPEG/clip_20220822141812_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ JUHAKNYEON - Timeless(더보이즈 주학년 - 타임리스) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28714953</link>
-            <guid>https://tv.naver.com/v/28714953</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_292/UrSss_1661147223369QBraR_JPEG/clip_20220822142311_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] THE BOYZ SUNWOO - Timeless(더보이즈 선우 - 타임리스) Close-up Cam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28714948</link>
-            <guid>https://tv.naver.com/v/28714948</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_237/8jpOR_1661147216773xBaKv_JPEG/clip_20220822141805_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] THE BOYZ JUYEON - Timeless(더보이즈 주연 - 타임리스) Close-up Cam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28714769</link>
-            <guid>https://tv.naver.com/v/28714769</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_112/STiCf_1661146920144jBSDo_JPEG/clip_20220822141818_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] YENA - SMARTPHONE(최예나 – 스마트폰) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28688621</link>
-            <guid>https://tv.naver.com/v/28688621</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_148/fp7KR_1660988217851syUXT_JPEG/clip_20220820181518_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ Q - WHISPER(더보이즈 큐 - 위스퍼) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28688582</link>
-            <guid>https://tv.naver.com/v/28688582</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_57/yjErq_1660987918549dnFFn_JPEG/clip_20220820180254_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ YOUNGHOON - WHISPER(더보이즈 영훈 - 위스퍼) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28688579</link>
-            <guid>https://tv.naver.com/v/28688579</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_192/MzzNt_1660987917190xnwKC_JPEG/clip_20220820180144_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ JUYEON - WHISPER(더보이즈 주연 - 위스퍼) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28688502</link>
-            <guid>https://tv.naver.com/v/28688502</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_295/zIVqZ_1660987621972WxOVW_JPEG/clip_20220820180415_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ HYUNJAE - WHISPER(더보이즈 현재 - 위스퍼) FanCam | Show! MusicCore | MBC220820방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28688500</link>
-            <guid>https://tv.naver.com/v/28688500</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_287/dIswQ_1660987620594jREp6_JPEG/clip_20220820180350_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데뷔 15주년 기념, ‘소녀시대’의 화려한 선상 파티! ‘FOREVER 1’ (SBS 인기가요 ─ 네이버TV)]]></title>
