@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 06:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 07:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220827_180/7vT5D_1661597819134ShudD_JPEG/clip_20220827193211_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[퍼포먼스 맛집, ‘에이티비오’의 강렬한 칼군무! ‘Monochrome’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28854070</link>
+            <guid>https://tv.naver.com/v/28854070</guid>
+            <pubDate>Sun, 28 Aug 2022 07:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220828_258/2l4So_1661670719307hCLIh_JPEG/e5beee54-a83d-4a47-8b5a-db9e1e395b3f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘이아영’의 호소력 짙은 목소리! ‘나는 널 만나지 않았어야 해’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28854069</link>
+            <guid>https://tv.naver.com/v/28854069</guid>
+            <pubDate>Sun, 28 Aug 2022 07:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220828_6/rUKNk_1661670717410xoSPo_JPEG/7cdec208-e143-4acb-89a2-121fd6510acf.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넘치는 패기로 뜨거워진 ‘블랭키’의 열기! ‘FUEGO’ (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28853984</link>
+            <guid>https://tv.naver.com/v/28853984</guid>
+            <pubDate>Sun, 28 Aug 2022 07:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220828_81/2NMPK_1661670419877Kv7Sj_JPEG/e607afc3-1982-41e1-b68e-d25951886805.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[데뷔 15주년 기념, ‘소녀시대’의 화려한 선상 파티! ‘FOREVER 1’ (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28698342</link>
             <guid>https://tv.naver.com/v/28698342</guid>
@@ -470,30 +494,6 @@
             <pubDate>Thu, 25 Aug 2022 12:34:25 GMT</pubDate>
             <content:encoded><![CDATA[3:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220814_99/25qy4_1660464421391fWImq_JPEG/ee68902d-be89-4a33-b8b9-6ac413ac6193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 시대의 새로운 아이콘 ‘뉴진스’에 시선집중! ‘Attention’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28562542</link>
-            <guid>https://tv.naver.com/v/28562542</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220814_107/qijfI_1660462018847pNNq3_JPEG/d624588c-72b1-4055-8689-a3828a4b5ce6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘유나이트’, 고공비행을 하는 듯한 다이나믹 사운드! ‘AVIATOR’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28562493</link>
-            <guid>https://tv.naver.com/v/28562493</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220814_282/guLAg_1660461778251TA40B_JPEG/3b436211-276d-425c-be4c-4c69e9025472.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘첫사랑’, 낯설지만 기분 좋은 처음의 두근거림! ‘첫사랑’ (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28562479</link>
-            <guid>https://tv.naver.com/v/28562479</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220814_137/qAqAY_1660461716999jwyhR_JPEG/0cc98a69-8633-4254-a735-4a2c7f1f8752.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
