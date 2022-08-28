@@ -4,7 +4,7 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 03:58:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 04:59:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,7 +200,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220827_105/0Ps04_16615993181743Mosg_JPEG/clip_20220827193149_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] TWICE CHAEYOUNG - TALK THAT TALK(트와이스 채영 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송]]></title>
+            <title><![CDATA[[예능연구소] TWICE CHAEYOUNG - Talk that Talk(트와이스 채영 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송]]></title>
             <link>https://tv.naver.com/v/28844625</link>
             <guid>https://tv.naver.com/v/28844625</guid>
             <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
