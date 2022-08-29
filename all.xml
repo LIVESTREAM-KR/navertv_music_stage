@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 07:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 08:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,38 @@
             <pubDate>Thu, 25 Aug 2022 12:34:13 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] IVE LEESEO - After LIKE(아이브 이서 - 애프터 라이크) Close-up Cam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28876148</link>
+            <guid>https://tv.naver.com/v/28876148</guid>
+            <pubDate>Mon, 29 Aug 2022 08:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_195/lmqWN_1661761019277VrqQ1_JPEG/clip_20220829163450_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] IVE REI - After LIKE(아이브 레이 - 애프터 라이크) Close-up Cam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28876022</link>
+            <guid>https://tv.naver.com/v/28876022</guid>
+            <pubDate>Mon, 29 Aug 2022 08:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_114/2odUn_16617607239729K2FX_JPEG/clip_20220829163443_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] IVE JANG WONYOUNG - After LIKE(아이브 장원영 - 애프터 라이크) Close-up Cam | Show! MusicCore | MBC220827 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28876021</link>
+            <guid>https://tv.naver.com/v/28876021</guid>
+            <pubDate>Mon, 29 Aug 2022 08:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_296/XGLKH_1661760721975PWvwn_JPEG/clip_20220829163434_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] IVE AN YUJIN - After LIKE(아이브 안유진 - 애프터 라이크) Close-up Cam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28876018</link>
+            <guid>https://tv.naver.com/v/28876018</guid>
+            <pubDate>Mon, 29 Aug 2022 08:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_284/ALMNf_1661760720029GzUtx_JPEG/clip_20220829163422_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최애직캠] TWICE SANA - Talk that Talk(트와이스 사나 - 톡댓톡) Close-up Cam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -222,38 +254,6 @@
             <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
             <content:encoded><![CDATA[3:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220827_105/0Ps04_16615993181743Mosg_JPEG/clip_20220827193149_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TWICE CHAEYOUNG - Talk that Talk(트와이스 채영 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28844625</link>
-            <guid>https://tv.naver.com/v/28844625</guid>
-            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_223/SoSeQ_1661599017874G2gSt_JPEG/clip_20220827193223_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TWICE TZUYU - Talk that Talk(트와이스 쯔위 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28844582</link>
-            <guid>https://tv.naver.com/v/28844582</guid>
-            <pubDate>Sat, 27 Aug 2022 11:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_5/rCE6t_1661598723609JdXnk_JPEG/clip_20220827193229_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TWICE MOMO - Talk that Talk(트와이스 모모 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28844581</link>
-            <guid>https://tv.naver.com/v/28844581</guid>
-            <pubDate>Sat, 27 Aug 2022 11:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_242/qJQ82_1661598722247s4lX0_JPEG/clip_20220827193157_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TWICE NAYEON - Talk that Talk(트와이스 나연 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28844580</link>
-            <guid>https://tv.naver.com/v/28844580</guid>
-            <pubDate>Sat, 27 Aug 2022 11:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_281/Pwkol_1661598720903XISWL_JPEG/clip_20220827193137_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[독보적 카리스마 ‘블랙핑크’의 핑크빛 파워! ‘Pink Venom’ (SBS 인기가요 ─ 네이버TV)]]></title>
