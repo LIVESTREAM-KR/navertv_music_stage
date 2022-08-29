@@ -4,9 +4,25 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 04:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 06:07:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[최애직캠] TWICE SANA - Talk that Talk(트와이스 사나 - 톡댓톡) Close-up Cam | Show! MusicCore | MBC220827방송]]></title>
+            <link>https://tv.naver.com/v/28871286</link>
+            <guid>https://tv.naver.com/v/28871286</guid>
+            <pubDate>Mon, 29 Aug 2022 06:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_233/5Sxyr_16617520205018baNm_JPEG/clip_20220829140653_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] TWICE NAYEON - Talk that Talk(트와이스 나연 - 톡댓톡) Close-up Cam | Show! MusicCore | MBC220827방송]]></title>
+            <link>https://tv.naver.com/v/28871284</link>
+            <guid>https://tv.naver.com/v/28871284</guid>
+            <pubDate>Mon, 29 Aug 2022 06:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_101/zZhk3_1661752018415O8tvn_JPEG/clip_20220829140631_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] CIX BAE JINYOUNG - 458(씨아이엑스 배진영 - 458) FanCam | Show! MusicCore | MBC220827방송]]></title>
             <link>https://tv.naver.com/v/28845608</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 27 Aug 2022 11:14:27 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220827_281/Pwkol_1661598720903XISWL_JPEG/clip_20220827193137_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TWICE SANA - Talk that Talk(트와이스 사나 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송]]></title>
-            <link>https://tv.naver.com/v/28844478</link>
-            <guid>https://tv.naver.com/v/28844478</guid>
-            <pubDate>Sat, 27 Aug 2022 11:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_277/yAOhb_1661598420483CdWh6_JPEG/clip_20220827193203_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TWICE MINA - Talk that Talk(트와이스 미나 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송]]></title>
-            <link>https://tv.naver.com/v/28844354</link>
-            <guid>https://tv.naver.com/v/28844354</guid>
-            <pubDate>Sat, 27 Aug 2022 11:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_180/7vT5D_1661597819134ShudD_JPEG/clip_20220827193211_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

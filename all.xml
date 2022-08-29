@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 04:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 06:07:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 25 Aug 2022 12:34:13 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] TWICE SANA - Talk that Talk(트와이스 사나 - 톡댓톡) Close-up Cam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28871286</link>
+            <guid>https://tv.naver.com/v/28871286</guid>
+            <pubDate>Mon, 29 Aug 2022 06:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_233/5Sxyr_16617520205018baNm_JPEG/clip_20220829140653_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] TWICE NAYEON - Talk that Talk(트와이스 나연 - 톡댓톡) Close-up Cam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28871284</link>
+            <guid>https://tv.naver.com/v/28871284</guid>
+            <pubDate>Mon, 29 Aug 2022 06:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_101/zZhk3_1661752018415O8tvn_JPEG/clip_20220829140631_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] CIX BAE JINYOUNG - 458(씨아이엑스 배진영 - 458) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 27 Aug 2022 11:14:27 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220827_281/Pwkol_1661598720903XISWL_JPEG/clip_20220827193137_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TWICE SANA - Talk that Talk(트와이스 사나 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28844478</link>
-            <guid>https://tv.naver.com/v/28844478</guid>
-            <pubDate>Sat, 27 Aug 2022 11:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_277/yAOhb_1661598420483CdWh6_JPEG/clip_20220827193203_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TWICE MINA - Talk that Talk(트와이스 미나 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28844354</link>
-            <guid>https://tv.naver.com/v/28844354</guid>
-            <pubDate>Sat, 27 Aug 2022 11:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_180/7vT5D_1661597819134ShudD_JPEG/clip_20220827193211_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[독보적 카리스마 ‘블랙핑크’의 핑크빛 파워! ‘Pink Venom’ (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 다채로운 사랑 노래가 가득! What’s After LIKE~? (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28871074</link>
+            <guid>https://tv.naver.com/v/28871074</guid>
+            <pubDate>Mon, 29 Aug 2022 06:06:46 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_7/SYSXw_1661751779538glN2t_JPEG/CA202208310003_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[8월 4주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28787799</link>
             <guid>https://tv.naver.com/v/28787799</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Thu, 25 Aug 2022 12:34:58 GMT</pubDate>
             <content:encoded><![CDATA[3:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_190/FPwVk_16613326212335gG3o_JPEG/CA202208240048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] LUCY CHOI SANG YEOP - PLAY (루시 최상엽 - 놀이) | Show Champion | EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28770559</link>
-            <guid>https://tv.naver.com/v/28770559</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_168/beRdy_1661332318112k7ffi_JPEG/CA202208240050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
