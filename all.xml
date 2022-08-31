@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 10:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 11:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[COMEBACK] CIX - 458 (씨아이엑스 - 458) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28930573</link>
+            <guid>https://tv.naver.com/v/28930573</guid>
+            <pubDate>Wed, 31 Aug 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_29/d2kny_1661941383270TxTzu_JPEG/CA202208310086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] CIX - Without You (씨아이엑스 - 위드아웃유) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28930571</link>
+            <guid>https://tv.naver.com/v/28930571</guid>
+            <pubDate>Wed, 31 Aug 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_75/oavv1_1661941381617tze4G_JPEG/CA202208310085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] IVE - After LIKE (아이브 - 애프터 라이크) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28930570</link>
+            <guid>https://tv.naver.com/v/28930570</guid>
+            <pubDate>Wed, 31 Aug 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_186/VBBlD_1661941379294dAGa6_JPEG/CA202208310084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[COMEBACK] ULALA SESSION - Hommage (울랄라세션 - 오마주) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28930419</link>
             <guid>https://tv.naver.com/v/28930419</guid>
@@ -1430,30 +1454,6 @@
             <pubDate>Thu, 25 Aug 2022 12:34:58 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_249/OeQWw_16613347800698CK5u_JPEG/CA202208240061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] PURPLE KISS CHAEIN - Nerdy (퍼플키스 채인 - 널디) | Show Champion | EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28771343</link>
-            <guid>https://tv.naver.com/v/28771343</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_250/w1JpE_1661334778712X5CW7_JPEG/CA202208240059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] LUCY CHO WON SANG - PLAY (루시 조원상 - 놀이) | Show Champion | EP.446 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28771342</link>
-            <guid>https://tv.naver.com/v/28771342</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_280/HtJnb_1661334777309ErtqN_JPEG/CA202208240051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKYLE - Bye Bye Bye (스카이리 - 바이 바이 바이) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28771322</link>
-            <guid>https://tv.naver.com/v/28771322</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_237/hAuAB_1661334716776Wblu1_JPEG/CA202208240064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
