@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 08:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 09:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[《예고》템페스트(TEMPEST)와 함께한 이번주 심플리 콘투어 폴란드 편💌~!! _535회]]></title>
+            <link>https://tv.naver.com/v/28949483</link>
+            <guid>https://tv.naver.com/v/28949483</guid>
+            <pubDate>Thu, 01 Sep 2022 09:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220901_87/8RIQp_1662022179883FHBhY_PNG/1662022176384.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.534]]></title>
             <link>https://tv.naver.com/v/28813944</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 31 Aug 2022 13:41:30 GMT</pubDate>
             <content:encoded><![CDATA[3:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220825_27/cw4g7_1661412261267XlJhc_JPEG/1661412257840.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] TRI.BE Mire 'KISS' (트라이비 미레 직캠) l Simply K-Pop CON-TOUR Ep.534]]></title>
-            <link>https://tv.naver.com/v/28790478</link>
-            <guid>https://tv.naver.com/v/28790478</guid>
-            <pubDate>Wed, 31 Aug 2022 13:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220825_118/CeFU6_1661412234051Rtm49_JPEG/1661412229008.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
