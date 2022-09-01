@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 10:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 11:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 5주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.447]]></title>
+            <link>https://tv.naver.com/v/28934933</link>
+            <guid>https://tv.naver.com/v/28934933</guid>
+            <pubDate>Thu, 01 Sep 2022 11:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[5:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_201/9lBcS_16619518167108s43g_JPEG/CA202208310101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[COMEBACK] CIX - 458 (씨아이엑스 - 458)]]></title>
             <link>https://tv.naver.com/v/28930573</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 31 Aug 2022 12:36:27 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220831_91/W0THP_1661932018334KRWQM_JPEG/CA202208310041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] CIX YONGHEE - Without You (씨아이엑스 용희 - 위드아웃유) | Show Champion | EP.447]]></title>
-            <link>https://tv.naver.com/v/28925625</link>
-            <guid>https://tv.naver.com/v/28925625</guid>
-            <pubDate>Wed, 31 Aug 2022 12:36:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_289/LSWaF_1661931479571Nxcd2_JPEG/CA202208310043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
