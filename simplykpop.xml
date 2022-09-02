@@ -4,9 +4,25 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 01:50:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 04:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BEAUTYBOX (뷰티박스) - BOGGLE BOGGLE (보글보글) _ Ep.535 | [4K]]]></title>
+            <link>https://tv.naver.com/v/28970264</link>
+            <guid>https://tv.naver.com/v/28970264</guid>
+            <pubDate>Fri, 02 Sep 2022 04:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_97/soEO1_1662091765425sdslH_PNG/1662091751802.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[XINDY (신디) - Mermaid (머메이드) _ Ep.535 | [4K]]]></title>
+            <link>https://tv.naver.com/v/28970260</link>
+            <guid>https://tv.naver.com/v/28970260</guid>
+            <pubDate>Fri, 02 Sep 2022 04:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_209/VB3cT_16620917560901XcKx_PNG/1662091748340.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[《예고》템페스트(TEMPEST)와 함께한 이번주 심플리 콘투어 폴란드 편💌~!! _535회]]></title>
             <link>https://tv.naver.com/v/28949483</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 31 Aug 2022 13:41:30 GMT</pubDate>
             <content:encoded><![CDATA[1:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220825_156/jWCnv_16614154937794UqSa_PNG/1661415488933.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] TRI.BE Jia 'KISS' (트라이비 지아 직캠) l Simply K-Pop CON-TOUR Ep.534]]></title>
-            <link>https://tv.naver.com/v/28790517</link>
-            <guid>https://tv.naver.com/v/28790517</guid>
-            <pubDate>Wed, 31 Aug 2022 13:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220825_230/jY2KT_1661412285759XRdDj_JPEG/1661412282688.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] TRI.BE Hyunbin 'KISS' (트라이비 현빈 직캠) l Simply K-Pop CON-TOUR Ep.534]]></title>
-            <link>https://tv.naver.com/v/28790502</link>
-            <guid>https://tv.naver.com/v/28790502</guid>
-            <pubDate>Wed, 31 Aug 2022 13:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220825_27/cw4g7_1661412261267XlJhc_JPEG/1661412257840.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
