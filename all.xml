@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 09:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 10:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1912,6 +1912,70 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220902_50/xLYuX_16620798271775h0As_JPEG/1662079823739.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[피싱걸스_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28975922</link>
+            <guid>https://tv.naver.com/v/28975922</guid>
+            <pubDate>Fri, 02 Sep 2022 10:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[7:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_246/s1oxY_1662102546911jpdlg_JPEG/a05fc686-2a8d-11ed-bbda-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피싱걸스_딴스(Ddance) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28975824</link>
+            <guid>https://tv.naver.com/v/28975824</guid>
+            <pubDate>Fri, 02 Sep 2022 10:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[4:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_153/CiwnM_1662102349106FlsPU_JPEG/721b9974-2a8d-11ed-814e-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피싱걸스_낚시왕 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28975792</link>
+            <guid>https://tv.naver.com/v/28975792</guid>
+            <pubDate>Fri, 02 Sep 2022 10:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_258/Bki6S_1662102271114TPu33_JPEG/4713d26d-2a8d-11ed-a57b-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피싱걸스_Hipster Salve (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28975747</link>
+            <guid>https://tv.naver.com/v/28975747</guid>
+            <pubDate>Fri, 02 Sep 2022 10:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_251/KoXiH_1662102193036c2Sod_JPEG/25bcd174-2a8d-11ed-8892-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현정_혼자한 사랑 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28975714</link>
+            <guid>https://tv.naver.com/v/28975714</guid>
+            <pubDate>Fri, 02 Sep 2022 10:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_82/gW11L_1662102140763mAv5i_JPEG/faad1ad2-2a8c-11ed-a57b-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현정_멍 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28975688</link>
+            <guid>https://tv.naver.com/v/28975688</guid>
+            <pubDate>Fri, 02 Sep 2022 10:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_177/Labgb_1662102069562dEsE0_JPEG/d3b55e61-2a8c-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현정_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28975671</link>
+            <guid>https://tv.naver.com/v/28975671</guid>
+            <pubDate>Fri, 02 Sep 2022 10:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[10:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_34/5Quxw_16621020238566lEpK_JPEG/627e3673-2a8c-11ed-b41c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현정_그녀와의 이별 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28975587</link>
+            <guid>https://tv.naver.com/v/28975587</guid>
+            <pubDate>Fri, 02 Sep 2022 10:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_210/pMkuI_1662101811080EBAJW_JPEG/3bbf3ce1-2a8c-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오곤_그럴거야 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28815968</link>
             <guid>https://tv.naver.com/v/28815968</guid>
@@ -2086,70 +2150,6 @@
             <pubDate>Thu, 25 Aug 2022 12:35:39 GMT</pubDate>
             <content:encoded><![CDATA[8:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220811_179/af7Wf_1660201078745MKRg8_JPEG/82f3b8e7-1942-11ed-a59e-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이수영_휠릴리 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28507280</link>
-            <guid>https://tv.naver.com/v/28507280</guid>
-            <pubDate>Thu, 25 Aug 2022 12:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_284/eEKfB_1660200910740BGWAS_JPEG/512a5cfe-1942-11ed-9fd4-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전선민_빗속에서 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28507239</link>
-            <guid>https://tv.naver.com/v/28507239</guid>
-            <pubDate>Thu, 25 Aug 2022 12:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_30/FKPwo_1660200829905H4Ot7_JPEG/25182b0b-1942-11ed-b1f2-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호_탈출 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28367861</link>
-            <guid>https://tv.naver.com/v/28367861</guid>
-            <pubDate>Thu, 25 Aug 2022 12:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_139/um53y_1659596189906MuCYo_JPEG/5c6e9f52-13c2-11ed-928a-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28367834</link>
-            <guid>https://tv.naver.com/v/28367834</guid>
-            <pubDate>Thu, 25 Aug 2022 12:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[10:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_39/c7OMc_165959613010799krw_JPEG/eaec3de8-13c1-11ed-b44a-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호_금지된 사랑 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28367769</link>
-            <guid>https://tv.naver.com/v/28367769</guid>
-            <pubDate>Thu, 25 Aug 2022 12:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[5:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_4/HMbNg_1659595933235UMGC8_JPEG/b2e98eb9-13c1-11ed-b77c-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호_사랑했지만 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28367732</link>
-            <guid>https://tv.naver.com/v/28367732</guid>
-            <pubDate>Thu, 25 Aug 2022 12:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[4:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_183/CKVu9_1659595837994EnU5B_JPEG/80a4722c-13c1-11ed-928a-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호_불티 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28367707</link>
-            <guid>https://tv.naver.com/v/28367707</guid>
-            <pubDate>Thu, 25 Aug 2022 12:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[4:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_272/bUuY1_1659595748209OsAw1_JPEG/54cde9a3-13c1-11ed-b77c-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호_Rock'n roll (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28367665</link>
-            <guid>https://tv.naver.com/v/28367665</guid>
-            <pubDate>Thu, 25 Aug 2022 12:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_66/fIjqH_1659595671943jxjeu_JPEG/27d80dff-13c1-11ed-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
