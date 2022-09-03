@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 08:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 09:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 25 Aug 2022 12:34:13 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KEY - Gasoline(키 – 가솔린) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28993641</link>
+            <guid>https://tv.naver.com/v/28993641</guid>
+            <pubDate>Sat, 03 Sep 2022 09:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_135/aOVK1_1662195719596oySe2_JPEG/clip_20220903172518_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KEY - Gasoline(키 – 가솔린) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28993639</link>
+            <guid>https://tv.naver.com/v/28993639</guid>
+            <pubDate>Sat, 03 Sep 2022 09:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_37/BuAj1_1662195717843uMD1V_JPEG/clip_20220903172513_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] IVE(아이브) – After LIKE(애프터 라이크) 1위 직캠 FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28993429</link>
+            <guid>https://tv.naver.com/v/28993429</guid>
+            <pubDate>Sat, 03 Sep 2022 09:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_177/wlReD_1662194819838skX93_JPEG/clip_20220903170543_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최애직캠] IVE LEESEO - After LIKE(아이브 이서 - 애프터 라이크) Close-up Cam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
             <content:encoded><![CDATA[6:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220827_33/22xdL_1661599918165eRwhN_JPEG/clip_20220827200215_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Honey J - Honey Drop(허니제이 – 허니 드롭) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28844760</link>
-            <guid>https://tv.naver.com/v/28844760</guid>
-            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_11/3ctxS_1661599620544Yad3h_JPEG/clip_20220827200538_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TWICE DAHYUN - Talk that Talk(트와이스 다현 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28844759</link>
-            <guid>https://tv.naver.com/v/28844759</guid>
-            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_191/bErxk_1661599619355jaHkR_JPEG/clip_20220827193217_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TWICE JEONGYEON - Talk that Talk(트와이스 정연 - 톡댓톡) FanCam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28844695</link>
-            <guid>https://tv.naver.com/v/28844695</guid>
-            <pubDate>Sat, 27 Aug 2022 12:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_105/0Ps04_16615993181743Mosg_JPEG/clip_20220827193149_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[독보적 카리스마 ‘블랙핑크’의 핑크빛 파워! ‘Pink Venom’ (SBS 인기가요 ─ 네이버TV)]]></title>
