@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 10:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 11:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 25 Aug 2022 12:34:13 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CIX BX - 458(씨아이엑스 BX - 458) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28994860</link>
+            <guid>https://tv.naver.com/v/28994860</guid>
+            <pubDate>Sat, 03 Sep 2022 11:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_128/rzYCq_1662201118292D0IJp_JPEG/clip_20220903185702_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Billlie HARUNA - RING ma Bell(빌리 하루나 - 링 마 벨) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28994803</link>
+            <guid>https://tv.naver.com/v/28994803</guid>
+            <pubDate>Sat, 03 Sep 2022 11:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_102/T40m6_1662200819869ftK5d_JPEG/clip_20220903182618_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Billlie SUHYEON - RING ma Bell(빌리 수현 - 링 마 벨) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28994739</link>
+            <guid>https://tv.naver.com/v/28994739</guid>
+            <pubDate>Sat, 03 Sep 2022 11:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_73/VL5tA_1662200579087YKFHs_JPEG/clip_20220903182614_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] Billlie SHEON - RING ma Bell(빌리 션 - 링 마 벨) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -62,6 +86,14 @@
             <pubDate>Sat, 03 Sep 2022 10:18:36 GMT</pubDate>
             <content:encoded><![CDATA[3:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220903_81/dk61y_16621996199271M4dt_JPEG/clip_20220903182612_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CIX BAE JINYOUNG - 458(씨아이엑스 배진영 - 458) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28994478</link>
+            <guid>https://tv.naver.com/v/28994478</guid>
+            <pubDate>Sat, 03 Sep 2022 11:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_116/BalfD_1662199323729RRv3m_JPEG/clip_20220903182638_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] IVE AN YUJIN - After LIKE(아이브 안유진 - 애프터 라이크) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -222,38 +254,6 @@
             <pubDate>Mon, 29 Aug 2022 08:22:13 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220829_195/lmqWN_1661761019277VrqQ1_JPEG/clip_20220829163450_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] IVE REI - After LIKE(아이브 레이 - 애프터 라이크) Close-up Cam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28876022</link>
-            <guid>https://tv.naver.com/v/28876022</guid>
-            <pubDate>Mon, 29 Aug 2022 08:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_114/2odUn_16617607239729K2FX_JPEG/clip_20220829163443_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] IVE JANG WONYOUNG - After LIKE(아이브 장원영 - 애프터 라이크) Close-up Cam | Show! MusicCore | MBC220827 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28876021</link>
-            <guid>https://tv.naver.com/v/28876021</guid>
-            <pubDate>Mon, 29 Aug 2022 08:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_296/XGLKH_1661760721975PWvwn_JPEG/clip_20220829163434_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] IVE AN YUJIN - After LIKE(아이브 안유진 - 애프터 라이크) Close-up Cam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28876018</link>
-            <guid>https://tv.naver.com/v/28876018</guid>
-            <pubDate>Mon, 29 Aug 2022 08:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_284/ALMNf_1661760720029GzUtx_JPEG/clip_20220829163422_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] TWICE SANA - Talk that Talk(트와이스 사나 - 톡댓톡) Close-up Cam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28871286</link>
-            <guid>https://tv.naver.com/v/28871286</guid>
-            <pubDate>Mon, 29 Aug 2022 06:06:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_233/5Sxyr_16617520205018baNm_JPEG/clip_20220829140653_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[독보적 카리스마 ‘블랙핑크’의 핑크빛 파워! ‘Pink Venom’ (SBS 인기가요 ─ 네이버TV)]]></title>
