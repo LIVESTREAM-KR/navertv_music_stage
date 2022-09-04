@@ -4,9 +4,41 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 06:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 07:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘블리처스’, 점점 짙어지는 포근한 가을 감성! ‘Gradation’]]></title>
+            <link>https://tv.naver.com/v/29005295</link>
+            <guid>https://tv.naver.com/v/29005295</guid>
+            <pubDate>Sun, 04 Sep 2022 07:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_10/od5QG_1662275583891JPD9c_JPEG/1e15b08d-e828-4dde-bb76-17a591704824.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블록버스터 급 스케일을 자랑하는 ‘크랙시’의 세계관! ‘Undercover’]]></title>
+            <link>https://tv.naver.com/v/29005293</link>
+            <guid>https://tv.naver.com/v/29005293</guid>
+            <pubDate>Sun, 04 Sep 2022 07:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_245/Wm8DM_1662275580114oWDe4_JPEG/ecade025-bf39-4e94-ae0f-542f81376926.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다양한 색깔로 채워지는 ‘에이티비오’만의 성장 서사 ‘Monochrome’]]></title>
+            <link>https://tv.naver.com/v/29005281</link>
+            <guid>https://tv.naver.com/v/29005281</guid>
+            <pubDate>Sun, 04 Sep 2022 07:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_82/4Cg7S_1662275517611QDObo_JPEG/1310b818-1970-4f4b-9324-664d93c77a8f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘트라이비’, 한층 더 매워진 퍼포먼스×대체불가한 매력 ‘KISS’]]></title>
+            <link>https://tv.naver.com/v/29005129</link>
+            <guid>https://tv.naver.com/v/29005129</guid>
+            <pubDate>Sun, 04 Sep 2022 07:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_88/wuPaP_1662274919406xgAOo_JPEG/b44964af-37af-4616-9ec3-a877b0870e99.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[독보적 카리스마 ‘블랙핑크’의 핑크빛 파워! ‘Pink Venom’]]></title>
             <link>https://tv.naver.com/v/28854879</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 25 Aug 2022 12:34:25 GMT</pubDate>
             <content:encoded><![CDATA[3:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220821_16/qrs5A_16610671182144dtPn_JPEG/de0ce9cb-b8c1-47a4-92b1-ae3181766771.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펑키한 리듬으로 가득한 ‘루미너스’의 무대! ‘Engine’]]></title>
-            <link>https://tv.naver.com/v/28697830</link>
-            <guid>https://tv.naver.com/v/28697830</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220821_13/edsqH_1661067116694U3boL_JPEG/79c72cd8-3d38-42a4-bbf0-b60834060d66.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘뉴진스’와 함께 빠져드는 daydream♬ ‘Hype Boy’]]></title>
-            <link>https://tv.naver.com/v/28697724</link>
-            <guid>https://tv.naver.com/v/28697724</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220821_235/8azUt_1661066581022HKd6S_JPEG/1b8f8477-2737-4e6d-95a4-5fc5258ec605.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘유나이트’의 더 높이, 더 멀리 날아오르려는 패기! ‘AVIATOR’]]></title>
-            <link>https://tv.naver.com/v/28697704</link>
-            <guid>https://tv.naver.com/v/28697704</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220821_147/qKjNV_1661066516724dNrdA_JPEG/947e8f21-b2e7-4386-a565-bf6cfa08f6c7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독창적 서사 갖춘 ‘에이티비오’만의 무대! ‘Monochrome’]]></title>
-            <link>https://tv.naver.com/v/28697640</link>
-            <guid>https://tv.naver.com/v/28697640</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220821_70/uNBJ4_1661066217087MBtDz_JPEG/750e9fae-6289-426e-b64f-976e1e4f30a4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
