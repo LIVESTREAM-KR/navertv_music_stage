@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 04:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 06:03:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 쇼챔대 CIX 선배는 무슨 동아리에요? 같이 지원하실 분🙋🏻‍♀]]></title>
+            <link>https://tv.naver.com/v/29021520</link>
+            <guid>https://tv.naver.com/v/29021520</guid>
+            <pubDate>Mon, 05 Sep 2022 06:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_150/lpbG9_1662356518540Dypi9_JPEG/CA202209070003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[8월 5주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.447]]></title>
             <link>https://tv.naver.com/v/28934933</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 31 Aug 2022 12:36:27 GMT</pubDate>
             <content:encoded><![CDATA[3:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220831_218/JLXUO_1661932317687h1Rk9_JPEG/CA202208310048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] CIX BAE JINYOUNG - Without You (씨아이엑스 배진영 - 위드아웃유) | Show Champion | EP.447]]></title>
-            <link>https://tv.naver.com/v/28925928</link>
-            <guid>https://tv.naver.com/v/28925928</guid>
-            <pubDate>Wed, 31 Aug 2022 12:36:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_91/W0THP_1661932018334KRWQM_JPEG/CA202208310041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
