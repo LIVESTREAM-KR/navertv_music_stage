@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 02:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 04:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 25 Aug 2022 12:34:13 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] KEY - Gasoline(키 - 가솔린) Close-up Cam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29016520</link>
+            <guid>https://tv.naver.com/v/29016520</guid>
+            <pubDate>Mon, 05 Sep 2022 04:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_46/mrP0U_1662342780478p4SlL_JPEG/clip_20220905102359_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] CIX BX - 458(씨아이엑스 BX - 458) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -29,7 +37,7 @@
             <guid>https://tv.naver.com/v/28994803</guid>
             <pubDate>Sat, 03 Sep 2022 11:14:26 GMT</pubDate>
             <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_102/T40m6_1662200819869ftK5d_JPEG/clip_20220903182618_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_66/2o58N_1662344879571bG54T_JPEG/clip_20220905112211_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] Billlie SUHYEON - RING ma Bell(빌리 수현 - 링 마 벨) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -37,7 +45,7 @@
             <guid>https://tv.naver.com/v/28994739</guid>
             <pubDate>Sat, 03 Sep 2022 11:14:26 GMT</pubDate>
             <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_73/VL5tA_1662200579087YKFHs_JPEG/clip_20220903182614_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_197/Ic344_16623448831523pwzS_JPEG/clip_20220905112232_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] Billlie SHEON - RING ma Bell(빌리 션 - 링 마 벨) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -45,7 +53,7 @@
             <guid>https://tv.naver.com/v/28994670</guid>
             <pubDate>Sat, 03 Sep 2022 10:18:36 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_228/dAexv_16622002188484zd05_JPEG/clip_20220903182624_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_134/KVXFy_1662345119542heiIc_JPEG/clip_20220905112134_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] IVE LIZ - After LIKE(아이브 리즈 - 애프터 라이크) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -61,7 +69,7 @@
             <guid>https://tv.naver.com/v/28994547</guid>
             <pubDate>Sat, 03 Sep 2022 10:18:36 GMT</pubDate>
             <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_30/toOWn_1662199679027mNnVf_JPEG/clip_20220903182620_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_245/ET1mK_1662344878532VVMsj_JPEG/clip_20220905112158_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] IVE LEESEO - After LIKE(아이브 이서 - 애프터 라이크) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -77,7 +85,7 @@
             <guid>https://tv.naver.com/v/28994531</guid>
             <pubDate>Sat, 03 Sep 2022 10:18:36 GMT</pubDate>
             <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_162/pYsC0_16621996213513GPie_JPEG/clip_20220903182622_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_196/gJR5F_1662345120738ps7jo_JPEG/clip_20220905112147_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] Billlie MOONSUA - RING ma Bell(빌리 문수아 - 링 마 벨) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -85,7 +93,7 @@
             <guid>https://tv.naver.com/v/28994527</guid>
             <pubDate>Sat, 03 Sep 2022 10:18:36 GMT</pubDate>
             <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_81/dk61y_16621996199271M4dt_JPEG/clip_20220903182612_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_183/WKPQs_1662344885415bIJAv_JPEG/clip_20220905112244_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] CIX BAE JINYOUNG - 458(씨아이엑스 배진영 - 458) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -133,7 +141,7 @@
             <guid>https://tv.naver.com/v/28994408</guid>
             <pubDate>Sat, 03 Sep 2022 10:18:36 GMT</pubDate>
             <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_45/c2BJ2_1662199020551rip15_JPEG/clip_20220903182616_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_49/qvDPP_1662344882106a5w18_JPEG/clip_20220905112221_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] IVE REI - After LIKE(아이브 레이 - 애프터 라이크) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 03 Sep 2022 09:16:37 GMT</pubDate>
             <content:encoded><![CDATA[4:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220903_177/wlReD_1662194819838skX93_JPEG/clip_20220903170543_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] IVE LEESEO - After LIKE(아이브 이서 - 애프터 라이크) Close-up Cam | Show! MusicCore | MBC220827방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28876148</link>
-            <guid>https://tv.naver.com/v/28876148</guid>
-            <pubDate>Mon, 29 Aug 2022 08:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_195/lmqWN_1661761019277VrqQ1_JPEG/clip_20220829163450_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웅장하고 폭발적인 ‘키’의  One&Only 퍼포먼스! ‘가솔린’ (SBS 인기가요 ─ 네이버TV)]]></title>
