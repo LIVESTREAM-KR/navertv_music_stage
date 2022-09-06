@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 04:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 06:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,38 @@
             <pubDate>Thu, 25 Aug 2022 12:34:13 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] IVE GAEUL - After LIKE(아이브 가을 - 애프터 라이크) Close-up Cam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29046471</link>
+            <guid>https://tv.naver.com/v/29046471</guid>
+            <pubDate>Tue, 06 Sep 2022 06:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_133/WHz56_1662444118718lib7q_JPEG/clip_20220906140816_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] IVE JANG WONYOUNG - After LIKE(아이브 장원영 - 애프터 라이크) Close-up Cam | Show! MusicCore |MBC220903방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29045964</link>
+            <guid>https://tv.naver.com/v/29045964</guid>
+            <pubDate>Tue, 06 Sep 2022 06:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_135/1y7nV_16624432191187jzhs_JPEG/clip_20220906140822_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] IVE LIZ - After LIKE(아이브 리즈 - 애프터 라이크) Close-up Cam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29045810</link>
+            <guid>https://tv.naver.com/v/29045810</guid>
+            <pubDate>Tue, 06 Sep 2022 06:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_269/RMsrX_16624429182824n3NJ_JPEG/clip_20220906140818_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] IVE AN YUJIN - After LIKE(아이브 안유진 - 애프터 라이크) Close-up Cam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29045653</link>
+            <guid>https://tv.naver.com/v/29045653</guid>
+            <pubDate>Tue, 06 Sep 2022 06:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_19/fIwyz_1662442679825TCeJb_JPEG/clip_20220906140820_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최애직캠] KEY - Villain (Feat. 제노 of NCT)(키 – 빌런) Close-up Cam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -222,38 +254,6 @@
             <pubDate>Sat, 03 Sep 2022 10:18:36 GMT</pubDate>
             <content:encoded><![CDATA[4:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220903_186/NmMmR_1662199317904mB8mV_JPEG/clip_20220903181559_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Billlie TSUKI - RING ma Bell(빌리 츠키 - 링 마 벨) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28994408</link>
-            <guid>https://tv.naver.com/v/28994408</guid>
-            <pubDate>Sat, 03 Sep 2022 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_49/qvDPP_1662344882106a5w18_JPEG/clip_20220905112221_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE REI - After LIKE(아이브 레이 - 애프터 라이크) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28994356</link>
-            <guid>https://tv.naver.com/v/28994356</guid>
-            <pubDate>Sat, 03 Sep 2022 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_130/HDKJg_16621987807267IGzM_JPEG/clip_20220903182522_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KEY - Villain (Feat. 제노 of NCT)(키 – 빌런) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28994355</link>
-            <guid>https://tv.naver.com/v/28994355</guid>
-            <pubDate>Sat, 03 Sep 2022 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_77/BRIxB_1662198779222tllSS_JPEG/clip_20220903182510_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TWICE – TALK THAT TALK(트와이스 - 톡댓톡) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28994336</link>
-            <guid>https://tv.naver.com/v/28994336</guid>
-            <pubDate>Sat, 03 Sep 2022 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_113/fhdHi_1662198717128mHgj3_JPEG/clip_20220903181554_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웅장하고 폭발적인 ‘키’의  One&Only 퍼포먼스! ‘가솔린’ (SBS 인기가요 ─ 네이버TV)]]></title>
