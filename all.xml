@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 06:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 07:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 25 Aug 2022 12:34:13 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] Billlie TSUKI - RING ma Bell(빌리 츠키 - 링 마 벨) Close-up Cam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29047827</link>
+            <guid>https://tv.naver.com/v/29047827</guid>
+            <pubDate>Tue, 06 Sep 2022 07:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_244/RWyPv_1662446818731tMFAl_JPEG/clip_20220906152502_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최애직캠] IVE GAEUL - After LIKE(아이브 가을 - 애프터 라이크) Close-up Cam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 03 Sep 2022 10:18:36 GMT</pubDate>
             <content:encoded><![CDATA[3:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220903_250/7Lbmz_1662199319466YDPbi_JPEG/clip_20220903182502_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ATBO - Monochrome(Color)(에이티비오 – 모노크롬(컬러)) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28994471</link>
-            <guid>https://tv.naver.com/v/28994471</guid>
-            <pubDate>Sat, 03 Sep 2022 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_186/NmMmR_1662199317904mB8mV_JPEG/clip_20220903181559_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웅장하고 폭발적인 ‘키’의  One&Only 퍼포먼스! ‘가솔린’ (SBS 인기가요 ─ 네이버TV)]]></title>
