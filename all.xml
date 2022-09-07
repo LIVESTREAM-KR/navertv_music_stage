@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 10:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 11:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,38 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[IVE - After LIKE (아이브 - 애프터 라이크) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29080149</link>
+            <guid>https://tv.naver.com/v/29080149</guid>
+            <pubDate>Wed, 07 Sep 2022 11:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_270/JFQLy_1662548520114hzeCf_JPEG/CA202209070082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엔딩 원샷] '감히' 다이브의 마음을 훔칠 아이브의 엔딩 요정은? (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29080147</link>
+            <guid>https://tv.naver.com/v/29080147</guid>
+            <pubDate>Wed, 07 Sep 2022 11:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_195/nusmf_1662548518758lqafP_JPEG/CA202209070081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CIX - 458 (씨아이엑스 - 458) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29079360</link>
+            <guid>https://tv.naver.com/v/29079360</guid>
+            <pubDate>Wed, 07 Sep 2022 11:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_294/2tjUb_1662546180711ptzLg_JPEG/CA202209070080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] Rocket Punch - FLASH (로켓펀치 - 플래시) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29079358</link>
+            <guid>https://tv.naver.com/v/29079358</guid>
+            <pubDate>Wed, 07 Sep 2022 11:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_151/oDN1R_1662546178618F0A0r_JPEG/CA202209070079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BAE173 - DaSH (비에이이173 - 대시) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/29079111</link>
             <guid>https://tv.naver.com/v/29079111</guid>
@@ -1240,7 +1272,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220907_227/8o3SZ_16625452207897Elw6_JPEG/CA202209070077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[COMEBACK] Billlie - B’rave ~ a song for Matilda (빌리 - 브레이브 ~ 어 송 포 마틸다) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <title><![CDATA[[COMEBACK] Billlie - B'rave ~ a song for Matilda (빌리 - 브레이브 ~ 어 송 포 마틸다) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/29078930</link>
             <guid>https://tv.naver.com/v/29078930</guid>
             <pubDate>Wed, 07 Sep 2022 10:20:18 GMT</pubDate>
@@ -1422,38 +1454,6 @@
             <pubDate>Wed, 31 Aug 2022 10:19:44 GMT</pubDate>
             <content:encoded><![CDATA[3:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220831_183/5KfRT_1661940118055Vup72_JPEG/CA202208310077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MC석 인터뷰] 'After LIKE'로 신드롬을 일으킨 IVE가 쇼챔 MC석을 찾아왔어요♥ (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28929903</link>
-            <guid>https://tv.naver.com/v/28929903</guid>
-            <pubDate>Wed, 31 Aug 2022 10:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_207/G7psA_1661939580975QCAjD_JPEG/CA202208310076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAXY - Undercover (크랙시 - 언더커버) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28929879</link>
-            <guid>https://tv.naver.com/v/28929879</guid>
-            <pubDate>Wed, 31 Aug 2022 10:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_231/vcWPc_1661939519800AYB9s_JPEG/CA202208310075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLITZERS - Gradation (블리처스 - 그라데이션) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28929776</link>
-            <guid>https://tv.naver.com/v/28929776</guid>
-            <pubDate>Wed, 31 Aug 2022 10:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_157/SsSSc_1661939220037WwABt_JPEG/CA202208310074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CHAE EUN JUNG - WHI HUHUHU (채은정 - 위후후후) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28929773</link>
-            <guid>https://tv.naver.com/v/28929773</guid>
-            <pubDate>Wed, 31 Aug 2022 10:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_71/QdiPx_16619392181494i5QG_JPEG/CA202208310073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
