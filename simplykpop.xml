@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 07:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 08:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[《예고》씨아이엑스(CIX)와 함께한 이번주 심플리 콘투어 카자흐스탄 편💌~!! _536회]]></title>
+            <link>https://tv.naver.com/v/29100002</link>
+            <guid>https://tv.naver.com/v/29100002</guid>
+            <pubDate>Thu, 08 Sep 2022 08:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_152/2SeLD_16626229340890ljQf_PNG/1662622931760.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.535]]></title>
             <link>https://tv.naver.com/v/28971776</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 02 Sep 2022 06:01:54 GMT</pubDate>
             <content:encoded><![CDATA[3:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220902_63/Y8t0s_1662079857370UxKNh_JPEG/1662079853692.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] TEMPEST EUNCHAN 'Only One Day (하루만)' (템페스트 은찬 직캠) l Simply K-Pop CON-TOUR Ep.535]]></title>
-            <link>https://tv.naver.com/v/28966347</link>
-            <guid>https://tv.naver.com/v/28966347</guid>
-            <pubDate>Fri, 02 Sep 2022 06:01:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_50/xLYuX_16620798271775h0As_JPEG/1662079823739.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
