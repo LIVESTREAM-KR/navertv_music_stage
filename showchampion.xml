@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 10:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 11:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[9월 1주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.448]]></title>
+            <link>https://tv.naver.com/v/29082425</link>
+            <guid>https://tv.naver.com/v/29082425</guid>
+            <pubDate>Thu, 08 Sep 2022 11:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[5:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_277/yONRR_16625548395129WjLI_JPEG/CA202209070114.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] TEMPEST - Only One Day (템페스트 - 하루만) l Show Champion l EP.448]]></title>
             <link>https://tv.naver.com/v/29080447</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 07 Sep 2022 13:52:51 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220907_282/MGFnu_1662539879697YOiBb_JPEG/CA202209070060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Billlie SHEON - RING ma Bell (빌리 션 - 링 마 벨) | Show Champion | EP.448]]></title>
-            <link>https://tv.naver.com/v/29076866</link>
-            <guid>https://tv.naver.com/v/29076866</guid>
-            <pubDate>Wed, 07 Sep 2022 13:52:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_260/lJydM_166253981808153t6o_JPEG/CA202209070052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
