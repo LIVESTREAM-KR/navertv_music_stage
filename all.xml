@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 11:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 12:37:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -736,6 +736,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220321_117/SCS9P_1647835919630cjN2F_JPEG/3bc8d73d-e5b1-450f-851a-de4a953c031c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[러블리 비주얼 '로켓펀치'의 'FLASH' 무대 | Mnet 220908 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29105478</link>
+            <guid>https://tv.naver.com/v/29105478</guid>
+            <pubDate>Thu, 08 Sep 2022 12:35:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_256/FX4Tj_1662638822164XwMtb_JPEG/74388ca7-9485-425d-89fe-e3d83dbebe14_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘HOT DEBUT’ 독🍪보🍪적 ’뉴진스(NewJeans)'의 'Cookie' 무대 | Mnet 220804 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28373026</link>
             <guid>https://tv.naver.com/v/28373026</guid>
@@ -966,14 +974,6 @@
             <pubDate>Thu, 25 Aug 2022 12:34:40 GMT</pubDate>
             <content:encoded><![CDATA[3:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210729_122/AI1XX_1627558001530U6adU_JPEG/e095c602-7a53-4909-b47a-b98b10084a27_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['SUMMER SPECIAL STAGE' '위키미키'의 'PARTY (원곡 - 소녀시대)' 무대 | Mnet 210729 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21603956</link>
-            <guid>https://tv.naver.com/v/21603956</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210730_156/CrJPI_1627636773478g8o3A_JPEG/1627636771206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Hot Debut] 케이팝의 신! 장르는 '기팝', 기현 (몬스타엑스) 'VOYAGER' (SBS MTV 더쇼 ─ 네이버TV)]]></title>
