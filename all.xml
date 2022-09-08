@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 04:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1413,7 +1413,7 @@
             <guid>https://tv.naver.com/v/29077369</guid>
             <pubDate>Wed, 07 Sep 2022 13:52:51 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_64/oITu7_16625407198464ebex_JPEG/CA202209070058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_229/y6BqG_1662612418120HRFjP_JPEG/CA202209070058_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[원픽캠 4K] Billlie TSUKI - RING ma Bell (빌리 츠키 - 링 마 벨) | Show Champion | EP.448 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
