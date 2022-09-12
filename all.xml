@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 06:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 07:39:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 수요일 쇼챔피언 본방사수 내 몸이 기억해↗애↘애→ (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29147784</link>
+            <guid>https://tv.naver.com/v/29147784</guid>
+            <pubDate>Mon, 12 Sep 2022 07:39:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220912_64/TGeFt_1662967378344m1rma_JPEG/CA202209140003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[9월 1주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.448 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/29082425</link>
             <guid>https://tv.naver.com/v/29082425</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 07 Sep 2022 13:52:51 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220907_137/UY7Yf_1662540418678aoNOS_JPEG/CA202209070054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Rocket Punch YEONHEE - FLASH (로켓펀치 연희 - 플래시) | Show Champion | EP.448 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29076915</link>
-            <guid>https://tv.naver.com/v/29076915</guid>
-            <pubDate>Wed, 07 Sep 2022 13:52:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_282/MGFnu_1662539879697YOiBb_JPEG/CA202209070060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
