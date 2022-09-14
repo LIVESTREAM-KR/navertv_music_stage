@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 10:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 11:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,54 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[CIX - 458 (씨아이엑스 - 458) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29197646</link>
+            <guid>https://tv.naver.com/v/29197646</guid>
+            <pubDate>Wed, 14 Sep 2022 11:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_300/2QuWO_1663154218184k5Cvo_JPEG/CA202209140075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] ONEUS - Gravitation (원어스 - 천만분의 1의 확률의 너) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29197336</link>
+            <guid>https://tv.naver.com/v/29197336</guid>
+            <pubDate>Wed, 14 Sep 2022 11:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_300/Z0O8y_1663153318639f54Qo_JPEG/CA202209140072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] ONEUS - Same Scent (원어스 - 새임 센트) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29197109</link>
+            <guid>https://tv.naver.com/v/29197109</guid>
+            <pubDate>Wed, 14 Sep 2022 11:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_27/XoX7k_1663152778544DeFFk_JPEG/CA202209140073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엔딩원샷] 진영을 가장 잘 아는 CIX의 3대 엔딩요정은? (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29197081</link>
+            <guid>https://tv.naver.com/v/29197081</guid>
+            <pubDate>Wed, 14 Sep 2022 11:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_183/wGLs4_1663152716949VQ2Sn_JPEG/CA202209140074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rocket Punch - FLASH (로켓펀치 - 플래시) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29196937</link>
+            <guid>https://tv.naver.com/v/29196937</guid>
+            <pubDate>Wed, 14 Sep 2022 11:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_293/7RGNN_1663152422304JKK7c_JPEG/CA202209140071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TO1 - What A Beautiful Day (티오원 - 왓 어 뷰티풀 데이) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29196935</link>
+            <guid>https://tv.naver.com/v/29196935</guid>
+            <pubDate>Wed, 14 Sep 2022 11:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_64/zCSVY_1663152420125TJS6y_JPEG/CA202209140070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BAE173 - get him UGH (비에이이173 - 걸음마) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/29196041</link>
             <guid>https://tv.naver.com/v/29196041</guid>
@@ -1406,54 +1454,6 @@
             <pubDate>Wed, 07 Sep 2022 10:20:18 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220907_102/NMuMJ_1662544922523nIsvF_JPEG/CA202209070075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] TEMPEST - Can’t Stop Shining (템페스트 - 캔 스탑 샤이닝) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29078929</link>
-            <guid>https://tv.naver.com/v/29078929</guid>
-            <pubDate>Wed, 07 Sep 2022 10:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_264/onwBg_16625449207173OjUy_JPEG/CA202209070074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] TEMPEST - Only One Day (템페스트 - 하루만) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29078842</link>
-            <guid>https://tv.naver.com/v/29078842</guid>
-            <pubDate>Wed, 07 Sep 2022 10:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_157/8AOcI_1662544619459FC6Vr_JPEG/CA202209070073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SOLO HOT DEBUT] KIM CHAEWON - TOMORROW (김채원 - 투모로우) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29078768</link>
-            <guid>https://tv.naver.com/v/29078768</guid>
-            <pubDate>Wed, 07 Sep 2022 10:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_82/K1m6T_1662544317474doneU_JPEG/CA202209070070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MC석 인터뷰] 표정 장인 빌리가 보여주는 오늘의 무대 미리 보기★ (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29078691</link>
-            <guid>https://tv.naver.com/v/29078691</guid>
-            <pubDate>Wed, 07 Sep 2022 10:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_273/mRJW6_1662544032163LeaIW_JPEG/CA202209070072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLITZERS - Gradation (블리처스 - 그라데이션) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29078680</link>
-            <guid>https://tv.naver.com/v/29078680</guid>
-            <pubDate>Wed, 07 Sep 2022 10:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_72/dmvUB_1662544023274lu0Dd_JPEG/CA202209070069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SOLO HOT DEBUT] Im Yoon Seong - Midnight Driver (임윤성 - 미드나잇 드라이버) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29078679</link>
-            <guid>https://tv.naver.com/v/29078679</guid>
-            <pubDate>Wed, 07 Sep 2022 10:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_20/1eOEp_1662544020719pGJfA_JPEG/CA202209070068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
