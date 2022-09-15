@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 07:31:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[《예고》빌리(Billlie)와 함께한 이번주 심플리 콘투어 카자흐스탄 편💌~!! _537회]]></title>
+            <link>https://tv.naver.com/v/29217147</link>
+            <guid>https://tv.naver.com/v/29217147</guid>
+            <pubDate>Thu, 15 Sep 2022 07:31:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_86/YCOdm_1663224262143M8cbq_PNG/1663224258659.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[플리캠 4K 가로] CIX BAE JINYOUNG 'Drown in Luv (여름바다)' (씨아이엑스 배진영 직캠) l Simply K-Pop C]]></title>
             <link>https://tv.naver.com/v/29145795</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 12 Sep 2022 04:53:06 GMT</pubDate>
             <content:encoded><![CDATA[3:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220912_155/4bZQN_1662957416542DEH3d_JPEG/1662957413318.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] Billlie HARUNA 'B’rave ~ a song for Matilda' (빌리 하루나 직캠) l Simply K-Pop CON TOUR Ep.536]]></title>
-            <link>https://tv.naver.com/v/29145620</link>
-            <guid>https://tv.naver.com/v/29145620</guid>
-            <pubDate>Mon, 12 Sep 2022 04:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220912_12/1uoFt_1662957346562toYio_JPEG/1662957344508.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
