@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 02:04:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 04:51:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,78 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[PRITTI-G (프리티지) - LOVE TAKER (러브 테이커) _ Ep.537 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29235800</link>
+            <guid>https://tv.naver.com/v/29235800</guid>
+            <pubDate>Fri, 16 Sep 2022 04:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_113/F4Fch_16633013223251injE_PNG/1663301257462.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[We;Na (위나) - Like Psycho (싸이코라도 좋아) _ Ep.537 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29235799</link>
+            <guid>https://tv.naver.com/v/29235799</guid>
+            <pubDate>Fri, 16 Sep 2022 04:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_93/vsLdL_1663301323412xvPUM_PNG/1663301263455.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LUMINOUS (루미너스) - Creature (크리쳐) _ Ep.537 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29235798</link>
+            <guid>https://tv.naver.com/v/29235798</guid>
+            <pubDate>Fri, 16 Sep 2022 04:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_105/0C4c0_1663301325435FbGrR_PNG/1663301269603.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[BLANK2Y (블랭키) - FUEGO(Fearless) (푸에고) _ Ep.537 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29235797</link>
+            <guid>https://tv.naver.com/v/29235797</guid>
+            <pubDate>Fri, 16 Sep 2022 04:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_59/MbFP0_1663301326791wTXt9_PNG/1663301274655.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[TEMPEST (템페스트) - Can’t Stop Shining (캔트 스탑 샤이닝) _ Ep.537 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29235794</link>
+            <guid>https://tv.naver.com/v/29235794</guid>
+            <pubDate>Fri, 16 Sep 2022 04:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_269/I7YRL_1663301328245TfVj4_PNG/1663301280812.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAXY (크랙시) - REQUIEM (레퀴엠) _ Ep.537 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29235792</link>
+            <guid>https://tv.naver.com/v/29235792</guid>
+            <pubDate>Fri, 16 Sep 2022 04:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_59/XhyAH_16633013295401nwNa_PNG/1663301287490.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[DKB (다크비) - 24/7 (넌 매일) _ Ep.537 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29235791</link>
+            <guid>https://tv.naver.com/v/29235791</guid>
+            <pubDate>Fri, 16 Sep 2022 04:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_232/US4p2_16633013313216QgWl_PNG/1663301293939.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[TRI.BE (트라이비) - KISS (키스) _ Ep.537 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29235790</link>
+            <guid>https://tv.naver.com/v/29235790</guid>
+            <pubDate>Fri, 16 Sep 2022 04:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_125/EaLc1_1663301332764Gi9IH_PNG/1663301308138.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Billlie (빌리) - RING ma Bell (what a wonderful world) _ Ep.537 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29235789</link>
+            <guid>https://tv.naver.com/v/29235789</guid>
+            <pubDate>Fri, 16 Sep 2022 04:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_140/p7H59_1663301336365dRBuj_PNG/1663301317197.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[《예고》빌리(Billlie)와 함께한 이번주 심플리 콘투어 카자흐스탄 편💌~!! _537회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/29217147</link>
             <guid>https://tv.naver.com/v/29217147</guid>
@@ -1838,78 +1910,6 @@
             <pubDate>Mon, 12 Sep 2022 04:53:06 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220912_201/rlBAF_1662957858965z7m0i_JPEG/1662957856171.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K 가로] CIX HYUNSUK '458' (씨아이엑스 현석 직캠) l Simply K-Pop CON-TOUR Ep.536 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29145732</link>
-            <guid>https://tv.naver.com/v/29145732</guid>
-            <pubDate>Mon, 12 Sep 2022 04:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220912_161/9G5du_1662957814689vXfql_JPEG/1662957812613.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K 가로] CIX SEUNGHUN 'Drown in Luv (여름바다)' (씨아이엑스 승훈 직캠) l Simply K-Pop CON-TOUR (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29145721</link>
-            <guid>https://tv.naver.com/v/29145721</guid>
-            <pubDate>Mon, 12 Sep 2022 04:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220912_49/2B83Z_1662957768052Qhcqo_JPEG/1662957765450.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] CIX SEUNGHUN '458' (씨아이엑스 승훈 직캠) l Simply K-Pop CON-TOUR Ep.536 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29145706</link>
-            <guid>https://tv.naver.com/v/29145706</guid>
-            <pubDate>Mon, 12 Sep 2022 04:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220912_261/edqIs_1662957725613s95Lf_JPEG/1662957719954.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K 가로] CIX YONGHEE 'Drown in Luv (여름바다)' (씨아이엑스 용희 직캠) l Simply K-Pop CON-TOUR (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29145700</link>
-            <guid>https://tv.naver.com/v/29145700</guid>
-            <pubDate>Mon, 12 Sep 2022 04:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220912_290/TaLe8_1662957673187dCwHc_JPEG/1662957671273.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K 가로] CIX YONGHEE '458' (씨아이엑스 용희 직캠) l Simply K-Pop CON-TOUR Ep.536 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29145692</link>
-            <guid>https://tv.naver.com/v/29145692</guid>
-            <pubDate>Mon, 12 Sep 2022 04:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220912_203/nuZ4G_1662957620732ooxkx_JPEG/1662957618918.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] Billlie TSUKI 'B'rave ~ a song for Matilda' (빌리 츠키 직캠) l Simply K-Pop CON TOUR Ep.536 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29145680</link>
-            <guid>https://tv.naver.com/v/29145680</guid>
-            <pubDate>Mon, 12 Sep 2022 04:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220912_212/ktAwN_1662957560312Ukx49_JPEG/1662957557576.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K 가로] Billlie TSUKI 'RING ma Bell' (빌리 츠키 직캠) l Simply K-Pop CON TOUR Ep.536 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29145665</link>
-            <guid>https://tv.naver.com/v/29145665</guid>
-            <pubDate>Mon, 12 Sep 2022 04:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220912_249/ESwIk_1662957506783VA4EM_JPEG/1662957502636.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K 가로] Billlie HARAM 'B'rave ~ a song for Matilda' (빌리 하람 직캠) l Simply K-Pop CON TOUR Ep.536 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29145653</link>
-            <guid>https://tv.naver.com/v/29145653</guid>
-            <pubDate>Mon, 12 Sep 2022 04:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220912_132/VAXft_1662957465725XI7db_JPEG/1662957462489.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] Billlie HARAM 'RING ma Bell' (빌리 하람 직캠) l Simply K-Pop CON TOUR Ep.536 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29145640</link>
-            <guid>https://tv.naver.com/v/29145640</guid>
-            <pubDate>Mon, 12 Sep 2022 04:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220912_155/4bZQN_1662957416542DEH3d_JPEG/1662957413318.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크랙실버_Time to Rise (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
