@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 08:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 09:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 25 Aug 2022 12:34:13 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KIM JAEHWAN - BACK THEN(김재환 – 그 시절 우리는) FanCam (Horizontal Ver.)|Show! MusicCore|MBC220917방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29265620</link>
+            <guid>https://tv.naver.com/v/29265620</guid>
+            <pubDate>Sat, 17 Sep 2022 09:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220917_176/kRkxg_1663406219846EzdHq_JPEG/clip_20220917174510_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CHOI YOUJEONG - Sunflower(최유정 – 선플라워) FanCam (Horizontal Ver.)|Show! MusicCore|MBC220917방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29265469</link>
+            <guid>https://tv.naver.com/v/29265469</guid>
+            <pubDate>Sat, 17 Sep 2022 09:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220917_183/hQOU0_1663405678293lf3Rn_JPEG/clip_20220917174525_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ONEUS KEON HEE - Same Scent(원어스 건희 - 세임 센트) FanCam | Show! MusicCore | MBC220917방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29265451</link>
+            <guid>https://tv.naver.com/v/29265451</guid>
+            <pubDate>Sat, 17 Sep 2022 09:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220917_210/Asi2p_1663405620518T5grv_JPEG/clip_20220917174550_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최애직캠] Billlie TSUKI - RING ma Bell(빌리 츠키 - 링 마 벨) Close-up Cam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Sat, 03 Sep 2022 11:14:26 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220903_116/BalfD_1662199323729RRv3m_JPEG/clip_20220903182638_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE AN YUJIN - After LIKE(아이브 안유진 - 애프터 라이크) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28994476</link>
-            <guid>https://tv.naver.com/v/28994476</guid>
-            <pubDate>Sat, 03 Sep 2022 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_9/LPqZu_1662199322439N7wr5_JPEG/clip_20220903182518_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Villain (Feat. 제노 of NCT)(키 – 빌런) FanCam | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28994475</link>
-            <guid>https://tv.naver.com/v/28994475</guid>
-            <pubDate>Sat, 03 Sep 2022 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_22/EmdgE_1662199321229JQKXz_JPEG/clip_20220903182513_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] LEE JINHYUK - Crack(이진혁 – 크랙) FanCam (Horizontal Ver.) | Show! MusicCore | MBC220903방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28994473</link>
-            <guid>https://tv.naver.com/v/28994473</guid>
-            <pubDate>Sat, 03 Sep 2022 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_250/7Lbmz_1662199319466YDPbi_JPEG/clip_20220903182502_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웅장하고 폭발적인 ‘키’의  One&Only 퍼포먼스! ‘가솔린’ (SBS 인기가요 ─ 네이버TV)]]></title>
