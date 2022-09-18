@@ -4,9 +4,105 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 07:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 08:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘강타’, 화려한 야경 아래 감각적인 멜로디! ‘Eyes On You’]]></title>
+            <link>https://tv.naver.com/v/29278206</link>
+            <guid>https://tv.naver.com/v/29278206</guid>
+            <pubDate>Sun, 18 Sep 2022 08:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220918_30/pgsQ3_1663488719652D8JTT_JPEG/720d5372-783c-44fc-bb1e-d95096a26028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘아이브’, 사랑 앞에 솔직하고 당찬 소녀들! ‘After LIKE’]]></title>
+            <link>https://tv.naver.com/v/29278146</link>
+            <guid>https://tv.naver.com/v/29278146</guid>
+            <pubDate>Sun, 18 Sep 2022 08:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220918_77/cyve5_1663488479138vsvgK_JPEG/cbf738a7-4ebd-4479-952b-8d0f7315b60d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘최유정’, 사랑할 수밖에 없는 매력♡ ‘Sunflower’]]></title>
+            <link>https://tv.naver.com/v/29278126</link>
+            <guid>https://tv.naver.com/v/29278126</guid>
+            <pubDate>Sun, 18 Sep 2022 08:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220918_185/NSXM8_1663488419394B0GxI_JPEG/1bc80ffa-f9ff-4ac6-979f-5805d6b67d74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘이진혁’, 한순간 사랑에 빠진 강렬한 눈 맞춤! ‘Crack’]]></title>
+            <link>https://tv.naver.com/v/29278073</link>
+            <guid>https://tv.naver.com/v/29278073</guid>
+            <pubDate>Sun, 18 Sep 2022 08:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220918_106/LDGiv_1663488120244sDTAx_JPEG/4fd072f9-3f72-48bb-b34c-b066c8fe41a9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘김재환’, 아름다운 기억에 짙어지는 그리움! ‘그 시절 우리는’]]></title>
+            <link>https://tv.naver.com/v/29278005</link>
+            <guid>https://tv.naver.com/v/29278005</guid>
+            <pubDate>Sun, 18 Sep 2022 08:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220918_264/VX5Zb_1663487820714S7HU0_JPEG/62d3efd7-2090-453d-8469-0597d052ff33.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘로켓펀치’, 당당하고 자신감 넘치는 팔색조 매력! ‘FLASH’]]></title>
+            <link>https://tv.naver.com/v/29277939</link>
+            <guid>https://tv.naver.com/v/29277939</guid>
+            <pubDate>Sun, 18 Sep 2022 08:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220918_86/82B6p_1663487517745laxtm_JPEG/7ff848eb-5217-404a-accc-54d412e20f13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[섹시 비주얼로 컴백한 ‘원어스’의 무대! ‘Same Scent’]]></title>
+            <link>https://tv.naver.com/v/29277849</link>
+            <guid>https://tv.naver.com/v/29277849</guid>
+            <pubDate>Sun, 18 Sep 2022 08:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220918_293/WMSF8_1663487218349TxKfz_JPEG/5b8411a3-0133-4a7b-b028-da3c5f4b022a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘크랙시’의 웅장X다크 퍼포먼스! ‘REQUIEM’]]></title>
+            <link>https://tv.naver.com/v/29277763</link>
+            <guid>https://tv.naver.com/v/29277763</guid>
+            <pubDate>Sun, 18 Sep 2022 08:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220918_183/WF1h5_1663486918200rFfcu_JPEG/7ab5c085-8728-44ab-bfaf-a79709f2784c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감각적인 비트 위 ‘씨아이엑스’만의 5인 5색 퍼포먼스! ‘458’]]></title>
+            <link>https://tv.naver.com/v/29277655</link>
+            <guid>https://tv.naver.com/v/29277655</guid>
+            <pubDate>Sun, 18 Sep 2022 08:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220918_18/7g1lT_1663486617754MleuD_JPEG/7af9cfd0-802c-49fc-9534-7a02543bc9bf.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘미미로즈’, 임창정 제작 걸그룹 전격 데뷔! ‘Rose’]]></title>
+            <link>https://tv.naver.com/v/29277564</link>
+            <guid>https://tv.naver.com/v/29277564</guid>
+            <pubDate>Sun, 18 Sep 2022 08:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[4:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220918_210/w9ZQx_1663486319753a0Trk_JPEG/ad1945c5-19d3-4045-960a-d5a78293d954.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전 세계 주목 받으며 청량아치로 돌아온 ‘트라이비’의 ‘KISS’]]></title>
+            <link>https://tv.naver.com/v/29277563</link>
+            <guid>https://tv.naver.com/v/29277563</guid>
+            <pubDate>Sun, 18 Sep 2022 08:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220918_75/CiYYf_16634863181089SuBJ_JPEG/d185e331-8fbc-45a7-8517-70642ab2ea8a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘티오원’과 함께하는 시끌벅적 즐거운 파티! ‘What A Beautiful Day’]]></title>
+            <link>https://tv.naver.com/v/29277476</link>
+            <guid>https://tv.naver.com/v/29277476</guid>
+            <pubDate>Sun, 18 Sep 2022 08:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220918_219/HbuKv_1663486021282RCw8r_JPEG/7001d245-6ab1-447b-a619-8cfa1eb076f6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘빌리’가 선보이는 원더풀 월드! ‘RING ma Bell’]]></title>
             <link>https://tv.naver.com/v/29277304</link>
@@ -150,102 +246,6 @@
             <pubDate>Sun, 04 Sep 2022 07:16:13 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220904_245/Wm8DM_1662275580114oWDe4_JPEG/ecade025-bf39-4e94-ae0f-542f81376926.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양한 색깔로 채워지는 ‘에이티비오’만의 성장 서사 ‘Monochrome’]]></title>
-            <link>https://tv.naver.com/v/29005281</link>
-            <guid>https://tv.naver.com/v/29005281</guid>
-            <pubDate>Sun, 04 Sep 2022 07:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_82/4Cg7S_1662275517611QDObo_JPEG/1310b818-1970-4f4b-9324-664d93c77a8f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘트라이비’, 한층 더 매워진 퍼포먼스×대체불가한 매력 ‘KISS’]]></title>
-            <link>https://tv.naver.com/v/29005129</link>
-            <guid>https://tv.naver.com/v/29005129</guid>
-            <pubDate>Sun, 04 Sep 2022 07:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_88/wuPaP_1662274919406xgAOo_JPEG/b44964af-37af-4616-9ec3-a877b0870e99.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독보적 카리스마 ‘블랙핑크’의 핑크빛 파워! ‘Pink Venom’]]></title>
-            <link>https://tv.naver.com/v/28854879</link>
-            <guid>https://tv.naver.com/v/28854879</guid>
-            <pubDate>Sun, 28 Aug 2022 08:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220828_159/mrHTI_1661674080975tYzJG_JPEG/8fc21c58-5fec-4506-b4b1-4701dedf2ef2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘트와이스’, 사랑을 향해 꾸밈없이 직진♡ ‘Talk that Talk’]]></title>
-            <link>https://tv.naver.com/v/28854803</link>
-            <guid>https://tv.naver.com/v/28854803</guid>
-            <pubDate>Sun, 28 Aug 2022 08:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220828_151/mT6OC_16616737185030ft8g_JPEG/fcf797ba-18c1-4a0e-9960-a1450fd90786.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘레오’의 헌신적 몽환 세레나데! ‘Losing Game’]]></title>
-            <link>https://tv.naver.com/v/28854752</link>
-            <guid>https://tv.naver.com/v/28854752</guid>
-            <pubDate>Sun, 28 Aug 2022 08:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220828_12/vi83p_1661673420863PyFPk_JPEG/fc94c133-c23d-4e8d-86c1-85b4e9ec7498.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘더보이즈’, 도파민 폭발시키는 오감 자극 에너제틱! ‘WHISPER’]]></title>
-            <link>https://tv.naver.com/v/28854703</link>
-            <guid>https://tv.naver.com/v/28854703</guid>
-            <pubDate>Sun, 28 Aug 2022 08:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220828_132/7ojpR_1661673179098DvCwu_JPEG/4ee33bf1-caec-438f-b834-126b59806346.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다채로운 감성 보이스 ‘박보람’의 ‘가만히 널 바라보면’]]></title>
-            <link>https://tv.naver.com/v/28854690</link>
-            <guid>https://tv.naver.com/v/28854690</guid>
-            <pubDate>Sun, 28 Aug 2022 08:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220828_13/JzsHQ_1661673121013Dzi1m_JPEG/3d2f9363-9770-4ebe-a9c3-b1a6ee506455.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘아이브’, 6인 6색 다채롭고 화려한 매력♡ ‘After LIKE’]]></title>
-            <link>https://tv.naver.com/v/28854610</link>
-            <guid>https://tv.naver.com/v/28854610</guid>
-            <pubDate>Sun, 28 Aug 2022 08:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[4:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220828_236/UM9kH_1661672825931DL4jc_JPEG/38775a2d-e35f-40b2-b3f2-37d53f492e21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘씨아이엑스’, 레이싱 콘셉트로 1년 만의 컴백! ‘458’]]></title>
-            <link>https://tv.naver.com/v/28854609</link>
-            <guid>https://tv.naver.com/v/28854609</guid>
-            <pubDate>Sun, 28 Aug 2022 08:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220828_17/hLvJs_16616728240064isKs_JPEG/91fad38d-5a2a-4714-a1b5-ae11e1e7c52e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청춘을 향한 ‘비에이이173’의 메시지! ‘DaSH’]]></title>
-            <link>https://tv.naver.com/v/28854605</link>
-            <guid>https://tv.naver.com/v/28854605</guid>
-            <pubDate>Sun, 28 Aug 2022 08:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220828_135/KtJTY_1661672819407l4f3u_JPEG/a27453ed-e694-4227-bff4-60cab04e6880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘크랙시’만의 파워풀한 댄스 퍼포먼스! ‘Undercover’]]></title>
-            <link>https://tv.naver.com/v/28854441</link>
-            <guid>https://tv.naver.com/v/28854441</guid>
-            <pubDate>Sun, 28 Aug 2022 08:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220828_43/4GEIj_16616722203442zSG9_JPEG/0e1d6c4a-7a99-46b8-b098-426e23d522ae.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘트라이비’, 따라 부르는 순간 펼쳐지는 마법의 주문! ‘KISS’]]></title>
-            <link>https://tv.naver.com/v/28854439</link>
-            <guid>https://tv.naver.com/v/28854439</guid>
-            <pubDate>Sun, 28 Aug 2022 08:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220828_55/hEkyA_1661672218027343FW_JPEG/21b8c6ba-6653-4d26-b38e-baeafd363317.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
