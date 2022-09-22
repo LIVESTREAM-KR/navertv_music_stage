@@ -1,8 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/kpop</id>
-    <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
-    <updated>2022-09-22T17:31:20.819Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 22 Sep 2022 18:23:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[《예고》로켓펀치(Rocket Punch)와 함께한 이번주 심플리 콘투어 아르헨티나 편💌~!! _538회]]></title>
+            <link>https://tv.naver.com/v/29380918</link>
+            <guid>https://tv.naver.com/v/29380918</guid>
+            <pubDate>Thu, 22 Sep 2022 18:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_217/tNl60_1663836514224FhgRN_PNG/1663836510530.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.537]]></title>
+            <link>https://tv.naver.com/v/29241185</link>
+            <guid>https://tv.naver.com/v/29241185</guid>
+            <pubDate>Thu, 22 Sep 2022 18:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[54:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_9/jXuru_1663304217186OiDlt_PNG/1663304213030.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PRITTI-G (프리티지) - LOVE TAKER (러브 테이커) _ Ep.537 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29235800</link>
+            <guid>https://tv.naver.com/v/29235800</guid>
+            <pubDate>Thu, 22 Sep 2022 18:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_113/F4Fch_16633013223251injE_PNG/1663301257462.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[We;Na (위나) - Like Psycho (싸이코라도 좋아) _ Ep.537 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29235799</link>
+            <guid>https://tv.naver.com/v/29235799</guid>
+            <pubDate>Thu, 22 Sep 2022 18:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_93/vsLdL_1663301323412xvPUM_PNG/1663301263455.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LUMINOUS (루미너스) - Creature (크리쳐) _ Ep.537 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29235798</link>
+            <guid>https://tv.naver.com/v/29235798</guid>
+            <pubDate>Thu, 22 Sep 2022 18:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_105/0C4c0_1663301325435FbGrR_PNG/1663301269603.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[BLANK2Y (블랭키) - FUEGO(Fearless) (푸에고) _ Ep.537 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29235797</link>
+            <guid>https://tv.naver.com/v/29235797</guid>
+            <pubDate>Thu, 22 Sep 2022 18:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_59/MbFP0_1663301326791wTXt9_PNG/1663301274655.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[TEMPEST (템페스트) - Can’t Stop Shining (캔트 스탑 샤이닝) _ Ep.537 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29235794</link>
+            <guid>https://tv.naver.com/v/29235794</guid>
+            <pubDate>Thu, 22 Sep 2022 18:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_269/I7YRL_1663301328245TfVj4_PNG/1663301280812.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAXY (크랙시) - REQUIEM (레퀴엠) _ Ep.537 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29235792</link>
+            <guid>https://tv.naver.com/v/29235792</guid>
+            <pubDate>Thu, 22 Sep 2022 18:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_59/XhyAH_16633013295401nwNa_PNG/1663301287490.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[DKB (다크비) - 24/7 (넌 매일) _ Ep.537 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29235791</link>
+            <guid>https://tv.naver.com/v/29235791</guid>
+            <pubDate>Thu, 22 Sep 2022 18:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_232/US4p2_16633013313216QgWl_PNG/1663301293939.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[TRI.BE (트라이비) - KISS (키스) _ Ep.537 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29235790</link>
+            <guid>https://tv.naver.com/v/29235790</guid>
+            <pubDate>Thu, 22 Sep 2022 18:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_125/EaLc1_1663301332764Gi9IH_PNG/1663301308138.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Billlie (빌리) - RING ma Bell (what a wonderful world) _ Ep.537 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29235789</link>
+            <guid>https://tv.naver.com/v/29235789</guid>
+            <pubDate>Thu, 22 Sep 2022 18:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_140/p7H59_1663301336365dRBuj_PNG/1663301317197.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Rocket Punch (로켓펀치) - FLASH (플래시) _ Ep.537 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29235787</link>
+            <guid>https://tv.naver.com/v/29235787</guid>
+            <pubDate>Thu, 22 Sep 2022 18:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_243/HlmtC_1663303029076YrFsI_PNG/1663303005064.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PoppinHyunjoon(Feat.YDG) (팝핀현준(Feat.YDG)) - Let's Poppin (렛츠 팝핀) _ Ep.537 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29235785</link>
+            <guid>https://tv.naver.com/v/29235785</guid>
+            <pubDate>Thu, 22 Sep 2022 18:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_247/jB8hv_1663303026660wEPtO_PNG/1663303012531.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[CIX (씨아이엑스) - 458 _ Ep.537 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29235784</link>
+            <guid>https://tv.naver.com/v/29235784</guid>
+            <pubDate>Thu, 22 Sep 2022 18:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_38/kBkQw_1663303024460WuVIb_PNG/1663303020169.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[《예고》빌리(Billlie)와 함께한 이번주 심플리 콘투어 카자흐스탄 편💌~!! _537회]]></title>
+            <link>https://tv.naver.com/v/29217147</link>
+            <guid>https://tv.naver.com/v/29217147</guid>
+            <pubDate>Thu, 22 Sep 2022 18:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_86/YCOdm_1663224262143M8cbq_PNG/1663224258659.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
