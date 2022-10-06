@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/mcountdown/clips</id>
-    <title>Mnet 엠카운트다운 ─ 네이버TV</title>
-    <updated>2022-10-06T14:35:19.067Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/mcountdown/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Mnet 엠카운트다운 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 06 Oct 2022 15:24:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러블리 비주얼 '로켓펀치'의 'FLASH' 무대 | Mnet 220908 방송]]></title>
+            <link>https://tv.naver.com/v/29105478</link>
+            <guid>https://tv.naver.com/v/29105478</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_256/FX4Tj_1662638822164XwMtb_JPEG/74388ca7-9485-425d-89fe-e3d83dbebe14_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘HOT DEBUT’ 독🍪보🍪적 ’뉴진스(NewJeans)'의 'Cookie' 무대 | Mnet 220804 방송]]></title>
+            <link>https://tv.naver.com/v/28373026</link>
+            <guid>https://tv.naver.com/v/28373026</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_225/LnLBv_1659608824424cL8xO_JPEG/65c7adbe-17d2-4ed2-8aa5-7bc10b286e34_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['COMEBACK' Z세대 대표 밴드 'Xdinary Heroes'의 'Test Me' 무대 | Mnet 220721 방송]]></title>
+            <link>https://tv.naver.com/v/28087990</link>
+            <guid>https://tv.naver.com/v/28087990</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_263/NfDg1_1658406122143OBlT9_JPEG/7a27ce81-1210-48f4-8365-ed59492f51a4_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['COMEBACK' 퍼포먼스 퀸 ‘효연(HYO)'의 'DEEP' 무대 | Mnet 220526 방송]]></title>
+            <link>https://tv.naver.com/v/27001645</link>
+            <guid>https://tv.naver.com/v/27001645</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_9/79T1G_1653563226019VL16O_JPEG/139fe24e-601a-4141-b817-75df3fbc0e76_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['1위' 🍬청아아청🍬 ‘아스트로(ASTRO)'의 'Candy Sugar Pop' 무대 | Mnet 220526 방송]]></title>
+            <link>https://tv.naver.com/v/27001559</link>
+            <guid>https://tv.naver.com/v/27001559</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_130/qkxuK_1653562926171mWnQw_JPEG/ae40c232-36f7-4ec7-a302-8b32a5473c73_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['COMEBACK' 압도적 퍼포먼스 ‘원어스(ONEUS)'의 '덤벼 (Bring it on) 무대 | Mnet 220526 방송]]></title>
+            <link>https://tv.naver.com/v/27000730</link>
+            <guid>https://tv.naver.com/v/27000730</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_184/pTvlv_16535605224581LaoT_JPEG/4c49d176-3a06-417b-bab3-9abaa40b3dff_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💪핌둥이들💪 ‘르세라핌'의 'FEARLESS' 무대 | Mnet 220526 방송]]></title>
+            <link>https://tv.naver.com/v/27004624</link>
+            <guid>https://tv.naver.com/v/27004624</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_7/Xcgqi_1653570128353N3mag_JPEG/becb53a7-1126-4120-b4be-fca0ed102015_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['최초 공개' 틴스피릿 ‘LIGHTSUM'의 'ALIVE' 무대 | Mnet 220526 방송]]></title>
+            <link>https://tv.naver.com/v/27000507</link>
+            <guid>https://tv.naver.com/v/27000507</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_83/68NCT_1653559632652WnQ5f_JPEG/4b3de568-93a2-431f-9667-de732ca50423_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['HOT DEBUT' 흥신흥왕 ‘TNX'의 '180초' 무대 | Mnet 220526 방송]]></title>
+            <link>https://tv.naver.com/v/27000494</link>
+            <guid>https://tv.naver.com/v/27000494</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_16/Gtkjm_1653559620848joozI_JPEG/555c3c94-5c49-460c-8d92-b8c1be1c0e58_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[업그레이드 성숙美 ‘싸이퍼(Ciipher)'의 'Fame' 무대 | Mnet 220526 방송]]></title>
+            <link>https://tv.naver.com/v/27004621</link>
+            <guid>https://tv.naver.com/v/27004621</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_196/BoAdv_1653570125333NVRRC_JPEG/7fe576c9-3cc5-4136-ae0e-84861d47f148_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[압도적 카리스마! ‘E’LAST(엘라스트)'의 'Creature' 무대 | Mnet 220512 방송]]></title>
+            <link>https://tv.naver.com/v/26743023</link>
+            <guid>https://tv.naver.com/v/26743023</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_281/SH6qG_1652359035948xj7w6_JPEG/f98f8b44-79f8-4b63-8648-14e2ed9345d4_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['최초 공개' 고품격 퍼포먼스 '몬스타엑스'의 'LOVE' 무대 | Mnet 220505 방송]]></title>
+            <link>https://tv.naver.com/v/26619562</link>
+            <guid>https://tv.naver.com/v/26619562</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[4:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220505_289/2LKkO_1651748832215DXBwY_JPEG/f52ceed3-fb10-480b-a39d-419ee59f2951_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달콤 살벌 '문별'의 'C.I.T.T (Cheese in the Trap)' 무대 | Mnet 220505 방송]]></title>
+            <link>https://tv.naver.com/v/26619561</link>
+            <guid>https://tv.naver.com/v/26619561</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220505_162/jL1PE_1651748829937SaBpD_JPEG/1bfad582-322b-4b29-a332-40f0f89224f6_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['최초 공개' 레트로 판타지 'iKON'의 '너라는 이유 (BUT YOU)' 무대 | Mnet 220505 방송]]></title>
+            <link>https://tv.naver.com/v/26619555</link>
+            <guid>https://tv.naver.com/v/26619555</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220505_45/Onfpq_1651748825878uev78_JPEG/438ce5ff-e363-4ccc-9470-524fdf83b79b_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['최초 공개' 'iKON'의 애절한 감성! '그대 이름' 무대 | Mnet 220505 방송]]></title>
+            <link>https://tv.naver.com/v/26622199</link>
+            <guid>https://tv.naver.com/v/26622199</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[4:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220505_180/peqQT_1651756921621bLNyt_JPEG/4a34e0ba-f6a3-42a0-9a2e-a8ee0329d1b6_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[치명X성숙 '베리베리'의 'Undercover' 무대 | Mnet 220505 방송]]></title>
+            <link>https://tv.naver.com/v/26619459</link>
+            <guid>https://tv.naver.com/v/26619459</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220505_249/GT1aL_1651748523160rNIcS_JPEG/f11e04bd-fa20-4948-a2c2-b8e649a47c50_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['컴백 인터뷰' wit iKON(아이콘) | Mnet 220505 방송]]></title>
+            <link>https://tv.naver.com/v/26619457</link>
+            <guid>https://tv.naver.com/v/26619457</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220505_131/2vHFs_1651748520990UF6Yo_JPEG/fd0af799-b651-4128-ba5a-3fc833c4ef8c_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💘🐯🐰🐹🐱🐻🦊💘 'DKZ'의 '사랑도둑 (Cupid)' 무대 | Mnet 220428 방송]]></title>
+            <link>https://tv.naver.com/v/26503413</link>
+            <guid>https://tv.naver.com/v/26503413</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_148/AkNl5_1651150029780SO2Nb_JPEG/e8bbe2cd-607c-4615-bb25-b173d9ec48b1_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['1위' 한계 없는 성장 '(여자)아이들'의 'TOMBOY' 무대 | Mnet 220331 방송]]></title>
+            <link>https://tv.naver.com/v/25963598</link>
+            <guid>https://tv.naver.com/v/25963598</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_267/k1Z9b_16487248346893seB4_JPEG/856b9d69-3ff0-468f-a60c-ddd04728c3d3_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘최초 공개’ 첫사랑돌 ‘위아이(WEi)’의 ‘Too Bad’ 무대 | Mnet 220317 방송]]></title>
+            <link>https://tv.naver.com/v/25710080</link>
+            <guid>https://tv.naver.com/v/25710080</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_238/6Az7p_16475206253785lr7W_JPEG/281e7d1a-7988-406f-bd5e-a934a85afcff_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['HOT DEBUT' 설렘 주의 'CLASS:y'의 'SURPRISE' 무대 | Mnet 220303 방송]]></title>
+            <link>https://tv.naver.com/v/25452434</link>
+            <guid>https://tv.naver.com/v/25452434</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_163/2c10W_1646303866128WUPiu_JPEG/c95bf101-b6a0-433c-af4c-86de3afde37f_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['1위' 팔색조 매력 '휘인'의 '오묘해' 무대 | Mnet 220127 방송]]></title>
+            <link>https://tv.naver.com/v/24834275</link>
+            <guid>https://tv.naver.com/v/24834275</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_165/jJynr_1643279810980fU96g_JPEG/f1f12259-216c-4202-b6ad-7f4e9d36833d_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['1위' 꿈이 현실로! '케플러(Kep1er)'의 'WA DA DA' 무대 | Mnet 220113 방송]]></title>
+            <link>https://tv.naver.com/v/24588234</link>
+            <guid>https://tv.naver.com/v/24588234</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[5:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_272/Rtx9h_1642070209031K3isP_JPEG/1c670e8b-506f-4ad8-a3af-2dfaaffffd07_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['SPECIAL STAGE' 신한류 이끌 테마곡 'TO1'의 'Infinite City (Groundbreak Ver.)' 무대 | Mnet 211028 방송]]></title>
+            <link>https://tv.naver.com/v/23225166</link>
+            <guid>https://tv.naver.com/v/23225166</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[4:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211028_95/hxI3r_1635422213836k0wYJ_JPEG/1a3d48d8-7b5c-4406-b7f1-fae3ca547b71_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['최초 공개' 믿듣보비 '비투비'의 'Outsider' 무대 | Mnet 210902 방송]]></title>
+            <link>https://tv.naver.com/v/22222307</link>
+            <guid>https://tv.naver.com/v/22222307</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210902_30/HMrja_1630579904942leKkA_JPEG/66c12c64-8096-4f17-bef0-b788422f4017_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청량이 쏟아지는 '온앤오프'의 '여름 쏙 (Popping)' 무대 | Mnet 210902 방송]]></title>
+            <link>https://tv.naver.com/v/22222300</link>
+            <guid>https://tv.naver.com/v/22222300</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210902_268/Vd52a_1630579898975wn5ti_JPEG/8f1c078d-b538-4d77-bc2a-f7046a8ed221_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독특 매력 'BZ-BOYS(청공소년)'의 'Close Your Eyes' 무대 | Mnet 210902 방송]]></title>
+            <link>https://tv.naver.com/v/22222428</link>
+            <guid>https://tv.naver.com/v/22222428</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210902_136/LzSzg_1630580211683BqB5a_JPEG/50f2b46f-2ff0-4e80-b5b6-3da99ed99763_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['SUMMER SPECIAL STAGE' 'DAY6 (Even of Day)'의 '한 페이지가 될 수 있게' 무대 | Mnet 210729 방송]]></title>
+            <link>https://tv.naver.com/v/21604146</link>
+            <guid>https://tv.naver.com/v/21604146</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210730_246/i0YVu_16276367202415derx_JPEG/1627636710004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['SUMMER SPECIAL STAGE' 'WOODZ(조승연) X 미연'의 '아틀란티스 소녀 (원곡 - 보아)' 무대 | Mnet 210729]]></title>
+            <link>https://tv.naver.com/v/21604144</link>
+            <guid>https://tv.naver.com/v/21604144</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210730_282/g05A1_162763676521863puw_JPEG/1627636763273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['STORAGE M' 'FIVE SENSES'의 'The Way U Are(원곡 - 동방신기)' 무대 | Mnet 210729 방송]]></title>
+            <link>https://tv.naver.com/v/21604143</link>
+            <guid>https://tv.naver.com/v/21604143</guid>
+            <pubDate>Thu, 06 Oct 2022 15:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210729_122/AI1XX_1627558001530U6adU_JPEG/e095c602-7a53-4909-b47a-b98b10084a27_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
