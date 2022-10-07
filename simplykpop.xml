@@ -1,8 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/kpop</id>
-    <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
-    <updated>2022-10-07T03:50:53.271Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 07 Oct 2022 04:55:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rolling Quartz(롤링쿼츠) - Sing your heart out(심장의 노래) + NAZABABARA★Simply's Spotlight★_Ep.540 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29750504</link>
+            <guid>https://tv.naver.com/v/29750504</guid>
+            <pubDate>Fri, 07 Oct 2022 04:54:55 GMT</pubDate>
+            <content:encoded><![CDATA[7:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_120/oRZHo_1665118337071c7rKp_PNG/1665110522531.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[KISU(기수) - ‘Drive!’ _ Ep.540 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29750500</link>
+            <guid>https://tv.naver.com/v/29750500</guid>
+            <pubDate>Fri, 07 Oct 2022 04:54:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_264/pwu21_1665118331242sALTa_PNG/1665110514043.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Lapillus(라필루스) - 'GRATATA(그라타타)' _ Ep.540 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29750496</link>
+            <guid>https://tv.naver.com/v/29750496</guid>
+            <pubDate>Fri, 07 Oct 2022 04:54:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_5/h5ewo_1665118326568Urs0d_PNG/1665110506092.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[mimiirose(미미로즈) - 'Rose' _ Ep.540 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29750487</link>
+            <guid>https://tv.naver.com/v/29750487</guid>
+            <pubDate>Fri, 07 Oct 2022 04:54:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_49/VamyA_1665118314123FpcoM_PNG/1665110497274.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LIMELIGHT(라임라잇) - 'StarLight' _ Ep.540 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29750485</link>
+            <guid>https://tv.naver.com/v/29750485</guid>
+            <pubDate>Fri, 07 Oct 2022 04:54:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_63/1cBcR_16651183102471GiLJ_PNG/1665110490349.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[kim Youngchul(김영철) - 'Marc Got It(막가리)' _ Ep.540 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29750481</link>
+            <guid>https://tv.naver.com/v/29750481</guid>
+            <pubDate>Fri, 07 Oct 2022 04:54:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_294/UPYiz_1665118301987wmI0z_PNG/1665110483320.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MIRAE(미래소년) - 'Drip N’ Drop' _ Ep.540 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29750477</link>
+            <guid>https://tv.naver.com/v/29750477</guid>
+            <pubDate>Fri, 07 Oct 2022 04:54:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_24/QXizN_1665118297382APTYS_PNG/1665110468791.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[RoaD-B(로드비) - ‘Icarus(이카루스)’ _ Ep.540 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29750474</link>
+            <guid>https://tv.naver.com/v/29750474</guid>
+            <pubDate>Fri, 07 Oct 2022 04:54:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_5/Bop1w_16651182935022wJJL_PNG/1665110475551.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ADORA (아도라) - ‘Magical Symphony’ _ Ep.540 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29750469</link>
+            <guid>https://tv.naver.com/v/29750469</guid>
+            <pubDate>Fri, 07 Oct 2022 04:54:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_45/HQAX4_1665118289619IVAky_PNG/1665110461683.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[《예고》MIRAE(미래소년)과 함께한 이번주 심플리 콘투어 인도 편💌~!! _540]]></title>
+            <link>https://tv.naver.com/v/29717387</link>
+            <guid>https://tv.naver.com/v/29717387</guid>
+            <pubDate>Fri, 07 Oct 2022 04:54:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_105/rJKqi_1665038091856oiRMe_PNG/1665037954670.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.539]]></title>
+            <link>https://tv.naver.com/v/29582551</link>
+            <guid>https://tv.naver.com/v/29582551</guid>
+            <pubDate>Fri, 07 Oct 2022 04:54:55 GMT</pubDate>
+            <content:encoded><![CDATA[56:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220930_118/4VFbO_16645140460307wVOG_PNG/1664513838164.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ONEUS (원어스) - Same Scent (세임 센트) _ Ep.539 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29582094</link>
+            <guid>https://tv.naver.com/v/29582094</guid>
+            <pubDate>Fri, 07 Oct 2022 04:54:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220930_176/pzAfy_1664512884739xM4jl_PNG/1664512742403.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAXY(크랙시) - 'REQUIEM(레퀴엠)' _ Ep.539 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29581769</link>
+            <guid>https://tv.naver.com/v/29581769</guid>
+            <pubDate>Fri, 07 Oct 2022 04:54:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220930_64/Hkcw1_1664512177953B9WCx_PNG/1664512168507.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[RoaD-B(로드비) - Nonstop(논스탑) + Icarus(이카루스)★Simply's Spotlight★_EEp.539 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29581731</link>
+            <guid>https://tv.naver.com/v/29581731</guid>
+            <pubDate>Fri, 07 Oct 2022 04:54:55 GMT</pubDate>
+            <content:encoded><![CDATA[8:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220930_111/2dTNX_1664512089658S3bCd_PNG/1664504938988.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[KISU(기수) - Will Be Fine + Drive!★Simply's Spotlight★_EEp.539 | [4K]]]></title>
+            <link>https://tv.naver.com/v/29581715</link>
+            <guid>https://tv.naver.com/v/29581715</guid>
+            <pubDate>Fri, 07 Oct 2022 04:54:55 GMT</pubDate>
+            <content:encoded><![CDATA[7:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220930_79/XiFsw_1664512042465xH09B_PNG/1664504932697.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
