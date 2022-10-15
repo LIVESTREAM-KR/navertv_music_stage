@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/showchampion/clips</id>
-    <title>MBC M 쇼챔피언 ─ 네이버TV</title>
-    <updated>2022-10-15T11:18:38.560Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/showchampion/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MBC M 쇼챔피언 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 15 Oct 2022 12:37:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10월 2주차 ♥쇼챔피언♡ MC 모음.zip (CRAVITY 세림, ASTRO 문빈&산하) | Show Champion | EP.453]]></title>
+            <link>https://tv.naver.com/v/29891609</link>
+            <guid>https://tv.naver.com/v/29891609</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[6:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221013_2/gcros_1665641277875J6vep_JPEG/CA202210120105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔 1위] 10월 둘째 주 챔피언송 Stray Kids 앵콜 Full ver.]]></title>
+            <link>https://tv.naver.com/v/29873036</link>
+            <guid>https://tv.naver.com/v/29873036</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[4:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_238/20pbh_1665576725719TrlmD_JPEG/CA202210120104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] Stray Kids - CASE 143 (스트레이키즈 - 케이스 143)]]></title>
+            <link>https://tv.naver.com/v/29870644</link>
+            <guid>https://tv.naver.com/v/29870644</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_160/VDO8Y_1665570717304p8diN_JPEG/CA202210120081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] AB6IX - Sugarcoat (에이비식스 - 슈가코트)]]></title>
+            <link>https://tv.naver.com/v/29870480</link>
+            <guid>https://tv.naver.com/v/29870480</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_102/dq1uV_1665570419981E0qNa_JPEG/CA202210120079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] CRAVITY - PARTY ROCK (크래비티 - 파티 락)]]></title>
+            <link>https://tv.naver.com/v/29870141</link>
+            <guid>https://tv.naver.com/v/29870141</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_17/ajdoK_1665569821206tEaVF_JPEG/CA202210120076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] DKZ - Uh-Heung (디케이지 - 호랑이가 쫓아온다)]]></title>
+            <link>https://tv.naver.com/v/29870140</link>
+            <guid>https://tv.naver.com/v/29870140</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_45/rkgLT_16655698196789EuN9_JPEG/CA202210120074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NMIXX - DICE (엔믹스 - 다이스)]]></title>
+            <link>https://tv.naver.com/v/29870138</link>
+            <guid>https://tv.naver.com/v/29870138</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_136/vmmPt_16655698176159rU4i_JPEG/CA202210120073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DUETTO - Fool of scent (듀에토 - 꽃잎에 흐드러지다)]]></title>
+            <link>https://tv.naver.com/v/29869843</link>
+            <guid>https://tv.naver.com/v/29869843</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_72/3UzBe_1665569280605maofA_JPEG/CA202210120072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] Kim Youngchul - Marc Got It (김영철 - 막가리)]]></title>
+            <link>https://tv.naver.com/v/29869808</link>
+            <guid>https://tv.naver.com/v/29869808</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_134/W5bCV_1665569222383GQq2o_JPEG/CA202210120071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엔딩 원샷] '승민 하트'로 스테이 마음 사로잡을 스키즈 엔딩요정은?]]></title>
+            <link>https://tv.naver.com/v/29869805</link>
+            <guid>https://tv.naver.com/v/29869805</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_250/NihF2_1665569220759EvYt5_JPEG/CA202210120070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] MIRAE - Drip N' Drop (미래소년 - 드립 앤 드롭)]]></title>
+            <link>https://tv.naver.com/v/29869655</link>
+            <guid>https://tv.naver.com/v/29869655</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_71/4vIKa_1665568917694XnamQ_JPEG/CA202210120069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] TAN - Beautiful LIE (티에이엔 - 뷰티풀 라이)]]></title>
+            <link>https://tv.naver.com/v/29869517</link>
+            <guid>https://tv.naver.com/v/29869517</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_137/Ia9sy_1665568623133fc2y7_JPEG/CA202210120068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] MIRAE PARK SI YOUNG - Drip N' Drop (미래소년 박시영 - 드립 앤 드롭) | Show Champion | EP.453]]></title>
+            <link>https://tv.naver.com/v/29869516</link>
+            <guid>https://tv.naver.com/v/29869516</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_133/9BEJ6_1665568621909Sb3l0_JPEG/CA202210120059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] MIRAE LIEN - Drip N' Drop (미래소년 리안 - 드립 앤 드롭) | Show Champion | EP.453]]></title>
+            <link>https://tv.naver.com/v/29869515</link>
+            <guid>https://tv.naver.com/v/29869515</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_154/zjreF_16655686207458W14X_JPEG/CA202210120058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] MIRAE SON DONG PYO - Drip N' Drop (미래소년 손동표 - 드립 앤 드롭) | Show Champion | EP.453]]></title>
+            <link>https://tv.naver.com/v/29869402</link>
+            <guid>https://tv.naver.com/v/29869402</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_287/qwWbo_1665568379687Ny1jo_JPEG/CA202210120060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lapillus - GRATATA (라필루스 - 그라타타)]]></title>
+            <link>https://tv.naver.com/v/29869366</link>
+            <guid>https://tv.naver.com/v/29869366</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_215/t4yfz_16655683203898MYgW_JPEG/CA202210120067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KINGDOM - Long Live The King (킹덤 - 백야)]]></title>
+            <link>https://tv.naver.com/v/29869363</link>
+            <guid>https://tv.naver.com/v/29869363</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_9/KADmb_1665568318872UcBFL_JPEG/CA202210120066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] CRAVITY HYEONGJUN - PARTY ROCK (크래비티 형준 - 파티 락) | Show Champion | EP.453]]></title>
+            <link>https://tv.naver.com/v/29869362</link>
+            <guid>https://tv.naver.com/v/29869362</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_5/WR64k_1665568317611M9c3V_JPEG/CA202210120055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ADORA - Magical Symphony (아도라 - 매지컬 심포니)]]></title>
+            <link>https://tv.naver.com/v/29869223</link>
+            <guid>https://tv.naver.com/v/29869223</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_120/jEVo2_1665568021493S8Ix4_JPEG/CA202210120065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LIMELIGHT - StarLight (라임라잇 - 스타라이트)]]></title>
+            <link>https://tv.naver.com/v/29869221</link>
+            <guid>https://tv.naver.com/v/29869221</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_38/eslEb_1665568019598riXxH_JPEG/CA202210120062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] CRAVITY JUNGMO - PARTY ROCK (크래비티 정모 - 파티 락) | Show Champion | EP.453]]></title>
+            <link>https://tv.naver.com/v/29869220</link>
+            <guid>https://tv.naver.com/v/29869220</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_166/u88de_1665568018384g2QnD_JPEG/CA202210120054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MC석 인터뷰] 사건 발생♥ 스트레이키즈가 스테이 마음을 훔쳐갔다고?!]]></title>
+            <link>https://tv.naver.com/v/29869068</link>
+            <guid>https://tv.naver.com/v/29869068</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_112/Ywce5_1665567724251eo3FU_JPEG/CA202210120064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K4 - Love Storm (케이포 - 폭풍 같은 사랑)]]></title>
+            <link>https://tv.naver.com/v/29869065</link>
+            <guid>https://tv.naver.com/v/29869065</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_141/A3Icl_1665567720315Vv2NJ_JPEG/CA202210120061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] MIRAE - Drip N' Drop (미래소년 - 드립 앤 드롭) l Show Champion l EP.453]]></title>
+            <link>https://tv.naver.com/v/29869063</link>
+            <guid>https://tv.naver.com/v/29869063</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_192/ZxE5H_1665567718229cygXM_JPEG/CA202210120056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[mimiirose - Rose (미미로즈 - 로즈)]]></title>
+            <link>https://tv.naver.com/v/29868930</link>
+            <guid>https://tv.naver.com/v/29868930</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_103/5Gx88_1665567425697elC0V_JPEG/CA202210120063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rolling Quartz - NAZABABARA (롤링쿼츠 - 나잡아봐라)]]></title>
+            <link>https://tv.naver.com/v/29868927</link>
+            <guid>https://tv.naver.com/v/29868927</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_40/PiGCo_1665567780519gfIw7_JPEG/CA202210120057_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] CRAVITY SERIM - PARTY ROCK (크래비티 세림 - 파티 락) | Show Champion | EP.453]]></title>
+            <link>https://tv.naver.com/v/29868925</link>
+            <guid>https://tv.naver.com/v/29868925</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_102/VE1U5_1665567418997exh6W_JPEG/CA202210120052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] CRAVITY WONJIN - PARTY ROCK (크래비티 원진 - 파티 락) | Show Champion | EP.453]]></title>
+            <link>https://tv.naver.com/v/29868747</link>
+            <guid>https://tv.naver.com/v/29868747</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_186/2KFzB_1665567123817GTi76_JPEG/CA202210120053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] CRAVITY - PARTY ROCK (크래비티 - 파티 락) l Show Champion l EP.453]]></title>
+            <link>https://tv.naver.com/v/29868739</link>
+            <guid>https://tv.naver.com/v/29868739</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_110/8HtNV_1665567118464MnHcr_JPEG/CA202210120050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] CRAVITY SEONGMIN - PARTY ROCK (크래비티 성민 - 파티 락) | Show Champion | EP.453]]></title>
+            <link>https://tv.naver.com/v/29868272</link>
+            <guid>https://tv.naver.com/v/29868272</guid>
+            <pubDate>Sat, 15 Oct 2022 12:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_176/elTH9_1665566218686N4dog_JPEG/CA202210120051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
