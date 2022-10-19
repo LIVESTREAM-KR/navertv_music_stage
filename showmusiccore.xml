@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/musiccore/clips</id>
-    <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
-    <updated>2022-10-19T16:44:38.855Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/musiccore/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 19 Oct 2022 17:44:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[최애직캠] Stray Kids FELIX - CASE 143(스트레이 키즈 필릭스 - 케이스 143) Close-up Cam | Show! MusicCore | MBC22100]]></title>
+            <link>https://tv.naver.com/v/29831525</link>
+            <guid>https://tv.naver.com/v/29831525</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_269/nazjr_1665469918634mPQzv_JPEG/clip_20221011145402_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] Stray Kids LEE KNOW - CASE 143(스트레이 키즈 리노 - 케이스 143) Close-up Cam | Show! MusicCore | MBC221]]></title>
+            <link>https://tv.naver.com/v/29831147</link>
+            <guid>https://tv.naver.com/v/29831147</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_134/REgdN_1665469318379QogFJ_JPEG/clip_20221011145353_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] SEULGI - 28 Reasons(슬기 - 28 리즌스) Close-up Cam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29822621</link>
+            <guid>https://tv.naver.com/v/29822621</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_67/l03Tk_1665450479243iGkax_JPEG/clip_20221011093220_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CRAVITY – PARTY ROCK(크래비티 - 파티 락) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29778387</link>
+            <guid>https://tv.naver.com/v/29778387</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_71/EeCnf_1665226919358lE2Kr_JPEG/clip_20221008193915_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] DKZ – Uh-Heung(디케이지 - 호랑이가 쫓아온다) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29778386</link>
+            <guid>https://tv.naver.com/v/29778386</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_65/wgTmi_1665226917703dSfPd_JPEG/clip_20221008192330_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] DKZ KYOUNGYOON - Uh-Heung(디케이지 경윤 - 호랑이가 쫓아온다) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29778274</link>
+            <guid>https://tv.naver.com/v/29778274</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_234/hdRxE_1665226379131qaBCP_JPEG/clip_20221008192450_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] DKZ JAECHAN - Uh-Heung(디케이지 재찬 - 호랑이가 쫓아온다) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29778258</link>
+            <guid>https://tv.naver.com/v/29778258</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_28/kUOSe_1665226318106x9IvV_JPEG/clip_20221008192446_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] XIUMIN - Brand New(시우민 – 브랜뉴) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29778042</link>
+            <guid>https://tv.naver.com/v/29778042</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_276/myxhB_1665225117593VLsN9_JPEG/clip_20221008185719_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NMIXX SULLYOON - DICE(엔믹스 설윤 - 다이스) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777980</link>
+            <guid>https://tv.naver.com/v/29777980</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_125/RTQBd_1665224819984ligLi_JPEG/clip_20221008185320_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NMIXX JINNI - DICE(엔믹스 지니 - 다이스) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777926</link>
+            <guid>https://tv.naver.com/v/29777926</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_20/2q8Vb_1665224580184MjfeN_JPEG/clip_20221008185334_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NMIXX HAEWON - DICE(엔믹스 해원 - 다이스) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777925</link>
+            <guid>https://tv.naver.com/v/29777925</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_74/EgP80_1665224579215i9NPX_JPEG/clip_20221008185301_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] XIUMIN - Brand New(시우민 – 브랜뉴) FanCam (Horizontal Ver.) | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777914</link>
+            <guid>https://tv.naver.com/v/29777914</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_196/ecQRs_1665224518742MkAaU_JPEG/clip_20221008185642_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NMIXX – DICE(엔믹스 - 다이스) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777724</link>
+            <guid>https://tv.naver.com/v/29777724</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_59/xKF8o_166522367914964PlJ_JPEG/clip_20221008184827_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KINGDOM – Long Live The King(킹덤 - 백야) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777582</link>
+            <guid>https://tv.naver.com/v/29777582</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_54/mgreZ_1665223019575BBfpK_JPEG/clip_20221008180324_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Lapillus CHANTY - GRATATA(라필루스 샨티 - 그라타타) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777450</link>
+            <guid>https://tv.naver.com/v/29777450</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_251/YtMDa_1665222424167K4ccD_JPEG/clip_20221008181840_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Lapillus – GRATATA(라필루스 - 그라타타) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777449</link>
+            <guid>https://tv.naver.com/v/29777449</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_193/pkx9I_1665222422641EVl3W_JPEG/clip_20221008181701_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] AB6IX PARK WOO JIN - Sugarcoat(에이비식스 박우진 - 슈가코트) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777448</link>
+            <guid>https://tv.naver.com/v/29777448</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_83/fnFh7_1665222421400GdkVy_JPEG/clip_20221008175853_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] AB6IX KIM DONG HYUN - Sugarcoat(에이비식스 김동현 - 슈가코트) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777447</link>
+            <guid>https://tv.naver.com/v/29777447</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_27/FKuBb_1665222420214Mzdoq_JPEG/clip_20221008175847_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] AB6IX – Sugarcoat(에이비식스 - 슈가코트) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777446</link>
+            <guid>https://tv.naver.com/v/29777446</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_133/YPFMg_1665222418881tsnvd_JPEG/clip_20221008175606_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CocaNButter – Mi Deh Yah(코카앤버터 - 미 데 야) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777342</link>
+            <guid>https://tv.naver.com/v/29777342</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_246/4EDL3_1665221879144VC92f_JPEG/clip_20221008175053_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] AB6IX LEE DAE HWI - Sugarcoat(에이비식스 이대휘 - 슈가코트) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777331</link>
+            <guid>https://tv.naver.com/v/29777331</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_219/jKar8_1665221819422kxfUi_JPEG/clip_20221008175900_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] AB6IX JEON WOONG - Sugarcoat(에이비식스 전웅 - 슈가코트) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777330</link>
+            <guid>https://tv.naver.com/v/29777330</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_114/WxImm_1665221818045Xx9Tt_JPEG/clip_20221008175840_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CocaNButter RI.HEY - Mi Deh Yah(코카앤버터 리헤이 - 미 데 야) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777264</link>
+            <guid>https://tv.naver.com/v/29777264</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_276/OBgRJ_1665221520312DBfAs_JPEG/clip_20221008175241_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Stray Kids HAN - CASE 143(스트레이 키즈 한 - 케이스 143) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777263</link>
+            <guid>https://tv.naver.com/v/29777263</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_294/VkIK8_1665221519275mc1lM_JPEG/clip_20221008174312_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CocaNButter BICKI - Mi Deh Yah(코카앤버터 비키 - 미 데 야) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777191</link>
+            <guid>https://tv.naver.com/v/29777191</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_298/2R2o9_1665221223869YFrHp_JPEG/clip_20221008175306_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CocaNButter GAGA - Mi Deh Yah(코카앤버터 가가 - 미 데 야) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777190</link>
+            <guid>https://tv.naver.com/v/29777190</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_162/mGzx4_1665221222675bGw4V_JPEG/clip_20221008175301_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CocaNButter ZSUN - Mi Deh Yah(코카앤버터 제트썬 - 미 데 야) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777189</link>
+            <guid>https://tv.naver.com/v/29777189</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_280/ydlSO_1665221221263dchjH_JPEG/clip_20221008175253_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Stray Kids BANG CHAN - CASE 143(스트레이 키즈 방찬 - 케이스 143) FanCam | Show! MusicCore | MBC221008방]]></title>
+            <link>https://tv.naver.com/v/29777188</link>
+            <guid>https://tv.naver.com/v/29777188</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_201/prRJL_16652212201161Djtn_JPEG/clip_20221008174241_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Stray Kids I.N - CASE 143(스트레이 키즈 아이엔 - 케이스 143) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777105</link>
+            <guid>https://tv.naver.com/v/29777105</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_262/iDneh_16652209203450j9dj_JPEG/clip_20221008174354_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Stray Kids HYUNJIN - CASE 143(스트레이 키즈 현진 - 케이스 143) FanCam | Show! MusicCore | MBC221008방송]]></title>
+            <link>https://tv.naver.com/v/29777104</link>
+            <guid>https://tv.naver.com/v/29777104</guid>
+            <pubDate>Wed, 19 Oct 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221008_178/T6an0_1665220919203zyfP4_JPEG/clip_20221008174300_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
