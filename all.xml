@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Oct 2022 16:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Oct 2022 17:42:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,246 @@
             <pubDate>Wed, 21 Sep 2022 14:28:25 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[마마무(MAMAMOO) - ILLELLA(일낼라) | SBS 221016 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29963200</link>
+            <guid>https://tv.naver.com/v/29963200</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_212/ug58i_1665907618017yK175_JPEG/23ad9ba3-35f2-415e-aa9e-5fdc9339c59c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슬기(SEULGI) - 28 Reasons | SBS 221016 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962967</link>
+            <guid>https://tv.naver.com/v/29962967</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_108/kBeIH_1665906779236UF1bs_JPEG/7c3fd390-c656-4a6f-a366-53d57fe86387.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백호(BAEKHO) - No Rules | SBS 221016 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962943</link>
+            <guid>https://tv.naver.com/v/29962943</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_269/d4oAe_1665906717293R9Hbb_JPEG/fe0224ff-ce5a-4638-85de-70b999ffc76d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids - CASE 143 | SBS 221016 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962860</link>
+            <guid>https://tv.naver.com/v/29962860</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_149/o8YvD_1665906418185eCwjb_JPEG/5ce6ea42-5cf1-47a0-b288-8847b8b96975.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박지훈 - NITRO | SBS 221016 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962770</link>
+            <guid>https://tv.naver.com/v/29962770</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_37/lSz68_1665906121546HOj6e_JPEG/0e174e7c-7111-4eab-8305-8e13b5aa7fe9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TREASURE(트레저) - HELLO | SBS 221016 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962769</link>
+            <guid>https://tv.naver.com/v/29962769</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_137/zr71g_1665906119477tyMNP_JPEG/19ac598f-8052-4500-8d7d-c5b371f9bb70.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원호(WONHO) - Don't Regret | SBS 221016 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962692</link>
+            <guid>https://tv.naver.com/v/29962692</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_143/nLy7G_1665905822399Mjnq9_JPEG/8514ed1f-b46b-4664-ac3f-cbfd068448be.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이채연 - HUSH RUSH | SBS 221016 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962594</link>
+            <guid>https://tv.naver.com/v/29962594</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_247/kjHmF_16659055190602ANCe_JPEG/4c880508-8e37-4ae0-9727-4ac4c6068aa7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AB6IX - Sugarcoat | SBS 221016 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962524</link>
+            <guid>https://tv.naver.com/v/29962524</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_208/Ss2r9_1665905221838NfGbj_JPEG/ebe16d0a-3404-4029-823e-ac804e338614.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권은비 - Underwater | SBS 221016 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962445</link>
+            <guid>https://tv.naver.com/v/29962445</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_168/oZiHA_1665904919639UCc5x_JPEG/291ef183-cfd4-498b-971a-c691d9337311.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[mimiirose - Rose | SBS 221016 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962444</link>
+            <guid>https://tv.naver.com/v/29962444</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_23/4f3do_1665904917597fe4Th_JPEG/0391dc99-ecb6-47cf-845a-efc3838b186e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAVITY - PARTY ROCK | SBS 221016 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962376</link>
+            <guid>https://tv.naver.com/v/29962376</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_18/u8ZyY_1665904619367mhKAR_JPEG/30b99bd1-0966-4701-8332-823c8259bd90.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드림캐쳐 - VISION | SBS 221016 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962294</link>
+            <guid>https://tv.naver.com/v/29962294</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_103/eMrAY_1665904317560jKuWs_JPEG/15ba1b60-2aa2-40c8-b255-aff255e66222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미래소년(MIRAE) - Drip N' Drop | SBS 221016 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962225</link>
+            <guid>https://tv.naver.com/v/29962225</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_264/fzLt2_1665904019663p9piU_JPEG/fd963be4-cc30-45f8-9818-e58222c791ec.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAN - Beautiful LIE | SBS 221016 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962222</link>
+            <guid>https://tv.naver.com/v/29962222</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_173/MI6Ff_1665907079282MmHAC_JPEG/16596840-e646-42ba-853b-9135d4ad8d6a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라임라잇(LIMELIGHT) - StarLight | SBS 221016 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962168</link>
+            <guid>https://tv.naver.com/v/29962168</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_223/6mE3e_1665903721690B3L1f_JPEG/1e1c75ed-298c-4957-bf4f-5cf37cf36c14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코카앤버터 - Mi Deh Yah (feat. KOONTA (쿤타)) | SBS 221016 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962035</link>
+            <guid>https://tv.naver.com/v/29962035</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_185/dnq6C_1665903180777Wwb5X_JPEG/3557484a-6bdb-4f26-a27c-4a0fdd9f6e47.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슬기(SEULGI) - 28 Reasons | SBS 221009 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29790639</link>
+            <guid>https://tv.naver.com/v/29790639</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221009_51/tlLey_1665302223309n1ut8_JPEG/60030f65-fb2d-45b1-a03a-9cd5495aebbf.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시우민(XIUMIN) - Brand New | SBS 221009 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29790638</link>
+            <guid>https://tv.naver.com/v/29790638</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221009_298/DbMa8_1665302221223VzK6t_JPEG/f80743d0-ec73-49ee-b258-e89633a8c887.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids - CASE 143 | SBS 221009 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29790535</link>
+            <guid>https://tv.naver.com/v/29790535</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221009_239/kFCj0_1665301916889BxLs2_JPEG/cdbfaf1d-340b-4f58-9c01-32bd5865caf2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crush - Rush Hour(feat. j-hope of BTS) | SBS 221009 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29790446</link>
+            <guid>https://tv.naver.com/v/29790446</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221009_68/gOOVS_1665301618641c0tlF_JPEG/50cc21a3-8abd-41eb-b522-6a5aac695473.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AB6IX - Sugarcoat | SBS 221009 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29790358</link>
+            <guid>https://tv.naver.com/v/29790358</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221009_262/P73fa_16653013173434NqVy_JPEG/260b591a-1472-4035-91eb-2f624d8b3226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TREASURE(트레저) - HELLO | SBS 221009 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29790269</link>
+            <guid>https://tv.naver.com/v/29790269</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221009_296/wQw72_1665301020359vf0UG_JPEG/c3d966b3-da46-473c-933c-97938d4d1427.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NMIXX - DICE | SBS 221009 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29790268</link>
+            <guid>https://tv.naver.com/v/29790268</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221009_105/g8KNw_1665301018549q4biu_JPEG/d9e43f5f-ca9c-48e6-94db-f891a50b0b3f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAVITY - PARTY ROCK | SBS 221009 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29790191</link>
+            <guid>https://tv.naver.com/v/29790191</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221009_279/q28Fq_1665300716033T5O03_JPEG/4385712c-f7b3-4501-a31a-ecc2ec2a5a23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[mimiirose - Rose | SBS 221009 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29790098</link>
+            <guid>https://tv.naver.com/v/29790098</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221009_276/z17qW_1665300420141Fdd73_JPEG/d5503a4e-a712-44f9-93cb-29dba2ca4f8d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DKZ - 호랑이가 쫓아온다(Uh-Heung) | SBS 221009 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29790017</link>
+            <guid>https://tv.naver.com/v/29790017</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221009_293/7UHEM_1665300119276TrcAN_JPEG/2a71eab0-fc3c-410a-89cf-8f7ab304d365.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미래소년(MIRAE) - Drip N' Drop | SBS 221009 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29790015</link>
+            <guid>https://tv.naver.com/v/29790015</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221009_43/IJQh9_1665300117703J25gH_JPEG/ba9fdfb9-42c5-4cdb-9d6a-d94025500895.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코카앤버터 - Mi Deh Yah (feat. KOONTA (쿤타)) | SBS 221009 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29789914</link>
+            <guid>https://tv.naver.com/v/29789914</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221009_25/dr6PD_1665299819034pyJzX_JPEG/bd6ad030-b9c6-4f63-877d-ea03d407fbfc.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라필루스(Lapillus) - GRATATA | SBS 221009 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29789804</link>
+            <guid>https://tv.naver.com/v/29789804</guid>
+            <pubDate>Thu, 20 Oct 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221009_140/TYkRI_1665299517447RRjUt_JPEG/c8fd2c2c-7361-4310-ad73-f0a4da3ca15f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
