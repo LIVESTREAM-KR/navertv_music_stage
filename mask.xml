@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/mask/clips</id>
-    <title>MBC 복면가왕 ─ 네이버TV</title>
-    <updated>2022-10-23T06:31:48.802Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/mask/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MBC 복면가왕 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 23 Oct 2022 07:25:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠뚜루마뚜루] 이름은 니가 버터면서 발리는 건 왜 난데,,🍀 싱어송라이돌 정세운💛💜ㅣ#버터 #정세운 MBC210718방송]]></title>
+            <link>https://tv.naver.com/v/21430989</link>
+            <guid>https://tv.naver.com/v/21430989</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[13:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210720_253/Yr7uI_1626759398526F4FN8_JPEG/clip_20210720140354_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['화채'의 가왕 방어전 무대 - 내 귀에 캔디, MBC 210718 방송]]></title>
+            <link>https://tv.naver.com/v/21397201</link>
+            <guid>https://tv.naver.com/v/21397201</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210718_234/3ui2m_1626604958551HsLHB_JPEG/clip_20210718193047_39.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그때 그 감성 소환...☆ 가수 리즈의 ＜그댄 행복에 살텐데＞♬, MBC 210718 방송]]></title>
+            <link>https://tv.naver.com/v/21397101</link>
+            <guid>https://tv.naver.com/v/21397101</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210718_211/K9yNm_16266045995830ewdE_JPEG/clip_20210718192538_36.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['도라지'의 정체는 22년 차 가수 리즈!, MBC 210718 방송]]></title>
+            <link>https://tv.naver.com/v/21397099</link>
+            <guid>https://tv.naver.com/v/21397099</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210718_177/otZjg_16266045977742GT2F_JPEG/clip_20210718192155_33.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['불멍' 3라운드 무대 - 몽중인, MBC 210718 방송]]></title>
+            <link>https://tv.naver.com/v/21396973</link>
+            <guid>https://tv.naver.com/v/21396973</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210718_206/T6XXs_1626604062932VCiyI_JPEG/clip_20210718191335_30.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['도라지' 3라운드 무대 - 180도, MBC 210718 방송]]></title>
+            <link>https://tv.naver.com/v/21396892</link>
+            <guid>https://tv.naver.com/v/21396892</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210718_70/PGx1H_1626603759217EvwiY_JPEG/clip_20210718190847_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['해달'의 정체는 뷰티 크리에이터 김사은!, MBC 210718 방송]]></title>
+            <link>https://tv.naver.com/v/21396809</link>
+            <guid>https://tv.naver.com/v/21396809</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210718_68/bGFhc_1626603403274SB1GD_JPEG/clip_20210718190226_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['해달'의 힌트를 향한 먼데이의 30초 멍 때리기 도전♨, MBC 210718 방송]]></title>
+            <link>https://tv.naver.com/v/21396733</link>
+            <guid>https://tv.naver.com/v/21396733</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210718_188/Z0Bmz_1626603093490nbykA_JPEG/clip_20210718185628_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['불멍'의 애교 알람 세트♡ (ft. 바다&안지영 성대모사♬), MBC 210718 방송]]></title>
+            <link>https://tv.naver.com/v/21396656</link>
+            <guid>https://tv.naver.com/v/21396656</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210718_53/0OLon_1626602809571Gm70E_JPEG/clip_20210718185246_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['불멍' 2라운드 무대 - Feeling, MBC 210718 방송]]></title>
+            <link>https://tv.naver.com/v/21396575</link>
+            <guid>https://tv.naver.com/v/21396575</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210718_179/H9QFH_16266025085979Hs3z_JPEG/clip_20210718185014_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['해달' 2라운드 무대 - Hey, Hey, Hey, MBC 210718 방송]]></title>
+            <link>https://tv.naver.com/v/21396512</link>
+            <guid>https://tv.naver.com/v/21396512</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210718_219/FS5EN_16266021954751jski_JPEG/clip_20210718184227_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['버터'의 정체는 싱어송라이돌 정세운!, MBC 210718 방송]]></title>
+            <link>https://tv.naver.com/v/21396450</link>
+            <guid>https://tv.naver.com/v/21396450</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210718_198/uzwgo_1626601898540djwB1_JPEG/clip_20210718183720_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전화 연결 찬스☎ '버터'의 지인 윤두준&'도라지'의 지인 BMK!, MBC 210718 방송]]></title>
+            <link>https://tv.naver.com/v/21396401</link>
+            <guid>https://tv.naver.com/v/21396401</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210718_49/eSxCK_1626601598477mrPJQ_JPEG/clip_20210718183037_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['도라지' 2라운드 무대 - 오늘은 가지마, MBC 210718 방송]]></title>
+            <link>https://tv.naver.com/v/21396284</link>
+            <guid>https://tv.naver.com/v/21396284</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210718_6/m2LjI_1626601005736XpFxu_JPEG/clip_20210718182245_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['버터' 2라운드 무대 - Who Are You, MBC 210718 방송]]></title>
+            <link>https://tv.naver.com/v/21396280</link>
+            <guid>https://tv.naver.com/v/21396280</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210718_275/wI3Ey_1626600999825dnNpK_JPEG/clip_20210718181711_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[《스페셜》 아티스트들의 아티스트! 래퍼 pH-1!, MBC 210711 방송]]></title>
+            <link>https://tv.naver.com/v/21341643</link>
+            <guid>https://tv.naver.com/v/21341643</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[9:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210715_46/LRRLt_1626335799057AXaz8_JPEG/clip_20210715163118_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[《스페셜》 흥부자 멀티플레이어! 모모랜드 혜빈!, MBC 210711 방송]]></title>
+            <link>https://tv.naver.com/v/21341519</link>
+            <guid>https://tv.naver.com/v/21341519</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[7:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210715_168/MmqLJ_1626335501464yNJJJ_JPEG/clip_20210715163310_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜2연승에 도전하는 화채의 운명?＞ 복면가왕 316회 예고, MBC 210718 방송]]></title>
+            <link>https://tv.naver.com/v/21257044</link>
+            <guid>https://tv.naver.com/v/21257044</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210711_91/PVHQg_1626002513574uX6lJ_JPEG/clip_20210711200947_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['물멍'의 정체는 모모랜드 혜빈!, MBC 210711 방송]]></title>
+            <link>https://tv.naver.com/v/21256837</link>
+            <guid>https://tv.naver.com/v/21256837</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210711_48/p5sxh_16260016033509JMG2_JPEG/clip_20210711195121_37.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['불멍' VS '물멍'의 1라운드 무대 - 세월의 흔적 다 버리고, MBC 210711 방송]]></title>
+            <link>https://tv.naver.com/v/21256782</link>
+            <guid>https://tv.naver.com/v/21256782</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210711_132/AslqI_1626001307758jGKoW_JPEG/clip_20210711194303_34.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['해품달'의 정체는 원조 국민 MC 이상벽!, MBC 210711 방송]]></title>
+            <link>https://tv.naver.com/v/21256386</link>
+            <guid>https://tv.naver.com/v/21256386</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210711_24/HujMO_16259992666168e4qY_JPEG/clip_20210711191459_31.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['해달' VS '해품달'의 1라운드 무대 - 사랑의 이름표, MBC 210711 방송]]></title>
+            <link>https://tv.naver.com/v/21256194</link>
+            <guid>https://tv.naver.com/v/21256194</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210711_98/g3onR_1625998303148hN8Iy_JPEG/clip_20210711185917_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['엑스라지'의 정체는 종이접기 아저씨 김영만!, MBC 210711 방송]]></title>
+            <link>https://tv.naver.com/v/21256133</link>
+            <guid>https://tv.naver.com/v/21256133</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210711_223/tHaET_1625998001731FPwIU_JPEG/clip_20210711185318_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['도라지' VS '엑스라지'의 1라운드 무대 - 내 마음 당신 곁으로, MBC 210711 방송]]></title>
+            <link>https://tv.naver.com/v/21256029</link>
+            <guid>https://tv.naver.com/v/21256029</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210711_263/7sJhh_1625997394767nfUt5_JPEG/clip_20210711184200_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['센터'의 정체는 래퍼 pH-1!, MBC 210711 방송]]></title>
+            <link>https://tv.naver.com/v/21255987</link>
+            <guid>https://tv.naver.com/v/21255987</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210711_196/2rWJ1_1625997094980z9AHu_JPEG/clip_20210711183224_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['버터'의 느끼한 버터 댄스♨(ft. 워니&와니), MBC 210711 방송]]></title>
+            <link>https://tv.naver.com/v/21255782</link>
+            <guid>https://tv.naver.com/v/21255782</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210711_121/b8Oh9_1625996195059EEuMr_JPEG/clip_20210711182402_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['버터' VS '센터'의 1라운드 무대 - 자니, MBC 210711 방송]]></title>
+            <link>https://tv.naver.com/v/21255719</link>
+            <guid>https://tv.naver.com/v/21255719</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210711_28/daTrh_16259958967056krtI_JPEG/clip_20210711181354_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['센터'의 마이클 잭슨 ver ＜니가 사는 그 집＞♬, MBC 210711 방송]]></title>
+            <link>https://tv.naver.com/v/21255720</link>
+            <guid>https://tv.naver.com/v/21255720</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210711_223/ximZY_1625995898080cHshv_JPEG/clip_20210711182022_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엠뚜루마뚜루] 헛웃음 나오는 대놓고 가왕 무대,, 그분이라면 가왕 할 ‘수밖’에! 🍉새로운 가왕 화채🍉ㅣ#화채 #가왕 MBC210704방송]]></title>
+            <link>https://tv.naver.com/v/21167159</link>
+            <guid>https://tv.naver.com/v/21167159</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[13:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210706_244/xZ1LH_1625554295199s2Lpi_JPEG/clip_20210706152447_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜'화채'를 위협하는 HOT한 도전자들의 등장!＞ 복면가왕 315회 예고, MBC 210711 방송]]></title>
+            <link>https://tv.naver.com/v/21136060</link>
+            <guid>https://tv.naver.com/v/21136060</guid>
+            <pubDate>Sun, 23 Oct 2022 07:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
