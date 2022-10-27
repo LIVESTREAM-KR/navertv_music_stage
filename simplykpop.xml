@@ -1,8 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/kpop</id>
-    <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
-    <updated>2022-10-27T21:17:46.579Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 27 Oct 2022 22:19:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[《예고》티에이엔(TAN)과 함께한 이번주 심플리 콘투어 영국 편💌~!! _543]]></title>
+            <link>https://tv.naver.com/v/30275674</link>
+            <guid>https://tv.naver.com/v/30275674</guid>
+            <pubDate>Thu, 27 Oct 2022 22:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_105/qC0OA_1666854954039F8VAG_PNG/1666854937930.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.542]]></title>
+            <link>https://tv.naver.com/v/30113154</link>
+            <guid>https://tv.naver.com/v/30113154</guid>
+            <pubDate>Thu, 27 Oct 2022 22:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[55:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_32/Bg24g_16663282253872hUIH_PNG/1666328222259.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AB6IX, Reiley, ‘Moonlight’ + AB6IX, ‘Sugarcoat’ ★Simply's Spotlight★_Ep542 | [4K]]]></title>
+            <link>https://tv.naver.com/v/30105446</link>
+            <guid>https://tv.naver.com/v/30105446</guid>
+            <pubDate>Thu, 27 Oct 2022 22:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[7:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_98/tf2oi_1666328428297uMwu7_JPEG/1666328424633.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KWON EUN BI (권은비) - ‘Simulation’ + ‘Underwater’ ★Simply's Spotlight★_Ep542 | [4K]]]></title>
+            <link>https://tv.naver.com/v/30105431</link>
+            <guid>https://tv.naver.com/v/30105431</guid>
+            <pubDate>Thu, 27 Oct 2022 22:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[7:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_265/2NtzL_16663284143904IdQD_JPEG/1666328412412.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WEi(위아이) - ‘Spray’ _ Ep.542 | [4K]]]></title>
+            <link>https://tv.naver.com/v/30105410</link>
+            <guid>https://tv.naver.com/v/30105410</guid>
+            <pubDate>Thu, 27 Oct 2022 22:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_91/NPfbk_166632840405224gBi_JPEG/1666328402797.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DKZ(디케이지) - 'Uh-Heung(호랑이가 쫓아온다)' _ Ep.542 | [4K]]]></title>
+            <link>https://tv.naver.com/v/30105386</link>
+            <guid>https://tv.naver.com/v/30105386</guid>
+            <pubDate>Thu, 27 Oct 2022 22:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_117/8fVMV_1666328393851cJQ2F_JPEG/1666328390382.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KINGDOM(킹덤) - 'Long Live The King(백야)' _ Ep.542 |  [4K]]]></title>
+            <link>https://tv.naver.com/v/30105385</link>
+            <guid>https://tv.naver.com/v/30105385</guid>
+            <pubDate>Thu, 27 Oct 2022 22:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_299/4MNTL_1666328374787AGJIC_JPEG/1666328370798.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MIRAE(미래소년) - 'Drip N’ Drop' _ Ep.542 | [4K]]]></title>
+            <link>https://tv.naver.com/v/30105375</link>
+            <guid>https://tv.naver.com/v/30105375</guid>
+            <pubDate>Thu, 27 Oct 2022 22:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_278/ab5xu_1666328356446Q6QVP_JPEG/1666328353722.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAN(티에이엔) - ‘Beautiful LIE’ _ Ep.542 | [4K]]]></title>
+            <link>https://tv.naver.com/v/30105370</link>
+            <guid>https://tv.naver.com/v/30105370</guid>
+            <pubDate>Thu, 27 Oct 2022 22:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_300/Q2w4n_16663283440695KdOJ_JPEG/1666328341335.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LIMELIGHT(라임라잇) - 'StarLight’ _ Ep.542 | [4K]]]></title>
+            <link>https://tv.naver.com/v/30105349</link>
+            <guid>https://tv.naver.com/v/30105349</guid>
+            <pubDate>Thu, 27 Oct 2022 22:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_114/L8ocw_1666328317520WS2iB_JPEG/1666328314246.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lapillus(라필루스) - 'GRATATA(그라타타)' _ Ep.542 | [4K]]]></title>
+            <link>https://tv.naver.com/v/30105345</link>
+            <guid>https://tv.naver.com/v/30105345</guid>
+            <pubDate>Thu, 27 Oct 2022 22:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_47/jtBxB_1666328330064VkpFe_JPEG/1666328328017.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[플리캠 4K 가로] WEi KIM YOHAN 'Spray' (위아이 김요한 직캠) l Simply K-Pop CON-TOUR Ep.542]]></title>
+            <link>https://tv.naver.com/v/30089318</link>
+            <guid>https://tv.naver.com/v/30089318</guid>
+            <pubDate>Thu, 27 Oct 2022 22:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_76/ypqVI_166625301354657P21_JPEG/1666252067815.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[플리캠 4K 가로] WEi KIM DONG HAN 'Spray' (위아이 김동한 직캠) l Simply K-Pop CON-TOUR Ep.542]]></title>
+            <link>https://tv.naver.com/v/30089314</link>
+            <guid>https://tv.naver.com/v/30089314</guid>
+            <pubDate>Thu, 27 Oct 2022 22:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_186/OkWzX_1666253009326b84Qh_JPEG/1666252044812.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[플리캠 4K 가로] WEi YOO YONGHA 'Spray' (위아이 유용하 직캠) l Simply K-Pop CON-TOUR Ep.542]]></title>
+            <link>https://tv.naver.com/v/30089312</link>
+            <guid>https://tv.naver.com/v/30089312</guid>
+            <pubDate>Thu, 27 Oct 2022 22:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_209/dtX2Z_16662530061561e0OX_JPEG/1666252026520.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[플리캠 4K] WEi KIM JUNSEO 'Spray' (위아이 준서 직캠) l Simply K-Pop CON-TOUR Ep.542]]></title>
+            <link>https://tv.naver.com/v/30089308</link>
+            <guid>https://tv.naver.com/v/30089308</guid>
+            <pubDate>Thu, 27 Oct 2022 22:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_103/Fu5Fj_1666253001612I05kH_JPEG/1666252009480.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
