@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Nov 2022 14:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2022 15:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,364 +16,244 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[TFN(티에프엔) - ‘AMAZON’ _Ep.544 [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30480481</link>
-            <guid>https://tv.naver.com/v/30480481</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_251/OWmRd_1667527404203Figdr_JPEG/1667527401547.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EPEX(이펙스) - ‘First Love’s Law(첫사랑의 법칙)‘ + ‘Hymn to Love(사랑歌)’ ★Simply's Spotlight★ (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30480473</link>
-            <guid>https://tv.naver.com/v/30480473</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[8:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_75/tzO4W_16675274153115cnAu_JPEG/1667527412894.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATBO(에이티비오) - ‘ATTITUDE’ _ Ep.544 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30480472</link>
-            <guid>https://tv.naver.com/v/30480472</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[4:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_255/OYT4j_1667527426619DF8Ec_JPEG/1667527424558.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PinkFantasy(핑크판타지) - ‘Bizarre Story(기괴한 이야기) : Get Out’  _ Ep.544 |  [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30480464</link>
-            <guid>https://tv.naver.com/v/30480464</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_200/3HRTL_16675274387287IPXi_JPEG/1667527436285.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KINGDOM(킹덤) - ‘Long Live The King(백야)’ _ Ep.544 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30480445</link>
-            <guid>https://tv.naver.com/v/30480445</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_34/Fjowl_1667527452045m3hwn_JPEG/1667527449756.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[mimiirose(미미로즈) - ‘Kill Me More’ _ Ep.544 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30480433</link>
-            <guid>https://tv.naver.com/v/30480433</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_32/jBz4U_1667527466337BJ12B_JPEG/1667527464081.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tripleS AAA - ‘Generation’ _ Ep.544 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30480421</link>
-            <guid>https://tv.naver.com/v/30480421</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_158/6VcLA_1667527490910FAqSj_JPEG/1667527488885.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ABLUE(에이블루) - ‘Carnival’ _ Ep.544 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30480389</link>
-            <guid>https://tv.naver.com/v/30480389</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_163/sN4bf_1667527478472qA31K_JPEG/1667527476499.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Queenz Eye(퀸즈아이) - 'Yummy Yummy' _ Ep.544 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30480368</link>
-            <guid>https://tv.naver.com/v/30480368</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[2:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_244/a2xlV_1667527504058PfASS_JPEG/1667527501707.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ALICE(앨리스) - ‘DANCE ON’ _Ep.544 [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30480349</link>
-            <guid>https://tv.naver.com/v/30480349</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_99/qzEhV_16675275176808AjUE_JPEG/1667527515701.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K 가로] EPEX BAEKSEUNG '사랑歌'(Hymn to Love)' (이펙스 백승 직캠) l Simply K-Pop CON-TOUR (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30480191</link>
-            <guid>https://tv.naver.com/v/30480191</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_61/ZcRHm_1667520387694xUXOl_JPEG/1667520377757.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] EPEX KEUM '사랑歌'(Hymn to Love)' (이펙스 금동현 직캠) l Simply K-Pop CON-TOUR Ep.544 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30480183</link>
-            <guid>https://tv.naver.com/v/30480183</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_35/38SCB_1667520348687Jniai_JPEG/1667520346208.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] EPEX A-MIN '사랑歌'(Hymn to Love)' (이펙스 아민 직캠) l Simply K-Pop CON-TOUR Ep.544 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30480180</link>
-            <guid>https://tv.naver.com/v/30480180</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_247/vyPTv_1667520324605vFguY_JPEG/1667520318621.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] EPEX WISH '사랑歌'(Hymn to Love)' (이펙스 위시 직캠) l Simply K-Pop CON-TOUR Ep.544 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30480169</link>
-            <guid>https://tv.naver.com/v/30480169</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_38/mAzjA_1667520296165ucr61_JPEG/1667520289932.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] EPEX MU '사랑歌'(Hymn to Love)' (이펙스 뮤 직캠) l Simply K-Pop CON-TOUR Ep.544 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30480158</link>
-            <guid>https://tv.naver.com/v/30480158</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_76/AH4tf_1667520255829BwRAV_JPEG/1667520246898.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정철 _ My love (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30455688</link>
-            <guid>https://tv.naver.com/v/30455688</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_176/MuMrB_1667449078192ufMHg_JPEG/8860e2b6-5b2d-11ed-a14d-505dac8c3607_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정철 _ 인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30455681</link>
-            <guid>https://tv.naver.com/v/30455681</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[8:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_222/g4fSj_1667449069892ME1Pl_JPEG/53175f6d-5b2d-11ed-8892-505dac8c35ff_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정철 _ 그대를 허락해주세요 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30455667</link>
-            <guid>https://tv.naver.com/v/30455667</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_99/mxKmF_1667449049397tOoxS_JPEG/3589749d-5b2d-11ed-83d6-48df379cca40_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권인하 _ 오래전에 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30455659</link>
-            <guid>https://tv.naver.com/v/30455659</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_33/67klX_16674490414627Ujrp_JPEG/190b73a2-5b2d-11ed-b6e8-48df37ae3dc4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권인하 _ 인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30455655</link>
-            <guid>https://tv.naver.com/v/30455655</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[10:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_144/DYOL9_1667449032930zmgkR_JPEG/da81a00a-5b2c-11ed-83d6-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권인하 _ 바람의노래(원곡 조용필) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30455635</link>
-            <guid>https://tv.naver.com/v/30455635</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_46/1j2d1_1667449012530z6xM1_JPEG/c0925f24-5b2c-11ed-8bc9-d4f5ef5906a4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권인하 _ 사랑한후에(원곡 들국화) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30455631</link>
-            <guid>https://tv.naver.com/v/30455631</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[5:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_131/xH6IO_1667449006638uFrgQ_JPEG/9a023d28-5b2c-11ed-b07a-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한기한얼_ 기다릴게(공주의 남자 OST) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30312083</link>
-            <guid>https://tv.naver.com/v/30312083</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_37/CGtEU_1666936380394b4bu9_JPEG/0ae111c2-5683-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한기한얼_ 버스정류장 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30311627</link>
-            <guid>https://tv.naver.com/v/30311627</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_14/oqnC5_1666935694554pXad0_JPEG/9bc7b675-5681-11ed-b07a-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한기한얼_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30311533</link>
-            <guid>https://tv.naver.com/v/30311533</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[9:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_152/aELDR_1666935549574tMrc5_JPEG/d8be3c60-567d-11ed-83d6-48df379cca40_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주혁_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30311091</link>
-            <guid>https://tv.naver.com/v/30311091</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[9:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_71/OKgmy_1666934840975LID7V_JPEG/513af2e9-567a-11ed-a14d-505dac8c3607_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주혁_세탁소에서 만나요 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30309320</link>
-            <guid>https://tv.naver.com/v/30309320</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_265/VSNZU_1666932151493ybM2v_JPEG/fa124986-5678-11ed-b07a-48df37ae3fca_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주혁_넌 나에게 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30309301</link>
-            <guid>https://tv.naver.com/v/30309301</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_108/shwDW_1666932101084IiH35_JPEG/1f8eb4e2-5672-11ed-8bc9-d4f5ef5906a4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주혁_푸른밤 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30309296</link>
-            <guid>https://tv.naver.com/v/30309296</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_229/VXaAZ_166693208793732CaC_JPEG/06ce10ca-566f-11ed-a14d-505dac8c3607_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주혁_우린 달랐고 달랐어 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30309292</link>
-            <guid>https://tv.naver.com/v/30309292</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_189/cBf5n_1666932082546eQzmj_JPEG/0919c7d6-566a-11ed-a57b-505dac8c385b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무성_동암역 2번 출구 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30097110</link>
-            <guid>https://tv.naver.com/v/30097110</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_69/GyR6D_1666268212670RftQG_JPEG/3b7104dc-5058-11ed-b07a-48df37ae3fca_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오곤_그럴 거야 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30097104</link>
-            <guid>https://tv.naver.com/v/30097104</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_191/kuhQq_1666268201121vn6gI_JPEG/a5c67699-5056-11ed-b25c-505dacfbaa5c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오무라이스(오곤X무성)_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30097102</link>
-            <guid>https://tv.naver.com/v/30097102</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[5:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_8/noFhp_1666268193542fgOIL_JPEG/bc395f07-5052-11ed-b6e8-48df37ae3dc4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김소연_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30097099</link>
-            <guid>https://tv.naver.com/v/30097099</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[7:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_118/QENGx_1666268189798v4EWj_JPEG/57cf8680-504f-11ed-b25c-505dacfbaa5c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김소연_All I want(원곡_kadaline) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30097096</link>
-            <guid>https://tv.naver.com/v/30097096</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[5:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_150/T3EKY_1666268182995PBnNu_JPEG/facf4e8c-504c-11ed-9f1e-d4f5ef5a9532_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김소연_Can we fly like a bird (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30097095</link>
-            <guid>https://tv.naver.com/v/30097095</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_95/3titB_1666268177897UkYLy_JPEG/4e7f53f0-504b-11ed-8bc9-d4f5ef5906a4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김소연_어른 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30097089</link>
-            <guid>https://tv.naver.com/v/30097089</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_255/RZ0Jk_1666268166738dE5gQ_JPEG/461529f0-5049-11ed-bf94-d4f5ef590144_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김소연_True love(원곡_coldplay) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30097085</link>
-            <guid>https://tv.naver.com/v/30097085</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_38/NWZ0I_1666268159052VUcoz_JPEG/e22e5283-5047-11ed-999c-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오무라이스(오곤X무성)_울산 관람차 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30097083</link>
-            <guid>https://tv.naver.com/v/30097083</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_107/6r0NI_1666268153725ooAex_JPEG/da9387fc-5054-11ed-999c-505dac8c3639_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김기태_휠릴리 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29898910</link>
-            <guid>https://tv.naver.com/v/29898910</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221013_55/4Ra4e_1665651970791jYGkK_JPEG/45bc9daa-4ad2-11ed-8892-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[육중완밴드_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29898894</link>
-            <guid>https://tv.naver.com/v/29898894</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[5:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221013_101/EGdxN_16656519419345vyDO_JPEG/59cda808-4acb-11ed-a7c3-d4f5ef58ad5e_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김기태_걱정말아요 그대 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29898882</link>
-            <guid>https://tv.naver.com/v/29898882</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
+            <title><![CDATA[[#최애직캠] (G)I-DLE SHUHUA - Nxde((여자)아이들 슈화 - 누드) Close-up Cam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30546299</link>
+            <guid>https://tv.naver.com/v/30546299</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
             <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221013_12/KzU8g_1665651917538EyWGO_JPEG/e1f49e24-4ac9-11ed-a57b-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_134/XZiEm_1667788953835EVUyw_JPEG/clip_20221107110141_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[육중완밴드_오빠라고 불러다오 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29898874</link>
-            <guid>https://tv.naver.com/v/29898874</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[5:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221013_21/goTKe_1665651903151WYeAN_JPEG/a82b4a9e-4ac7-11ed-b6e8-48df37ae3dc4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[#최애직캠] MONSTA X KIHYUN - Youth (몬스타엑스 기현 - 유스) Close-up Cam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30546088</link>
+            <guid>https://tv.naver.com/v/30546088</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_200/JD0mC_1667788590520qsIci_JPEG/clip_20221107105850_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[육중완밴드_바나나 먹고싶다 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29898863</link>
-            <guid>https://tv.naver.com/v/29898863</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
+            <title><![CDATA[[#최애직캠] (G)I-DLE MINNIE - Nxde((여자)아이들 민니 - 누드) Close-up Cam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30545603</link>
+            <guid>https://tv.naver.com/v/30545603</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_265/MLrU3_1667787698538xvBds_JPEG/clip_20221107110135_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] (G)I-DLE SHUHUA - Nxde((여자)아이들 슈화 - 누드) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30338276</link>
+            <guid>https://tv.naver.com/v/30338276</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_123/L8niK_1667038981856140wH_JPEG/clip_20221029184243_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] (G)I-DLE – Nxde((여자)아이들 - 누드) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30338275</link>
+            <guid>https://tv.naver.com/v/30338275</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_178/5a2DE_16670389799719Ygpp_JPEG/clip_20221029173655_29.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CLASS:y Bo Eun - ZEALOUS(클라씨 보은 - 질러스) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30338261</link>
+            <guid>https://tv.naver.com/v/30338261</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_3/h0mWV_1667038918195QwRFq_JPEG/clip_20221029173449_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] (G)I-DLE MIYEON - Nxde((여자)아이들 미연 - 누드) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30338203</link>
+            <guid>https://tv.naver.com/v/30338203</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_135/r9MlV_1667038621877crI8W_JPEG/clip_20221029184306_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] (G)I-DLE YUQI - Nxde((여자)아이들 우기 - 누드) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30338202</link>
+            <guid>https://tv.naver.com/v/30338202</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_169/PUVdm_16670386208837sRaN_JPEG/clip_20221029184233_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CLASS:y Ji Min - ZEALOUS(클라씨 지민 - 질러스) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30338200</link>
+            <guid>https://tv.naver.com/v/30338200</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_53/0WOhG_1667038619919ctk5t_JPEG/clip_20221029173516_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CLASS:y – ZEALOUS(클라씨 - 질러스) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30338198</link>
+            <guid>https://tv.naver.com/v/30338198</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_122/y7oi2_1667038618444JUhNf_JPEG/clip_20221029172620_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CLASS:y Hye Ju - ZEALOUS(클라씨 혜주 - 질러스) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30338136</link>
+            <guid>https://tv.naver.com/v/30338136</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_1/vFhj8_16670383188992GXpY_JPEG/clip_20221029173503_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CLASS:y Ji Min - Tick Tick Boom(클라씨 지민 - 틱틱붐) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30338135</link>
+            <guid>https://tv.naver.com/v/30338135</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_275/hy7MG_1667038317540uxh6E_JPEG/clip_20221029172601_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] (G)I-DLE MINNIE - Nxde((여자)아이들 민니 - 누드) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30338080</link>
+            <guid>https://tv.naver.com/v/30338080</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_198/RNh1k_16670380808477iuSP_JPEG/clip_20221029184254_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] (G)I-DLE SOYEON - Nxde((여자)아이들 소연 - 누드) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30338079</link>
+            <guid>https://tv.naver.com/v/30338079</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221013_236/bJb8Q_1665651884842Dt0by_JPEG/fa215573-4ac3-11ed-aee9-505dac8c38f5_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_76/soyAc_1667038079544u9ef6_JPEG/clip_20221029174323_32.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라포엠_Sunshine (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29898853</link>
-            <guid>https://tv.naver.com/v/29898853</guid>
-            <pubDate>Wed, 09 Nov 2022 14:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221013_131/XXEO5_1665651874764PUfHF_JPEG/2673d68c-4ac2-11ed-8bc9-d4f5ef5906a4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[예능연구소] CLASS:y Ri Won - ZEALOUS(클라씨 리원 - 질러스) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337986</link>
+            <guid>https://tv.naver.com/v/30337986</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_42/r8A3o_1667037725527z9sb0_JPEG/clip_20221029173512_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CLASS:y Seon You - ZEALOUS(클라씨 선유 - 질러스) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337985</link>
+            <guid>https://tv.naver.com/v/30337985</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_58/7pweB_1667037724291hFdUK_JPEG/clip_20221029173507_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CLASS:y Hyung Seo - ZEALOUS(클라씨 형서 - 질러스) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337984</link>
+            <guid>https://tv.naver.com/v/30337984</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_213/JoyO9_1667037723286OWRXv_JPEG/clip_20221029173443_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KIM WANSUN - Malus prunifolia(김완선 – 사과꽃)FanCam |Show! MusicCore|MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337983</link>
+            <guid>https://tv.naver.com/v/30337983</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_227/zlBov_1667037721346eYfnx_JPEG/clip_20221029172252_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] JO YURI - Loveable(조유리 – 러버블) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337982</link>
+            <guid>https://tv.naver.com/v/30337982</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_9/cHrmq_1667037720305xdPqf_JPEG/clip_20221029172810_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATBO - ATTITUDE(에이티비오 - 애티튜드) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337981</link>
+            <guid>https://tv.naver.com/v/30337981</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_248/oQXjx_1667037718638C7Gf0_JPEG/clip_20221029172951_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CLASS:y Chae Won - ZEALOUS(클라씨 채원 - 질러스) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337905</link>
+            <guid>https://tv.naver.com/v/30337905</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_98/TfWVi_16670374201150py62_JPEG/clip_20221029173455_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] LEE CHAEYEON - HUSH RUSH(이채연 – 허쉬 러쉬) FanCam (Horizontal Ver.)|Show! MusicCore|MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337827</link>
+            <guid>https://tv.naver.com/v/30337827</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_105/7Lh4M_1667037120816ewNcs_JPEG/clip_20221029172648_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] WEi - Spray(위아이 - 스프레이) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337825</link>
+            <guid>https://tv.naver.com/v/30337825</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_101/cMUcG_1667037119160DWhAB_JPEG/clip_20221029172729_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CLASS:y Bo Eun - Tick Tick Boom(클라씨 보은 - 틱틱붐) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337766</link>
+            <guid>https://tv.naver.com/v/30337766</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_281/OhJZI_166703682746286ydy_JPEG/clip_20221029172548_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CLASS:y Chae Won - Tick Tick Boom(클라씨 채원 - 틱틱붐) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337765</link>
+            <guid>https://tv.naver.com/v/30337765</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_115/A85Dj_1667036826168kHP0M_JPEG/clip_20221029172512_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CLASS:y Seon You - Tick Tick Boom(클라씨 선유 - 틱틱붐) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337763</link>
+            <guid>https://tv.naver.com/v/30337763</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_237/Iwd4p_1667036825118Hn0x3_JPEG/clip_20221029172529_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CLASS:y Ri Won - Tick Tick Boom(클라씨 리원 - 틱틱붐) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337762</link>
+            <guid>https://tv.naver.com/v/30337762</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_257/29sTE_1667036823882iwjK3_JPEG/clip_20221029172555_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] LEE CHAEYEON - HUSH RUSH(이채연 – 허쉬 러쉬) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337761</link>
+            <guid>https://tv.naver.com/v/30337761</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_119/JqYpa_1667036822682mUrpY_JPEG/clip_20221029172652_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Kep1er - We Fresh(케플러 - 위 프레시) FanCam | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337759</link>
+            <guid>https://tv.naver.com/v/30337759</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_65/TmPHi_1667036820853BD57u_JPEG/clip_20221029172744_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KIHYUN - Youth(기현 – 유스) FanCam (Horizontal Ver.) | Show! MusicCore | MBC221029방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337631</link>
+            <guid>https://tv.naver.com/v/30337631</guid>
+            <pubDate>Wed, 09 Nov 2022 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_103/eMeos_166703621823004m0v_JPEG/clip_20221029172121_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
