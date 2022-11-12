@@ -1,8 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/kpop</id>
-    <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
-    <updated>2022-11-12T06:22:45.646Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 12 Nov 2022 07:18:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.545 –  ALICE(앨리스), TFN(티에프엔), EPEX(이펙스), CRAXY(크랙시)]]></title>
+            <link>https://tv.naver.com/v/30683409</link>
+            <guid>https://tv.naver.com/v/30683409</guid>
+            <pubDate>Sat, 12 Nov 2022 07:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[51:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_54/4wxyW_1668143853648nJ7c8_PNG/1668143814034.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Double Decker(이층버스) - 'I Wish This Was Love(사랑이 온거라면 좋겠다)' _ Ep.545 | [4K]]]></title>
+            <link>https://tv.naver.com/v/30676896</link>
+            <guid>https://tv.naver.com/v/30676896</guid>
+            <pubDate>Sat, 12 Nov 2022 07:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_117/E4c2s_1668148350351w5jWv_JPEG/1668148347749.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EPEX(이펙스) - ‘Hymn to Love(사랑歌)’ _ Ep.545 [4K]]]></title>
+            <link>https://tv.naver.com/v/30676637</link>
+            <guid>https://tv.naver.com/v/30676637</guid>
+            <pubDate>Sat, 12 Nov 2022 07:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_71/xCudp_1668148362893T0J00_JPEG/1668148361024.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TFN(티에프엔) - ‘AMAZON’ _Ep.545 [4K]]]></title>
+            <link>https://tv.naver.com/v/30676607</link>
+            <guid>https://tv.naver.com/v/30676607</guid>
+            <pubDate>Sat, 12 Nov 2022 07:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_238/01M5U_1668148376550T7zWP_JPEG/1668148374684.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATBO(에이티비오) - ‘ATTITUDE’ _ Ep.545 | [4K]]]></title>
+            <link>https://tv.naver.com/v/30676588</link>
+            <guid>https://tv.naver.com/v/30676588</guid>
+            <pubDate>Sat, 12 Nov 2022 07:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_121/acsaf_166814838945276439_JPEG/1668148387360.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PinkFantasy(핑크판타지) - ‘Bizarre Story(기괴한 이야기) : Get Out’ _ Ep.545 |  [4K]]]></title>
+            <link>https://tv.naver.com/v/30676551</link>
+            <guid>https://tv.naver.com/v/30676551</guid>
+            <pubDate>Sat, 12 Nov 2022 07:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_33/kQA2y_1668148402024uC4sf_JPEG/1668148400219.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[mimiirose(미미로즈) - ‘Rose + Kill Me More’ ★Simply's Spotlight★ _ Ep.545 | [4K]]]></title>
+            <link>https://tv.naver.com/v/30676544</link>
+            <guid>https://tv.naver.com/v/30676544</guid>
+            <pubDate>Sat, 12 Nov 2022 07:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[8:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_191/tFDQO_1668148423356X7YsS_JPEG/1668148420989.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ALICE(앨리스) - ‘DANCE ON’ _Ep.545 [4K]]]></title>
+            <link>https://tv.naver.com/v/30676537</link>
+            <guid>https://tv.naver.com/v/30676537</guid>
+            <pubDate>Sat, 12 Nov 2022 07:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_224/i7ham_1668148436483Ul8bI_JPEG/1668148434207.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KINGDOM(킹덤) - ‘Long Live The King(백야)’ _ Ep.545 | [4K]]]></title>
+            <link>https://tv.naver.com/v/30676484</link>
+            <guid>https://tv.naver.com/v/30676484</guid>
+            <pubDate>Sat, 12 Nov 2022 07:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_31/By1uj_1668148453218c6Y17_JPEG/1668148451379.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAXY(크랙시) - ‘Poison Rose’ _ Ep.545 | [4K]]]></title>
+            <link>https://tv.naver.com/v/30676467</link>
+            <guid>https://tv.naver.com/v/30676467</guid>
+            <pubDate>Sat, 12 Nov 2022 07:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_87/5ORLS_166814849295695m91_JPEG/1668148490549.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Queenz Eye(퀸즈아이) - ‘Yummy Yummy’ _ Ep.545 | [4K]]]></title>
+            <link>https://tv.naver.com/v/30676452</link>
+            <guid>https://tv.naver.com/v/30676452</guid>
+            <pubDate>Sat, 12 Nov 2022 07:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_30/aBGRe_1668148592101mEg5X_JPEG/1668148590165.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ABLUE(에이블루) - ‘Carnival’ _ Ep.545 | [4K]]]></title>
+            <link>https://tv.naver.com/v/30676442</link>
+            <guid>https://tv.naver.com/v/30676442</guid>
+            <pubDate>Sat, 12 Nov 2022 07:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_68/8G6xl_1668148507169Qe888_JPEG/1668148504653.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[《예고》TFN(티에프엔)과 함께한 이번주 심플리 콘투어 싱가포르 편💌~!! _545]]></title>
+            <link>https://tv.naver.com/v/30658878</link>
+            <guid>https://tv.naver.com/v/30658878</guid>
+            <pubDate>Sat, 12 Nov 2022 07:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_235/vA43T_16680677534516lnDT_PNG/1668067736842.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[플리캠 4K] ALICE Do-A 'DANCE ON' (앨리스 도아 직캠) l Simply K-Pop CON-TOUR Ep.545]]></title>
+            <link>https://tv.naver.com/v/30658594</link>
+            <guid>https://tv.naver.com/v/30658594</guid>
+            <pubDate>Sat, 12 Nov 2022 07:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_23/pKxZK_16680673359725gPD7_JPEG/1668066979195.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[플리캠 4K] ALICE KARIN 'DANCE ON' (앨리스 가린 직캠) l Simply K-Pop CON-TOUR Ep.545]]></title>
+            <link>https://tv.naver.com/v/30658590</link>
+            <guid>https://tv.naver.com/v/30658590</guid>
+            <pubDate>Sat, 12 Nov 2022 07:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_111/6nWqR_1668067332385wUSL3_JPEG/1668066987672.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
