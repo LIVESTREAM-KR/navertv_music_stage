@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Nov 2022 13:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Nov 2022 14:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,124 +16,244 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.545 –  ALICE(앨리스), TFN(티에프엔), EPEX(이펙스), CRAXY(크랙시) (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30683409</link>
-            <guid>https://tv.naver.com/v/30683409</guid>
-            <pubDate>Sat, 12 Nov 2022 13:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[51:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_54/4wxyW_1668143853648nJ7c8_PNG/1668143814034.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[공소원_어느 날 문득 (원곡 정수라) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30649552</link>
+            <guid>https://tv.naver.com/v/30649552</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_178/O3nMq_166805463020412zOX_JPEG/db48d486-60af-11ed-a7c3-d4f5ef58ad5e_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Double Decker(이층버스) - 'I Wish This Was Love(사랑이 온거라면 좋겠다)' _ Ep.545 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30676896</link>
-            <guid>https://tv.naver.com/v/30676896</guid>
-            <pubDate>Sat, 12 Nov 2022 13:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_117/E4c2s_1668148350351w5jWv_JPEG/1668148347749.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EPEX(이펙스) - ‘Hymn to Love(사랑歌)’ _ Ep.545 [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30676637</link>
-            <guid>https://tv.naver.com/v/30676637</guid>
-            <pubDate>Sat, 12 Nov 2022 13:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_71/xCudp_1668148362893T0J00_JPEG/1668148361024.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TFN(티에프엔) - ‘AMAZON’ _Ep.545 [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30676607</link>
-            <guid>https://tv.naver.com/v/30676607</guid>
-            <pubDate>Sat, 12 Nov 2022 13:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_238/01M5U_1668148376550T7zWP_JPEG/1668148374684.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATBO(에이티비오) - ‘ATTITUDE’ _ Ep.545 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30676588</link>
-            <guid>https://tv.naver.com/v/30676588</guid>
-            <pubDate>Sat, 12 Nov 2022 13:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_121/acsaf_166814838945276439_JPEG/1668148387360.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PinkFantasy(핑크판타지) - ‘Bizarre Story(기괴한 이야기) : Get Out’ _ Ep.545 |  [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30676551</link>
-            <guid>https://tv.naver.com/v/30676551</guid>
-            <pubDate>Sat, 12 Nov 2022 13:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_33/kQA2y_1668148402024uC4sf_JPEG/1668148400219.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[mimiirose(미미로즈) - ‘Rose + Kill Me More’ ★Simply's Spotlight★ _ Ep.545 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30676544</link>
-            <guid>https://tv.naver.com/v/30676544</guid>
-            <pubDate>Sat, 12 Nov 2022 13:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[8:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_191/tFDQO_1668148423356X7YsS_JPEG/1668148420989.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ALICE(앨리스) - ‘DANCE ON’ _Ep.545 [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30676537</link>
-            <guid>https://tv.naver.com/v/30676537</guid>
-            <pubDate>Sat, 12 Nov 2022 13:29:29 GMT</pubDate>
+            <title><![CDATA[박도해_이런 노래 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30649550</link>
+            <guid>https://tv.naver.com/v/30649550</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
             <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_224/i7ham_1668148436483Ul8bI_JPEG/1668148434207.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_180/XIjhF_1668054625242ET6Sn_JPEG/c2fb0f35-60af-11ed-b41c-48df379cc9e4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KINGDOM(킹덤) - ‘Long Live The King(백야)’ _ Ep.545 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30676484</link>
-            <guid>https://tv.naver.com/v/30676484</guid>
-            <pubDate>Sat, 12 Nov 2022 13:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_31/By1uj_1668148453218c6Y17_JPEG/1668148451379.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[공소원,박도해_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30649545</link>
+            <guid>https://tv.naver.com/v/30649545</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[9:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_215/R0GAQ_1668054620715ih8g4_JPEG/8b5797cb-60af-11ed-bf94-d4f5ef590144_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CRAXY(크랙시) - ‘Poison Rose’ _ Ep.545 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30676467</link>
-            <guid>https://tv.naver.com/v/30676467</guid>
-            <pubDate>Sat, 12 Nov 2022 13:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_87/5ORLS_166814849295695m91_JPEG/1668148490549.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[공소원_안녕 (원곡 김창완) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30649542</link>
+            <guid>https://tv.naver.com/v/30649542</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[5:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_25/401H6_1668054615541cL3Ka_JPEG/6b718be0-60af-11ed-bf94-d4f5ef590144_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Queenz Eye(퀸즈아이) - ‘Yummy Yummy’ _ Ep.545 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30676452</link>
-            <guid>https://tv.naver.com/v/30676452</guid>
-            <pubDate>Sat, 12 Nov 2022 13:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[2:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_30/aBGRe_1668148592101mEg5X_JPEG/1668148590165.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[더원_사랑아 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30649540</link>
+            <guid>https://tv.naver.com/v/30649540</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_234/W10uS_1668054610910NdCN1_JPEG/4daefc48-60af-11ed-a7c3-d4f5ef58ad5e_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ABLUE(에이블루) - ‘Carnival’ _ Ep.545 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30676442</link>
-            <guid>https://tv.naver.com/v/30676442</guid>
-            <pubDate>Sat, 12 Nov 2022 13:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_68/8G6xl_1668148507169Qe888_JPEG/1668148504653.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[더원_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30649532</link>
+            <guid>https://tv.naver.com/v/30649532</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_290/h2E6x_1668054606540tihxU_JPEG/399d3246-60af-11ed-8892-505dac8c35ff_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[《예고》TFN(티에프엔)과 함께한 이번주 심플리 콘투어 싱가포르 편💌~!! _545 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30658878</link>
-            <guid>https://tv.naver.com/v/30658878</guid>
-            <pubDate>Sat, 12 Nov 2022 13:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_235/vA43T_16680677534516lnDT_PNG/1668067736842.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[더원_이 밤이 지나면 (원곡 임재범) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30649531</link>
+            <guid>https://tv.naver.com/v/30649531</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_94/ZvQB2_1668054602698FxTXO_JPEG/b5e2aa3e-60ae-11ed-8613-505dacfba98a_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[플리캠 4K] ALICE Do-A 'DANCE ON' (앨리스 도아 직캠) l Simply K-Pop CON-TOUR Ep.545 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30658594</link>
-            <guid>https://tv.naver.com/v/30658594</guid>
-            <pubDate>Sat, 12 Nov 2022 13:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_23/pKxZK_16680673359725gPD7_JPEG/1668066979195.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[더원_겨울사랑 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30649524</link>
+            <guid>https://tv.naver.com/v/30649524</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_115/29NYX_1668054598320amGNd_JPEG/9658c816-60ae-11ed-8613-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[플리캠 4K] ALICE KARIN 'DANCE ON' (앨리스 가린 직캠) l Simply K-Pop CON-TOUR Ep.545 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30658590</link>
-            <guid>https://tv.naver.com/v/30658590</guid>
-            <pubDate>Sat, 12 Nov 2022 13:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_111/6nWqR_1668067332385wUSL3_JPEG/1668066987672.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[정철 _ My love (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30455688</link>
+            <guid>https://tv.naver.com/v/30455688</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_176/MuMrB_1667449078192ufMHg_JPEG/8860e2b6-5b2d-11ed-a14d-505dac8c3607_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정철 _ 인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30455681</link>
+            <guid>https://tv.naver.com/v/30455681</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[8:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_222/g4fSj_1667449069892ME1Pl_JPEG/53175f6d-5b2d-11ed-8892-505dac8c35ff_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정철 _ 그대를 허락해주세요 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30455667</link>
+            <guid>https://tv.naver.com/v/30455667</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_99/mxKmF_1667449049397tOoxS_JPEG/3589749d-5b2d-11ed-83d6-48df379cca40_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권인하 _ 오래전에 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30455659</link>
+            <guid>https://tv.naver.com/v/30455659</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_33/67klX_16674490414627Ujrp_JPEG/190b73a2-5b2d-11ed-b6e8-48df37ae3dc4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권인하 _ 인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30455655</link>
+            <guid>https://tv.naver.com/v/30455655</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[10:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_144/DYOL9_1667449032930zmgkR_JPEG/da81a00a-5b2c-11ed-83d6-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권인하 _ 바람의노래(원곡 조용필) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30455635</link>
+            <guid>https://tv.naver.com/v/30455635</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_46/1j2d1_1667449012530z6xM1_JPEG/c0925f24-5b2c-11ed-8bc9-d4f5ef5906a4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권인하 _ 사랑한후에(원곡 들국화) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30455631</link>
+            <guid>https://tv.naver.com/v/30455631</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[5:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_131/xH6IO_1667449006638uFrgQ_JPEG/9a023d28-5b2c-11ed-b07a-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한기한얼_ 기다릴게(공주의 남자 OST) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30312083</link>
+            <guid>https://tv.naver.com/v/30312083</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_37/CGtEU_1666936380394b4bu9_JPEG/0ae111c2-5683-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한기한얼_ 버스정류장 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30311627</link>
+            <guid>https://tv.naver.com/v/30311627</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_14/oqnC5_1666935694554pXad0_JPEG/9bc7b675-5681-11ed-b07a-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한기한얼_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30311533</link>
+            <guid>https://tv.naver.com/v/30311533</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[9:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_152/aELDR_1666935549574tMrc5_JPEG/d8be3c60-567d-11ed-83d6-48df379cca40_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주혁_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30311091</link>
+            <guid>https://tv.naver.com/v/30311091</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[9:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_71/OKgmy_1666934840975LID7V_JPEG/513af2e9-567a-11ed-a14d-505dac8c3607_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주혁_세탁소에서 만나요 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30309320</link>
+            <guid>https://tv.naver.com/v/30309320</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_265/VSNZU_1666932151493ybM2v_JPEG/fa124986-5678-11ed-b07a-48df37ae3fca_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주혁_넌 나에게 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30309301</link>
+            <guid>https://tv.naver.com/v/30309301</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_108/shwDW_1666932101084IiH35_JPEG/1f8eb4e2-5672-11ed-8bc9-d4f5ef5906a4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주혁_푸른밤 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30309296</link>
+            <guid>https://tv.naver.com/v/30309296</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_229/VXaAZ_166693208793732CaC_JPEG/06ce10ca-566f-11ed-a14d-505dac8c3607_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주혁_우린 달랐고 달랐어 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30309292</link>
+            <guid>https://tv.naver.com/v/30309292</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_189/cBf5n_1666932082546eQzmj_JPEG/0919c7d6-566a-11ed-a57b-505dac8c385b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무성_동암역 2번 출구 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30097110</link>
+            <guid>https://tv.naver.com/v/30097110</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_69/GyR6D_1666268212670RftQG_JPEG/3b7104dc-5058-11ed-b07a-48df37ae3fca_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오곤_그럴 거야 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30097104</link>
+            <guid>https://tv.naver.com/v/30097104</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_191/kuhQq_1666268201121vn6gI_JPEG/a5c67699-5056-11ed-b25c-505dacfbaa5c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오무라이스(오곤X무성)_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30097102</link>
+            <guid>https://tv.naver.com/v/30097102</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[5:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_8/noFhp_1666268193542fgOIL_JPEG/bc395f07-5052-11ed-b6e8-48df37ae3dc4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김소연_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30097099</link>
+            <guid>https://tv.naver.com/v/30097099</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[7:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_118/QENGx_1666268189798v4EWj_JPEG/57cf8680-504f-11ed-b25c-505dacfbaa5c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김소연_All I want(원곡_kadaline) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30097096</link>
+            <guid>https://tv.naver.com/v/30097096</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[5:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_150/T3EKY_1666268182995PBnNu_JPEG/facf4e8c-504c-11ed-9f1e-d4f5ef5a9532_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김소연_Can we fly like a bird (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30097095</link>
+            <guid>https://tv.naver.com/v/30097095</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_95/3titB_1666268177897UkYLy_JPEG/4e7f53f0-504b-11ed-8bc9-d4f5ef5906a4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김소연_어른 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30097089</link>
+            <guid>https://tv.naver.com/v/30097089</guid>
+            <pubDate>Sat, 12 Nov 2022 14:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_255/RZ0Jk_1666268166738dE5gQ_JPEG/461529f0-5049-11ed-bf94-d4f5ef590144_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
