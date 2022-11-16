@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/inkigayo/clips</id>
-    <title>SBS 인기가요 ─ 네이버TV</title>
-    <updated>2022-11-16T16:28:20.224Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/inkigayo/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SBS 인기가요 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:31:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이라이트 - Alone | SBS 221113 방송]]></title>
+            <link>https://tv.naver.com/v/30731070</link>
+            <guid>https://tv.naver.com/v/30731070</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_40/4uWrv_1668327093561nUrpy_JPEG/c7fb7f2d-3465-4a1a-b585-9175d02cb935.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LE SSERAFIM - ANTIFRAGILE | SBS 221113 방송]]></title>
+            <link>https://tv.naver.com/v/30730973</link>
+            <guid>https://tv.naver.com/v/30730973</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_290/Cj6ZN_1668326796074sP5of_JPEG/f737056b-a01b-4fb5-967b-031bae95a682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조유리 - Loveable | SBS 221113 방송]]></title>
+            <link>https://tv.naver.com/v/30730972</link>
+            <guid>https://tv.naver.com/v/30730972</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_241/1Sroa_16683267944693Glkv_JPEG/5b0f4b45-a9b2-4692-99d5-e468d97fc45d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김종현 - Lights | SBS 221113 방송]]></title>
+            <link>https://tv.naver.com/v/30730814</link>
+            <guid>https://tv.naver.com/v/30730814</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_183/yKd7e_1668326254595DnErN_JPEG/f4b98f65-52bb-454d-8809-25dd3622937e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAVITY - PARTY ROCK | SBS 221113 방송]]></title>
+            <link>https://tv.naver.com/v/30730794</link>
+            <guid>https://tv.naver.com/v/30730794</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_214/YYcR0_1668326192268BRFp2_JPEG/22b90049-e8b5-4810-a150-637947b6bf2d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CLASS:y(클라씨) - Tick Tick Boom | SBS 221113 방송]]></title>
+            <link>https://tv.naver.com/v/30730711</link>
+            <guid>https://tv.naver.com/v/30730711</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_21/QklXv_1668325895359rDgIp_JPEG/5ddbbabd-ff84-491c-89a1-ad10e09fe489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes - Hair Cut | SBS 221113 방송]]></title>
+            <link>https://tv.naver.com/v/30730629</link>
+            <guid>https://tv.naver.com/v/30730629</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_137/dZUbQ_1668325592148DnRup_JPEG/ab87757e-6af8-4da1-be27-6b3731263aed.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YOUNITE - Bad Cupid | SBS 221113 방송]]></title>
+            <link>https://tv.naver.com/v/30730551</link>
+            <guid>https://tv.naver.com/v/30730551</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_79/OZWFi_16683252984750de9e_JPEG/86bbcb35-6080-4933-89c7-9ec968ef3765.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이처(NATURE) - LIMBO!(넘어와) | SBS 221113 방송]]></title>
+            <link>https://tv.naver.com/v/30730549</link>
+            <guid>https://tv.naver.com/v/30730549</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_190/6Tl9D_1668325296646tpBJh_JPEG/270bf04c-4177-4346-8fa9-4f87531e9545.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EPEX(이펙스) - 사랑歌 | SBS 221113 방송]]></title>
+            <link>https://tv.naver.com/v/30730440</link>
+            <guid>https://tv.naver.com/v/30730440</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_196/pe78s_1668324992570QUKfY_JPEG/ad1fbb9d-429e-442a-997b-5c6e626b3c6f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ICHILLIN’ - Draw | SBS 221113 방송]]></title>
+            <link>https://tv.naver.com/v/30730339</link>
+            <guid>https://tv.naver.com/v/30730339</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_239/dVYdZ_1668324695942Lxd5S_JPEG/4c40c0dd-28d1-4374-bcf5-13287ecc931b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAXY(크랙시) - Poison Rose | SBS 221113 방송]]></title>
+            <link>https://tv.naver.com/v/30730253</link>
+            <guid>https://tv.naver.com/v/30730253</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_149/YpAhD_1668324393477p37K5_JPEG/1dba13d6-93a1-4708-ac23-443d47ddb0f1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATBO - ATTITUDE | SBS 221113 방송]]></title>
+            <link>https://tv.naver.com/v/30730171</link>
+            <guid>https://tv.naver.com/v/30730171</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_225/dGDb9_1668324097163l8kAk_JPEG/f6f66c6a-b1cc-4cd5-8d20-c80a582f3123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NINE.i(나인아이) - Young Boy | SBS 221113 방송]]></title>
+            <link>https://tv.naver.com/v/30730169</link>
+            <guid>https://tv.naver.com/v/30730169</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_164/r1Srr_16683240955373lSnj_JPEG/d99b73e8-b772-48d8-bd96-65d1b6a9be7a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알렉사 - Back In Vogue | SBS 221113 방송]]></title>
+            <link>https://tv.naver.com/v/30730061</link>
+            <guid>https://tv.naver.com/v/30730061</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_138/qqgxO_1668323795565PVleg_JPEG/4478a159-b64a-4db7-bd67-99ac747bda0d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TRENDZ(트렌드지) - VAGABOND | SBS 221113 방송]]></title>
+            <link>https://tv.naver.com/v/30729961</link>
+            <guid>https://tv.naver.com/v/30729961</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_172/KQMPF_166832349067477FeV_JPEG/4eec9004-beb5-432a-a076-e00d8c6ce9a8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Queenz Eye(퀸즈아이) - Yummy Yummy | SBS 221113 방송]]></title>
+            <link>https://tv.naver.com/v/30729881</link>
+            <guid>https://tv.naver.com/v/30729881</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_134/8Zsq4_1668323190985XBVc4_JPEG/a3afad14-cf83-462d-8203-e5f8a16300b5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기현(몬스타엑스) - Youth | SBS 221106 방송]]></title>
+            <link>https://tv.naver.com/v/30530520</link>
+            <guid>https://tv.naver.com/v/30530520</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221106_298/BP4p6_1667721997813ISrfK_JPEG/28d9d911-200b-436a-99c8-875cf9089b6e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LE SSERAFIM - ANTIFRAGILE | SBS 221106 방송]]></title>
+            <link>https://tv.naver.com/v/30530518</link>
+            <guid>https://tv.naver.com/v/30530518</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221106_97/vIV1O_1667721994585IAOGe_JPEG/02710047-ceee-4b13-abbe-1411e72163e2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조유리 - Loveable | SBS 221106 방송]]></title>
+            <link>https://tv.naver.com/v/30530446</link>
+            <guid>https://tv.naver.com/v/30530446</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221106_46/kWoxA_1667721692927czpVw_JPEG/be968835-56c0-447e-b100-6def25cb7cf8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[케플러(Kep1er) - We Fresh | SBS 221106 방송]]></title>
+            <link>https://tv.naver.com/v/30530367</link>
+            <guid>https://tv.naver.com/v/30530367</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221106_21/CEGU2_1667721395348yRrp1_JPEG/db362723-7ce2-41cb-9fd6-84215972e11a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NMIXX와 함께하는 우유  캠페인송♬ | SBS 221106 방송]]></title>
+            <link>https://tv.naver.com/v/30530292</link>
+            <guid>https://tv.naver.com/v/30530292</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221106_287/6uTkY_1667722002152VvtJP_PNG/865f01a9-3e22-4bae-94be-44b9bf7f1f80.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[네이처(NATURE) - LIMBO!(넘어와) | SBS 221106 방송]]></title>
+            <link>https://tv.naver.com/v/30530291</link>
+            <guid>https://tv.naver.com/v/30530291</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221106_213/gzz9L_1667721097579zJm85_JPEG/4097bbd3-18c1-434e-9abb-f2815b85fd3c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이채연 - HUSH RUSH | SBS 221106 방송]]></title>
+            <link>https://tv.naver.com/v/30530195</link>
+            <guid>https://tv.naver.com/v/30530195</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221106_9/HlBb7_1667720792334IlhyT_JPEG/685f71fb-0e92-4488-969f-2bf6cd5bdfc2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YOUNITE - Bad Cupid | SBS 221106 방송]]></title>
+            <link>https://tv.naver.com/v/30530110</link>
+            <guid>https://tv.naver.com/v/30530110</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221106_217/pG9Ig_1667720549592n9Wtp_JPEG/2338e1ad-11b9-4239-94ea-c944857c2bb0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CLASS:y(클라씨) - Tick Tick Boom | SBS 221106 방송]]></title>
+            <link>https://tv.naver.com/v/30530091</link>
+            <guid>https://tv.naver.com/v/30530091</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221106_269/w3XVf_1667720493035gWQhR_JPEG/0dffdbeb-ae55-4330-a5f6-ceff46f1db4c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EPEX(이펙스) - 사랑歌 | SBS 221106 방송]]></title>
+            <link>https://tv.naver.com/v/30529968</link>
+            <guid>https://tv.naver.com/v/30529968</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221106_20/hEM5h_1667720197349Hbl55_JPEG/d98bf197-fef9-42d2-a2f4-349add52a850.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김완선 - 사과꽃 | SBS 221106 방송]]></title>
+            <link>https://tv.naver.com/v/30529862</link>
+            <guid>https://tv.naver.com/v/30529862</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221106_298/54f0e_166771988994851TSl_JPEG/b6a1ba95-97c8-4685-8553-c2ee7b2655c8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경서 - 고백연습 | SBS 221106 방송]]></title>
+            <link>https://tv.naver.com/v/30529808</link>
+            <guid>https://tv.naver.com/v/30529808</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221106_24/B0NN1_16677196559255kBHS_JPEG/681c42ae-de70-4494-b72c-3267f0036f76.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATBO - ATTITUDE | SBS 221106 방송]]></title>
+            <link>https://tv.naver.com/v/30529783</link>
+            <guid>https://tv.naver.com/v/30529783</guid>
+            <pubDate>Wed, 16 Nov 2022 17:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221106_232/jTkKo_1667719592372iq26S_JPEG/0e78cbdb-01ac-4426-8d5c-1fd7ed9b101a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
