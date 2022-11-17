@@ -4,9 +4,33 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 07:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 08:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] KIM JONGHYEON - Lights (김종현 - 라이트) | Show Champion | EP.457]]></title>
+            <link>https://tv.naver.com/v/30848189</link>
+            <guid>https://tv.naver.com/v/30848189</guid>
+            <pubDate>Thu, 17 Nov 2022 08:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_170/W5k9v_1668665792549M6Lqa_JPEG/CA202211160098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] AleXa - Back In Vogue (알렉사 - 백 인 보그) | Show Champion | EP.457]]></title>
+            <link>https://tv.naver.com/v/30848020</link>
+            <guid>https://tv.naver.com/v/30848020</guid>
+            <pubDate>Thu, 17 Nov 2022 08:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_295/20MBV_1668665551904rr95x_JPEG/CA202211160096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] tripleS AAA - Generation (트리플에스 AAA - 제너레이션) l Show Champion l EP.457]]></title>
+            <link>https://tv.naver.com/v/30847977</link>
+            <guid>https://tv.naver.com/v/30847977</guid>
+            <pubDate>Thu, 17 Nov 2022 08:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_119/ErvWf_1668665489768muwjo_JPEG/CA202211160097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔 1위] 11월 셋째 주 챔피언송 하이라이트 앵콜 Full ver.]]></title>
             <link>https://tv.naver.com/v/30825829</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:30:41 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221116_160/s3aPm_1668587793461GL5By_JPEG/CA202211160049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] JO YURI - Loveable (조유리 - 러버블) | Show Champion | EP.457]]></title>
-            <link>https://tv.naver.com/v/30820256</link>
-            <guid>https://tv.naver.com/v/30820256</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_290/oGz9u_16685874909475zmIs_JPEG/CA202211160048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] HIGHLIGHT SON DONGWOON (하이라이트 손동운) - S.I.L.Y(Say I Love You) | Show Champion | EP.457]]></title>
-            <link>https://tv.naver.com/v/30820110</link>
-            <guid>https://tv.naver.com/v/30820110</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_244/uzRih_1668587192338RTjzI_JPEG/CA202211160047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] HIGHLIGHT LEE KIKWANG (하이라이트 이기광) - S.I.L.Y(Say I Love You) | Show Champion | EP.457]]></title>
-            <link>https://tv.naver.com/v/30819930</link>
-            <guid>https://tv.naver.com/v/30819930</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_226/Asn5k_16685868922541LC7k_JPEG/CA202211160046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
