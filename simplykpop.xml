@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 06:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 07:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[《예고》ATBO(에이티비오)과 함께한 이번주 심플리 콘투어 나이지리아 편💌~!! _546]]></title>
+            <link>https://tv.naver.com/v/30847738</link>
+            <guid>https://tv.naver.com/v/30847738</guid>
+            <pubDate>Thu, 17 Nov 2022 07:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_175/JxXMs_1668668325446FTSTT_JPEG/1668668320896.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.545 –  ALICE(앨리스), TFN(티에프엔), EPEX(이펙스), CRAXY(크랙시)]]></title>
             <link>https://tv.naver.com/v/30683409</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 16 Nov 2022 16:28:14 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221110_23/pKxZK_16680673359725gPD7_JPEG/1668066979195.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] ALICE KARIN 'DANCE ON' (앨리스 가린 직캠) l Simply K-Pop CON-TOUR Ep.545]]></title>
-            <link>https://tv.naver.com/v/30658590</link>
-            <guid>https://tv.naver.com/v/30658590</guid>
-            <pubDate>Wed, 16 Nov 2022 16:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_111/6nWqR_1668067332385wUSL3_JPEG/1668066987672.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
