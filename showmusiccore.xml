@@ -4,9 +4,225 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 08:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 09:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] Highlight YANG YOSEOP - Alone(하이라이트 양요섭 - 얼론) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30905422</link>
+            <guid>https://tv.naver.com/v/30905422</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_96/rluhj_1668848490965k9tcp_JPEG/clip_20221119170605_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Highlight SON DONGWOON - Alone(하이라이트 손동운 - 얼론) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30905319</link>
+            <guid>https://tv.naver.com/v/30905319</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_156/121pG_1668848250098SP5Bn_JPEG/clip_20221119170608_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] DRIPPIN Hwang Yun Seong - The One(드리핀 황윤성 - 더 원) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30905316</link>
+            <guid>https://tv.naver.com/v/30905316</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_13/MUxEZ_1668848248903lKAHg_JPEG/clip_20221119170326_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KIM JONGHYEON - Lights(김종현 – 라이츠) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30905192</link>
+            <guid>https://tv.naver.com/v/30905192</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_43/VXawF_1668847895767H4c8s_JPEG/clip_20221119170747_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Highlight LEE KIKWANG - Alone(하이라이트 이기광 - 얼론) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30905191</link>
+            <guid>https://tv.naver.com/v/30905191</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_187/ctDZg_1668847894651z5a7W_JPEG/clip_20221119170741_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Highlight YOON DUJUN - Alone(하이라이트 윤두준 - 얼론) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30905190</link>
+            <guid>https://tv.naver.com/v/30905190</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_178/Yet3B_1668847893229P2y9s_JPEG/clip_20221119170607_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] DRIPPIN Joo Chang Uk - The One(드리핀 주창욱 - 더 원) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30905189</link>
+            <guid>https://tv.naver.com/v/30905189</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_267/IIvcw_1668847892256M8XU0_JPEG/clip_20221119170328_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] DRIPPIN Cha Jun Ho - The One(드리핀 차준호 - 더 원) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30905188</link>
+            <guid>https://tv.naver.com/v/30905188</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_260/PfpQG_1668847891074RszC8_JPEG/clip_20221119170324_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VICTON KANG SEUNG SIK - Virus(빅톤 강승식 - 바이러스) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30905109</link>
+            <guid>https://tv.naver.com/v/30905109</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[4:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_282/WYVco_1668847591479DjoUy_JPEG/clip_20221119170155_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VICTON SEJUN - Virus(빅톤 임세준 - 바이러스) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30905108</link>
+            <guid>https://tv.naver.com/v/30905108</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_277/XmQpt_1668847590075Ykmq1_JPEG/clip_20221119170143_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VERIVERY GYEHYEON - Tap Tap(베리베리 계현 - 탭 탭) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30905042</link>
+            <guid>https://tv.naver.com/v/30905042</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_30/KF8VP_1668847353275PP6h9_JPEG/clip_20221119170315_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] YooA - Selfish(유아 – 셀피시) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30905015</link>
+            <guid>https://tv.naver.com/v/30905015</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_245/n2kbQ_1668847290869JN2JI_JPEG/clip_20221119170307_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] JO YURI - Loveable(조유리 – 러버블) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30904942</link>
+            <guid>https://tv.naver.com/v/30904942</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_112/xeG16_1668846997116hNUyN_JPEG/clip_20221119170745_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VICTON SUBIN - Virus(빅톤 정수빈 - 바이러스) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30904941</link>
+            <guid>https://tv.naver.com/v/30904941</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_12/Aorko_166884699584945y3o_JPEG/clip_20221119170200_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VICTON HANSE - Virus(빅톤 도한세 - 바이러스) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30904940</link>
+            <guid>https://tv.naver.com/v/30904940</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_38/l9dar_1668846994812p1XT0_JPEG/clip_20221119170133_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] DRIPPIN – The One(드리핀 - 더 원) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30904939</link>
+            <guid>https://tv.naver.com/v/30904939</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_88/PNAUK_16688469932050rfTG_JPEG/clip_20221119165944_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VERIVERY – Tap Tap(베리베리 - 탭 탭) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30904937</link>
+            <guid>https://tv.naver.com/v/30904937</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_119/YODJS_1668846991307aJ7Hu_JPEG/clip_20221119165938_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VICTON BYUNGCHAN - Virus(빅톤 최병찬 - 바이러스) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30904856</link>
+            <guid>https://tv.naver.com/v/30904856</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_268/xkq62_16688466943050Hjbo_JPEG/clip_20221119170147_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] YOUNITE - Bad Cupid(유나이트 - 배드 큐피드) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30904854</link>
+            <guid>https://tv.naver.com/v/30904854</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_68/ZL9oN_1668846692858I0uXw_JPEG/clip_20221119170029_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] JO YURI - Loveable(조유리 – 러버블) FanCam (Horizontal Ver.) | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30904853</link>
+            <guid>https://tv.naver.com/v/30904853</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_235/h22qz_1668846690948wfFj0_JPEG/clip_20221119170022_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VERIVERY DONGHEON - Tap Tap(베리베리 동헌 - 탭 탭) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30904788</link>
+            <guid>https://tv.naver.com/v/30904788</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_282/4s0KR_1668846453983O8lTO_JPEG/clip_20221119170317_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VERIVERY KANGMIN  - Tap Tap(베리베리 강민 - 탭 탭) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30904787</link>
+            <guid>https://tv.naver.com/v/30904787</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_58/o3dTl_1668846452765JJyUi_JPEG/clip_20221119170313_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Xdinary Heroes – Hair Cut(엑스디너리 히어로즈 - 헤어 컷) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30904786</link>
+            <guid>https://tv.naver.com/v/30904786</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_94/CTTG6_1668846451139qqXuv_JPEG/clip_20221119170026_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Highlight – Alone(하이라이트 - 얼론) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30904766</link>
+            <guid>https://tv.naver.com/v/30904766</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_101/ejxCt_1668846393756WGmcW_JPEG/clip_20221119170006_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] YooA - Selfish(유아 – 셀피시) FanCam (Horizontal Ver.) | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30904765</link>
+            <guid>https://tv.naver.com/v/30904765</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_267/2Ae0b_16688463916612Wbq4_JPEG/clip_20221119165817_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KIM JONGHYEON - Lights(김종현 – 라이츠) FanCam (Horizontal Ver.) | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30904671</link>
+            <guid>https://tv.naver.com/v/30904671</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_80/JCK6F_16688460908868HAvo_JPEG/clip_20221119170018_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VICTON – Virus(빅톤 - 바이러스) FanCam | Show! MusicCore | MBC221119방송]]></title>
+            <link>https://tv.naver.com/v/30904670</link>
+            <guid>https://tv.naver.com/v/30904670</guid>
+            <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_203/GnilB_1668846089196aV4xW_JPEG/clip_20221119165857_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] ATBO - ATTITUDE(에이티비오 - 애티튜드) FanCam | Show! MusicCore | MBC221112방송]]></title>
             <link>https://tv.naver.com/v/30714985</link>
@@ -30,222 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221112_17/igg2a_1668245793137uQtqL_JPEG/clip_20221112180022_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] JO YURI - Loveable(조유리 – 러버블) FanCam (Horizontal Ver.) | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30714865</link>
-            <guid>https://tv.naver.com/v/30714865</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_186/7Pa18_1668245791294LxN9U_JPEG/clip_20221112175359_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KIM JONGHYEON - Lights(김종현 – 라이츠) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30714795</link>
-            <guid>https://tv.naver.com/v/30714795</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_168/28xEl_16682454906555FBEN_JPEG/clip_20221112175213_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CRAVITY - PARTY ROCK(크래비티 - 파티 락) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30714742</link>
-            <guid>https://tv.naver.com/v/30714742</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_91/o7cjJ_1668245255111mo7kn_JPEG/clip_20221112180217_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] HIGHLIGHT - S.I.L.Y (Say I Love You)(하이라이트 - 실리) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30714740</link>
-            <guid>https://tv.naver.com/v/30714740</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_281/ilJ56_1668245252926qH2Mi_JPEG/clip_20221112175609_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] JO YURI - Loveable(조유리 – 러버블) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30714739</link>
-            <guid>https://tv.naver.com/v/30714739</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_88/3ORlL_1668245251696mciUm_JPEG/clip_20221112175348_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] YOUNITE - Bad Cupid(유나이트 - 배드 큐피드) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30714724</link>
-            <guid>https://tv.naver.com/v/30714724</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_156/RB6SK_1668245194749cYV6i_JPEG/clip_20221112180012_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KIM JONGHYEON - Lights(김종현 – 라이츠) FanCam (Horizontal Ver.) | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30714723</link>
-            <guid>https://tv.naver.com/v/30714723</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_57/0XHKD_1668245192314W3BON_JPEG/clip_20221112175202_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Xdinary Heroes GUN-IL - Hair Cut(엑스디너리 히어로즈 건일 - 헤어 컷) FanCam | Show! MusicCore | MBC221112]]></title>
-            <link>https://tv.naver.com/v/30714497</link>
-            <guid>https://tv.naver.com/v/30714497</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_31/Sx2LK_16682442911469VbEP_JPEG/clip_20221112171115_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CLASS:y Ji Min - Tick Tick Boom(클라씨 지민 - 틱틱붐) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30714398</link>
-            <guid>https://tv.naver.com/v/30714398</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_157/qbayT_1668243993882UDSSa_JPEG/clip_20221112173110_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CLASS:y Ri Won - Tick Tick Boom(클라씨 리원 - 틱틱붐) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30714397</link>
-            <guid>https://tv.naver.com/v/30714397</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_240/YdKeo_16682439926626VR0O_JPEG/clip_20221112173055_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CLASS:y – Tick Tick Boom(클라씨 - 틱틱붐) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30714396</link>
-            <guid>https://tv.naver.com/v/30714396</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_101/4o4S7_1668243991134Iq4P3_JPEG/clip_20221112172621_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Xdinary Heroes GAON - Hair Cut(엑스디너리 히어로즈 가온 - 헤어 컷) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30714301</link>
-            <guid>https://tv.naver.com/v/30714301</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_203/t02eU_1668243693025GixdK_JPEG/clip_20221112171128_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Xdinary Heroes JUNGSU - Hair Cut(엑스디너리 히어로즈 정수 - 헤어 컷) FanCam | Show! MusicCore | MBC221112]]></title>
-            <link>https://tv.naver.com/v/30714300</link>
-            <guid>https://tv.naver.com/v/30714300</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_23/OkwT0_1668243691624UfRoV_JPEG/clip_20221112171121_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CLASS:y Hye Ju - Tick Tick Boom(클라씨 혜주 - 틱틱붐) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30714230</link>
-            <guid>https://tv.naver.com/v/30714230</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_54/aoZeH_1668243452328rocdT_JPEG/clip_20221112173023_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CLASS:y  Chae Won - Tick Tick Boom(클라씨 채원 - 틱틱붐) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30714229</link>
-            <guid>https://tv.naver.com/v/30714229</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_121/7gKPj_1668243451282g2Xqb_JPEG/clip_20221112173014_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Xdinary Heroes O.de - Hair Cut(엑스디너리 히어로즈 오드 - 헤어 컷) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30714227</link>
-            <guid>https://tv.naver.com/v/30714227</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_186/wvCHy_1668243450247xbf75_JPEG/clip_20221112171139_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CLASS:y Bo Eun - Tick Tick Boom(클라씨 보은 - 틱틱붐) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30714206</link>
-            <guid>https://tv.naver.com/v/30714206</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_251/JPV9f_16682433914779FUKH_JPEG/clip_20221112173008_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CLASS:y Seon You - Tick Tick Boom(클라씨 선유 - 틱틱붐) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30714098</link>
-            <guid>https://tv.naver.com/v/30714098</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_145/q9Lrx_1668243094524q6Kfa_JPEG/clip_20221112173050_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CLASS:y Hyung Seo - Tick Tick Boom(클라씨 형서 - 틱틱붐) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30714096</link>
-            <guid>https://tv.naver.com/v/30714096</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_269/c5CGp_1668243093435GbU0t_JPEG/clip_20221112172958_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Xdinary Heroes JOOYEON - Hair Cut(엑스디너리 히어로즈 주연 - 헤어 컷) FanCam | Show! MusicCore | MBC22111]]></title>
-            <link>https://tv.naver.com/v/30714094</link>
-            <guid>https://tv.naver.com/v/30714094</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_53/FAo5m_1668243091990wHz1S_JPEG/clip_20221112171335_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Xdinary Heroes JUN HAN - Hair Cut(엑스디너리 히어로즈 준한 - 헤어 컷) FanCam | Show! MusicCore | MBC22111]]></title>
-            <link>https://tv.naver.com/v/30714092</link>
-            <guid>https://tv.naver.com/v/30714092</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_118/qAcQP_1668243090581dugAe_JPEG/clip_20221112171330_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Highlight SON DONGWOON - ALONE(하이라이트 손동운 - 얼론) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30713802</link>
-            <guid>https://tv.naver.com/v/30713802</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_272/ohnvC_1668242191726KdqtD_JPEG/clip_20221112170043_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Highlight YANG YOSEOP - ALONE(하이라이트 양요섭 - 얼론) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30713621</link>
-            <guid>https://tv.naver.com/v/30713621</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_242/Oubp1_1668241651251Sgc5q_JPEG/clip_20221112170023_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Highlight YOON DUJUN - ALONE(하이라이트 윤두준 - 얼론) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30713619</link>
-            <guid>https://tv.naver.com/v/30713619</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_22/B20xZ_1668241650328Esm9D_JPEG/clip_20221112170016_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Highlight – ALONE(하이라이트 - 얼론) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30713598</link>
-            <guid>https://tv.naver.com/v/30713598</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_217/FHIpm_16682415918491qioS_JPEG/clip_20221112165539_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Xdinary Heroes – Hair Cut(엑스디너리 히어로즈 - 헤어 컷) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30713509</link>
-            <guid>https://tv.naver.com/v/30713509</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_37/jukLs_1668241291949oaneE_JPEG/clip_20221112170308_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Highlight LEE KIKWANG - ALONE(하이라이트 이기광 - 얼론) FanCam | Show! MusicCore | MBC221112방송]]></title>
-            <link>https://tv.naver.com/v/30713508</link>
-            <guid>https://tv.naver.com/v/30713508</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_262/FKIo7_16682412905579pMJ6_JPEG/clip_20221112170032_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
