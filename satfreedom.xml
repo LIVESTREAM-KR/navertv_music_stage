@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/satfreedom/clips</id>
-    <title>KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV</title>
-    <updated>2022-11-20T03:19:18.334Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/satfreedom/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 20 Nov 2022 04:23:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이아 - 보고 싶지도 않은가 봐]]></title>
+            <link>https://tv.naver.com/v/4152461</link>
+            <guid>https://tv.naver.com/v/4152461</guid>
+            <pubDate>Sun, 20 Nov 2022 04:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[4:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20180929_111/G9beU_1538215899713I1LWX_PNG/371fc9429b10161c77c5597a2bba01b3.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
