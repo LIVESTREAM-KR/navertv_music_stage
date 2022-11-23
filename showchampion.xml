@@ -4,9 +4,57 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 10:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 11:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[COMEBACK] YooA - Selfish (유아 - 셀피쉬)]]></title>
+            <link>https://tv.naver.com/v/31024050</link>
+            <guid>https://tv.naver.com/v/31024050</guid>
+            <pubDate>Wed, 23 Nov 2022 11:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_244/uzi0O_1669199790105ovQMS_JPEG/CA202211230076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] YooA - Lay Low (유아 - 레이 로우)]]></title>
+            <link>https://tv.naver.com/v/31023880</link>
+            <guid>https://tv.naver.com/v/31023880</guid>
+            <pubDate>Wed, 23 Nov 2022 11:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_151/9UgDZ_1669199496140QuLxW_JPEG/CA202211230075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KIM JONGHYEON - Blaze (김종현 - 블레이즈)]]></title>
+            <link>https://tv.naver.com/v/31023879</link>
+            <guid>https://tv.naver.com/v/31023879</guid>
+            <pubDate>Wed, 23 Nov 2022 11:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_68/1FvgN_1669199494056XYOjI_JPEG/CA202211230074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VERIVERY - Tap Tap (베리베리 - 탭 탭)]]></title>
+            <link>https://tv.naver.com/v/31023549</link>
+            <guid>https://tv.naver.com/v/31023549</guid>
+            <pubDate>Wed, 23 Nov 2022 11:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_182/M1zsP_1669198895436rCEjK_JPEG/CA202211230073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최초 공개] TO1 - Freeze Tag (티오원 - 얼음 땡)]]></title>
+            <link>https://tv.naver.com/v/31023546</link>
+            <guid>https://tv.naver.com/v/31023546</guid>
+            <pubDate>Wed, 23 Nov 2022 11:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_163/uLvtF_1669198891786XWpv5_JPEG/CA202211230072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] JANG MIN HO - Play the music (장민호 - 풍악을 울려라!)]]></title>
+            <link>https://tv.naver.com/v/31023541</link>
+            <guid>https://tv.naver.com/v/31023541</guid>
+            <pubDate>Wed, 23 Nov 2022 11:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_96/6W22V_1669198890034LbOsG_JPEG/CA202211230070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[최초 공개] TO1 - Troublemaker (티오원 - 트러블메이커)]]></title>
             <link>https://tv.naver.com/v/31023235</link>
@@ -112,7 +160,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_237/IryKG_1669196194044hmlSg_JPEG/CA202211230047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[COMEBACK] TRENDZ - VAGABOND (트렌드지 - 베가본드)]]></title>
+            <title><![CDATA[[COMEBACK] TRENDZ - VAGABOND (트렌드지 - 배가본드)]]></title>
             <link>https://tv.naver.com/v/31022189</link>
             <guid>https://tv.naver.com/v/31022189</guid>
             <pubDate>Wed, 23 Nov 2022 10:18:24 GMT</pubDate>
@@ -198,54 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:30:41 GMT</pubDate>
             <content:encoded><![CDATA[3:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221116_219/6k4ak_16685949922285gDcK_JPEG/CA202211160074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SOLO HOT DEBUT] KIM JONGHYEON - Lights (김종현 - 라이트)]]></title>
-            <link>https://tv.naver.com/v/30823675</link>
-            <guid>https://tv.naver.com/v/30823675</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_38/xiI2S_1668594698720wSr0K_JPEG/CA202211160073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JO YURI - Loveable (조유리 - 러버블)]]></title>
-            <link>https://tv.naver.com/v/30823296</link>
-            <guid>https://tv.naver.com/v/30823296</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_76/2iftP_1668593794948pPe0G_JPEG/CA202211160072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최초 공개] VERIVERY - Tap Tap (베리베리 - 탭 탭)]]></title>
-            <link>https://tv.naver.com/v/30823294</link>
-            <guid>https://tv.naver.com/v/30823294</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_21/mZ7V3_1668593792506W1T7J_JPEG/CA202211160071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최초 공개] woo!ah! - Rollercoaster (우아! - 롤러코스터)]]></title>
-            <link>https://tv.naver.com/v/30823191</link>
-            <guid>https://tv.naver.com/v/30823191</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_288/dZJia_16685935531855z7FD_JPEG/CA202211160070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] HIGHLIGHT YOON DUJUN - Alone (하이라이트 윤두준 - 얼론) | Show Champion | EP.457]]></title>
-            <link>https://tv.naver.com/v/30823190</link>
-            <guid>https://tv.naver.com/v/30823190</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_197/c2NHY_16685935519511dGgh_JPEG/CA202211160059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최초 공개] woo!ah! - LOVE THING (우아! - 러브 씽)]]></title>
-            <link>https://tv.naver.com/v/30823165</link>
-            <guid>https://tv.naver.com/v/30823165</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_130/kU5Gi_1668593493988nJaKV_JPEG/CA202211160069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
