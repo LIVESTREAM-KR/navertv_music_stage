@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 11:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 12:32:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔 1위] 11월 넷째 주 챔피언송 VERIVERY 앵콜 Full ver.]]></title>
+            <link>https://tv.naver.com/v/31026844</link>
+            <guid>https://tv.naver.com/v/31026844</guid>
+            <pubDate>Wed, 23 Nov 2022 12:31:43 GMT</pubDate>
+            <content:encoded><![CDATA[5:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_281/VSfoP_1669204293161SCR8X_JPEG/CA202211230092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[COMEBACK] YooA - Selfish (유아 - 셀피쉬)]]></title>
             <link>https://tv.naver.com/v/31024050</link>
@@ -164,7 +172,7 @@
             <link>https://tv.naver.com/v/31022189</link>
             <guid>https://tv.naver.com/v/31022189</guid>
             <pubDate>Wed, 23 Nov 2022 10:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_204/jNlyN_1669196191989ujlf5_JPEG/CA202211230046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:30:41 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221116_157/UE9XD_1668594996765F7UNY_JPEG/CA202211160075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] HIGHLIGHT - S.I.L.Y(Say I Love You) (하이라이트 - 실리(세이 아이 러브 유))]]></title>
-            <link>https://tv.naver.com/v/30823798</link>
-            <guid>https://tv.naver.com/v/30823798</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_219/6k4ak_16685949922285gDcK_JPEG/CA202211160074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
