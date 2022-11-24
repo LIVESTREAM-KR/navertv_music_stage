@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 07:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 08:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1792,6 +1792,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》SECRET NUMBER(시크릿넘버)과 함께한 이번주 심플리 콘투어 나이지리아 편💌~!! _547 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31052332</link>
+            <guid>https://tv.naver.com/v/31052332</guid>
+            <pubDate>Thu, 24 Nov 2022 08:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_72/ysVS4_1669275249329EUceV_JPEG/1669275246107.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.546 – ATBO(에이티비오), NATURE(네이처), YOUNITE(유나이트),CSR(첫사랑) (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/30877124</link>
             <guid>https://tv.naver.com/v/30877124</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Thu, 17 Nov 2022 07:16:20 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221117_175/JxXMs_1668668325446FTSTT_JPEG/1668668320896.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[플리캠 4K] YOUNITE EUNSANG 'Bad Cupid' (유나이트 은상 직캠) l Simply K -Pop CON-TOUR Ep.546 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30817047</link>
-            <guid>https://tv.naver.com/v/30817047</guid>
-            <pubDate>Fri, 18 Nov 2022 06:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_35/AceGK_1668582035014D1FQd_JPEG/1668581592461.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리누_You my love (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
