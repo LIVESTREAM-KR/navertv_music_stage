@@ -4,9 +4,65 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 08:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 09:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동물원_널 사랑하겠어]]></title>
+            <link>https://tv.naver.com/v/31051206</link>
+            <guid>https://tv.naver.com/v/31051206</guid>
+            <pubDate>Thu, 24 Nov 2022 09:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_198/MXJgI_1669271854159aszBC_JPEG/6c3fe41c-6bc1-11ed-9d68-48df379ccacc_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동물원_인터뷰]]></title>
+            <link>https://tv.naver.com/v/31051198</link>
+            <guid>https://tv.naver.com/v/31051198</guid>
+            <pubDate>Thu, 24 Nov 2022 09:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[6:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_157/CPy6B_1669271847993Rou9Y_JPEG/480069c8-6bc1-11ed-9f92-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동물원_혜화동]]></title>
+            <link>https://tv.naver.com/v/31051193</link>
+            <guid>https://tv.naver.com/v/31051193</guid>
+            <pubDate>Thu, 24 Nov 2022 09:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_45/qZZQ1_1669271841708JarH7_JPEG/2d8e8b50-6bc1-11ed-bcd3-48df379cca40_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동물원_변해가네]]></title>
+            <link>https://tv.naver.com/v/31051181</link>
+            <guid>https://tv.naver.com/v/31051181</guid>
+            <pubDate>Thu, 24 Nov 2022 09:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[5:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_194/er25l_1669271833762BUgEP_JPEG/0d34885d-6bc1-11ed-9f92-48df379cc9e4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변진섭_네게 줄수 있는건 오직 사랑뿐]]></title>
+            <link>https://tv.naver.com/v/31051175</link>
+            <guid>https://tv.naver.com/v/31051175</guid>
+            <pubDate>Thu, 24 Nov 2022 09:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_165/UCI5U_1669271827046UmQhO_JPEG/f163b643-6bc0-11ed-bdf3-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변진섭_인터뷰]]></title>
+            <link>https://tv.naver.com/v/31051161</link>
+            <guid>https://tv.naver.com/v/31051161</guid>
+            <pubDate>Thu, 24 Nov 2022 09:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[8:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_104/xni09_1669271809161yF6no_JPEG/bb9859cc-6bc0-11ed-a94b-d4f5ef58ac88_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변진섭_너에게로 또 다시]]></title>
+            <link>https://tv.naver.com/v/31051152</link>
+            <guid>https://tv.naver.com/v/31051152</guid>
+            <pubDate>Thu, 24 Nov 2022 09:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_259/3Bb0F_1669271800704jf31I_JPEG/a2f3c24d-6bc0-11ed-bcd3-48df379cca40_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리누_You my love]]></title>
             <link>https://tv.naver.com/v/30850308</link>
@@ -190,62 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:31:17 GMT</pubDate>
             <content:encoded><![CDATA[5:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221103_131/xH6IO_1667449006638uFrgQ_JPEG/9a023d28-5b2c-11ed-b07a-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한기한얼_ 기다릴게(공주의 남자 OST)]]></title>
-            <link>https://tv.naver.com/v/30312083</link>
-            <guid>https://tv.naver.com/v/30312083</guid>
-            <pubDate>Wed, 16 Nov 2022 17:31:17 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_37/CGtEU_1666936380394b4bu9_JPEG/0ae111c2-5683-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한기한얼_ 버스정류장]]></title>
-            <link>https://tv.naver.com/v/30311627</link>
-            <guid>https://tv.naver.com/v/30311627</guid>
-            <pubDate>Wed, 16 Nov 2022 17:31:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_14/oqnC5_1666935694554pXad0_JPEG/9bc7b675-5681-11ed-b07a-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한기한얼_인터뷰]]></title>
-            <link>https://tv.naver.com/v/30311533</link>
-            <guid>https://tv.naver.com/v/30311533</guid>
-            <pubDate>Wed, 16 Nov 2022 17:31:17 GMT</pubDate>
-            <content:encoded><![CDATA[9:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_152/aELDR_1666935549574tMrc5_JPEG/d8be3c60-567d-11ed-83d6-48df379cca40_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주혁_인터뷰]]></title>
-            <link>https://tv.naver.com/v/30311091</link>
-            <guid>https://tv.naver.com/v/30311091</guid>
-            <pubDate>Wed, 16 Nov 2022 17:31:17 GMT</pubDate>
-            <content:encoded><![CDATA[9:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_71/OKgmy_1666934840975LID7V_JPEG/513af2e9-567a-11ed-a14d-505dac8c3607_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주혁_세탁소에서 만나요]]></title>
-            <link>https://tv.naver.com/v/30309320</link>
-            <guid>https://tv.naver.com/v/30309320</guid>
-            <pubDate>Wed, 16 Nov 2022 17:31:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_265/VSNZU_1666932151493ybM2v_JPEG/fa124986-5678-11ed-b07a-48df37ae3fca_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주혁_넌 나에게]]></title>
-            <link>https://tv.naver.com/v/30309301</link>
-            <guid>https://tv.naver.com/v/30309301</guid>
-            <pubDate>Wed, 16 Nov 2022 17:31:17 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_108/shwDW_1666932101084IiH35_JPEG/1f8eb4e2-5672-11ed-8bc9-d4f5ef5906a4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주혁_푸른밤]]></title>
-            <link>https://tv.naver.com/v/30309296</link>
-            <guid>https://tv.naver.com/v/30309296</guid>
-            <pubDate>Wed, 16 Nov 2022 17:31:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_229/VXaAZ_166693208793732CaC_JPEG/06ce10ca-566f-11ed-a14d-505dac8c3607_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
