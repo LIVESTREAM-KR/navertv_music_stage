@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 10:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 11:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[11월 3주차 ♥쇼챔피언♡ MC 모음.zip (HIGHLIGHT 양요섭 & 손동운) | Show Champion | EP.457 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31060508</link>
+            <guid>https://tv.naver.com/v/31060508</guid>
+            <pubDate>Thu, 24 Nov 2022 11:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[6:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_42/sZCdL_1669285907974AuNio_JPEG/CA202211160106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] YooA - Lay Low (유아 - 레이 로우) l Show Champion l EP.458 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/31055069</link>
             <guid>https://tv.naver.com/v/31055069</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 23 Nov 2022 13:30:57 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_120/cVrK3_1669190790724FhVMy_JPEG/CA202211230042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TO1 RENTA - Freeze Tag (티오원 렌타 - 얼음 땡) | Show Champion | EP.458 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31018759</link>
-            <guid>https://tv.naver.com/v/31018759</guid>
-            <pubDate>Wed, 23 Nov 2022 13:30:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_103/7bKnu_1669190249925dM2uG_JPEG/CA202211230040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
