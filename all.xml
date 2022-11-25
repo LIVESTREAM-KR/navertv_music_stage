@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 05:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 06:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2040,22 +2040,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221110_178/O3nMq_166805463020412zOX_JPEG/db48d486-60af-11ed-a7c3-d4f5ef58ad5e_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[박도해_이런 노래 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30649550</link>
-            <guid>https://tv.naver.com/v/30649550</guid>
-            <pubDate>Wed, 16 Nov 2022 17:31:17 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_180/XIjhF_1668054625242ET6Sn_JPEG/c2fb0f35-60af-11ed-b41c-48df379cc9e4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공소원,박도해_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30649545</link>
-            <guid>https://tv.naver.com/v/30649545</guid>
-            <pubDate>Wed, 16 Nov 2022 17:31:17 GMT</pubDate>
-            <content:encoded><![CDATA[9:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_215/R0GAQ_1668054620715ih8g4_JPEG/8b5797cb-60af-11ed-bf94-d4f5ef590144_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[공소원_안녕 (원곡 김창완) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/30649542</link>
             <guid>https://tv.naver.com/v/30649542</guid>
@@ -2086,6 +2070,22 @@
             <pubDate>Wed, 16 Nov 2022 17:31:17 GMT</pubDate>
             <content:encoded><![CDATA[3:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221110_94/ZvQB2_1668054602698FxTXO_JPEG/b5e2aa3e-60ae-11ed-8613-505dacfba98a_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박도해_이런 노래 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30649550</link>
+            <guid>https://tv.naver.com/v/30649550</guid>
+            <pubDate>Wed, 16 Nov 2022 17:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_180/XIjhF_1668054625242ET6Sn_JPEG/c2fb0f35-60af-11ed-b41c-48df379cc9e4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공소원,박도해_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30649545</link>
+            <guid>https://tv.naver.com/v/30649545</guid>
+            <pubDate>Wed, 16 Nov 2022 17:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[9:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_215/R0GAQ_1668054620715ih8g4_JPEG/8b5797cb-60af-11ed-bf94-d4f5ef590144_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더원_겨울사랑 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
