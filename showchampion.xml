@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 09:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 10:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11월 4주차 ♥쇼챔피언♡ MC 모음.zip (김종현 & TO1 동건 & DRIPPIN 차준호) | Show Champion | EP.458]]></title>
+            <link>https://tv.naver.com/v/31061138</link>
+            <guid>https://tv.naver.com/v/31061138</guid>
+            <pubDate>Fri, 25 Nov 2022 10:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[4:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_117/z5k8z_1669287097678ASUJH_JPEG/CA202211230099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11월 3주차 ♥쇼챔피언♡ MC 모음.zip (HIGHLIGHT 양요섭 & 손동운) | Show Champion | EP.457]]></title>
             <link>https://tv.naver.com/v/31060508</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Nov 2022 13:30:57 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_251/2nzbb_1669191390256QVl3J_JPEG/CA202211230044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] YooA - Selfish (유아 - 셀피쉬) l Show Champion l EP.458]]></title>
-            <link>https://tv.naver.com/v/31019094</link>
-            <guid>https://tv.naver.com/v/31019094</guid>
-            <pubDate>Wed, 23 Nov 2022 13:30:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_120/cVrK3_1669190790724FhVMy_JPEG/CA202211230042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
