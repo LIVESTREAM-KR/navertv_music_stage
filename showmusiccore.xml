@@ -4,9 +4,25 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 09:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 10:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] VERIVERY GYEHYEON - Tap Tap(베리베리 계현 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송]]></title>
+            <link>https://tv.naver.com/v/31108696</link>
+            <guid>https://tv.naver.com/v/31108696</guid>
+            <pubDate>Sat, 26 Nov 2022 10:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_140/a91zT_1669455089619pv9Ct_JPEG/clip_20221126174619_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VERIVERY KANGMIN  - Tap Tap(베리베리 강민 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송]]></title>
+            <link>https://tv.naver.com/v/31108551</link>
+            <guid>https://tv.naver.com/v/31108551</guid>
+            <pubDate>Sat, 26 Nov 2022 10:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_72/DepmZ_1669454490290goWgO_JPEG/clip_20221126174647_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] VERIVERY HOYOUNG  - Tap Tap(베리베리 호영 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송]]></title>
             <link>https://tv.naver.com/v/31108419</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
             <content:encoded><![CDATA[3:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221119_235/h22qz_1668846690948wfFj0_JPEG/clip_20221119170022_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VERIVERY DONGHEON - Tap Tap(베리베리 동헌 - 탭 탭) FanCam | Show! MusicCore | MBC221119방송]]></title>
-            <link>https://tv.naver.com/v/30904788</link>
-            <guid>https://tv.naver.com/v/30904788</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_282/4s0KR_1668846453983O8lTO_JPEG/clip_20221119170317_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VERIVERY KANGMIN  - Tap Tap(베리베리 강민 - 탭 탭) FanCam | Show! MusicCore | MBC221119방송]]></title>
-            <link>https://tv.naver.com/v/30904787</link>
-            <guid>https://tv.naver.com/v/30904787</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_58/o3dTl_1668846452765JJyUi_JPEG/clip_20221119170313_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
