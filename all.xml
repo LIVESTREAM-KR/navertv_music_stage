@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 10:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 11:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,62 @@
             <pubDate>Sat, 26 Nov 2022 02:49:12 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TEMPEST HWARANG - Dragon (飛上)(템페스트 화랑 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31110167</link>
+            <guid>https://tv.naver.com/v/31110167</guid>
+            <pubDate>Sat, 26 Nov 2022 11:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_10/afC24_1669461090820H4so0_JPEG/clip_20221126194001_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TEMPEST HYEONGSEOP  - Dragon (飛上)(템페스트 형섭 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31110048</link>
+            <guid>https://tv.naver.com/v/31110048</guid>
+            <pubDate>Sat, 26 Nov 2022 11:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_16/T8d9Z_1669460792034FqRdg_JPEG/clip_20221126193929_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TEMPEST LEW - Dragon (飛上)(템페스트 루 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31109922</link>
+            <guid>https://tv.naver.com/v/31109922</guid>
+            <pubDate>Sat, 26 Nov 2022 11:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_29/QI1JT_1669460490290zkFtd_JPEG/clip_20221126193950_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TEMPEST EUNCHAN - Dragon (飛上)(템페스트 은찬 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31109861</link>
+            <guid>https://tv.naver.com/v/31109861</guid>
+            <pubDate>Sat, 26 Nov 2022 11:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_82/1mnj0_1669460251447nNlt6_JPEG/clip_20221126193943_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TEMPEST HYUK  - Dragon (飛上)(템페스트 혁 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31109860</link>
+            <guid>https://tv.naver.com/v/31109860</guid>
+            <pubDate>Sat, 26 Nov 2022 11:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_269/fpNKP_16694602502622qsmt_JPEG/clip_20221126193936_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TEMPEST – Dragon (飛上)(템페스트 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31109656</link>
+            <guid>https://tv.naver.com/v/31109656</guid>
+            <pubDate>Sat, 26 Nov 2022 11:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_231/JpIIi_1669459291446Ne1eR_JPEG/clip_20221126190550_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TEMPEST HANBIN - Dragon (飛上)(템페스트 한빈 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31109575</link>
+            <guid>https://tv.naver.com/v/31109575</guid>
+            <pubDate>Sat, 26 Nov 2022 11:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_57/vQ50y_1669458990227WFloj_JPEG/clip_20221126191202_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] VERIVERY GYEHYEON - Tap Tap(베리베리 계현 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -198,62 +254,6 @@
             <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221119_112/xeG16_1668846997116hNUyN_JPEG/clip_20221119170745_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VICTON SUBIN - Virus(빅톤 정수빈 - 바이러스) FanCam | Show! MusicCore | MBC221119방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30904941</link>
-            <guid>https://tv.naver.com/v/30904941</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_12/Aorko_166884699584945y3o_JPEG/clip_20221119170200_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VICTON HANSE - Virus(빅톤 도한세 - 바이러스) FanCam | Show! MusicCore | MBC221119방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30904940</link>
-            <guid>https://tv.naver.com/v/30904940</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_38/l9dar_1668846994812p1XT0_JPEG/clip_20221119170133_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] DRIPPIN – The One(드리핀 - 더 원) FanCam | Show! MusicCore | MBC221119방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30904939</link>
-            <guid>https://tv.naver.com/v/30904939</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_88/PNAUK_16688469932050rfTG_JPEG/clip_20221119165944_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VERIVERY – Tap Tap(베리베리 - 탭 탭) FanCam | Show! MusicCore | MBC221119방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30904937</link>
-            <guid>https://tv.naver.com/v/30904937</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_119/YODJS_1668846991307aJ7Hu_JPEG/clip_20221119165938_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VICTON BYUNGCHAN - Virus(빅톤 최병찬 - 바이러스) FanCam | Show! MusicCore | MBC221119방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30904856</link>
-            <guid>https://tv.naver.com/v/30904856</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_268/xkq62_16688466943050Hjbo_JPEG/clip_20221119170147_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] YOUNITE - Bad Cupid(유나이트 - 배드 큐피드) FanCam | Show! MusicCore | MBC221119방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30904854</link>
-            <guid>https://tv.naver.com/v/30904854</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_68/ZL9oN_1668846692858I0uXw_JPEG/clip_20221119170029_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] JO YURI - Loveable(조유리 – 러버블) FanCam (Horizontal Ver.) | Show! MusicCore | MBC221119방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30904853</link>
-            <guid>https://tv.naver.com/v/30904853</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_235/h22qz_1668846690948wfFj0_JPEG/clip_20221119170022_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박진영 - Groove Back | SBS 221120 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
