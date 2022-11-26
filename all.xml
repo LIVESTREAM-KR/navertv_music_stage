@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 11:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 12:28:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,86 @@
             <pubDate>Sat, 26 Nov 2022 02:49:12 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] DRIPPIN – The One(드리핀 - 더 원) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31111130</link>
+            <guid>https://tv.naver.com/v/31111130</guid>
+            <pubDate>Sat, 26 Nov 2022 12:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_124/LS1aG_1669464390992PO9ft_JPEG/clip_20221126200514_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TO1 RENTA  - Freeze Tag(티오원 렌타 - 얼음 땡) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31110989</link>
+            <guid>https://tv.naver.com/v/31110989</guid>
+            <pubDate>Sat, 26 Nov 2022 12:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_253/1wdzZ_1669463789924SHMJh_JPEG/clip_20221126200209_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Xdinary Heroes – Hair Cut(엑스디너리 히어로즈 - 헤어 컷) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31110906</link>
+            <guid>https://tv.naver.com/v/31110906</guid>
+            <pubDate>Sat, 26 Nov 2022 12:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_273/ndcEM_1669463492891jA94N_JPEG/clip_20221126200508_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATBO - ATTITUDE(에이티비오 - 애티튜드) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31110903</link>
+            <guid>https://tv.naver.com/v/31110903</guid>
+            <pubDate>Sat, 26 Nov 2022 12:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_115/63YyJ_1669463491402YpKIL_JPEG/clip_20221126200356_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VICTON – Virus(빅톤 - 바이러스) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31110835</link>
+            <guid>https://tv.naver.com/v/31110835</guid>
+            <pubDate>Sat, 26 Nov 2022 12:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_39/BKYdD_16694631907555VioX_JPEG/clip_20221126200529_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] YOUNITE - Bad Cupid(유나이트 - 배드 큐피드) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31110788</link>
+            <guid>https://tv.naver.com/v/31110788</guid>
+            <pubDate>Sat, 26 Nov 2022 12:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_134/uWNaW_1669462952795bJOWq_JPEG/clip_20221126200403_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TO1 YEO JEONG  - Freeze Tag(티오원 여정 - 얼음 땡) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31110771</link>
+            <guid>https://tv.naver.com/v/31110771</guid>
+            <pubDate>Sat, 26 Nov 2022 12:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_280/sQKXb_1669462889967ivVh8_JPEG/clip_20221126200220_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TO1 DAIGO - Freeze Tag(티오원 다이고 - 얼음 땡) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31110686</link>
+            <guid>https://tv.naver.com/v/31110686</guid>
+            <pubDate>Sat, 26 Nov 2022 12:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_25/WzYCL_1669462590695jUhB3_JPEG/clip_20221126200156_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TO1 – Freeze Tag(티오원 - 얼음 땡) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31110377</link>
+            <guid>https://tv.naver.com/v/31110377</guid>
+            <pubDate>Sat, 26 Nov 2022 12:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_161/I13Wv_1669461693966qouiR_JPEG/clip_20221126195916_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TEMPEST TAERAE  - Dragon (飛上)(템페스트 태래 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31110376</link>
+            <guid>https://tv.naver.com/v/31110376</guid>
+            <pubDate>Sat, 26 Nov 2022 12:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_163/ng2Of_1669461692675JdIRM_JPEG/clip_20221126195051_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] TEMPEST HWARANG - Dragon (飛上)(템페스트 화랑 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -174,86 +254,6 @@
             <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
             <content:encoded><![CDATA[3:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221119_13/MUxEZ_1668848248903lKAHg_JPEG/clip_20221119170326_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KIM JONGHYEON - Lights(김종현 – 라이츠) FanCam | Show! MusicCore | MBC221119방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30905192</link>
-            <guid>https://tv.naver.com/v/30905192</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_43/VXawF_1668847895767H4c8s_JPEG/clip_20221119170747_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Highlight LEE KIKWANG - Alone(하이라이트 이기광 - 얼론) FanCam | Show! MusicCore | MBC221119방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30905191</link>
-            <guid>https://tv.naver.com/v/30905191</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_187/ctDZg_1668847894651z5a7W_JPEG/clip_20221119170741_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Highlight YOON DUJUN - Alone(하이라이트 윤두준 - 얼론) FanCam | Show! MusicCore | MBC221119방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30905190</link>
-            <guid>https://tv.naver.com/v/30905190</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_178/Yet3B_1668847893229P2y9s_JPEG/clip_20221119170607_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] DRIPPIN Joo Chang Uk - The One(드리핀 주창욱 - 더 원) FanCam | Show! MusicCore | MBC221119방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30905189</link>
-            <guid>https://tv.naver.com/v/30905189</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_267/IIvcw_1668847892256M8XU0_JPEG/clip_20221119170328_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] DRIPPIN Cha Jun Ho - The One(드리핀 차준호 - 더 원) FanCam | Show! MusicCore | MBC221119방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30905188</link>
-            <guid>https://tv.naver.com/v/30905188</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_260/PfpQG_1668847891074RszC8_JPEG/clip_20221119170324_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VICTON KANG SEUNG SIK - Virus(빅톤 강승식 - 바이러스) FanCam | Show! MusicCore | MBC221119방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30905109</link>
-            <guid>https://tv.naver.com/v/30905109</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[4:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_282/WYVco_1668847591479DjoUy_JPEG/clip_20221119170155_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VICTON SEJUN - Virus(빅톤 임세준 - 바이러스) FanCam | Show! MusicCore | MBC221119방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30905108</link>
-            <guid>https://tv.naver.com/v/30905108</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_277/XmQpt_1668847590075Ykmq1_JPEG/clip_20221119170143_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VERIVERY GYEHYEON - Tap Tap(베리베리 계현 - 탭 탭) FanCam | Show! MusicCore | MBC221119방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30905042</link>
-            <guid>https://tv.naver.com/v/30905042</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_30/KF8VP_1668847353275PP6h9_JPEG/clip_20221119170315_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] YooA - Selfish(유아 – 셀피시) FanCam | Show! MusicCore | MBC221119방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30905015</link>
-            <guid>https://tv.naver.com/v/30905015</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_245/n2kbQ_1668847290869JN2JI_JPEG/clip_20221119170307_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] JO YURI - Loveable(조유리 – 러버블) FanCam | Show! MusicCore | MBC221119방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30904942</link>
-            <guid>https://tv.naver.com/v/30904942</guid>
-            <pubDate>Sat, 19 Nov 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_112/xeG16_1668846997116hNUyN_JPEG/clip_20221119170745_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박진영 - Groove Back | SBS 221120 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
