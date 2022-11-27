@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 06:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 07:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221119_13/MUxEZ_1668848248903lKAHg_JPEG/clip_20221119170326_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네이처(NATURE) - LIMBO!(넘어와) | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31121326</link>
+            <guid>https://tv.naver.com/v/31121326</guid>
+            <pubDate>Sun, 27 Nov 2022 07:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_63/KzyAA_1669533091845DG0pG_JPEG/e37b68cc-9686-4992-a3f5-f8218edf0d93.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NINE.i(나인아이) - Young Boy | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31121325</link>
+            <guid>https://tv.naver.com/v/31121325</guid>
+            <pubDate>Sun, 27 Nov 2022 07:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_220/o5z4L_1669533089940qcn73_JPEG/94bba0d6-c2dc-4727-9ce2-bd48fc46c6fc.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IRRIS(아이리스) - Stay W!th Me | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31121247</link>
+            <guid>https://tv.naver.com/v/31121247</guid>
+            <pubDate>Sun, 27 Nov 2022 07:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_86/2kqLE_1669532791199E97HK_JPEG/ed1fd922-1562-4b9c-b8af-8135c0567bf9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FIFTY FIFTY - Higher | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31121141</link>
+            <guid>https://tv.naver.com/v/31121141</guid>
+            <pubDate>Sun, 27 Nov 2022 07:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_276/KMq2q_1669532491532vevdc_JPEG/e5e76d57-7c17-4532-815c-e2bbd593ac0e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AIMERS - Fight Inside | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31120984</link>
+            <guid>https://tv.naver.com/v/31120984</guid>
+            <pubDate>Sun, 27 Nov 2022 07:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_135/rhjq9_16695318940860Fr9P_JPEG/6b99f9e6-971a-4656-839a-afd3fc702e56.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박진영 - Groove Back | SBS 221120 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/30922008</link>
             <guid>https://tv.naver.com/v/30922008</guid>
@@ -454,46 +494,6 @@
             <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221113_137/dZUbQ_1668325592148DnRup_JPEG/ab87757e-6af8-4da1-be27-6b3731263aed.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOUNITE - Bad Cupid | SBS 221113 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30730551</link>
-            <guid>https://tv.naver.com/v/30730551</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_79/OZWFi_16683252984750de9e_JPEG/86bbcb35-6080-4933-89c7-9ec968ef3765.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이처(NATURE) - LIMBO!(넘어와) | SBS 221113 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30730549</link>
-            <guid>https://tv.naver.com/v/30730549</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_190/6Tl9D_1668325296646tpBJh_JPEG/270bf04c-4177-4346-8fa9-4f87531e9545.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EPEX(이펙스) - 사랑歌 | SBS 221113 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30730440</link>
-            <guid>https://tv.naver.com/v/30730440</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_196/pe78s_1668324992570QUKfY_JPEG/ad1fbb9d-429e-442a-997b-5c6e626b3c6f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICHILLIN’ - Draw | SBS 221113 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30730339</link>
-            <guid>https://tv.naver.com/v/30730339</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_239/dVYdZ_1668324695942Lxd5S_JPEG/4c40c0dd-28d1-4374-bcf5-13287ecc931b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAXY(크랙시) - Poison Rose | SBS 221113 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30730253</link>
-            <guid>https://tv.naver.com/v/30730253</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_149/YpAhD_1668324393477p37K5_JPEG/1dba13d6-93a1-4708-ac23-443d47ddb0f1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
