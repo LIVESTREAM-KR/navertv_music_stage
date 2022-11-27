@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 07:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 08:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,110 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221119_13/MUxEZ_1668848248903lKAHg_JPEG/clip_20221119170326_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BoA - Forgive Me | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31122261</link>
+            <guid>https://tv.naver.com/v/31122261</guid>
+            <pubDate>Sun, 27 Nov 2022 08:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_203/Ghelb_1669536091118C8CP0_JPEG/52f73da2-d8f1-4a44-b3cf-5176ca48fc5e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VICTON(빅톤) - Virus | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31122170</link>
+            <guid>https://tv.naver.com/v/31122170</guid>
+            <pubDate>Sun, 27 Nov 2022 08:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_234/PuF1w_1669535792858UUjmN_JPEG/50b39049-d614-4fd7-aaa5-40b15bfedba9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유아(오마이걸) - Selfish | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31122169</link>
+            <guid>https://tv.naver.com/v/31122169</guid>
+            <pubDate>Sun, 27 Nov 2022 08:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_21/KF2zK_1669535790929tdu3d_JPEG/f3545864-3a4b-4c86-9f24-cc9d90a8ae18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[첸(CHEN) - 사라지고 있어(Last Scene) | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31122049</link>
+            <guid>https://tv.naver.com/v/31122049</guid>
+            <pubDate>Sun, 27 Nov 2022 08:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[4:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_245/Kio6M_1669535493776nk4sh_JPEG/4339a942-4555-430c-abb5-35d8e402f49c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DRIPPIN(드리핀) - The One | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31121968</link>
+            <guid>https://tv.naver.com/v/31121968</guid>
+            <pubDate>Sun, 27 Nov 2022 08:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_98/eHWfj_16695351908552krnK_JPEG/e4a25e7f-eb9a-4a1b-ba2a-57414e467a5d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베리베리(VERIVERY) - Tap Tap | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31121885</link>
+            <guid>https://tv.naver.com/v/31121885</guid>
+            <pubDate>Sun, 27 Nov 2022 08:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_121/G3ELV_1669534890208zK6U0_JPEG/629091cd-fde6-452c-929e-459f401c32c3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATBO - ATTITUDE | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31121799</link>
+            <guid>https://tv.naver.com/v/31121799</guid>
+            <pubDate>Sun, 27 Nov 2022 08:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_278/pV3Nj_1669534596932LyjiT_JPEG/3e175424-3e8d-4767-ba5e-86838f9d2b54.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TO1 - 얼음 땡 | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31121795</link>
+            <guid>https://tv.naver.com/v/31121795</guid>
+            <pubDate>Sun, 27 Nov 2022 08:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_141/uaDCl_166953459330037NX1_JPEG/d4326198-4deb-47fc-bafa-12fc3e02dfee.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SECRET NUMBER(시크릿넘버) - TAP | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31121695</link>
+            <guid>https://tv.naver.com/v/31121695</guid>
+            <pubDate>Sun, 27 Nov 2022 08:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_251/983uD_1669534292032UCcvF_JPEG/b84de57e-dc34-4a2d-ab57-bd194cc3a5d4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[첫사랑(CSR) - 러브티콘(♡TiCON) | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31121693</link>
+            <guid>https://tv.naver.com/v/31121693</guid>
+            <pubDate>Sun, 27 Nov 2022 08:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_219/8Ojcc_1669534290235JkGJD_JPEG/ed984a37-8d66-4d4c-9dbc-8937bc40fbcf.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes - Hair Cut | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31121619</link>
+            <guid>https://tv.naver.com/v/31121619</guid>
+            <pubDate>Sun, 27 Nov 2022 08:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_234/R3utX_1669533992723NECWF_JPEG/c8ca3de8-2612-4d87-9575-7fbf8c20c412.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TEMPEST(템페스트) - Dragon | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31121618</link>
+            <guid>https://tv.naver.com/v/31121618</guid>
+            <pubDate>Sun, 27 Nov 2022 08:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_136/e5OFF_1669533990726yJFLt_JPEG/06827dc2-dd99-4f63-bb95-9103c7a72efa.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YOUNITE - Bad Cupid | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31121409</link>
+            <guid>https://tv.naver.com/v/31121409</guid>
+            <pubDate>Sun, 27 Nov 2022 08:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_76/hT5uB_1669533393872PRGcp_JPEG/51c2dc6a-f233-4c46-bd81-0ab901ef1c53.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네이처(NATURE) - LIMBO!(넘어와) | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/31121326</link>
             <guid>https://tv.naver.com/v/31121326</guid>
@@ -390,110 +494,6 @@
             <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221120_179/khwH2_1668929194452VHKN1_JPEG/d9bacda5-cc2e-470f-a162-f3cf490ba92b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫사랑(CSR) - 러브티콘(♡TiCON) | SBS 221120 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30921409</link>
-            <guid>https://tv.naver.com/v/30921409</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221120_169/Nk3QK_1668929192401WqKHD_JPEG/ec4b5178-dd4a-4de2-bd1c-caa6f278df5a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICHILLIN’ - Draw | SBS 221120 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30921223</link>
-            <guid>https://tv.naver.com/v/30921223</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221120_74/kNhaU_1668928589737w1CP8_JPEG/c8763e04-7f9f-4b98-a8e6-9bc1aa100efe.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TRENDZ(트렌드지) - VAGABOND | SBS 221120 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30921134</link>
-            <guid>https://tv.naver.com/v/30921134</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221120_8/OIbwE_1668928293510qQItd_JPEG/0016796b-3b6e-4ca7-8f3a-4477d8e0a723.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SECRET NUMBER(시크릿넘버) - TAP | SBS 221120 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30921129</link>
-            <guid>https://tv.naver.com/v/30921129</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221120_15/ZdGGi_1668928290088LNvI4_JPEG/923612ec-a093-4fd6-9494-9a41ef04b55c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AIMERS - Fight Inside | SBS 221120 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30921027</link>
-            <guid>https://tv.naver.com/v/30921027</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221120_88/kFruR_1668927991302JFN6K_JPEG/709af2aa-e61d-4d7a-b7fd-8b595d81e38a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TFN - AMAZON | SBS 221120 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30920960</link>
-            <guid>https://tv.naver.com/v/30920960</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221120_20/3FF4B_1668927690539nedoE_JPEG/7688420e-fe01-4cdf-be7f-e25a5ebf8ea5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이라이트 - Alone | SBS 221113 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30731070</link>
-            <guid>https://tv.naver.com/v/30731070</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_40/4uWrv_1668327093561nUrpy_JPEG/c7fb7f2d-3465-4a1a-b585-9175d02cb935.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LE SSERAFIM - ANTIFRAGILE | SBS 221113 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30730973</link>
-            <guid>https://tv.naver.com/v/30730973</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_290/Cj6ZN_1668326796074sP5of_JPEG/f737056b-a01b-4fb5-967b-031bae95a682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조유리 - Loveable | SBS 221113 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30730972</link>
-            <guid>https://tv.naver.com/v/30730972</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_241/1Sroa_16683267944693Glkv_JPEG/5b0f4b45-a9b2-4692-99d5-e468d97fc45d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김종현 - Lights | SBS 221113 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30730814</link>
-            <guid>https://tv.naver.com/v/30730814</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_183/yKd7e_1668326254595DnErN_JPEG/f4b98f65-52bb-454d-8809-25dd3622937e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAVITY - PARTY ROCK | SBS 221113 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30730794</link>
-            <guid>https://tv.naver.com/v/30730794</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_214/YYcR0_1668326192268BRFp2_JPEG/22b90049-e8b5-4810-a150-637947b6bf2d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CLASS:y(클라씨) - Tick Tick Boom | SBS 221113 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30730711</link>
-            <guid>https://tv.naver.com/v/30730711</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_21/QklXv_1668325895359rDgIp_JPEG/5ddbbabd-ff84-491c-89a1-ad10e09fe489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Xdinary Heroes - Hair Cut | SBS 221113 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30730629</link>
-            <guid>https://tv.naver.com/v/30730629</guid>
-            <pubDate>Sun, 27 Nov 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_137/dZUbQ_1668325592148DnRup_JPEG/ab87757e-6af8-4da1-be27-6b3731263aed.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
