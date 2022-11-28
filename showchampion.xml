@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 03:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 04:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 청량, 섹시, 사랑 말만 해🎶 쇼챔피언에는 다 있으니깐💚]]></title>
+            <link>https://tv.naver.com/v/31133022</link>
+            <guid>https://tv.naver.com/v/31133022</guid>
+            <pubDate>Mon, 28 Nov 2022 04:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[0:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221128_168/DxEaQ_1669593691376XJSOH_JPEG/CA202211300003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11월 4주차 ♥쇼챔피언♡ MC 모음.zip (김종현 & TO1 동건 & DRIPPIN 차준호) | Show Champion | EP.458]]></title>
             <link>https://tv.naver.com/v/31061138</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Nov 2022 10:18:24 GMT</pubDate>
             <content:encoded><![CDATA[3:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_190/iTDbk_1669195291606uNsv1_JPEG/CA202211230045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[원픽캠 4K] YooA - Selfish (유아 - 셀피쉬) l Show Champion l EP.458]]></title>
-            <link>https://tv.naver.com/v/31019488</link>
-            <guid>https://tv.naver.com/v/31019488</guid>
-            <pubDate>Wed, 23 Nov 2022 13:30:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_251/2nzbb_1669191390256QVl3J_JPEG/CA202211230044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
