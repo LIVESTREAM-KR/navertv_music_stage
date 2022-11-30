@@ -4,9 +4,25 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 12:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 13:30:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] VERIVERY HOYOUNG - Tap Tap (베리베리 호영 - 탭탭) | Show Champion | EP.459]]></title>
+            <link>https://tv.naver.com/v/31221386</link>
+            <guid>https://tv.naver.com/v/31221386</guid>
+            <pubDate>Wed, 30 Nov 2022 13:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_284/9AB4M_16698049530916ugJQ_JPEG/CA202211300058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] VERIVERY YONGSEUNG - Tap Tap (베리베리 용승 - 탭탭) | Show Champion | EP.459]]></title>
+            <link>https://tv.naver.com/v/31221234</link>
+            <guid>https://tv.naver.com/v/31221234</guid>
+            <pubDate>Wed, 30 Nov 2022 13:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_239/GSKrS_1669804590585tVseE_JPEG/CA202211300042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VERIVERY - Tap Tap (베리베리 - 탭 탭)]]></title>
             <link>https://tv.naver.com/v/31220973</link>
@@ -14,6 +30,14 @@
             <pubDate>Wed, 30 Nov 2022 11:14:22 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_39/RYSu4_1669804056430J4Sru_JPEG/CA202211300062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] VERIVERY KANGMIN - Tap Tap (베리베리 강민 - 탭탭) | Show Champion | EP.459]]></title>
+            <link>https://tv.naver.com/v/31220967</link>
+            <guid>https://tv.naver.com/v/31220967</guid>
+            <pubDate>Wed, 30 Nov 2022 13:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_261/ny52y_1669804050924jhBhS_JPEG/CA202211300049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TO1 - Freeze Tag (티오원 - 얼음 땡)]]></title>
@@ -40,6 +64,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_256/QyPsk_1669803993351eXv6T_JPEG/CA202211300059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] VERIVERY GYEHYEON - Tap Tap (베리베리 계현 - 탭탭) | Show Champion | EP.459]]></title>
+            <link>https://tv.naver.com/v/31220792</link>
+            <guid>https://tv.naver.com/v/31220792</guid>
+            <pubDate>Wed, 30 Nov 2022 13:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_162/U9oSp_1669803689913ozE9U_JPEG/CA202211300040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[woo!ah! - Rollercoaster (우아! - 롤러코스터)]]></title>
             <link>https://tv.naver.com/v/31220572</link>
             <guid>https://tv.naver.com/v/31220572</guid>
@@ -64,6 +96,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_240/rW6R8_1669803092172oHmiD_JPEG/CA202211300055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] VERIVERY MINCHAN - Tap Tap (베리베리 민찬 - 탭탭) | Show Champion | EP.459]]></title>
+            <link>https://tv.naver.com/v/31220542</link>
+            <guid>https://tv.naver.com/v/31220542</guid>
+            <pubDate>Wed, 30 Nov 2022 13:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_68/C4LJR_1669803091078DYCUG_JPEG/CA202211300039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SECRET NUMBER - TAP (시크릿넘버 - 탭)]]></title>
             <link>https://tv.naver.com/v/31220413</link>
             <guid>https://tv.naver.com/v/31220413</guid>
@@ -72,12 +112,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_41/7j7Nc_1669802793765DEtIG_JPEG/CA202211300054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] VERIVERY - Tap Tap (베리베리 - 탭탭) l Show Champion l EP.459]]></title>
+            <link>https://tv.naver.com/v/31220412</link>
+            <guid>https://tv.naver.com/v/31220412</guid>
+            <pubDate>Wed, 30 Nov 2022 13:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_76/dDImg_1669802791637fiRsp_JPEG/CA202211300037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ALICE - DANCE ON (앨리스 - 댄스 온)]]></title>
             <link>https://tv.naver.com/v/31220151</link>
             <guid>https://tv.naver.com/v/31220151</guid>
             <pubDate>Wed, 30 Nov 2022 10:17:54 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_238/Qv8XR_1669802251754P7JKQ_JPEG/CA202211300053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] DRIPPIN HWANG YUNSEONG - The One (드리핀 황윤성 - 더 원) | Show Champion | EP.459]]></title>
+            <link>https://tv.naver.com/v/31220150</link>
+            <guid>https://tv.naver.com/v/31220150</guid>
+            <pubDate>Wed, 30 Nov 2022 13:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_195/R51OY_1669802250358v8QNh_JPEG/CA202211300035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JUST B - ME= (NANEUN) (저스트비 - 미= (나는))]]></title>
@@ -136,12 +192,44 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_78/CmFg3_1669801591661FkpLf_JPEG/CA202211300047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] VERIVERY DONGHEON - Tap Tap (베리베리 동헌 - 탭탭) | Show Champion | EP.459]]></title>
+            <link>https://tv.naver.com/v/31219766</link>
+            <guid>https://tv.naver.com/v/31219766</guid>
+            <pubDate>Wed, 30 Nov 2022 13:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_230/tRuDk_16698015904572ighA_JPEG/CA202211300038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[withus - Barricade (위더스 - 바리케이드)]]></title>
             <link>https://tv.naver.com/v/31219653</link>
             <guid>https://tv.naver.com/v/31219653</guid>
             <pubDate>Wed, 30 Nov 2022 10:17:54 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_221/aKzb0_1669801354603hw3d9_JPEG/CA202211300044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] DRIPPIN - The One (드리핀 - 더 원) l Show Champion l EP.459]]></title>
+            <link>https://tv.naver.com/v/31219651</link>
+            <guid>https://tv.naver.com/v/31219651</guid>
+            <pubDate>Wed, 30 Nov 2022 13:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_265/QDWLW_1669801352639amLgh_JPEG/CA202211300036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] VERIVERY YEONHO - Tap Tap (베리베리 연호 - 탭탭) | Show Champion | EP.459]]></title>
+            <link>https://tv.naver.com/v/31219468</link>
+            <guid>https://tv.naver.com/v/31219468</guid>
+            <pubDate>Wed, 30 Nov 2022 13:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_202/iYARl_1669800990337kct5u_JPEG/CA202211300041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] DRIPPIN CHA JUNHO - The One (드리핀 차준호 - 더 원) | Show Champion | EP.459]]></title>
+            <link>https://tv.naver.com/v/31219218</link>
+            <guid>https://tv.naver.com/v/31219218</guid>
+            <pubDate>Wed, 30 Nov 2022 13:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_121/ZNpjl_1669800450971Iktj8_JPEG/CA202211300034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Miss. Jung - All right (미쓰정 - 좋습니다)]]></title>
@@ -152,100 +240,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_52/dxQtZ_1669800395282XFAuB_JPEG/CA202211300043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예고] 청량, 섹시, 사랑 말만 해🎶 쇼챔피언에는 다 있으니깐💚]]></title>
-            <link>https://tv.naver.com/v/31133022</link>
-            <guid>https://tv.naver.com/v/31133022</guid>
-            <pubDate>Mon, 28 Nov 2022 04:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221128_168/DxEaQ_1669593691376XJSOH_JPEG/CA202211300003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11월 4주차 ♥쇼챔피언♡ MC 모음.zip (김종현 & TO1 동건 & DRIPPIN 차준호) | Show Champion | EP.458]]></title>
-            <link>https://tv.naver.com/v/31061138</link>
-            <guid>https://tv.naver.com/v/31061138</guid>
-            <pubDate>Fri, 25 Nov 2022 10:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[4:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_117/z5k8z_1669287097678ASUJH_JPEG/CA202211230099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11월 3주차 ♥쇼챔피언♡ MC 모음.zip (HIGHLIGHT 양요섭 & 손동운) | Show Champion | EP.457]]></title>
-            <link>https://tv.naver.com/v/31060508</link>
-            <guid>https://tv.naver.com/v/31060508</guid>
-            <pubDate>Thu, 24 Nov 2022 11:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[6:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_42/sZCdL_1669285907974AuNio_JPEG/CA202211160106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] YooA - Lay Low (유아 - 레이 로우) l Show Champion l EP.458]]></title>
-            <link>https://tv.naver.com/v/31055069</link>
-            <guid>https://tv.naver.com/v/31055069</guid>
-            <pubDate>Thu, 24 Nov 2022 09:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[2:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_29/QaIpr_1669276650885TspU9_JPEG/CA202211230097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] woo!ah! - Rollercoaster (우아! - 롤러코스터) l Show Champion l EP.458]]></title>
-            <link>https://tv.naver.com/v/31054298</link>
-            <guid>https://tv.naver.com/v/31054298</guid>
-            <pubDate>Thu, 24 Nov 2022 09:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_53/XOp5F_1669275754754V4Ty9_JPEG/CA202211230096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] VERIVERY - Tap Tap (베리베리 - 탭 탭) l Show Champion l EP.458]]></title>
-            <link>https://tv.naver.com/v/31054295</link>
-            <guid>https://tv.naver.com/v/31054295</guid>
-            <pubDate>Thu, 24 Nov 2022 09:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_221/B4OAp_1669275752951SDS3G_JPEG/CA202211230094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] SECRET NUMBER - TAP (시크릿넘버 - 탭) l Show Champion l EP.458]]></title>
-            <link>https://tv.naver.com/v/31053457</link>
-            <guid>https://tv.naver.com/v/31053457</guid>
-            <pubDate>Thu, 24 Nov 2022 09:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_284/yrkfw_1669274799349yHy2K_JPEG/CA202211230095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 1위] 11월 넷째 주 챔피언송 VERIVERY 앵콜 Full ver.]]></title>
-            <link>https://tv.naver.com/v/31026844</link>
-            <guid>https://tv.naver.com/v/31026844</guid>
-            <pubDate>Wed, 23 Nov 2022 12:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[5:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_281/VSfoP_1669204293161SCR8X_JPEG/CA202211230092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] YooA - Selfish (유아 - 셀피쉬)]]></title>
-            <link>https://tv.naver.com/v/31024050</link>
-            <guid>https://tv.naver.com/v/31024050</guid>
-            <pubDate>Wed, 23 Nov 2022 11:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_244/uzi0O_1669199790105ovQMS_JPEG/CA202211230076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] YooA - Lay Low (유아 - 레이 로우)]]></title>
-            <link>https://tv.naver.com/v/31023880</link>
-            <guid>https://tv.naver.com/v/31023880</guid>
-            <pubDate>Wed, 23 Nov 2022 11:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_151/9UgDZ_1669199496140QuLxW_JPEG/CA202211230075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KIM JONGHYEON - Blaze (김종현 - 블레이즈)]]></title>
-            <link>https://tv.naver.com/v/31023879</link>
-            <guid>https://tv.naver.com/v/31023879</guid>
-            <pubDate>Wed, 23 Nov 2022 11:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_68/1FvgN_1669199494056XYOjI_JPEG/CA202211230074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VERIVERY - Tap Tap (베리베리 - 탭 탭)]]></title>
-            <link>https://tv.naver.com/v/31023549</link>
-            <guid>https://tv.naver.com/v/31023549</guid>
-            <pubDate>Wed, 23 Nov 2022 11:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_182/M1zsP_1669198895436rCEjK_JPEG/CA202211230073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[쇼챔직캠 4K] DRIPPIN LEE HYEOP - The One (드리핀 이협 - 더 원) | Show Champion | EP.459]]></title>
+            <link>https://tv.naver.com/v/31219036</link>
+            <guid>https://tv.naver.com/v/31219036</guid>
+            <pubDate>Wed, 30 Nov 2022 13:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_25/wqpEr_1669800090027kvEMT_JPEG/CA202211300033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
