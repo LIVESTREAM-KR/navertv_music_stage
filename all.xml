@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 10:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 11:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,38 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[VERIVERY - Tap Tap (베리베리 - 탭 탭) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31220973</link>
+            <guid>https://tv.naver.com/v/31220973</guid>
+            <pubDate>Wed, 30 Nov 2022 11:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_39/RYSu4_1669804056430J4Sru_JPEG/CA202211300062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TO1 - Freeze Tag (티오원 - 얼음 땡) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31220933</link>
+            <guid>https://tv.naver.com/v/31220933</guid>
+            <pubDate>Wed, 30 Nov 2022 11:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_61/QDIWb_1669803996934PoFUK_JPEG/CA202211300061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DRIPPIN - The One (드리핀 - 더 원) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31220928</link>
+            <guid>https://tv.naver.com/v/31220928</guid>
+            <pubDate>Wed, 30 Nov 2022 11:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_252/ZVxcU_1669803994972uHAtK_JPEG/CA202211300060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엔딩원샷] 사랑의 Tap Tap! '1위 가수' 베리베리의 4대 엔딩 요정은 누구? (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31220925</link>
+            <guid>https://tv.naver.com/v/31220925</guid>
+            <pubDate>Wed, 30 Nov 2022 11:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[4:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_256/QyPsk_1669803993351eXv6T_JPEG/CA202211300059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[woo!ah! - Rollercoaster (우아! - 롤러코스터) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/31220572</link>
             <guid>https://tv.naver.com/v/31220572</guid>
@@ -1422,38 +1454,6 @@
             <pubDate>Wed, 23 Nov 2022 11:14:08 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_182/M1zsP_1669198895436rCEjK_JPEG/CA202211230073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최초 공개] TO1 - Freeze Tag (티오원 - 얼음 땡) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31023546</link>
-            <guid>https://tv.naver.com/v/31023546</guid>
-            <pubDate>Wed, 23 Nov 2022 11:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_163/uLvtF_1669198891786XWpv5_JPEG/CA202211230072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] JANG MIN HO - Play the music (장민호 - 풍악을 울려라!) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31023541</link>
-            <guid>https://tv.naver.com/v/31023541</guid>
-            <pubDate>Wed, 23 Nov 2022 11:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_96/6W22V_1669198890034LbOsG_JPEG/CA202211230070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최초 공개] TO1 - Troublemaker (티오원 - 트러블메이커) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31023235</link>
-            <guid>https://tv.naver.com/v/31023235</guid>
-            <pubDate>Wed, 23 Nov 2022 10:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_78/587Ay_1669198355035AJYyP_JPEG/CA202211230071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ALICE - DANCE ON (앨리스 - 댄스 온) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31023232</link>
-            <guid>https://tv.naver.com/v/31023232</guid>
-            <pubDate>Wed, 23 Nov 2022 10:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_218/HXDek_166919835159178H4z_JPEG/CA202211230069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
