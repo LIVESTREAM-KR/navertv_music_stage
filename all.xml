@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 09:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 10:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Wed, 30 Nov 2022 08:20:35 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CLASS:y – ZEALOUS(클라씨 - 질러스) FanCam | Show! MusicCore | MBC221203방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31305362</link>
+            <guid>https://tv.naver.com/v/31305362</guid>
+            <pubDate>Sat, 03 Dec 2022 10:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_256/kubWa_1670059294020VjUHc_JPEG/clip_20221203170704_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TRENDZ – VAGABOND(트렌드지 - 배가본드) FanCam | Show! MusicCore | MBC221203방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31305359</link>
+            <guid>https://tv.naver.com/v/31305359</guid>
+            <pubDate>Sat, 03 Dec 2022 10:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_208/c5gou_1670059291875XKFtl_JPEG/clip_20221203170657_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VERIVERY – Tap Tap(베리베리 - 탭 탭) FanCam | Show! MusicCore | MBC221203방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31305358</link>
+            <guid>https://tv.naver.com/v/31305358</guid>
+            <pubDate>Sat, 03 Dec 2022 10:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_236/PdX2o_16700592905324sEXE_JPEG/clip_20221203170641_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] ITZY RYUJIN  - Cheshire(있지 류진 - 체셔) FanCam | Show! MusicCore | MBC221203방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Sat, 26 Nov 2022 12:27:31 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221126_273/ndcEM_1669463492891jA94N_JPEG/clip_20221126200508_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ATBO - ATTITUDE(에이티비오 - 애티튜드) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31110903</link>
-            <guid>https://tv.naver.com/v/31110903</guid>
-            <pubDate>Sat, 26 Nov 2022 12:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_115/63YyJ_1669463491402YpKIL_JPEG/clip_20221126200356_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VICTON – Virus(빅톤 - 바이러스) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31110835</link>
-            <guid>https://tv.naver.com/v/31110835</guid>
-            <pubDate>Sat, 26 Nov 2022 12:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_39/BKYdD_16694631907555VioX_JPEG/clip_20221126200529_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] YOUNITE - Bad Cupid(유나이트 - 배드 큐피드) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31110788</link>
-            <guid>https://tv.naver.com/v/31110788</guid>
-            <pubDate>Sat, 26 Nov 2022 12:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_134/uWNaW_1669462952795bJOWq_JPEG/clip_20221126200403_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BoA - Forgive Me | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
