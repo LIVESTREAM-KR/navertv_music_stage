@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 06:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 07:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221203_158/tF7Ff_1670053291356L3TFG_JPEG/clip_20221203160631_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[JUST B - ME=(나는) | SBS 221204 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31319873</link>
+            <guid>https://tv.naver.com/v/31319873</guid>
+            <pubDate>Sun, 04 Dec 2022 07:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_134/rKDhg_16701379551712YEg2_JPEG/62646cee-8210-47e3-af71-baac69f4ad32.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알렉사 - Back In Vogue | SBS 221204 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31319872</link>
+            <guid>https://tv.naver.com/v/31319872</guid>
+            <pubDate>Sun, 04 Dec 2022 07:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_14/xP8jH_1670137953305Kq6fo_JPEG/4f365cd6-904f-4713-b7cc-0413fc8678cc.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NTX - 올드스쿨(Old School) | SBS 221204 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31319762</link>
+            <guid>https://tv.naver.com/v/31319762</guid>
+            <pubDate>Sun, 04 Dec 2022 07:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_218/yVRZJ_1670137590428ILifF_JPEG/ae28a866-022f-427c-bf28-dac4fee4c526.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BoA - Forgive Me | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/31122261</link>
             <guid>https://tv.naver.com/v/31122261</guid>
@@ -470,30 +494,6 @@
             <pubDate>Wed, 30 Nov 2022 08:20:48 GMT</pubDate>
             <content:encoded><![CDATA[2:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221120_179/4Vn9o_1668930092728d7aom_JPEG/c7738c13-7b76-4858-bbfb-23898f0979db.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베리베리(VERIVERY) - Tap Tap | SBS 221120 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30921537</link>
-            <guid>https://tv.naver.com/v/30921537</guid>
-            <pubDate>Wed, 30 Nov 2022 08:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221120_81/DAxP3_1668929792908DVXNj_JPEG/f1c7c307-9e43-49c6-963f-97f7387026cf.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이처(NATURE) - LIMBO!(넘어와) | SBS 221120 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30921426</link>
-            <guid>https://tv.naver.com/v/30921426</guid>
-            <pubDate>Wed, 30 Nov 2022 08:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221120_63/4px6l_1668929253452YKmKd_JPEG/429b18be-8690-486b-9cc5-9fb3eba3037c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DRIPPIN(드리핀) - The One | SBS 221120 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/30921410</link>
-            <guid>https://tv.naver.com/v/30921410</guid>
-            <pubDate>Wed, 30 Nov 2022 08:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221120_179/khwH2_1668929194452VHKN1_JPEG/d9bacda5-cc2e-470f-a162-f3cf490ba92b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
