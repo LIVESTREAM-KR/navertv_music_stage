@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 02:43:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 03:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,28 +232,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221203_165/N3LqO_1670056591595xAmpT_JPEG/clip_20221203165944_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] DRIPPIN – The One(드리핀 - 더 원) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31111130</link>
-            <guid>https://tv.naver.com/v/31111130</guid>
-            <pubDate>Sat, 26 Nov 2022 12:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_124/LS1aG_1669464390992PO9ft_JPEG/clip_20221126200514_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[#최애직캠] KARA Han Seung Yeon - WHEN I MOVE(카라 한승연 - 웬 아이 무브) Close-up Cam|Show! MusicCore|MBC221203방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31303633</link>
+            <guid>https://tv.naver.com/v/31303633</guid>
+            <pubDate>Sun, 04 Dec 2022 03:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_192/ipsMw_1670053590670QB3d6_JPEG/clip_20221203160638_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] TO1 RENTA  - Freeze Tag(티오원 렌타 - 얼음 땡) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31110989</link>
-            <guid>https://tv.naver.com/v/31110989</guid>
-            <pubDate>Sat, 26 Nov 2022 12:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_253/1wdzZ_1669463789924SHMJh_JPEG/clip_20221126200209_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Xdinary Heroes – Hair Cut(엑스디너리 히어로즈 - 헤어 컷) FanCam | Show! MusicCore | MBC221126방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31110906</link>
-            <guid>https://tv.naver.com/v/31110906</guid>
-            <pubDate>Sat, 26 Nov 2022 12:27:31 GMT</pubDate>
+            <title><![CDATA[[#최애직캠] KARA Kang Ji Young - WHEN I MOVE(카라 강지영 - 웬 아이 무브) Close-up Cam|Show! MusicCore|MBC221203방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31303532</link>
+            <guid>https://tv.naver.com/v/31303532</guid>
+            <pubDate>Sun, 04 Dec 2022 03:16:52 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_273/ndcEM_1669463492891jA94N_JPEG/clip_20221126200508_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_59/HLATm_1670053293607XHDq1_JPEG/clip_20221203160652_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] KARA Hur Young Ji - WHEN I MOVE(카라 허영지 - 웬 아이 무브) Close-up Cam|Show! MusicCore|MBC221203방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31303530</link>
+            <guid>https://tv.naver.com/v/31303530</guid>
+            <pubDate>Sun, 04 Dec 2022 03:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_158/tF7Ff_1670053291356L3TFG_JPEG/clip_20221203160631_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BoA - Forgive Me | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
