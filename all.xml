@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 06:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 07:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Sun, 04 Dec 2022 14:13:05 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ITZY RYUJIN - Cheshire(있지 류진 - 체셔) Close-up Cam | Show! MusicCore | MBC221203방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31344559</link>
+            <guid>https://tv.naver.com/v/31344559</guid>
+            <pubDate>Mon, 05 Dec 2022 07:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_44/Jy9kQ_1670221291056EFPHU_JPEG/clip_20221205144525_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ITZY CHAERYEONG - Cheshire(있지 채령 - 체셔) Close-up Cam | Show! MusicCore | MBC221203방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31344555</link>
+            <guid>https://tv.naver.com/v/31344555</guid>
+            <pubDate>Mon, 05 Dec 2022 07:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_169/uA6Ne_1670221289323BO6H3_JPEG/clip_20221205144524_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] Red Velvet IRENE - Birthday(레드벨벳 아이린 - 벌스데이) Close-up Cam | Show! MusicCore | MBC221203방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 03 Dec 2022 09:13:49 GMT</pubDate>
             <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221203_220/9si9p_1670056592926TzyMU_JPEG/clip_20221203165945_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KARA PARK GYU RI - WHEN I MOVE(카라 박규리 - 웬 아이 무브) FanCam | Show! MusicCore | MBC221203방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31304562</link>
-            <guid>https://tv.naver.com/v/31304562</guid>
-            <pubDate>Sat, 03 Dec 2022 09:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_165/N3LqO_1670056591595xAmpT_JPEG/clip_20221203165944_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] KARA Han Seung Yeon - WHEN I MOVE(카라 한승연 - 웬 아이 무브) Close-up Cam|Show! MusicCore|MBC221203방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31303633</link>
-            <guid>https://tv.naver.com/v/31303633</guid>
-            <pubDate>Sun, 04 Dec 2022 03:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_192/ipsMw_1670053590670QB3d6_JPEG/clip_20221203160638_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KARA - WHEN I MOVE | SBS 221204 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
