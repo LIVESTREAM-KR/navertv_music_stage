@@ -4,9 +4,65 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 15:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 16:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] P1harmony INTAK - Back Down (피원하모니 인탁 - 백 다운) | Show Champion | EP.460]]></title>
+            <link>https://tv.naver.com/v/31429382</link>
+            <guid>https://tv.naver.com/v/31429382</guid>
+            <pubDate>Wed, 07 Dec 2022 16:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_286/UKlWt_16704282922670Toc3_JPEG/CA202212070020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] P1harmony JIUNG - Back Down (피원하모니 지웅 - 백 다운) | Show Champion | EP.460]]></title>
+            <link>https://tv.naver.com/v/31429253</link>
+            <guid>https://tv.naver.com/v/31429253</guid>
+            <pubDate>Wed, 07 Dec 2022 16:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_218/8TcgL_16704277532571FLyc_JPEG/CA202212070018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] P1harmony SOUL - Back Down (피원하모니 소울 - 백 다운) | Show Champion | EP.460]]></title>
+            <link>https://tv.naver.com/v/31429150</link>
+            <guid>https://tv.naver.com/v/31429150</guid>
+            <pubDate>Wed, 07 Dec 2022 16:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_43/1M5mL_1670427393370z40ef_JPEG/CA202212070023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] CIX BX - Cinema (씨아이엑스 비엑스 - 씨네마) | Show Champion | EP.460]]></title>
+            <link>https://tv.naver.com/v/31429148</link>
+            <guid>https://tv.naver.com/v/31429148</guid>
+            <pubDate>Wed, 07 Dec 2022 16:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_218/1GHpQ_1670427392061NzXwl_JPEG/CA202212070025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] P1harmony JONG SEOB - Back Down (피원하모니 종섭 - 백 다운) | Show Champion | EP.460]]></title>
+            <link>https://tv.naver.com/v/31428881</link>
+            <guid>https://tv.naver.com/v/31428881</guid>
+            <pubDate>Wed, 07 Dec 2022 16:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_176/o49DQ_1670426493403uwEHK_JPEG/CA202212070021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] CIX - Cinema (씨아이엑스 - 씨네마) l Show Champion l EP.460]]></title>
+            <link>https://tv.naver.com/v/31428879</link>
+            <guid>https://tv.naver.com/v/31428879</guid>
+            <pubDate>Wed, 07 Dec 2022 16:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_82/f7fZG_1670426491269DABgW_JPEG/CA202212070024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] CIX SEUNGHUN - Cinema (씨아이엑스 승훈 - 씨네마) | Show Champion | EP.460]]></title>
+            <link>https://tv.naver.com/v/31428804</link>
+            <guid>https://tv.naver.com/v/31428804</guid>
+            <pubDate>Wed, 07 Dec 2022 16:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_73/A7CIP_1670426189610H7dk7_JPEG/CA202212070027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] TEMPEST - Dragon(飛上) (템페스트 - 드래곤(비상)) l Show Champion l EP.460]]></title>
             <link>https://tv.naver.com/v/31428591</link>
@@ -190,62 +246,6 @@
             <pubDate>Wed, 07 Dec 2022 10:16:52 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_19/uRfuB_1670407596233EkFsm_JPEG/CA202212070057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WINTER SPECIAL] woo!ah! - Merry Christmas In Advance - (우아! - 미리 메리 크리스마스)]]></title>
-            <link>https://tv.naver.com/v/31420583</link>
-            <guid>https://tv.naver.com/v/31420583</guid>
-            <pubDate>Wed, 07 Dec 2022 10:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_284/ZIEob_1670407594473sjzwW_JPEG/CA202212070056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] TEMPEST - Dragon(飛上) (템페스트 - 드래곤(비상))]]></title>
-            <link>https://tv.naver.com/v/31420581</link>
-            <guid>https://tv.naver.com/v/31420581</guid>
-            <pubDate>Wed, 07 Dec 2022 10:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_37/taqJj_1670407592588vChqJ_JPEG/CA202212070054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JUST B - ME= (NANEUN) (저스트비 - 미= (나는))]]></title>
-            <link>https://tv.naver.com/v/31420463</link>
-            <guid>https://tv.naver.com/v/31420463</guid>
-            <pubDate>Wed, 07 Dec 2022 10:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_51/2s7CY_1670407290519I9U1R_JPEG/CA202212070049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ALICE - DANCE ON (앨리스 - 댄스 온)]]></title>
-            <link>https://tv.naver.com/v/31420401</link>
-            <guid>https://tv.naver.com/v/31420401</guid>
-            <pubDate>Wed, 07 Dec 2022 10:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_246/3yMnt_1670407051977JHv04_JPEG/CA202212070051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CLASS:y - ZEALOUS (클라씨 - 질러스)]]></title>
-            <link>https://tv.naver.com/v/31420400</link>
-            <guid>https://tv.naver.com/v/31420400</guid>
-            <pubDate>Wed, 07 Dec 2022 10:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_171/n1s3k_1670407050305WB71b_JPEG/CA202212070043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MC석 인터뷰] 단합력이 강한 피원하모니가 만드는 하트♥]]></title>
-            <link>https://tv.naver.com/v/31420281</link>
-            <guid>https://tv.naver.com/v/31420281</guid>
-            <pubDate>Wed, 07 Dec 2022 10:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_132/TQaaF_1670406704179jdrFg_JPEG/CA202212070050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICHILLIN' - Draw (아이칠린 - 드로우)]]></title>
-            <link>https://tv.naver.com/v/31420276</link>
-            <guid>https://tv.naver.com/v/31420276</guid>
-            <pubDate>Wed, 07 Dec 2022 10:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_116/ZdRTr_1670406698333a8Oqq_JPEG/CA202212070046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
