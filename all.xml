@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 13:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 14:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] TEMPEST HYUK - Dragon (템페스트 혁 - 드래곤) | Show Champion | EP.460 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31426461</link>
+            <guid>https://tv.naver.com/v/31426461</guid>
+            <pubDate>Wed, 07 Dec 2022 14:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_293/LbwKQ_1670420191046B93Sd_JPEG/CA202212070032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] TEMPEST LEW - Dragon (템페스트 류 - 드래곤) | Show Champion | EP.460 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31426228</link>
+            <guid>https://tv.naver.com/v/31426228</guid>
+            <pubDate>Wed, 07 Dec 2022 14:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_243/k6FDN_1670419651682sgx3t_JPEG/CA202212070038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] TEMPEST HYEONGSEOP - Dragon (템페스트 형섭 - 드래곤) | Show Champion | EP.460 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31426227</link>
+            <guid>https://tv.naver.com/v/31426227</guid>
+            <pubDate>Wed, 07 Dec 2022 14:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_245/u4pVW_1670419650511tyV9b_JPEG/CA202212070033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] TEMPEST HANBIN - Dragon (템페스트 한빈 - 드래곤) | Show Champion | EP.460 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/31425756</link>
             <guid>https://tv.naver.com/v/31425756</guid>
@@ -1430,30 +1454,6 @@
             <pubDate>Mon, 05 Dec 2022 06:20:31 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_73/rqBVP_1670218598272SnA34_JPEG/CA202212070002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11월 5주차 ♥쇼챔피언♡ MC 모음.zip (woo!ah! 나나 & 우연) | Show Champion | EP.459 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31257216</link>
-            <guid>https://tv.naver.com/v/31257216</guid>
-            <pubDate>Thu, 01 Dec 2022 12:32:15 GMT</pubDate>
-            <content:encoded><![CDATA[6:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_54/VSsLz_1669893091095BJOdT_JPEG/CA202211300094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] SECRET NUMBER - TAP (시크릿넘버 - 탭) l Show Champion l EP.459 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31239708</link>
-            <guid>https://tv.naver.com/v/31239708</guid>
-            <pubDate>Thu, 01 Dec 2022 09:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_215/IRN0y_166986309080451DtN_JPEG/CA202211300091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] VERIVERY HOYOUNG - Tap Tap (베리베리 호영 - 탭탭) | Show Champion | EP.459 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31221386</link>
-            <guid>https://tv.naver.com/v/31221386</guid>
-            <pubDate>Wed, 30 Nov 2022 13:30:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_284/9AB4M_16698049530916ugJQ_JPEG/CA202211300058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
