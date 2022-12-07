@@ -4,9 +4,33 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 10:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 11:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WINTER SPECIAL] CIX - Cinema (씨아이엑스 - 시네마)]]></title>
+            <link>https://tv.naver.com/v/31421258</link>
+            <guid>https://tv.naver.com/v/31421258</guid>
+            <pubDate>Wed, 07 Dec 2022 11:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_127/MFxtR_1670409092662jPSEq_JPEG/CA202212070068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TO1 - Freeze Tag (티오원 - 얼음 땡)]]></title>
+            <link>https://tv.naver.com/v/31421127</link>
+            <guid>https://tv.naver.com/v/31421127</guid>
+            <pubDate>Wed, 07 Dec 2022 11:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_129/T7AoV_1670408794741nVxQE_JPEG/CA202212070066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] P1Harmony - Back Down (피원하모니 - 백 다운)]]></title>
+            <link>https://tv.naver.com/v/31420979</link>
+            <guid>https://tv.naver.com/v/31420979</guid>
+            <pubDate>Wed, 07 Dec 2022 11:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_12/Qqrqx_1670408491255iwRMv_JPEG/CA202212070064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[woo!ah! - Rollercoaster (우아! - 롤러코스터)]]></title>
             <link>https://tv.naver.com/v/31420832</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 30 Nov 2022 13:30:15 GMT</pubDate>
             <content:encoded><![CDATA[3:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_162/U9oSp_1669803689913ozE9U_JPEG/CA202211300040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[woo!ah! - Rollercoaster (우아! - 롤러코스터)]]></title>
-            <link>https://tv.naver.com/v/31220572</link>
-            <guid>https://tv.naver.com/v/31220572</guid>
-            <pubDate>Wed, 30 Nov 2022 10:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_207/cxiJU_16698031535653UIc7_JPEG/CA202211300057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] JUNG DONG HA - the place at the time (정동하 - 단골집)]]></title>
-            <link>https://tv.naver.com/v/31220570</link>
-            <guid>https://tv.naver.com/v/31220570</guid>
-            <pubDate>Wed, 30 Nov 2022 10:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_62/GeroQ_16698031512634dBFK_JPEG/CA202211300056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EPEX - Hymn to Love (이펙스 - 사랑歌)]]></title>
-            <link>https://tv.naver.com/v/31220545</link>
-            <guid>https://tv.naver.com/v/31220545</guid>
-            <pubDate>Wed, 30 Nov 2022 10:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_240/rW6R8_1669803092172oHmiD_JPEG/CA202211300055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
