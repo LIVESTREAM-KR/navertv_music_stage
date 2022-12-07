@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 16:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 17:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] P1harmony THEO - Back Down (피원하모니 테오 - 백 다운) | Show Champion | EP.460 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31430183</link>
+            <guid>https://tv.naver.com/v/31430183</guid>
+            <pubDate>Wed, 07 Dec 2022 17:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_171/x7uAm_1670433089496tHVlj_JPEG/CA202212070022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] P1Harmony - Back Down (피원하모니 - 백 다운) l Show Champion l EP.460 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31430095</link>
+            <guid>https://tv.naver.com/v/31430095</guid>
+            <pubDate>Wed, 07 Dec 2022 17:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_68/eHVee_1670432250714GGUnf_JPEG/CA202212070017_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] P1harmony KEEHO - Back Down (피원하모니 기호 - 백 다운) | Show Champion | EP.460 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31430011</link>
+            <guid>https://tv.naver.com/v/31430011</guid>
+            <pubDate>Wed, 07 Dec 2022 17:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_71/V8BgT_1670431591099fHnU2_JPEG/CA202212070019.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] P1harmony INTAK - Back Down (피원하모니 인탁 - 백 다운) | Show Champion | EP.460 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/31429382</link>
             <guid>https://tv.naver.com/v/31429382</guid>
@@ -1430,30 +1454,6 @@
             <pubDate>Wed, 07 Dec 2022 10:16:52 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_179/gCDdg_1670408191407qrGRj_JPEG/CA202212070061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] Jeong Dong Won - Baennori (정동원 - 뱃놀이) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31420737</link>
-            <guid>https://tv.naver.com/v/31420737</guid>
-            <pubDate>Wed, 07 Dec 2022 10:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_188/cCIZJ_1670407954539u5oqG_JPEG/CA202212070059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DRIPPIN - The One (드리핀 - 더 원) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31420734</link>
-            <guid>https://tv.naver.com/v/31420734</guid>
-            <pubDate>Wed, 07 Dec 2022 10:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_281/ffwZu_1670407952520qyyAV_JPEG/CA202212070058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] Park Ki Young - Love Contact (박기영 - 사랑이 닿으면) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31420585</link>
-            <guid>https://tv.naver.com/v/31420585</guid>
-            <pubDate>Wed, 07 Dec 2022 10:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_19/uRfuB_1670407596233EkFsm_JPEG/CA202212070057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
