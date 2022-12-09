@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 11:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 12:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12월 1주차 ♥쇼챔피언♡ MC 모음.zip (CIX 현석&배진영&승훈) | Show Champion | EP.460]]></title>
+            <link>https://tv.naver.com/v/31480960</link>
+            <guid>https://tv.naver.com/v/31480960</guid>
+            <pubDate>Fri, 09 Dec 2022 12:28:09 GMT</pubDate>
+            <content:encoded><![CDATA[5:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_11/kabgc_1670574689376NBJnY_JPEG/CA202212070092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] P1harmony THEO - Back Down (피원하모니 테오 - 백 다운) | Show Champion | EP.460]]></title>
             <link>https://tv.naver.com/v/31430183</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 07 Dec 2022 11:13:11 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_12/Qqrqx_1670408491255iwRMv_JPEG/CA202212070064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[woo!ah! - Rollercoaster (우아! - 롤러코스터)]]></title>
-            <link>https://tv.naver.com/v/31420832</link>
-            <guid>https://tv.naver.com/v/31420832</guid>
-            <pubDate>Wed, 07 Dec 2022 10:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_179/gCDdg_1670408191407qrGRj_JPEG/CA202212070061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
