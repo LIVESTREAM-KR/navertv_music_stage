@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 07:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 08:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] Jeong Dong Won – Baennori(정동원 - 뱃놀이) FanCam | Show! MusicCore | MBC221210방송]]></title>
+            <link>https://tv.naver.com/v/31499932</link>
+            <guid>https://tv.naver.com/v/31499932</guid>
+            <pubDate>Sat, 10 Dec 2022 08:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221210_90/Uw0hD_1670660193844dmDxe_JPEG/clip_20221210165635_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] MINHO - Chase(민호 – 놓아줘) FanCam (Horizontal Ver.) | Show! MusicCore | MBC221210방송]]></title>
+            <link>https://tv.naver.com/v/31499858</link>
+            <guid>https://tv.naver.com/v/31499858</guid>
+            <pubDate>Sat, 10 Dec 2022 08:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221210_182/zi5sH_1670659955674XvxCW_JPEG/clip_20221210164104_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] MINHO - Chase(민호 – 놓아줘) FanCam | Show! MusicCore | MBC221210방송]]></title>
+            <link>https://tv.naver.com/v/31499832</link>
+            <guid>https://tv.naver.com/v/31499832</guid>
+            <pubDate>Sat, 10 Dec 2022 08:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221210_10/rKSq4_1670659892584EDB00_JPEG/clip_20221210164116_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] ITZY RYUJIN - Cheshire(있지 류진 - 체셔) Close-up Cam | Show! MusicCore | MBC221203방송]]></title>
             <link>https://tv.naver.com/v/31344559</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 03 Dec 2022 09:13:49 GMT</pubDate>
             <content:encoded><![CDATA[3:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221203_18/uaYCl_1670056891465aYnYs_JPEG/clip_20221203170549_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KARA Nicole - WHEN I MOVE(카라 니콜 - 웬 아이 무브) FanCam | Show! MusicCore | MBC221203방송]]></title>
-            <link>https://tv.naver.com/v/31304645</link>
-            <guid>https://tv.naver.com/v/31304645</guid>
-            <pubDate>Sat, 03 Dec 2022 09:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_77/XCpCA_1670056890335OuicC_JPEG/clip_20221203170533_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ITZY YUNA  - Cheshire(있지 유나 - 체셔) FanCam | Show! MusicCore | MBC221203방송]]></title>
-            <link>https://tv.naver.com/v/31304564</link>
-            <guid>https://tv.naver.com/v/31304564</guid>
-            <pubDate>Sat, 03 Dec 2022 09:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_6/VhUvQ_1670056594021s2CxJ_JPEG/clip_20221203170614_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KARA Han Seung Yeon - WHEN I MOVE(카라 한승연 - 웬 아이 무브) FanCam | Show! MusicCore | MBC221203방송]]></title>
-            <link>https://tv.naver.com/v/31304563</link>
-            <guid>https://tv.naver.com/v/31304563</guid>
-            <pubDate>Sat, 03 Dec 2022 09:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_220/9si9p_1670056592926TzyMU_JPEG/clip_20221203165945_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
