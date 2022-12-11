@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 06:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 07:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221203_117/khNCa_1670058392969xTxM2_JPEG/clip_20221203170646_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[홍진영 - Girl ln The Mirror(feat. Frawley) | SBS 221211 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31515913</link>
+            <guid>https://tv.naver.com/v/31515913</guid>
+            <pubDate>Sun, 11 Dec 2022 07:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_160/IMQ0v_16707426897681ij5h_JPEG/118e1327-7e30-45e5-883e-71aeebe3848c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ICHILLIN’(아이칠린) - Draw(드로우) | SBS 221211 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31515833</link>
+            <guid>https://tv.naver.com/v/31515833</guid>
+            <pubDate>Sun, 11 Dec 2022 07:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_140/02AJs_1670742391482TodGf_PNG/b5380966-b7d8-4172-a1ed-9864c96a2a56.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AIMERS - Fight Inside | SBS 221211 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31515756</link>
+            <guid>https://tv.naver.com/v/31515756</guid>
+            <pubDate>Sun, 11 Dec 2022 07:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_30/O7xyD_1670742089999ft21w_PNG/f66b9d52-5845-44c7-82e5-cca567d3513f.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[KARA - WHEN I MOVE | SBS 221204 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/31321021</link>
             <guid>https://tv.naver.com/v/31321021</guid>
@@ -470,30 +494,6 @@
             <pubDate>Sun, 04 Dec 2022 14:13:19 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221127_234/R3utX_1669533992723NECWF_JPEG/c8ca3de8-2612-4d87-9575-7fbf8c20c412.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TEMPEST(템페스트) - Dragon | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31121618</link>
-            <guid>https://tv.naver.com/v/31121618</guid>
-            <pubDate>Sun, 04 Dec 2022 14:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_136/e5OFF_1669533990726yJFLt_JPEG/06827dc2-dd99-4f63-bb95-9103c7a72efa.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOUNITE - Bad Cupid | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31121409</link>
-            <guid>https://tv.naver.com/v/31121409</guid>
-            <pubDate>Sun, 04 Dec 2022 14:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_76/hT5uB_1669533393872PRGcp_JPEG/51c2dc6a-f233-4c46-bd81-0ab901ef1c53.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이처(NATURE) - LIMBO!(넘어와) | SBS 221127 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31121326</link>
-            <guid>https://tv.naver.com/v/31121326</guid>
-            <pubDate>Sun, 04 Dec 2022 14:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_63/KzyAA_1669533091845DG0pG_JPEG/e37b68cc-9686-4992-a3f5-f8218edf0d93.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
