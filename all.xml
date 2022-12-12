@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 05:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 06:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Sun, 04 Dec 2022 14:13:05 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] MINHO - Chase(민호 - 놓아줘) Close-up Cam | Show! MusicCore | MBC221210방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31536174</link>
+            <guid>https://tv.naver.com/v/31536174</guid>
+            <pubDate>Mon, 12 Dec 2022 06:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_124/i0FLO_1670824292734u2cKg_JPEG/clip_20221212142042_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최애직캠] Jeong Dong Won - Baennori(정동원 – 뱃놀이) Close-up Cam | Show! MusicCore | MBC221210방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31535964</link>
+            <guid>https://tv.naver.com/v/31535964</guid>
+            <pubDate>Mon, 12 Dec 2022 06:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_196/9CNEE_1670823990810IV60c_JPEG/clip_20221212141711_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] CSR – ♡TiCON(첫사랑 - 러브티콘) FanCam | Show! MusicCore | MBC221210방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 03 Dec 2022 10:14:55 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221203_236/PdX2o_16700592905324sEXE_JPEG/clip_20221203170641_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ITZY RYUJIN  - Cheshire(있지 류진 - 체셔) FanCam | Show! MusicCore | MBC221203방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31305174</link>
-            <guid>https://tv.naver.com/v/31305174</guid>
-            <pubDate>Sat, 03 Dec 2022 09:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_90/L78nh_1670058691075tVhPm_JPEG/clip_20221203170616_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VERIVERY KANGMIN - Tap Tap(베리베리 강민 - 탭 탭) FanCam | Show! MusicCore | MBC221203방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31305097</link>
-            <guid>https://tv.naver.com/v/31305097</guid>
-            <pubDate>Sat, 03 Dec 2022 09:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_117/khNCa_1670058392969xTxM2_JPEG/clip_20221203170646_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민호 - 놓아줘(Chase) | SBS 221211 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
