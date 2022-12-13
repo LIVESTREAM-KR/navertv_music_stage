@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 04:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 05:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Sun, 04 Dec 2022 14:13:05 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ITZY YUNA - Cheshire(있지 유나 - 체셔) Close-up Cam | Show! MusicCore | MBC221210방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31567989</link>
+            <guid>https://tv.naver.com/v/31567989</guid>
+            <pubDate>Tue, 13 Dec 2022 05:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_113/TKw03_1670908353507vVIo4_JPEG/clip_20221213135043_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ITZY RYUJIN - Cheshire(있지 류진 - 체셔) Close-up Cam | Show! MusicCore | MBC221210방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31567986</link>
+            <guid>https://tv.naver.com/v/31567986</guid>
+            <pubDate>Tue, 13 Dec 2022 05:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_217/uzh8G_1670908351983BzaL9_JPEG/clip_20221213135035_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최애직캠] MINHO - Chase(민호 - 놓아줘) Close-up Cam | Show! MusicCore | MBC221210방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 03 Dec 2022 10:14:55 GMT</pubDate>
             <content:encoded><![CDATA[4:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221203_256/kubWa_1670059294020VjUHc_JPEG/clip_20221203170704_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TRENDZ – VAGABOND(트렌드지 - 배가본드) FanCam | Show! MusicCore | MBC221203방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31305359</link>
-            <guid>https://tv.naver.com/v/31305359</guid>
-            <pubDate>Sat, 03 Dec 2022 10:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_208/c5gou_1670059291875XKFtl_JPEG/clip_20221203170657_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VERIVERY – Tap Tap(베리베리 - 탭 탭) FanCam | Show! MusicCore | MBC221203방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31305358</link>
-            <guid>https://tv.naver.com/v/31305358</guid>
-            <pubDate>Sat, 03 Dec 2022 10:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_236/PdX2o_16700592905324sEXE_JPEG/clip_20221203170641_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민호 - 놓아줘(Chase) | SBS 221211 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
