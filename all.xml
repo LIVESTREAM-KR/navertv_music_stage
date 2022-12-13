@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 05:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 06:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Sun, 04 Dec 2022 14:13:05 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] Red Velvet WENDY - Birthday(레드벨벳 웬디 - 벌스데이) Close-up Cam | Show! MusicCore | MBC221210방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31568245</link>
+            <guid>https://tv.naver.com/v/31568245</guid>
+            <pubDate>Tue, 13 Dec 2022 06:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_110/6K05p_1670908892673RSjR0_JPEG/clip_20221213135022_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] Red Velvet IRENE - Birthday(레드벨벳 아이린 - 벌스데이) Close-up Cam | Show! MusicCore | MBC221210방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31568244</link>
+            <guid>https://tv.naver.com/v/31568244</guid>
+            <pubDate>Tue, 13 Dec 2022 06:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_210/AdmZL_1670908890522vmMmM_JPEG/clip_20221213134945_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] ITZY YUNA - Cheshire(있지 유나 - 체셔) Close-up Cam | Show! MusicCore | MBC221210방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Mon, 05 Dec 2022 03:16:06 GMT</pubDate>
             <content:encoded><![CDATA[3:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_178/jQ4Y3_1670209590881aKdPM_JPEG/clip_20221205112712_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] Red Velvet JOY - Birthday(레드벨벳 조이 - 벌스데이) Close-up Cam | Show! MusicCore | MBC221203방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31337929</link>
-            <guid>https://tv.naver.com/v/31337929</guid>
-            <pubDate>Mon, 05 Dec 2022 03:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_38/jUE0F_1670209050434ksg1M_JPEG/clip_20221205112714_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CLASS:y – ZEALOUS(클라씨 - 질러스) FanCam | Show! MusicCore | MBC221203방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31305362</link>
-            <guid>https://tv.naver.com/v/31305362</guid>
-            <pubDate>Sat, 03 Dec 2022 10:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_256/kubWa_1670059294020VjUHc_JPEG/clip_20221203170704_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민호 - 놓아줘(Chase) | SBS 221211 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
