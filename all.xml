@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 04:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 05:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1800,6 +1800,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221215_236/MqqtG_1671094945477Jogew_PNG/1671093734585.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.550 –  NIEL(니엘), TEMPEST(템페스트), DRIPPIN(드리핀), Jeong Dong Won (정동원) (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31637669</link>
+            <guid>https://tv.naver.com/v/31637669</guid>
+            <pubDate>Fri, 16 Dec 2022 05:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[51:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221215_49/auf8T_1671094938851lJ55y_PNG/1671093855349.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[SECRET NUMBER(시크릿넘버) - ‘TAP’ _Ep.548 [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/31270850</link>
             <guid>https://tv.naver.com/v/31270850</guid>
@@ -1902,14 +1910,6 @@
             <pubDate>Fri, 25 Nov 2022 07:15:49 GMT</pubDate>
             <content:encoded><![CDATA[3:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_199/VrTVa_1669359792845W2aqL_JPEG/1669359553274.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SECRET NUMBER JINNNY 'TAP' (시크릿넘버 진희 직캠) l Simply K -Pop CON-TOUR Ep.547 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31081918</link>
-            <guid>https://tv.naver.com/v/31081918</guid>
-            <pubDate>Fri, 25 Nov 2022 07:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_186/0zJts_1669359790288jCnN6_JPEG/1669359544470.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짙은_안개 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
