@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 09:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 10:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT DREAM JENO - Candy(엔시티 드림 제노 - 캔디) FanCam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31686662</link>
+            <guid>https://tv.naver.com/v/31686662</guid>
+            <pubDate>Sat, 17 Dec 2022 10:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_173/QqTKK_1671268591120mByRi_JPEG/clip_20221217165355_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] NCT DREAM HAECHAN - Candy(엔시티 드림 해찬 - 캔디) FanCam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 10 Dec 2022 09:13:40 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221210_69/V3WIY_1670662650776QJC65_JPEG/clip_20221210172342_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Red Velvet SEULGI - Birthday(레드벨벳 슬기 - 벌스데이) FanCam | Show! MusicCore | MBC221210방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31500593</link>
-            <guid>https://tv.naver.com/v/31500593</guid>
-            <pubDate>Sat, 10 Dec 2022 09:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221210_160/RwrOY_1670662649675Og6eA_JPEG/clip_20221210171216_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민호 - 놓아줘(Chase) | SBS 221211 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
