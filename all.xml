@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 01:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 02:38:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT DREAM HAECHAN - Candy(엔시티 드림 해찬 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31745745</link>
+            <guid>https://tv.naver.com/v/31745745</guid>
+            <pubDate>Tue, 20 Dec 2022 02:37:08 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_224/45Hg9_1671503492250oDuQ6_JPEG/clip_20221220103434_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT DREAM JISUNG - Candy(엔시티 드림 지성 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31744996</link>
+            <guid>https://tv.naver.com/v/31744996</guid>
+            <pubDate>Tue, 20 Dec 2022 02:37:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_151/HY6Ou_1671501996173EG4xu_JPEG/clip_20221220103431_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT DREAM RENJUN - Candy(엔시티 드림 런쥔 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31744992</link>
+            <guid>https://tv.naver.com/v/31744992</guid>
+            <pubDate>Tue, 20 Dec 2022 02:37:08 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_183/Qr0Qz_1671501994066yRRDY_JPEG/clip_20221220103428_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] NCT DREAM JENO - Candy(엔시티 드림 제노 - 캔디) FanCam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Mon, 12 Dec 2022 06:19:43 GMT</pubDate>
             <content:encoded><![CDATA[3:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221212_124/i0FLO_1670824292734u2cKg_JPEG/clip_20221212142042_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] Jeong Dong Won - Baennori(정동원 – 뱃놀이) Close-up Cam | Show! MusicCore | MBC221210방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31535964</link>
-            <guid>https://tv.naver.com/v/31535964</guid>
-            <pubDate>Mon, 12 Dec 2022 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_196/9CNEE_1670823990810IV60c_JPEG/clip_20221212141711_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CSR – ♡TiCON(첫사랑 - 러브티콘) FanCam | Show! MusicCore | MBC221210방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31500596</link>
-            <guid>https://tv.naver.com/v/31500596</guid>
-            <pubDate>Sat, 10 Dec 2022 09:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221210_204/Dtmb5_1670662652682VGPyc_JPEG/clip_20221210172835_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] woo!ah! – Rollercoaster(우아! - 롤러코스터) FanCam | Show! MusicCore | MBC221210방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31500594</link>
-            <guid>https://tv.naver.com/v/31500594</guid>
-            <pubDate>Sat, 10 Dec 2022 09:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221210_69/V3WIY_1670662650776QJC65_JPEG/clip_20221210172342_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민호 - 놓아줘(Chase) | SBS 221211 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
