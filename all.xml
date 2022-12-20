@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 02:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 03:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,38 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT DREAM MARK - Candy(엔시티 드림 마크 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31746131</link>
+            <guid>https://tv.naver.com/v/31746131</guid>
+            <pubDate>Tue, 20 Dec 2022 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_185/XnxKw_16715043938337FaAo_JPEG/clip_20221220103430_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT DREAM JENO - Candy(엔시티 드림 제노 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31746129</link>
+            <guid>https://tv.naver.com/v/31746129</guid>
+            <pubDate>Tue, 20 Dec 2022 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_219/M7Zmt_1671504392092PSs54_JPEG/clip_20221220103427_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT DREAM JAEMIN - Candy(엔시티 드림 재민 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31746012</link>
+            <guid>https://tv.naver.com/v/31746012</guid>
+            <pubDate>Tue, 20 Dec 2022 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_38/0n9b7_1671504151604uJC7b_JPEG/clip_20221220103438_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT DREAM CHENLE - Candy(엔시티 드림 천러 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/31745982</link>
+            <guid>https://tv.naver.com/v/31745982</guid>
+            <pubDate>Tue, 20 Dec 2022 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_228/9g3bg_1671504091812LUoaf_JPEG/clip_20221220103433_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] NCT DREAM HAECHAN - Candy(엔시티 드림 해찬 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -222,38 +254,6 @@
             <pubDate>Tue, 13 Dec 2022 06:19:40 GMT</pubDate>
             <content:encoded><![CDATA[4:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221213_110/6K05p_1670908892673RSjR0_JPEG/clip_20221213135022_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] Red Velvet IRENE - Birthday(레드벨벳 아이린 - 벌스데이) Close-up Cam | Show! MusicCore | MBC221210방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31568244</link>
-            <guid>https://tv.naver.com/v/31568244</guid>
-            <pubDate>Tue, 13 Dec 2022 06:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_210/AdmZL_1670908890522vmMmM_JPEG/clip_20221213134945_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] ITZY YUNA - Cheshire(있지 유나 - 체셔) Close-up Cam | Show! MusicCore | MBC221210방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31567989</link>
-            <guid>https://tv.naver.com/v/31567989</guid>
-            <pubDate>Tue, 13 Dec 2022 05:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_113/TKw03_1670908353507vVIo4_JPEG/clip_20221213135043_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] ITZY RYUJIN - Cheshire(있지 류진 - 체셔) Close-up Cam | Show! MusicCore | MBC221210방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31567986</link>
-            <guid>https://tv.naver.com/v/31567986</guid>
-            <pubDate>Tue, 13 Dec 2022 05:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_217/uzh8G_1670908351983BzaL9_JPEG/clip_20221213135035_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최애직캠] MINHO - Chase(민호 - 놓아줘) Close-up Cam | Show! MusicCore | MBC221210방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31536174</link>
-            <guid>https://tv.naver.com/v/31536174</guid>
-            <pubDate>Mon, 12 Dec 2022 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_124/i0FLO_1670824292734u2cKg_JPEG/clip_20221212142042_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민호 - 놓아줘(Chase) | SBS 221211 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
