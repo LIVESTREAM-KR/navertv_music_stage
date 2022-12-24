@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 08:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 09:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] JUNGWOO - Odd Imagination(정우 - 엉뚱한 상상) FanCam | Show! MusicCore | MBC221224방송]]></title>
+            <link>https://tv.naver.com/v/31812252</link>
+            <guid>https://tv.naver.com/v/31812252</guid>
+            <pubDate>Sat, 24 Dec 2022 09:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_208/fYHTD_1671687754267Jr8rF_JPEG/clip_20221222141857_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Lee Know - Odd Imagination(리노 - 엉뚱한 상상) FanCam | Show! MusicCore | MBC221224방송]]></title>
+            <link>https://tv.naver.com/v/31808205</link>
+            <guid>https://tv.naver.com/v/31808205</guid>
+            <pubDate>Sat, 24 Dec 2022 09:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_286/gc6W0_1671761789998jwQ1y_JPEG/clip_20221223110747_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] JUNGWOO X KIM MINJU X Lee Know–Odd Imagination(우주호–엉뚱한 상상)FanCam|Show! MusicCore|MBC221224방]]></title>
+            <link>https://tv.naver.com/v/31808204</link>
+            <guid>https://tv.naver.com/v/31808204</guid>
+            <pubDate>Sat, 24 Dec 2022 09:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_280/NAKr9_1671678752910B02rN_JPEG/clip_20221222114634_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] NCT DREAM MARK - Candy(엔시티 드림 마크 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송]]></title>
             <link>https://tv.naver.com/v/31746131</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 17 Dec 2022 09:13:13 GMT</pubDate>
             <content:encoded><![CDATA[4:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221217_117/NNmAN_1671265291229CjmKj_JPEG/clip_20221217165421_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM JENO - Graduation(엔시티 드림 제노 - 그레듀에이션) FanCam | Show! MusicCore | MBC221217방송]]></title>
-            <link>https://tv.naver.com/v/31685831</link>
-            <guid>https://tv.naver.com/v/31685831</guid>
-            <pubDate>Sat, 17 Dec 2022 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_71/79XJX_1671265290249bp7U5_JPEG/clip_20221217165416_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM – Candy(엔시티 드림 - 캔디) FanCam | Show! MusicCore | MBC221217방송]]></title>
-            <link>https://tv.naver.com/v/31685696</link>
-            <guid>https://tv.naver.com/v/31685696</guid>
-            <pubDate>Sat, 17 Dec 2022 08:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_15/22M9a_1671264691634uWMyD_JPEG/clip_20221217164414_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] Red Velvet WENDY - Birthday(레드벨벳 웬디 - 벌스데이) Close-up Cam | Show! MusicCore | MBC221210방송]]></title>
-            <link>https://tv.naver.com/v/31568245</link>
-            <guid>https://tv.naver.com/v/31568245</guid>
-            <pubDate>Tue, 13 Dec 2022 06:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_110/6K05p_1670908892673RSjR0_JPEG/clip_20221213135022_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
