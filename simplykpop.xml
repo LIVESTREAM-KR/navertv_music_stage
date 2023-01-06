@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 04:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 05:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.553 – KARD(카드), DKZ(디케이지), Ahn Yeeun (안예은), DKB(다크비)]]></title>
+            <link>https://tv.naver.com/v/32167105</link>
+            <guid>https://tv.naver.com/v/32167105</guid>
+            <pubDate>Fri, 06 Jan 2023 05:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[58:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_243/p77R1_1672968384406Im3aM_PNG/1672966667549.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.551 – NIEL(니엘), EPEX(이펙스), TEMPEST(템페스트), DRIPPIN(드리핀), woo!ah!]]></title>
             <link>https://tv.naver.com/v/31838321</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 25 Nov 2022 07:15:49 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_119/RCMhB_1669359800278PFTz0_JPEG/1669359523828.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SECRET NUMBER SOODAM 'TAP' (시크릿넘버 수담 직캠) l Simply K -Pop CON-TOUR Ep.547]]></title>
-            <link>https://tv.naver.com/v/31081921</link>
-            <guid>https://tv.naver.com/v/31081921</guid>
-            <pubDate>Fri, 25 Nov 2022 07:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_238/RO2Xg_1669359795795hXVlh_JPEG/1669359516241.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
