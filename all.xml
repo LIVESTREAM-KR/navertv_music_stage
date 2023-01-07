@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 09:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 10:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,78 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ MINGI - HALAZIA(에이티즈 민기 - 할라지아) FanCam | Show! MusicCore | MBC230107방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32201464</link>
+            <guid>https://tv.naver.com/v/32201464</guid>
+            <pubDate>Sat, 07 Jan 2023 10:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_266/gAHx9_1673085991436YNk4H_JPEG/clip_20230107182153_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ YUNHO - HALAZIA(에이티즈 윤호 - 할라지아) FanCam | Show! MusicCore | MBC230107방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32201463</link>
+            <guid>https://tv.naver.com/v/32201463</guid>
+            <pubDate>Sat, 07 Jan 2023 10:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_102/78b0a_1673085989849avIsA_JPEG/clip_20230107182137_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ JONGHO - HALAZIA(에이티즈 종호 - 할라지아) FanCam | Show! MusicCore | MBC230107방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32201318</link>
+            <guid>https://tv.naver.com/v/32201318</guid>
+            <pubDate>Sat, 07 Jan 2023 10:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_206/6JL4u_1673085450613B5E1T_JPEG/clip_20230107182204_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ WOOYOUNG - HALAZIA(에이티즈 우영 - 할라지아) FanCam | Show! MusicCore | MBC230107방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32201303</link>
+            <guid>https://tv.naver.com/v/32201303</guid>
+            <pubDate>Sat, 07 Jan 2023 10:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_149/ZxEgf_1673085393617bmbcp_JPEG/clip_20230107182157_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ YEOSANG - HALAZIA(에이티즈 여상 - 할라지아) FanCam | Show! MusicCore | MBC230107방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32201302</link>
+            <guid>https://tv.naver.com/v/32201302</guid>
+            <pubDate>Sat, 07 Jan 2023 10:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_30/bKXJD_1673085392295JGJFC_JPEG/clip_20230107182143_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ HONGJOONG - HALAZIA(에이티즈 홍중 - 할라지아) FanCam | Show! MusicCore | MBC230107방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32201301</link>
+            <guid>https://tv.naver.com/v/32201301</guid>
+            <pubDate>Sat, 07 Jan 2023 10:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_268/taHqo_1673085391012w7Gv6_JPEG/clip_20230107181934_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ SAN - HALAZIA(에이티즈 산 - 할라지아) FanCam | Show! MusicCore | MBC230107방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32201223</link>
+            <guid>https://tv.naver.com/v/32201223</guid>
+            <pubDate>Sat, 07 Jan 2023 10:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_277/BJhaD_1673085091497FoTrF_JPEG/clip_20230107182148_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ SEONGHWA - HALAZIA(에이티즈 성화 - 할라지아) FanCam | Show! MusicCore | MBC230107방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32201221</link>
+            <guid>https://tv.naver.com/v/32201221</guid>
+            <pubDate>Sat, 07 Jan 2023 10:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_203/dCtX3_167308509039472HHO_JPEG/clip_20230107182124_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ – HALAZIA(에이티즈 - 할라지아) FanCam | Show! MusicCore | MBC230107방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32201081</link>
+            <guid>https://tv.naver.com/v/32201081</guid>
+            <pubDate>Sat, 07 Jan 2023 10:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_206/ecPpq_1673084491581lz3Uj_JPEG/clip_20230107181849_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] WayV KUN - Phantom (English Ver.)(웨이션브이 쿤 - 팬텀) FanCam | Show! MusicCore | MBC230107방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -182,78 +254,6 @@
             <pubDate>Tue, 20 Dec 2022 02:37:08 GMT</pubDate>
             <content:encoded><![CDATA[3:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221220_151/HY6Ou_1671501996173EG4xu_JPEG/clip_20221220103431_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] NCT DREAM RENJUN - Candy(엔시티 드림 런쥔 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31744992</link>
-            <guid>https://tv.naver.com/v/31744992</guid>
-            <pubDate>Tue, 20 Dec 2022 02:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_183/Qr0Qz_1671501994066yRRDY_JPEG/clip_20221220103428_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM JENO - Candy(엔시티 드림 제노 - 캔디) FanCam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31686662</link>
-            <guid>https://tv.naver.com/v/31686662</guid>
-            <pubDate>Sat, 17 Dec 2022 10:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_173/QqTKK_1671268591120mByRi_JPEG/clip_20221217165355_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM HAECHAN - Candy(엔시티 드림 해찬 - 캔디) FanCam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31686505</link>
-            <guid>https://tv.naver.com/v/31686505</guid>
-            <pubDate>Sat, 17 Dec 2022 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_260/CXi1p_1671267991748f5BIq_JPEG/clip_20221217165405_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM JAEMIN  - Candy(엔시티 드림 재민 - 캔디) FanCam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31686504</link>
-            <guid>https://tv.naver.com/v/31686504</guid>
-            <pubDate>Sat, 17 Dec 2022 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_263/CEkur_1671267990660wMic0_JPEG/clip_20221217165352_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM RENJUN - Candy(엔시티 드림 런쥔 - 캔디) FanCam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31686435</link>
-            <guid>https://tv.naver.com/v/31686435</guid>
-            <pubDate>Sat, 17 Dec 2022 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_172/R2S7N_1671267692012eJHxj_JPEG/clip_20221217165359_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] JANG MIN HO – Play the music(장민호 - 풍악을 울려라!) FanCam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31686381</link>
-            <guid>https://tv.naver.com/v/31686381</guid>
-            <pubDate>Sat, 17 Dec 2022 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_9/OXhT9_1671267451124maUPN_JPEG/clip_20221217165433_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM JAEMIN  - Graduation(엔시티 드림 재민 - 그레듀에이션) FanCam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31686357</link>
-            <guid>https://tv.naver.com/v/31686357</guid>
-            <pubDate>Sat, 17 Dec 2022 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_45/QLpAo_1671267390924K8C1i_JPEG/clip_20221217165415_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM RENJUN - Graduation(엔시티 드림 런쥔 - 그레듀에이션) FanCam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31686287</link>
-            <guid>https://tv.naver.com/v/31686287</guid>
-            <pubDate>Sat, 17 Dec 2022 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_169/doBSQ_1671267092323DxIw9_JPEG/clip_20221217165418_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM JISUNG - Candy(엔시티 드림 지성 - 캔디) FanCam | Show! MusicCore | MBC221217방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31686286</link>
-            <guid>https://tv.naver.com/v/31686286</guid>
-            <pubDate>Sat, 17 Dec 2022 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_236/EQ5Fg_16712670911656hybN_JPEG/clip_20221217165401_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민호 - 놓아줘(Chase) | SBS 221211 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
