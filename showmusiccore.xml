@@ -4,9 +4,57 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 07:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 08:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] WayV KUN - Phantom (English Ver.)(웨이션브이 쿤 - 팬텀) FanCam | Show! MusicCore | MBC230107방송]]></title>
+            <link>https://tv.naver.com/v/32199577</link>
+            <guid>https://tv.naver.com/v/32199577</guid>
+            <pubDate>Sat, 07 Jan 2023 08:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_121/wPKw3_1673079091680sHJ2e_JPEG/clip_20230107162642_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] WayV HENDERY - Phantom (English Ver.)(웨이션브이 헨드리 - 팬텀) FanCam | Show! MusicCore | MBC230107방]]></title>
+            <link>https://tv.naver.com/v/32199481</link>
+            <guid>https://tv.naver.com/v/32199481</guid>
+            <pubDate>Sat, 07 Jan 2023 08:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_45/Frsmh_1673078798853QG55g_JPEG/clip_20230107162715_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] WayV – Phantom (English Ver.)(웨이션브이 - 팬텀) FanCam | Show! MusicCore | MBC230107방송]]></title>
+            <link>https://tv.naver.com/v/32199475</link>
+            <guid>https://tv.naver.com/v/32199475</guid>
+            <pubDate>Sat, 07 Jan 2023 08:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_277/ntE1l_1673078791160sNjMc_JPEG/clip_20230107162541_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] WayV TEN - Phantom (English Ver.)(웨이션브이 텐 - 팬텀) FanCam | Show! MusicCore | MBC230107방송]]></title>
+            <link>https://tv.naver.com/v/32199327</link>
+            <guid>https://tv.naver.com/v/32199327</guid>
+            <pubDate>Sat, 07 Jan 2023 08:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_99/jlu12_16730781903502SE11_JPEG/clip_20230107162647_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] WayV XIAOJUN - Phantom (English Ver.)(웨이션브이 샤오쥔 - 팬텀) FanCam | Show! MusicCore | MBC230107방]]></title>
+            <link>https://tv.naver.com/v/32199240</link>
+            <guid>https://tv.naver.com/v/32199240</guid>
+            <pubDate>Sat, 07 Jan 2023 08:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_93/OqAWt_1673077895333EWYB6_JPEG/clip_20230107162631_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] WayV YANGYANG - Phantom (English Ver.)(웨이션브이 양양 - 팬텀) FanCam | Show! MusicCore | MBC230107방]]></title>
+            <link>https://tv.naver.com/v/32199238</link>
+            <guid>https://tv.naver.com/v/32199238</guid>
+            <pubDate>Sat, 07 Jan 2023 08:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_77/FIjBT_1673077894122HECvU_JPEG/clip_20230107162654_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] JUNGWOO - Odd Imagination(정우 - 엉뚱한 상상) FanCam | Show! MusicCore | MBC221224방송]]></title>
             <link>https://tv.naver.com/v/31812252</link>
@@ -198,54 +246,6 @@
             <pubDate>Sat, 17 Dec 2022 09:13:13 GMT</pubDate>
             <content:encoded><![CDATA[4:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221217_1/QpBPe_1671266491311uT1An_JPEG/clip_20221217165423_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ICHILLIN' – Draw(아이칠린 - 드로우) FanCam | Show! MusicCore | MBC221217방송]]></title>
-            <link>https://tv.naver.com/v/31686048</link>
-            <guid>https://tv.naver.com/v/31686048</guid>
-            <pubDate>Sat, 17 Dec 2022 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_81/d6o13_1671266192500k1Kz1_JPEG/clip_20221217165547_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] WSG WANNABE(4FIRE) – I Missed You(WSG 워너비 - (보고싶었어) FanCam | Show! MusicCore | MBC221217방송]]></title>
-            <link>https://tv.naver.com/v/31686047</link>
-            <guid>https://tv.naver.com/v/31686047</guid>
-            <pubDate>Sat, 17 Dec 2022 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_210/YzbQi_16712661910724abwY_JPEG/clip_20221217165533_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TEMPEST – Dragon (飛上)(템페스트 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221217방송]]></title>
-            <link>https://tv.naver.com/v/31685931</link>
-            <guid>https://tv.naver.com/v/31685931</guid>
-            <pubDate>Sat, 17 Dec 2022 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_51/WqIRM_1671265653937YjnF4_JPEG/clip_20221217165611_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] WSG WANNABE(4FIRE) – Our Season(WSG 워너비 - 우리의 계절) FanCam | Show! MusicCore | MBC221217방송]]></title>
-            <link>https://tv.naver.com/v/31685929</link>
-            <guid>https://tv.naver.com/v/31685929</guid>
-            <pubDate>Sat, 17 Dec 2022 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_1/GqSzN_1671265652469t5eL8_JPEG/clip_20221217165536_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM JISUNG - Graduation(엔시티 드림 지성 - 그레듀에이션) FanCam | Show! MusicCore | MBC221217방송]]></title>
-            <link>https://tv.naver.com/v/31685926</link>
-            <guid>https://tv.naver.com/v/31685926</guid>
-            <pubDate>Sat, 17 Dec 2022 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_23/Ej6pp_1671265651199iQy2z_JPEG/clip_20221217165420_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM CHENLE - Graduation(엔시티 드림 천러 - 그레듀에이션) FanCam | Show! MusicCore | MBC221217방송]]></title>
-            <link>https://tv.naver.com/v/31685832</link>
-            <guid>https://tv.naver.com/v/31685832</guid>
-            <pubDate>Sat, 07 Jan 2023 04:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_117/NNmAN_1671265291229CjmKj_JPEG/clip_20221217165421_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
