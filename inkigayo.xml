@@ -4,9 +4,97 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 07:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 08:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ATEEZ - HALAZIA | SBS 230108 방송]]></title>
+            <link>https://tv.naver.com/v/32215750</link>
+            <guid>https://tv.naver.com/v/32215750</guid>
+            <pubDate>Sun, 08 Jan 2023 08:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_245/YEgDn_1673164590346sXW8q_JPEG/8f756e2f-0804-4fa9-9b6d-10e4a3f758e2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문빈&산하(ASTRO) - Madness | SBS 230108 방송]]></title>
+            <link>https://tv.naver.com/v/32215650</link>
+            <guid>https://tv.naver.com/v/32215650</guid>
+            <pubDate>Sun, 08 Jan 2023 08:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_38/QKdBd_1673164289586FTUNn_JPEG/469a7eb2-8c6a-422f-8f77-7edfb134e5b6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WayV - Phantom | SBS 230108 방송]]></title>
+            <link>https://tv.naver.com/v/32215571</link>
+            <guid>https://tv.naver.com/v/32215571</guid>
+            <pubDate>Sun, 08 Jan 2023 08:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_116/z7n0A_1673163990779xhNz4_JPEG/23c7f0a0-b528-4ecd-bcf2-da3d944c841a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DKZ - 2022(Forever) | SBS 230108 방송]]></title>
+            <link>https://tv.naver.com/v/32215507</link>
+            <guid>https://tv.naver.com/v/32215507</guid>
+            <pubDate>Sun, 08 Jan 2023 08:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_205/mtKRt_1673163692701Wcwn1_JPEG/2ea6b818-41c0-43e9-bbe0-47a5cfe6eb99.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TO1 - Troublemaker | SBS 230108 방송]]></title>
+            <link>https://tv.naver.com/v/32215424</link>
+            <guid>https://tv.naver.com/v/32215424</guid>
+            <pubDate>Sun, 08 Jan 2023 08:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_246/zlhfA_1673163394299gm08y_JPEG/8c51e9da-c403-42f8-b5b4-a0f01e04e09c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MC연준X노정의X서범준 - 아무노래 | SBS 230108 방송]]></title>
+            <link>https://tv.naver.com/v/32215423</link>
+            <guid>https://tv.naver.com/v/32215423</guid>
+            <pubDate>Sun, 08 Jan 2023 08:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_131/9KlnL_1673163392490gii9T_JPEG/158bb0ff-d617-470e-a100-122759b5af72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정동원 - 진짜 사나이 | SBS 230108 방송]]></title>
+            <link>https://tv.naver.com/v/32215335</link>
+            <guid>https://tv.naver.com/v/32215335</guid>
+            <pubDate>Sun, 08 Jan 2023 08:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_109/CrhWp_1673163090865uQWin_JPEG/ca1e1153-539c-464f-86ad-76692f94597f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아일리원(ILY:1) - 별꽃동화(Twinkle Twinkle) | SBS 230108 방송]]></title>
+            <link>https://tv.naver.com/v/32215244</link>
+            <guid>https://tv.naver.com/v/32215244</guid>
+            <pubDate>Sun, 08 Jan 2023 08:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_135/XqqJS_1673162852441yGl9n_JPEG/d22d05a0-2ad6-4179-991d-6c3ba53d9db1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HEEO(히오) - Destiny or Challenge | SBS 230108 방송]]></title>
+            <link>https://tv.naver.com/v/32215115</link>
+            <guid>https://tv.naver.com/v/32215115</guid>
+            <pubDate>Sun, 08 Jan 2023 08:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_212/sl3KF_1673162498351sM5YN_JPEG/9cfa2c9a-c2d9-4698-905f-0ed9b6396c2a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박현서 - 지나갈거야 | SBS 230108 방송]]></title>
+            <link>https://tv.naver.com/v/32215112</link>
+            <guid>https://tv.naver.com/v/32215112</guid>
+            <pubDate>Sun, 08 Jan 2023 08:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_58/3vfgI_16731624947505knV8_JPEG/a2e5bfc4-f9bf-4a8d-b03b-bd56f1ef0d96.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WeNU(위앤유) - 하루하루 | SBS 230108 방송]]></title>
+            <link>https://tv.naver.com/v/32215019</link>
+            <guid>https://tv.naver.com/v/32215019</guid>
+            <pubDate>Sun, 08 Jan 2023 08:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_43/ycjHI_1673162191354gVrIh_JPEG/3ba02135-baab-41eb-93ea-14861c63f008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[H1-KEY(하이키) - 건물 사이에 피어난 장미(Rose Blossom) | SBS 230108 방송]]></title>
             <link>https://tv.naver.com/v/32214925</link>
@@ -158,94 +246,6 @@
             <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
             <content:encoded><![CDATA[3:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221211_157/WuKTU_1670742990530s9o07_JPEG/163799fa-cd33-4f84-aefd-b56b4f561b97.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍진영 - Girl ln The Mirror(feat. Frawley) | SBS 221211 방송]]></title>
-            <link>https://tv.naver.com/v/31515913</link>
-            <guid>https://tv.naver.com/v/31515913</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_160/IMQ0v_16707426897681ij5h_JPEG/118e1327-7e30-45e5-883e-71aeebe3848c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICHILLIN’(아이칠린) - Draw(드로우) | SBS 221211 방송]]></title>
-            <link>https://tv.naver.com/v/31515833</link>
-            <guid>https://tv.naver.com/v/31515833</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_43/fHnzS_1670745994759O35lD_JPEG/9057e267-64cf-46be-abf6-371a1e6410da.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AIMERS - Fight Inside | SBS 221211 방송]]></title>
-            <link>https://tv.naver.com/v/31515756</link>
-            <guid>https://tv.naver.com/v/31515756</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_30/O7xyD_1670742089999ft21w_PNG/f66b9d52-5845-44c7-82e5-cca567d3513f.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KARA - WHEN I MOVE | SBS 221204 방송]]></title>
-            <link>https://tv.naver.com/v/31321021</link>
-            <guid>https://tv.naver.com/v/31321021</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_294/SNseW_1670141490050MUHSQ_JPEG/ccacc3e9-51fd-48a7-a927-fe1a7920715c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet(레드벨벳) - Birthday | SBS 221204 방송]]></title>
-            <link>https://tv.naver.com/v/31320937</link>
-            <guid>https://tv.naver.com/v/31320937</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_212/ZvCEl_1670141192577SeMH1_JPEG/ddc20de0-99e1-446b-b457-b5bfdfacf672.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY - Cheshire | SBS 221204 방송]]></title>
-            <link>https://tv.naver.com/v/31320838</link>
-            <guid>https://tv.naver.com/v/31320838</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_124/eRrD6_1670140892935auO94_JPEG/8f5d3e44-01f9-4d26-8c2c-adb14083ec6b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NIEL(니엘) - 궤도(In your Space) | SBS 221204 방송]]></title>
-            <link>https://tv.naver.com/v/31320761</link>
-            <guid>https://tv.naver.com/v/31320761</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_29/bDGeC_1670140592506u8yGT_JPEG/e07d16e6-444e-4043-87ef-d8843ab4f2eb.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[P1Harmony - Back Down | SBS 221204 방송]]></title>
-            <link>https://tv.naver.com/v/31320658</link>
-            <guid>https://tv.naver.com/v/31320658</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_21/jFlz9_1670140293289S8AyD_JPEG/9654eaf5-6922-4437-8086-afdc25babc51.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫사랑(CSR) - 러브티콘(♡TiCON) | SBS 221204 방송]]></title>
-            <link>https://tv.naver.com/v/31320657</link>
-            <guid>https://tv.naver.com/v/31320657</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_246/WxKpj_1670140291795qT3Ml_JPEG/d4601bf8-8c94-4b4e-979c-24358e280bff.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DRIPPIN(드리핀) - The One | SBS 221204 방송]]></title>
-            <link>https://tv.naver.com/v/31320454</link>
-            <guid>https://tv.naver.com/v/31320454</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_216/vhqna_1670139692719fireL_JPEG/6230bea7-026c-4602-a512-0abe04dac6d9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TEMPEST(템페스트) - Dragon | SBS 221204 방송]]></title>
-            <link>https://tv.naver.com/v/31320453</link>
-            <guid>https://tv.naver.com/v/31320453</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_159/o1ZQ3_1670139690616yvwXu_JPEG/4173a62f-2e74-411d-b903-2103634e1bf8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
