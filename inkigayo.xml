@@ -4,9 +4,41 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 06:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 07:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[H1-KEY(하이키) - 건물 사이에 피어난 장미(Rose Blossom) | SBS 230108 방송]]></title>
+            <link>https://tv.naver.com/v/32214925</link>
+            <guid>https://tv.naver.com/v/32214925</guid>
+            <pubDate>Sun, 08 Jan 2023 07:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_15/zXyQ3_1673161890679qnvns_JPEG/4d432c96-743d-479e-8518-422ad524c163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Espero(에스페로) - Endless | SBS 230108 방송]]></title>
+            <link>https://tv.naver.com/v/32214825</link>
+            <guid>https://tv.naver.com/v/32214825</guid>
+            <pubDate>Sun, 08 Jan 2023 07:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_94/iBKzu_1673161589972DGFUG_JPEG/a763356a-2965-4f02-a473-9cccd3bc5f82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이아영 - 조금 더 일찍 이별할 걸 그랬어 | SBS 230108 방송]]></title>
+            <link>https://tv.naver.com/v/32214660</link>
+            <guid>https://tv.naver.com/v/32214660</guid>
+            <pubDate>Sun, 08 Jan 2023 07:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_120/YUKMJ_1673161049764IfmCM_JPEG/31ab75f0-7047-4096-84ff-b6029de651a1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이층버스 - 사랑이 온 거라면 좋겠다 | SBS 230108 방송]]></title>
+            <link>https://tv.naver.com/v/32214635</link>
+            <guid>https://tv.naver.com/v/32214635</guid>
+            <pubDate>Sun, 08 Jan 2023 07:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_81/PhDMn_1673160990798inrXn_JPEG/971c54b2-19dc-4f5a-aa07-ceead790965c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민호 - 놓아줘(Chase) | SBS 221211 방송]]></title>
             <link>https://tv.naver.com/v/31516851</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
             <content:encoded><![CDATA[3:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221204_159/o1ZQ3_1670139690616yvwXu_JPEG/4173a62f-2e74-411d-b903-2103634e1bf8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍진영 - Girl ln The Mirror(feat. Frawley) | SBS 221204 방송]]></title>
-            <link>https://tv.naver.com/v/31320336</link>
-            <guid>https://tv.naver.com/v/31320336</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_205/zxMr4_16701393952419E1O0_JPEG/3b522bfe-8ee3-4aca-938f-cf744693a1fa.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TRENDZ(트렌드지) - VAGABOND | SBS 221204 방송]]></title>
-            <link>https://tv.naver.com/v/31320335</link>
-            <guid>https://tv.naver.com/v/31320335</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_247/Uqhbu_1670139393441vbxSd_JPEG/de859e98-6a50-49de-9277-51d8f8f8f5f0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TO1 - 얼음 땡 | SBS 221204 방송]]></title>
-            <link>https://tv.naver.com/v/31320134</link>
-            <guid>https://tv.naver.com/v/31320134</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_274/UxiGn_1670138851178dtcmW_JPEG/d7f05f92-d389-4d72-8109-fcbbcd221124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장민호 - 풍악을 울려라! | SBS 221204 방송]]></title>
-            <link>https://tv.naver.com/v/31320112</link>
-            <guid>https://tv.naver.com/v/31320112</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_293/GcF5B_1670138790526X7upR_JPEG/6ef63561-7748-4b0a-b508-7fd2f191fef0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
