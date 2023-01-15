@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 06:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 07:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,54 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230114_294/4pHKS_1673684492006GpMmf_JPEG/clip_20230114165133_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이지영 - Queen | SBS 230115 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32393274</link>
+            <guid>https://tv.naver.com/v/32393274</guid>
+            <pubDate>Sun, 15 Jan 2023 07:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230115_186/JbWMd_1673766751674PJLw7_JPEG/de7e16dc-245b-4bc2-9e20-0e05c215b140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이층버스 - 사랑이 온 거라면 좋겠다 | SBS 230115 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32393256</link>
+            <guid>https://tv.naver.com/v/32393256</guid>
+            <pubDate>Sun, 15 Jan 2023 07:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230115_179/Lii4r_1673766690100rDeTk_JPEG/f501847d-fce6-4fca-a9aa-1e00fb6a56c2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아일리원(ILY:1) - 별꽃동화(Twinkle Twinkle) | SBS 230115 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32393141</link>
+            <guid>https://tv.naver.com/v/32393141</guid>
+            <pubDate>Sun, 15 Jan 2023 07:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230115_258/KVvtA_1673766393537IuUeG_JPEG/06ae3b73-4c8e-4ffe-abb1-6fcffec3c169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Espero(에스페로) - Endless | SBS 230115 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32393140</link>
+            <guid>https://tv.naver.com/v/32393140</guid>
+            <pubDate>Sun, 15 Jan 2023 07:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230115_58/MUmhj_1673766391502AQeNk_JPEG/343a3e10-917b-42de-a56f-9320ad214f2b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프림로즈 - PRIMROSE | SBS 230115 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32393069</link>
+            <guid>https://tv.naver.com/v/32393069</guid>
+            <pubDate>Sun, 15 Jan 2023 07:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230115_18/uIqpV_1673766090681fTgEx_JPEG/0eff1197-1531-4397-8f30-3ed4084ae18b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박현서 - 지나갈거야 | SBS 230115 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32393014</link>
+            <guid>https://tv.naver.com/v/32393014</guid>
+            <pubDate>Sun, 15 Jan 2023 07:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230115_135/1oSJQ_1673765791968bfCpb_JPEG/cde77ce1-697d-45a1-95cc-a9b980fd5ca8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ATEEZ - HALAZIA | SBS 230108 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/32215750</link>
             <guid>https://tv.naver.com/v/32215750</guid>
@@ -446,54 +494,6 @@
             <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
             <content:encoded><![CDATA[2:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221211_193/cjdDj_1670744490454d0EHw_JPEG/80dbc512-cbc9-4915-961e-8a515e957846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DRIPPIN(드리핀) - The One | SBS 221211 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31516269</link>
-            <guid>https://tv.naver.com/v/31516269</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_175/lOURQ_16707441946366YmPm_JPEG/d8009f19-65bd-4d5d-95d3-3f302846970d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박기영 - 사랑이 닿으면 | SBS 221211 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31516180</link>
-            <guid>https://tv.naver.com/v/31516180</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_135/wBWsD_1670743890277gWoaV_JPEG/4150ce28-c20c-4d17-bd86-67b8e6907064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TO1 - 얼음 땡 | SBS 221211 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31516122</link>
-            <guid>https://tv.naver.com/v/31516122</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_294/IiSG7_1670743592079fNdzv_JPEG/23515ec3-5c1a-4697-849c-294bbe4940be.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앨리스(ALICE) - DANCE ON | SBS 221211 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31516120</link>
-            <guid>https://tv.naver.com/v/31516120</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_212/9SkL9_1670743590051oCqN3_JPEG/03ab5f7e-bc6a-4d43-8875-b7b01aaaaa26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정동원 - 뱃놀이 | SBS 221211 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31516027</link>
-            <guid>https://tv.naver.com/v/31516027</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_33/GZNGu_1670743290344gNe2P_JPEG/9ab51d20-8ddc-43d8-944b-4f526ea5f3e1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IRRIS(아이리스) - Stay W!th Me | SBS 221211 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31515963</link>
-            <guid>https://tv.naver.com/v/31515963</guid>
-            <pubDate>Thu, 15 Dec 2022 02:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_157/WuKTU_1670742990530s9o07_JPEG/163799fa-cd33-4f84-aefd-b56b4f561b97.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
