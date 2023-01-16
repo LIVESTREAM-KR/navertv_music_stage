@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 03:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 04:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ATEEZ SAN - HALAZIA(에이티즈 산 - 할라지아) Close-up Cam | Show! MusicCore | MBC230114방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32410534</link>
+            <guid>https://tv.naver.com/v/32410534</guid>
+            <pubDate>Mon, 16 Jan 2023 04:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_192/ElD4G_1673839290634zvYaA_JPEG/clip_20230116113856_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ YEOSANG - HALAZIA(에이티즈 여상 - 할라지아) FanCam | Show! MusicCore | MBC230114방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32410532</link>
+            <guid>https://tv.naver.com/v/32410532</guid>
+            <pubDate>Mon, 16 Jan 2023 04:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_288/HSwCE_1673839289506Fvjd6_JPEG/clip_20230116113849_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] ATEEZ SEONGHWA - HALAZIA(에이티즈 성화 - 할라지아) FanCam | Show! MusicCore | MBC230114방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 14 Jan 2023 09:13:11 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230114_265/CPT7R_1673685091436KYW8Y_JPEG/clip_20230114165135_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] MONSTA X KIHYUN – Deny(몬스타엑스 기현 - 디나이) FanCam | Show! MusicCore | MBC230114방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32377699</link>
-            <guid>https://tv.naver.com/v/32377699</guid>
-            <pubDate>Sat, 14 Jan 2023 09:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_224/7Xktk_1673685090393G7OlF_JPEG/clip_20230114165128_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] MONSTA X JOOHONEY – Beautiful Liar(몬스타엑스 주헌 - 뷰티풀 라이어) FanCam | Show! MusicCore |MBC230114방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32377629</link>
-            <guid>https://tv.naver.com/v/32377629</guid>
-            <pubDate>Sat, 14 Jan 2023 09:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_297/hC9Q4_1673684851733nSotL_JPEG/clip_20230114165550_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MONSTA X - Beautiful Liar | SBS 230115 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
