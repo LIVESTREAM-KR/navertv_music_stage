@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Jan 2023 05:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 06:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[STAGE MIX]🪄  NCT DREAM - Candy(엔시티 드림 - 캔디) | Show! MusicCore]]></title>
+            <link>https://tv.naver.com/v/32527566</link>
+            <guid>https://tv.naver.com/v/32527566</guid>
+            <pubDate>Sat, 21 Jan 2023 06:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_201/O2fXe_1674195151998Sswnk_JPEG/clip_20230120143807_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] ATEEZ SAN - HALAZIA(에이티즈 산 - 할라지아) Close-up Cam | Show! MusicCore | MBC230114방송]]></title>
             <link>https://tv.naver.com/v/32410534</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 14 Jan 2023 09:13:11 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230114_190/hrg5J_16736850923893feE1_JPEG/clip_20230114165549_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] MONSTA X HYUNGWON – Deny(몬스타엑스 형원 - 디나이) FanCam | Show! MusicCore | MBC230114방송]]></title>
-            <link>https://tv.naver.com/v/32377700</link>
-            <guid>https://tv.naver.com/v/32377700</guid>
-            <pubDate>Sat, 14 Jan 2023 09:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_265/CPT7R_1673685091436KYW8Y_JPEG/clip_20230114165135_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
