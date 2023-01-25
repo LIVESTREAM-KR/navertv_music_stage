@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/satfreedom/clips</id>
-    <title>KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV</title>
-    <updated>2023-01-24T23:15:58.550Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/satfreedom/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 25 Jan 2023 01:09:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4K 직캠] 허찬미X황우림 - 스타킹 | KBS 방송]]></title>
+            <link>https://tv.naver.com/v/32548932</link>
+            <guid>https://tv.naver.com/v/32548932</guid>
+            <pubDate>Wed, 25 Jan 2023 01:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_100/b5yIX_1674605196473Jnxse_JPEG/AnSuvK6JoL3R.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세로 직캠] 허찬미X황우림 - 스타킹 | KBS 방송]]></title>
+            <link>https://tv.naver.com/v/32548718</link>
+            <guid>https://tv.naver.com/v/32548718</guid>
+            <pubDate>Wed, 25 Jan 2023 01:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230121_109/M9L3o_16742979949128lJYT_PNG/YPfM4o2AjUsU.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[4K 직캠] 해수X양지은 - 가슴으로 울었네 | KBS 방송]]></title>
+            <link>https://tv.naver.com/v/32548844</link>
+            <guid>https://tv.naver.com/v/32548844</guid>
+            <pubDate>Wed, 25 Jan 2023 01:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_58/DotUZ_1674605505822LPLcp_JPEG/yeZzKdvKJ4m4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세로 직캠] 해수X양지은 - 가슴으로 울었네 | KBS 방송]]></title>
+            <link>https://tv.naver.com/v/32548672</link>
+            <guid>https://tv.naver.com/v/32548672</guid>
+            <pubDate>Wed, 25 Jan 2023 01:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230121_79/Tm4FS_1674297754290nDTui_PNG/Cjwi9bfSd5FM.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[4K 직캠] 장윤정 - 별 | KBS 방송]]></title>
+            <link>https://tv.naver.com/v/32548993</link>
+            <guid>https://tv.naver.com/v/32548993</guid>
+            <pubDate>Wed, 25 Jan 2023 01:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230121_143/P1oNS_1674299192837B7OPl_PNG/Zob8aGCLeAsa.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[세로 직캠] 장윤정 - 별 | KBS 방송]]></title>
+            <link>https://tv.naver.com/v/32548602</link>
+            <guid>https://tv.naver.com/v/32548602</guid>
+            <pubDate>Wed, 25 Jan 2023 01:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230121_125/3BNlv_1674297392629uDus5_PNG/teAN19aKZU8V.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[4K 직캠] 나태주 - 장윤정 트위스트 | KBS 방송]]></title>
+            <link>https://tv.naver.com/v/32548717</link>
+            <guid>https://tv.naver.com/v/32548717</guid>
+            <pubDate>Wed, 25 Jan 2023 01:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[5:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_73/pb8nd_1674605498923idHcO_JPEG/Cr0KSj4KafCg.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세로 직캠] 나태주 - 장윤정 트위스트 | KBS 방송]]></title>
+            <link>https://tv.naver.com/v/32548671</link>
+            <guid>https://tv.naver.com/v/32548671</guid>
+            <pubDate>Wed, 25 Jan 2023 01:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[5:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230121_136/jT3vh_16742977530822tqoj_PNG/ayKMPCfQFWtY.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[4K 직캠] 김희재 - 애가 타 + 옆집 누나 | KBS 방송]]></title>
+            <link>https://tv.naver.com/v/32549119</link>
+            <guid>https://tv.naver.com/v/32549119</guid>
+            <pubDate>Wed, 25 Jan 2023 01:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[6:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_63/WcBq0_1674605501228TvVoy_JPEG/DmpqRq4oVph7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세로 직캠] 김희재 - 애가 타 + 옆집 누나 | KBS 방송]]></title>
+            <link>https://tv.naver.com/v/32548716</link>
+            <guid>https://tv.naver.com/v/32548716</guid>
+            <pubDate>Wed, 25 Jan 2023 01:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[6:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230121_84/Kujfy_1674297991355dcETs_PNG/lickv6el0XnP.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[4K 직캠] 김나희X곽지은 - 기억 | KBS 방송]]></title>
+            <link>https://tv.naver.com/v/32548930</link>
+            <guid>https://tv.naver.com/v/32548930</guid>
+            <pubDate>Wed, 25 Jan 2023 01:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_219/Pax4U_1674605503782taQYB_JPEG/zGYk4XrItKxk.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세로 직캠] 김나희X곽지은 - 기억 | KBS 방송]]></title>
+            <link>https://tv.naver.com/v/32548599</link>
+            <guid>https://tv.naver.com/v/32548599</guid>
+            <pubDate>Wed, 25 Jan 2023 01:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230121_105/w8t5q_1674297389629BpWkz_PNG/bQwP5BPc6J47.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
