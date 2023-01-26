@@ -4,9 +4,17 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 08:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 09:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신년특집 조성모콘서트 1부]]></title>
+            <link>https://tv.naver.com/v/32642861</link>
+            <guid>https://tv.naver.com/v/32642861</guid>
+            <pubDate>Thu, 26 Jan 2023 09:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[47:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_173/PaP9l_1674722057617snEmQ_JPEG/b6b3821a-9d52-11ed-ac11-a0369ffb35c4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조성모_너 하나만 (파리의 연인 OST)]]></title>
             <link>https://tv.naver.com/v/32500782</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 03 Jan 2023 05:14:56 GMT</pubDate>
             <content:encoded><![CDATA[4:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230103_26/KaAWb_1672720858225JBR2I_JPEG/12e15c68-8b10-11ed-89d2-a0369ffab09c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우연이_길]]></title>
-            <link>https://tv.naver.com/v/32079343</link>
-            <guid>https://tv.naver.com/v/32079343</guid>
-            <pubDate>Tue, 03 Jan 2023 05:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_57/C5ACe_1672720854157AddYQ_JPEG/fcc8c663-8b0f-11ed-9c62-a0369ffb36c4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
