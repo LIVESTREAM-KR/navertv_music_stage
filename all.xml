@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 09:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 10:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[STAGE MIX🪄] Jeong Dong Won – Baennori(정동원 – 뱃놀이)  | Show! MusicCore (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32665650</link>
+            <guid>https://tv.naver.com/v/32665650</guid>
+            <pubDate>Fri, 27 Jan 2023 10:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_57/jZiQ2_1674797250109qyJku_JPEG/clip_20230127140230_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[STAGE MIX]🪄  NCT DREAM - Candy(엔시티 드림 - 캔디) | Show! MusicCore (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 14 Jan 2023 09:13:11 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230114_19/N77zd_1673685093717rQjyN_JPEG/clip_20230114170437_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] MONSTA X KIHYUN – Beautiful Liar(몬스타엑스 기현 - 뷰티풀 라이어) FanCam | Show! MusicCore | MBC230114방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32377701</link>
-            <guid>https://tv.naver.com/v/32377701</guid>
-            <pubDate>Sat, 14 Jan 2023 09:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_190/hrg5J_16736850923893feE1_JPEG/clip_20230114165549_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MONSTA X - Beautiful Liar | SBS 230115 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
