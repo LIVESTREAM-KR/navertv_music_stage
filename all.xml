@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 07:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 08:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,38 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] cignature – AURORA(시그니처 - 오로라) FanCam | Show! MusicCore | MBC230128방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32693503</link>
+            <guid>https://tv.naver.com/v/32693503</guid>
+            <pubDate>Sat, 28 Jan 2023 08:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_70/ShHS7_1674893790767s7S5B_JPEG/clip_20230128164410_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] XG COCONA – SHOOTING STAR(엑스지 코코나 - 슈팅 스타) FanCam | Show! MusicCore | MBC230128방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32693502</link>
+            <guid>https://tv.naver.com/v/32693502</guid>
+            <pubDate>Sat, 28 Jan 2023 08:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_123/5KRej_1674893789586OLukQ_JPEG/clip_20230128164341_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] XG JURIN – SHOOTING STAR(엑스지 주린 - 슈팅 스타) FanCam | Show! MusicCore | MBC230128방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32693419</link>
+            <guid>https://tv.naver.com/v/32693419</guid>
+            <pubDate>Sat, 28 Jan 2023 08:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_140/fI80s_1674893550402unLjq_JPEG/clip_20230128164337_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] PRIMROSE – PRIMROSE(프림로즈 - 프림로즈) FanCam | Show! MusicCore | MBC230128방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32693401</link>
+            <guid>https://tv.naver.com/v/32693401</guid>
+            <pubDate>Sat, 28 Jan 2023 08:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_46/oZCoN_1674893490761K6KoK_JPEG/clip_20230128164420_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[STAGE MIX🪄] Jeong Dong Won – Baennori(정동원 – 뱃놀이)  | Show! MusicCore (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -222,38 +254,6 @@
             <pubDate>Sat, 14 Jan 2023 09:13:11 GMT</pubDate>
             <content:encoded><![CDATA[2:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230114_227/tzJb9_1673685394405Lgs9Y_JPEG/clip_20230114170442_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SF9 HWI YOUNG – Puzzle(에스에프나인 휘영 - 퍼즐) FanCam | Show! MusicCore | MBC230114방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32377787</link>
-            <guid>https://tv.naver.com/v/32377787</guid>
-            <pubDate>Sat, 14 Jan 2023 09:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_22/JFlwN_1673685393228pk7SM_JPEG/clip_20230114170106_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] MONSTA X I.M – Deny(몬스타엑스 아이엠 - 디나이) FanCam | Show! MusicCore | MBC230114방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32377786</link>
-            <guid>https://tv.naver.com/v/32377786</guid>
-            <pubDate>Sat, 14 Jan 2023 09:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_225/f6Cs4_16736853921042uSyN_JPEG/clip_20230114165131_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] MONSTA X - Deny(몬스타엑스 – 디나이) FanCam | Show! MusicCore | MBC230114방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32377785</link>
-            <guid>https://tv.naver.com/v/32377785</guid>
-            <pubDate>Sat, 14 Jan 2023 09:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_66/BXArz_16736853906594L6sf_JPEG/clip_20230114165123_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ATEEZ – As I Told You(에이티즈 - 말하자면) FanCam | Show! MusicCore | MBC230114방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32377703</link>
-            <guid>https://tv.naver.com/v/32377703</guid>
-            <pubDate>Sat, 14 Jan 2023 09:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_19/N77zd_1673685093717rQjyN_JPEG/clip_20230114170437_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MONSTA X - Beautiful Liar | SBS 230115 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
