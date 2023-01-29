@@ -4,9 +4,49 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 06:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 07:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이지영 - Queen | SBS 230129 방송]]></title>
+            <link>https://tv.naver.com/v/32709051</link>
+            <guid>https://tv.naver.com/v/32709051</guid>
+            <pubDate>Sun, 29 Jan 2023 07:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_16/7lm5b_1674976291073ylBAI_JPEG/b5aaaf64-9013-46d7-aad3-b4017be8f664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Espero(에스페로) - Endless | SBS 230129 방송]]></title>
+            <link>https://tv.naver.com/v/32708949</link>
+            <guid>https://tv.naver.com/v/32708949</guid>
+            <pubDate>Sun, 29 Jan 2023 07:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_141/br0Wo_1674975992485LRSsL_JPEG/c42fe1c3-6711-448c-96f8-9405f2b86daa.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[XG - Shooting Star | SBS 230129 방송]]></title>
+            <link>https://tv.naver.com/v/32708947</link>
+            <guid>https://tv.naver.com/v/32708947</guid>
+            <pubDate>Sun, 29 Jan 2023 07:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_87/YBGOu_1674975990873hUkK6_JPEG/b3d991de-e6d3-4d29-a449-3219dac8b3eb.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[류지현(RYU JIHYUN) - 씰룩씰룩(Green Light) | SBS 230129 방송]]></title>
+            <link>https://tv.naver.com/v/32708777</link>
+            <guid>https://tv.naver.com/v/32708777</guid>
+            <pubDate>Sun, 29 Jan 2023 07:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_240/k0TZU_1674975449343W5kpY_JPEG/85246a17-62d5-4f12-ae97-27e957bbe3a7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프림로즈 - PRIMROSE | SBS 230129 방송]]></title>
+            <link>https://tv.naver.com/v/32708759</link>
+            <guid>https://tv.naver.com/v/32708759</guid>
+            <pubDate>Sun, 29 Jan 2023 07:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_60/ZQ7Xu_1674975392492ldmJ4_JPEG/6f6404f8-11af-462e-82e4-0fe7f20f2bab.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MONSTA X - Beautiful Liar | SBS 230115 방송]]></title>
             <link>https://tv.naver.com/v/32394176</link>
@@ -206,46 +246,6 @@
             <pubDate>Sun, 08 Jan 2023 08:18:01 GMT</pubDate>
             <content:encoded><![CDATA[2:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230108_212/sl3KF_1673162498351sM5YN_JPEG/9cfa2c9a-c2d9-4698-905f-0ed9b6396c2a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박현서 - 지나갈거야 | SBS 230108 방송]]></title>
-            <link>https://tv.naver.com/v/32215112</link>
-            <guid>https://tv.naver.com/v/32215112</guid>
-            <pubDate>Sun, 08 Jan 2023 08:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_58/3vfgI_16731624947505knV8_JPEG/a2e5bfc4-f9bf-4a8d-b03b-bd56f1ef0d96.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WeNU(위앤유) - 하루하루 | SBS 230108 방송]]></title>
-            <link>https://tv.naver.com/v/32215019</link>
-            <guid>https://tv.naver.com/v/32215019</guid>
-            <pubDate>Sun, 08 Jan 2023 08:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_43/ycjHI_1673162191354gVrIh_JPEG/3ba02135-baab-41eb-93ea-14861c63f008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[H1-KEY(하이키) - 건물 사이에 피어난 장미(Rose Blossom) | SBS 230108 방송]]></title>
-            <link>https://tv.naver.com/v/32214925</link>
-            <guid>https://tv.naver.com/v/32214925</guid>
-            <pubDate>Sun, 08 Jan 2023 07:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_15/zXyQ3_1673161890679qnvns_JPEG/4d432c96-743d-479e-8518-422ad524c163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Espero(에스페로) - Endless | SBS 230108 방송]]></title>
-            <link>https://tv.naver.com/v/32214825</link>
-            <guid>https://tv.naver.com/v/32214825</guid>
-            <pubDate>Sun, 08 Jan 2023 07:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_94/iBKzu_1673161589972DGFUG_JPEG/a763356a-2965-4f02-a473-9cccd3bc5f82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이아영 - 조금 더 일찍 이별할 걸 그랬어 | SBS 230108 방송]]></title>
-            <link>https://tv.naver.com/v/32214660</link>
-            <guid>https://tv.naver.com/v/32214660</guid>
-            <pubDate>Sun, 08 Jan 2023 07:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_120/YUKMJ_1673161049764IfmCM_JPEG/31ab75f0-7047-4096-84ff-b6029de651a1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
