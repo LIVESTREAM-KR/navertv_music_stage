@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 06:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 07:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1550,6 +1550,22 @@
             <pubDate>Wed, 16 Nov 2022 17:30:48 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20140630_119/KR13253_1404112973517OoC5N_JPEG/03100423612E53BE7AC37921631389D3F83_muploader_o_480P_854_1024_128_logo.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[4K 직캠] 바다 - Maria(마리아)  | KBS 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32694232</link>
+            <guid>https://tv.naver.com/v/32694232</guid>
+            <pubDate>Mon, 30 Jan 2023 07:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_231/S3nXW_1674896190350TAM1D_JPEG/pHcqdAhyYIcT.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세로 직캠] 바다 - Maria(마리아)  | KBS 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32693978</link>
+            <guid>https://tv.naver.com/v/32693978</guid>
+            <pubDate>Mon, 30 Jan 2023 07:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_107/p7Qzk_16748953536574rLgl_JPEG/OfW36eLrtOpZ.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[4K 직캠] 허찬미X황우림 - 스타킹 | KBS 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
