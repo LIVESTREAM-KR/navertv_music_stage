@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 06:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 07:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 계묘년 K-POP을 책임질 쇼챔피언 두두등장!]]></title>
+            <link>https://tv.naver.com/v/32852159</link>
+            <guid>https://tv.naver.com/v/32852159</guid>
+            <pubDate>Fri, 03 Feb 2023 07:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_72/04wFH_1675405599639osovg_JPEG/CA202302080002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] 문수아, 나나, 츠키 MBC 드림센터 전격 방문!]]></title>
             <link>https://tv.naver.com/v/32630002</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 07 Dec 2022 16:21:31 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221208_43/1M5mL_1670427393370z40ef_JPEG/CA202212070023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] CIX BX - Cinema (씨아이엑스 비엑스 - 씨네마) | Show Champion | EP.460]]></title>
-            <link>https://tv.naver.com/v/31429148</link>
-            <guid>https://tv.naver.com/v/31429148</guid>
-            <pubDate>Wed, 07 Dec 2022 16:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_218/1GHpQ_1670427392061NzXwl_JPEG/CA202212070025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
