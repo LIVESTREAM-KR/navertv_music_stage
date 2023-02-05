@@ -4,7 +4,7 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 11:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 12:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,8 +20,8 @@
             <link>https://tv.naver.com/v/32894237</link>
             <guid>https://tv.naver.com/v/32894237</guid>
             <pubDate>Sun, 05 Feb 2023 08:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230205_227/ScHLV_1675583490842Rbti3_JPEG/ac7d5a72-7fc9-44cc-b605-1198116203ed.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230205_218/NlFce_16755981918931G4Q7_JPEG/24499f4d-4073-4b1a-8ab1-cb44976bc4f8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VIVIZ - PULL UP | SBS 230205 방송]]></title>
