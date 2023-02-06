@@ -4,9 +4,41 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 05:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 06:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT 127 DOYOUNG - DJ(엔시티 127 도영 - 디제이) Close-up Cam | Show! MusicCore | MBC230204방송]]></title>
+            <link>https://tv.naver.com/v/32917468</link>
+            <guid>https://tv.naver.com/v/32917468</guid>
+            <pubDate>Mon, 06 Feb 2023 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_184/KOHCs_16756626941327T3Cz_JPEG/clip_20230206143355_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT 127 JAEHYUN - DJ(엔시티 127 재현 - 디제이) Close-up Cam | Show! MusicCore | MBC230204방송]]></title>
+            <link>https://tv.naver.com/v/32917467</link>
+            <guid>https://tv.naver.com/v/32917467</guid>
+            <pubDate>Mon, 06 Feb 2023 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_43/40LXA_1675662692294s9Gnt_JPEG/clip_20230206141903_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT 127 JUNGWOO - DJ(엔시티 127 정우 - 디제이) Close-up Cam | Show! MusicCore | MBC230204방송]]></title>
+            <link>https://tv.naver.com/v/32917298</link>
+            <guid>https://tv.naver.com/v/32917298</guid>
+            <pubDate>Mon, 06 Feb 2023 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_175/NhgPf_1675662390436NjVsn_JPEG/clip_20230206141931_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT 127 JOHNNY - DJ(엔시티 127 쟈니 - 디제이) Close-up Cam | Show! MusicCore | MBC230204방송]]></title>
+            <link>https://tv.naver.com/v/32916886</link>
+            <guid>https://tv.naver.com/v/32916886</guid>
+            <pubDate>Mon, 06 Feb 2023 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_165/B1y3Y_1675661791382CHmNu_JPEG/clip_20230206141923_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] ILY:1 RONA – Twinkle Twinkle(아일리원 로나 - 별꽃동화) FanCam | Show! MusicCore | MBC230128방송]]></title>
             <link>https://tv.naver.com/v/32694416</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 16 Jan 2023 03:16:07 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230116_252/sukJZ_1673838751410Xcbae_JPEG/clip_20230116113846_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ATEEZ WOOYOUNG - HALAZIA(에이티즈 우영 - 할라지아) FanCam | Show! MusicCore | MBC230114방송]]></title>
-            <link>https://tv.naver.com/v/32410166</link>
-            <guid>https://tv.naver.com/v/32410166</guid>
-            <pubDate>Mon, 16 Jan 2023 03:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_260/LpilD_1673838393401zjjMt_JPEG/clip_20230116113852_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SF9 - Puzzle(에스에프나인 – 퍼즐) FanCam | Show! MusicCore | MBC230114방송]]></title>
-            <link>https://tv.naver.com/v/32378261</link>
-            <guid>https://tv.naver.com/v/32378261</guid>
-            <pubDate>Sat, 14 Jan 2023 09:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_196/U1rE2_1673687190949Sqxvm_JPEG/clip_20230114170516_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SF9 RO WOON – Puzzle(에스에프나인 로운 - 퍼즐) FanCam | Show! MusicCore | MBC230114방송]]></title>
-            <link>https://tv.naver.com/v/32378258</link>
-            <guid>https://tv.naver.com/v/32378258</guid>
-            <pubDate>Sat, 14 Jan 2023 09:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_197/NVqvR_1673687189880Gd1CO_JPEG/clip_20230114170110_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NMIXX JIWOO – Atlantis Princess(엔믹스 지우 - 아틀란티스 소녀) FanCam | Show! MusicCore | MBC230114방송]]></title>
-            <link>https://tv.naver.com/v/32378121</link>
-            <guid>https://tv.naver.com/v/32378121</guid>
-            <pubDate>Sat, 14 Jan 2023 09:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_63/cNM1K_1673686655583D9VKo_JPEG/clip_20230114170911_29.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
