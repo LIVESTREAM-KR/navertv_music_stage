@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 08:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 09:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[MC석 코너] 달나츠에게 주문하신 'BLUE CHECK 챌린지 & 체리피스' 나왔습니다🍒 | Show Champion | EP.462 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33040463</link>
+            <guid>https://tv.naver.com/v/33040463</guid>
+            <pubDate>Fri, 10 Feb 2023 09:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_190/PxvHx_1676015190347KjXq0_JPEG/CA202302080074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[키워드 인터뷰] 케이팝의 차세대 리더가 될 YOUNG FUTURE! ★8TRUN★  l Show Champion l EP.462 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33040201</link>
+            <guid>https://tv.naver.com/v/33040201</guid>
+            <pubDate>Fri, 10 Feb 2023 09:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_261/QaJv3_1676014600904qb5wq_JPEG/CA202302080073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2월 2주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아 나나, 빌리 문수아&츠키) | Show Champion | EP.462 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33040199</link>
+            <guid>https://tv.naver.com/v/33040199</guid>
+            <pubDate>Fri, 10 Feb 2023 09:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[6:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_139/9eez4_1676014597490RJuMG_JPEG/CA202302080072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] ARTBEAT - Aphrodite (Rule The World) (아트비트 - 아프로디테) l Show Champion l EP.462 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/33002716</link>
             <guid>https://tv.naver.com/v/33002716</guid>
@@ -1430,30 +1454,6 @@
             <pubDate>Wed, 08 Feb 2023 11:13:41 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230208_284/b62bT_1675852050570ngOB4_JPEG/CA202302080042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ILY:1 - Twinkle, Twinkle (아일리원 - 별꽃동화) l Show Champion l EP.462 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32992209</link>
-            <guid>https://tv.naver.com/v/32992209</guid>
-            <pubDate>Wed, 08 Feb 2023 11:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230208_34/43uzR_16758519912407Dhf5_JPEG/CA202302080044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] 8TURN YUN GYU - TIC TAC (에잇턴 윤규 - 틱 택) | Show Champion | EP.462 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32992102</link>
-            <guid>https://tv.naver.com/v/32992102</guid>
-            <pubDate>Wed, 08 Feb 2023 13:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230208_4/NM0AZ_1675851702571ftS6h_JPEG/CA202302080019_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Choi Suhwan - LEFT ON READ (최수환 - 레프트 온 리드) l Show Champion l EP.462 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32992101</link>
-            <guid>https://tv.naver.com/v/32992101</guid>
-            <pubDate>Wed, 08 Feb 2023 11:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230208_289/aegVr_1675851700207o3lfY_JPEG/CA202302080041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
