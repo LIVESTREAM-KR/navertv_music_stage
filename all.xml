@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 09:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 10:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2096,6 +2096,78 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_235/Swusi_1669945663719CxKHQ_JPEG/1669945194760.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전건호_이럴거면 (원곡 아이비) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33009141</link>
+            <guid>https://tv.naver.com/v/33009141</guid>
+            <pubDate>Fri, 10 Feb 2023 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_168/jqWsr_1675922543486eQeTd_JPEG/3431a223-a83e-11ed-884a-a0369ffb30d8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경서예지_은하수를 닮은 너에게 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33009140</link>
+            <guid>https://tv.naver.com/v/33009140</guid>
+            <pubDate>Fri, 10 Feb 2023 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[4:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_286/8pgWq_1675922538023EGr0k_JPEG/0f1fe328-a83e-11ed-ae88-a0369ff84194_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경서예지&전건호_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33009135</link>
+            <guid>https://tv.naver.com/v/33009135</guid>
+            <pubDate>Fri, 10 Feb 2023 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[7:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_187/bwPRa_1675922529875TEokE_JPEG/d58136dd-a83d-11ed-a39f-a0369ffac634_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경서예지&전건호_다정히 내 이름을 부르면 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33009133</link>
+            <guid>https://tv.naver.com/v/33009133</guid>
+            <pubDate>Fri, 10 Feb 2023 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_94/pEEyn_1675922524328J1xOG_JPEG/b73f3edd-a83d-11ed-a5ba-a0369ffdab88_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이키즈_사랑이 식었다고 말해도 돼 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33009129</link>
+            <guid>https://tv.naver.com/v/33009129</guid>
+            <pubDate>Fri, 10 Feb 2023 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_6/IwEqr_1675922518551dhTG7_JPEG/9a091040-a83d-11ed-820e-a0369ffdb630_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이키즈_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33009124</link>
+            <guid>https://tv.naver.com/v/33009124</guid>
+            <pubDate>Fri, 10 Feb 2023 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[8:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_227/d4uom_1675922507046Oosmt_JPEG/550585c0-a83d-11ed-8f02-a0369ffdac84_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이키즈_집에 돌아가는 길 외롭다 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33009119</link>
+            <guid>https://tv.naver.com/v/33009119</guid>
+            <pubDate>Fri, 10 Feb 2023 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_13/s2Vsh_1675922499447lLmvN_JPEG/30052c28-a83d-11ed-97a8-505dacfba98a_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이키즈_흰눈 (원곡 이루) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33009100</link>
+            <guid>https://tv.naver.com/v/33009100</guid>
+            <pubDate>Fri, 10 Feb 2023 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_264/q0fpo_1675922465958VufKH_JPEG/07a68c5b-a83d-11ed-9307-505dac8c381b_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이키즈&경서예지&전건호_이 밤이 지나면 (원곡 임재범) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33009066</link>
+            <guid>https://tv.naver.com/v/33009066</guid>
+            <pubDate>Fri, 10 Feb 2023 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_265/wIMVj_1675922398587XVYLO_JPEG/e5c1a2bc-a83c-11ed-8407-505dac8c3639_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[허성현_business boy (Clean ver.) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/32824221</link>
             <guid>https://tv.naver.com/v/32824221</guid>
@@ -2262,78 +2334,6 @@
             <pubDate>Fri, 06 Jan 2023 10:17:19 GMT</pubDate>
             <content:encoded><![CDATA[5:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230105_67/ydxs1_1672899916975HBudn_JPEG/3d4ae026-8cc0-11ed-b07f-80615f0bce8c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진민호_보통의 하루 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32144463</link>
-            <guid>https://tv.naver.com/v/32144463</guid>
-            <pubDate>Fri, 06 Jan 2023 10:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_275/vMy3d_1672899907581XgocI_JPEG/213145d4-8cc0-11ed-911d-a0369ffdb6f4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서문탁_Dear, Queen (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32144460</link>
-            <guid>https://tv.naver.com/v/32144460</guid>
-            <pubDate>Fri, 06 Jan 2023 10:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_258/u8kJ8_1672899903716wPebE_JPEG/fa6071a9-8cbf-11ed-a30c-80615f0bcbfa_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이지영_El dia Que me Quieras (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32144456</link>
-            <guid>https://tv.naver.com/v/32144456</guid>
-            <pubDate>Fri, 06 Jan 2023 10:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_27/qpsak_1672899898857pfyXc_JPEG/e1b9b6b7-8cbf-11ed-9a3c-a0369ffdb988_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노을_늦은밤 너의 집 앞 골목길에서 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32144451</link>
-            <guid>https://tv.naver.com/v/32144451</guid>
-            <pubDate>Fri, 06 Jan 2023 10:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_292/Garu1_16728998931274CBlG_JPEG/c54a341f-8cbf-11ed-b1f2-80615f0bcc68_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워킹애프터유_What`s Up? (원곡 4 Non Blondes) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32144448</link>
-            <guid>https://tv.naver.com/v/32144448</guid>
-            <pubDate>Fri, 06 Jan 2023 10:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[5:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_122/AIDMD_16728998883741V6pS_JPEG/9719b630-8cbf-11ed-8298-a0369ffda310_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테이_감사 (원곡 김동률) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32144440</link>
-            <guid>https://tv.naver.com/v/32144440</guid>
-            <pubDate>Fri, 06 Jan 2023 10:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_291/bLKDz_1672899874551E8dHA_JPEG/3f666277-8cbf-11ed-a215-505dac8c37f3_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테이_사랑일뿐야 (원곡 김민우) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32144437</link>
-            <guid>https://tv.naver.com/v/32144437</guid>
-            <pubDate>Fri, 06 Jan 2023 10:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_81/DMeca_1672899869320g7CvA_JPEG/ae08080b-8cbe-11ed-9aad-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최상_탄다 탄다 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32079525</link>
-            <guid>https://tv.naver.com/v/32079525</guid>
-            <pubDate>Tue, 03 Jan 2023 05:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_30/yo0Qw_16727211071418cxKy_JPEG/01041615-8b21-11ed-bae5-a0369ffb33b4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김다나_자시삼경 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32079519</link>
-            <guid>https://tv.naver.com/v/32079519</guid>
-            <pubDate>Tue, 03 Jan 2023 05:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_4/CzsvN_1672721101974KQGco_JPEG/ed75ad91-8b20-11ed-8298-a0369ffda310_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
