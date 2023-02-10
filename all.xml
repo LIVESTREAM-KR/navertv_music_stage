@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 05:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 06:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,12 +1552,100 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20140630_119/KR13253_1404112973517OoC5N_JPEG/03100423612E53BE7AC37921631389D3F83_muploader_o_480P_854_1024_128_logo.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 🌟2023 오 마이 스타3 2부🌟 불후에서 양보란 없다! 본방사수❤️‍🔥 | KBS 방 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32881314</link>
+            <guid>https://tv.naver.com/v/32881314</guid>
+            <pubDate>Fri, 10 Feb 2023 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230204_134/5UMaB_1675511195039ozdCh_JPEG/63de3efa9fb21c8e8059cff1_0_1675510154384.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[4K 직캠] 정선아X민우혁 - This is Me | KBS 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32909362</link>
+            <guid>https://tv.naver.com/v/32909362</guid>
+            <pubDate>Fri, 10 Feb 2023 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[5:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_41/bxguC_1675662095803Sh7RX_JPEG/hj9NdOewLQDN.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세로 직캠] 이보람X흰 - 바람의 노래 | KBS 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32900045</link>
+            <guid>https://tv.naver.com/v/32900045</guid>
+            <pubDate>Fri, 10 Feb 2023 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[4:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230205_231/HGsLl_1675601849917ynIa9_JPEG/gpOCBDEke97f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[4K 직캠] 이보람X흰 - 바람의 노래 | KBS 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32900419</link>
+            <guid>https://tv.naver.com/v/32900419</guid>
+            <pubDate>Fri, 10 Feb 2023 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[4:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230205_67/TcCxg_1675602752455sfluI_JPEG/JVrdyzrxawdw.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세로 직캠] 선예X조권 - 바람기억 | KBS 230204 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32900136</link>
+            <guid>https://tv.naver.com/v/32900136</guid>
+            <pubDate>Fri, 10 Feb 2023 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[5:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230205_173/H4Nzs_1675602091003fnAJV_JPEG/K2j2hA3QXmM8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[4K 직캠] 선예X조권 - 바람기억 | KBS 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32900420</link>
+            <guid>https://tv.naver.com/v/32900420</guid>
+            <pubDate>Fri, 10 Feb 2023 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[5:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230205_165/i16nh_1675602754382QopT1_JPEG/sMyNamf3riKe.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세로 직캠] 김조한XUV - End of The Road | KBS 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32909239</link>
+            <guid>https://tv.naver.com/v/32909239</guid>
+            <pubDate>Fri, 10 Feb 2023 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[5:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_212/208uM_1675662096380SJE8I_JPEG/Wm2JPJO1jW10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[4K 직캠] 김조한XUV - End of The Road | KBS 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32910097</link>
+            <guid>https://tv.naver.com/v/32910097</guid>
+            <pubDate>Fri, 10 Feb 2023 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[5:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_113/31iLg_1675662099688QmQID_JPEG/6CjFjXNsPN6g.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정선아 & 민우혁 - This Is Me | KBS 230204 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/32909078</link>
             <guid>https://tv.naver.com/v/32909078</guid>
             <pubDate>Mon, 06 Feb 2023 02:39:34 GMT</pubDate>
             <content:encoded><![CDATA[5:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230206_37/L731j_1675646195532OX1In_JPEG/TFfUMHZzd6dy.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[※자동기립※ 믿기지 않는 초고음을🤘 보여준 박완규&윤성의 무대! | KBS 230204 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32880524</link>
+            <guid>https://tv.naver.com/v/32880524</guid>
+            <pubDate>Fri, 10 Feb 2023 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230204_36/fDyeT_1675508792476x9hLo_JPEG/63de366f1e13404c67a657f5_upload_1675507661997.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[환상의 하모니를 보여준 죽마고우💚 선예&조권 마음이 따뜻해지는 꿈의 무대! | KBS 230204 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32880243</link>
+            <guid>https://tv.naver.com/v/32880243</guid>
+            <pubDate>Fri, 10 Feb 2023 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230204_17/zngQY_1675507893314PQqH1_JPEG/63de32749fb21c8e8059ce5d_upload_1675506959197.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈물의 내레이션💧 감동적인 실력을 보여준 UV&김조한의 무대! | KBS 230204 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32880000</link>
+            <guid>https://tv.naver.com/v/32880000</guid>
+            <pubDate>Fri, 10 Feb 2023 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230204_176/Cyexu_1675506996255CDoUH_JPEG/63de2b489fb21c8e8059cd92_upload_1675505960401.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[4K 직캠] 허찬미X황우림 - 스타킹 | KBS 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
