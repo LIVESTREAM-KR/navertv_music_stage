@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 04:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 05:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.555 – IM CHANG JUNG(임창정), Kim Jong Seo(김종서), cignature(시그니처), XG(엑스]]></title>
+            <link>https://tv.naver.com/v/33027134</link>
+            <guid>https://tv.naver.com/v/33027134</guid>
+            <pubDate>Fri, 10 Feb 2023 05:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[53:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_184/XgQ2s_1675988219866uIb8Y_JPEG/1675987447689.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.554 –  WEi(위아이), AleXa(알렉사), KINGDOM(킹덤)]]></title>
             <link>https://tv.naver.com/v/32353837</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 02 Dec 2022 05:15:16 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_235/Swusi_1669945663719CxKHQ_JPEG/1669945194760.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IRRIS(아이리스) - ‘Stay w!th me’ _ Ep.548 |  [4K]]]></title>
-            <link>https://tv.naver.com/v/31270814</link>
-            <guid>https://tv.naver.com/v/31270814</guid>
-            <pubDate>Fri, 02 Dec 2022 05:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_77/ZVBup_1669945658911PqHFX_JPEG/1669945187503.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
