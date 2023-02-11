@@ -4,9 +4,41 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 09:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 10:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] VIVIZ EUNHA – PULL UP(비비지 은하 - 풀업) FanCam | Show! MusicCore | MBC230211방송]]></title>
+            <link>https://tv.naver.com/v/33060771</link>
+            <guid>https://tv.naver.com/v/33060771</guid>
+            <pubDate>Sat, 11 Feb 2023 10:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230211_124/IChdn_1676107292048LaBeA_JPEG/clip_20230211173255_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT 127 TAEIL – Ay-Yo(엔시티 127 태일 - 에이요) FanCam | Show! MusicCore | MBC230211방송]]></title>
+            <link>https://tv.naver.com/v/33060769</link>
+            <guid>https://tv.naver.com/v/33060769</guid>
+            <pubDate>Sat, 11 Feb 2023 10:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230211_298/Z8T0A_16761072909206KbI4_JPEG/clip_20230211172853_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT 127 - Ay-Yo(엔시티 127 – 에이요) FanCam | Show! MusicCore | MBC230211방송]]></title>
+            <link>https://tv.naver.com/v/33060768</link>
+            <guid>https://tv.naver.com/v/33060768</guid>
+            <pubDate>Sat, 11 Feb 2023 10:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230211_183/98byE_1676107289571z014C_JPEG/clip_20230211172847_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT 127 (엔시티 127) – Ay-Yo(에이요) 1위 직캠 FanCam | Show! MusicCore | MBC230211방송]]></title>
+            <link>https://tv.naver.com/v/33060688</link>
+            <guid>https://tv.naver.com/v/33060688</guid>
+            <pubDate>Sat, 11 Feb 2023 10:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[7:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230211_236/Q5VQm_1676106989893jT3Ww_JPEG/clip_20230211171428_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] 8TURN – TIC TAC(에잇턴 - 틱 택) FanCam | Show! MusicCore | MBC230211방송]]></title>
             <link>https://tv.naver.com/v/33060624</link>
@@ -214,38 +246,6 @@
             <pubDate>Sat, 28 Jan 2023 09:13:53 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230128_231/yCuey_1674896792764i7gp9_JPEG/clip_20230128172707_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ILY:1 - Twinkle Twinkle(아일리원 – 별꽃동화) FanCam | Show! MusicCore | MBC230128방송]]></title>
-            <link>https://tv.naver.com/v/32694413</link>
-            <guid>https://tv.naver.com/v/32694413</guid>
-            <pubDate>Sat, 28 Jan 2023 09:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_124/swWtd_1674896790743rjSOh_JPEG/clip_20230128172601_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ILY:1 RIRIKA – Twinkle Twinkle(아일리원 리리카 - 별꽃동화) FanCam | Show! MusicCore | MBC230128방송]]></title>
-            <link>https://tv.naver.com/v/32694142</link>
-            <guid>https://tv.naver.com/v/32694142</guid>
-            <pubDate>Sat, 28 Jan 2023 09:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_179/BCy56_1674895892716ieJDE_JPEG/clip_20230128172709_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] XG MAYA – SHOOTING STAR(엑스지 마야 - 슈팅 스타) FanCam | Show! MusicCore | MBC230128방송]]></title>
-            <link>https://tv.naver.com/v/32694038</link>
-            <guid>https://tv.naver.com/v/32694038</guid>
-            <pubDate>Sat, 28 Jan 2023 09:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_120/bAGSs_1674895589382v4Oi4_JPEG/clip_20230128164335_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] XG HARVEY – SHOOTING STAR(엑스지 하비 - 슈팅 스타) FanCam | Show! MusicCore | MBC230128방송]]></title>
-            <link>https://tv.naver.com/v/32693977</link>
-            <guid>https://tv.naver.com/v/32693977</guid>
-            <pubDate>Sat, 28 Jan 2023 09:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_240/9gx1A_1674895352443snbL6_JPEG/clip_20230128164343_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
