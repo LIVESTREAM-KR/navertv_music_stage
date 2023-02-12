@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 06:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 07:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230128_231/yCuey_1674896792764i7gp9_JPEG/clip_20230128172707_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[강버터(Kang Butter) - 분명한 건 널 사랑했단 거야 | SBS 230212 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33072377</link>
+            <guid>https://tv.naver.com/v/33072377</guid>
+            <pubDate>Sun, 12 Feb 2023 07:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_89/KzCry_1676185592449mJ7yQ_JPEG/406e507d-79d2-45a5-844a-4c69f52d4c0c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[uni(유니) - DIVE | SBS 230212 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33072376</link>
+            <guid>https://tv.naver.com/v/33072376</guid>
+            <pubDate>Sun, 12 Feb 2023 07:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_171/1TJb0_1676185590502twV85_JPEG/3a1b19a6-fa41-4ed2-ab0b-25969c8a2c19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8TURN(에잇턴) - TIC TAC | SBS 230212 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33072313</link>
+            <guid>https://tv.naver.com/v/33072313</guid>
+            <pubDate>Sun, 12 Feb 2023 07:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_160/GB50T_1676185289367lLolS_JPEG/13b8703d-060b-43c6-8946-7d9213a240aa.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ARTBEAT(아트비트) - 아프로디테 | SBS 230212 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33072258</link>
+            <guid>https://tv.naver.com/v/33072258</guid>
+            <pubDate>Sun, 12 Feb 2023 07:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_8/PgBLH_1676185049296hTEiQ_JPEG/2958a031-7e90-4412-bd70-fc24d88f4dd1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Espero(에스페로) - Endless | SBS 230212 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33072172</link>
+            <guid>https://tv.naver.com/v/33072172</guid>
+            <pubDate>Sun, 12 Feb 2023 07:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_194/V1w7x_1676184689687OCqEn_JPEG/5ce97a55-45b3-46b4-911e-6598eca16882.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 - Ay-Yo | SBS 230205 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/32894438</link>
             <guid>https://tv.naver.com/v/32894438</guid>
@@ -454,46 +494,6 @@
             <pubDate>Sun, 29 Jan 2023 08:17:32 GMT</pubDate>
             <content:encoded><![CDATA[3:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230129_250/VK7kM_1674977193092vNc0G_JPEG/a4e3b597-de38-4c2c-a128-2881ba504519.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AIMERS - Fireworks | SBS 230129 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32709284</link>
-            <guid>https://tv.naver.com/v/32709284</guid>
-            <pubDate>Sun, 29 Jan 2023 08:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_269/er8d5_1674977191035s5Uuw_JPEG/b4ca7c0d-560d-4497-8f51-2f26f5bdcd86.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[H1-KEY(하이키) - 건물 사이에 피어난 장미(Rose Blossom) | SBS 230129 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32709132</link>
-            <guid>https://tv.naver.com/v/32709132</guid>
-            <pubDate>Sun, 29 Jan 2023 08:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_31/gY6oe_16749765913097a8zV_JPEG/19297ea7-697f-4fc0-b7d3-7ab3f753259f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이지영 - Queen | SBS 230129 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32709051</link>
-            <guid>https://tv.naver.com/v/32709051</guid>
-            <pubDate>Sun, 29 Jan 2023 07:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_16/7lm5b_1674976291073ylBAI_JPEG/b5aaaf64-9013-46d7-aad3-b4017be8f664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Espero(에스페로) - Endless | SBS 230129 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32708949</link>
-            <guid>https://tv.naver.com/v/32708949</guid>
-            <pubDate>Sun, 29 Jan 2023 07:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_141/br0Wo_1674975992485LRSsL_JPEG/c42fe1c3-6711-448c-96f8-9405f2b86daa.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[XG - Shooting Star | SBS 230129 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32708947</link>
-            <guid>https://tv.naver.com/v/32708947</guid>
-            <pubDate>Sun, 29 Jan 2023 07:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_87/YBGOu_1674975990873hUkK6_JPEG/b3d991de-e6d3-4d29-a449-3219dac8b3eb.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
