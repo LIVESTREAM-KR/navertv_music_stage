@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 09:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 10:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] VIVIZ EUNHA - PULL UP(비비지 은하 - 풀업) Close-up Cam | Show! MusicCore | MBC230211방송]]></title>
+            <link>https://tv.naver.com/v/33096763</link>
+            <guid>https://tv.naver.com/v/33096763</guid>
+            <pubDate>Mon, 13 Feb 2023 10:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_188/tKJXg_1676280090134QDwUg_JPEG/clip_20230213175323_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] NCT 127 HAECHAN - DJ(엔시티 127 해찬 - 디제이) Close-up Cam | Show! MusicCore | MBC230211방송]]></title>
             <link>https://tv.naver.com/v/33094874</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Feb 2023 09:14:28 GMT</pubDate>
             <content:encoded><![CDATA[2:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230211_155/ZkKrt_1676105849160ebcs7_JPEG/clip_20230211172917_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT 127 TAEIL – DJ(엔시티 127 태일 - 디제이) FanCam | Show! MusicCore | MBC230211방송]]></title>
-            <link>https://tv.naver.com/v/33060368</link>
-            <guid>https://tv.naver.com/v/33060368</guid>
-            <pubDate>Sat, 11 Feb 2023 09:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230211_208/j3nYk_1676105792161m4tj0_JPEG/clip_20230211172913_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
