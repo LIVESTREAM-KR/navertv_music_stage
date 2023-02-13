@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 07:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 08:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT 127 JAEHYUN - DJ(엔시티 127 재현 - 디제이) Close-up Cam | Show! MusicCore | MBC230211방송]]></title>
+            <link>https://tv.naver.com/v/33094714</link>
+            <guid>https://tv.naver.com/v/33094714</guid>
+            <pubDate>Mon, 13 Feb 2023 08:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_190/rhv5a_1676276189838hXh7B_JPEG/clip_20230213164238_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT 127 TAEYONG - DJ(엔시티 127 태용 - 디제이) Close-up Cam | Show! MusicCore | MBC230211방송]]></title>
+            <link>https://tv.naver.com/v/33094599</link>
+            <guid>https://tv.naver.com/v/33094599</guid>
+            <pubDate>Mon, 13 Feb 2023 08:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_52/vrhwz_1676275952979oyNQB_JPEG/clip_20230213164236_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT 127 MARK - DJ(엔시티 127 마크 - 디제이) Close-up Cam | Show! MusicCore | MBC230211방송]]></title>
+            <link>https://tv.naver.com/v/33094410</link>
+            <guid>https://tv.naver.com/v/33094410</guid>
+            <pubDate>Mon, 13 Feb 2023 08:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_11/GwSkj_16762755974955XynS_JPEG/clip_20230213164240_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] NCT 127 HAECHAN - Ay-Yo(엔시티 127 해찬 - 에이요) Close-up Cam | Show! MusicCore | MBC230211방송]]></title>
             <link>https://tv.naver.com/v/33090810</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 11 Feb 2023 09:14:28 GMT</pubDate>
             <content:encoded><![CDATA[4:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230211_293/gA6WS_1676105791081kbilo_JPEG/clip_20230211172857_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT 127 JOHNNY – Ay-Yo(엔시티 127 쟈니 - 에이요) FanCam | Show! MusicCore | MBC230211방송]]></title>
-            <link>https://tv.naver.com/v/33060365</link>
-            <guid>https://tv.naver.com/v/33060365</guid>
-            <pubDate>Sat, 11 Feb 2023 09:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[4:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230211_261/3L4BX_1676105790041veVF2_JPEG/clip_20230211172855_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] NCT 127 DOYOUNG - DJ(엔시티 127 도영 - 디제이) Close-up Cam | Show! MusicCore | MBC230204방송]]></title>
-            <link>https://tv.naver.com/v/32917468</link>
-            <guid>https://tv.naver.com/v/32917468</guid>
-            <pubDate>Mon, 06 Feb 2023 06:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_184/KOHCs_16756626941327T3Cz_JPEG/clip_20230206143355_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] NCT 127 JAEHYUN - DJ(엔시티 127 재현 - 디제이) Close-up Cam | Show! MusicCore | MBC230204방송]]></title>
-            <link>https://tv.naver.com/v/32917467</link>
-            <guid>https://tv.naver.com/v/32917467</guid>
-            <pubDate>Mon, 06 Feb 2023 06:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[2:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_43/40LXA_1675662692294s9Gnt_JPEG/clip_20230206141903_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
