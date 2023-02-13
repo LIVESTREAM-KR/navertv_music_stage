@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 06:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 07:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -736,6 +736,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220321_117/SCS9P_1647835919630cjN2F_JPEG/3bc8d73d-e5b1-450f-851a-de4a953c031c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[8TURN(에잇턴) - TIC TAC | Mnet 230209 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33015470</link>
+            <guid>https://tv.naver.com/v/33015470</guid>
+            <pubDate>Mon, 13 Feb 2023 07:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_267/3hHnn_1675937789926JRfR2_JPEG/850b6d01-de33-4a96-97c2-fb399bf2ff7f_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['1위' 'Stray Kids'표 사랑 노래♬ 'CASE 143' 무대 | Mnet 221013 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/29902684</link>
             <guid>https://tv.naver.com/v/29902684</guid>
@@ -966,14 +974,6 @@
             <pubDate>Thu, 15 Dec 2022 02:47:11 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210902_136/LzSzg_1630580211683BqB5a_JPEG/50f2b46f-2ff0-4e80-b5b6-3da99ed99763_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['SUMMER SPECIAL STAGE' 'DAY6 (Even of Day)'의 '한 페이지가 될 수 있게' 무대 | Mnet 210729 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/21604146</link>
-            <guid>https://tv.naver.com/v/21604146</guid>
-            <pubDate>Thu, 15 Dec 2022 02:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210730_246/i0YVu_16276367202415derx_JPEG/1627636710004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Hot Debut] 케이팝의 신! 장르는 '기팝', 기현 (몬스타엑스) 'VOYAGER' (SBS MTV 더쇼 ─ 네이버TV)]]></title>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] MC 달나츠가 새로워진 쇼챔피언을 소개합니다❤ 많.관.부 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33092712</link>
+            <guid>https://tv.naver.com/v/33092712</guid>
+            <pubDate>Mon, 13 Feb 2023 07:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_216/V34Kx_1676271992319Rlnk0_JPEG/CA202302150002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[MC석 코너] 달나츠에게 주문하신 'BLUE CHECK 챌린지 & 체리피스' 나왔습니다🍒 | Show Champion | EP.462 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/33040463</link>
             <guid>https://tv.naver.com/v/33040463</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 08 Feb 2023 11:13:41 GMT</pubDate>
             <content:encoded><![CDATA[2:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230208_149/LJiDE_1675852290115eGrvn_JPEG/CA202302080043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] XG - SHOOTING STAR (엑스지 - 슈팅 스타) l Show Champion l EP.462 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32992236</link>
-            <guid>https://tv.naver.com/v/32992236</guid>
-            <pubDate>Wed, 08 Feb 2023 11:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230208_284/b62bT_1675852050570ngOB4_JPEG/CA202302080042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>

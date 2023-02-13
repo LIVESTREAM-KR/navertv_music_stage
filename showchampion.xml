@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 06:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 07:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] MC 달나츠가 새로워진 쇼챔피언을 소개합니다❤ 많.관.부]]></title>
+            <link>https://tv.naver.com/v/33092712</link>
+            <guid>https://tv.naver.com/v/33092712</guid>
+            <pubDate>Mon, 13 Feb 2023 07:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_216/V34Kx_1676271992319Rlnk0_JPEG/CA202302150002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MC석 코너] 달나츠에게 주문하신 'BLUE CHECK 챌린지 & 체리피스' 나왔습니다🍒 | Show Champion | EP.462]]></title>
             <link>https://tv.naver.com/v/33040463</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 08 Feb 2023 11:13:41 GMT</pubDate>
             <content:encoded><![CDATA[2:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230208_149/LJiDE_1675852290115eGrvn_JPEG/CA202302080043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] XG - SHOOTING STAR (엑스지 - 슈팅 스타) l Show Champion l EP.462]]></title>
-            <link>https://tv.naver.com/v/32992236</link>
-            <guid>https://tv.naver.com/v/32992236</guid>
-            <pubDate>Wed, 08 Feb 2023 11:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230208_284/b62bT_1675852050570ngOB4_JPEG/CA202302080042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
