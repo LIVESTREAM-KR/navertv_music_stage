@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 08:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 09:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT 127 HAECHAN - DJ(엔시티 127 해찬 - 디제이) Close-up Cam | Show! MusicCore | MBC230211방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33094874</link>
+            <guid>https://tv.naver.com/v/33094874</guid>
+            <pubDate>Mon, 13 Feb 2023 09:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_80/LQu4l_1676276489769axOGF_JPEG/clip_20230213164235_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] NCT 127 JAEHYUN - DJ(엔시티 127 재현 - 디제이) Close-up Cam | Show! MusicCore | MBC230211방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 11 Feb 2023 09:14:28 GMT</pubDate>
             <content:encoded><![CDATA[2:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230211_208/j3nYk_1676105792161m4tj0_JPEG/clip_20230211172913_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT 127 DOYOUNG – Ay-Yo(엔시티 127 도영 - 에이요) FanCam | Show! MusicCore | MBC230211방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33060366</link>
-            <guid>https://tv.naver.com/v/33060366</guid>
-            <pubDate>Sat, 11 Feb 2023 09:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230211_293/gA6WS_1676105791081kbilo_JPEG/clip_20230211172857_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부석순 - 파이팅 해야지(feat. 이영지) | SBS 230212 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
