@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 01:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 02:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20140630_119/KR13253_1404112973517OoC5N_JPEG/03100423612E53BE7AC37921631389D3F83_muploader_o_480P_854_1024_128_logo.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 그 시절, 우리의 가슴을 설레게 했던 🌼작사가 故박건호 편🌼 본방사수🌟 | KB (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33062821</link>
+            <guid>https://tv.naver.com/v/33062821</guid>
+            <pubDate>Mon, 13 Feb 2023 01:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230211_285/PHEUS_1676115409681LWjfb_JPEG/63e778401e13404c67a714fa_upload_1676114339129.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[4K 직캠] 김호중&에스페로 - 서쪽하늘 | KBS 230211 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33044333</link>
+            <guid>https://tv.naver.com/v/33044333</guid>
+            <pubDate>Mon, 13 Feb 2023 02:47:47 GMT</pubDate>
+            <content:encoded><![CDATA[5:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_210/cP9RD_1676023890403CxjCH_JPEG/ZVOP5o32rmsp.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세로 직캠] 김호중&에스페로 - 서쪽하늘 | KBS 230211 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33043684</link>
+            <guid>https://tv.naver.com/v/33043684</guid>
+            <pubDate>Mon, 13 Feb 2023 02:47:47 GMT</pubDate>
+            <content:encoded><![CDATA[5:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_143/8QVMC_1676022152724lvXol_JPEG/bchIaVAy31hM.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[4K 직캠] 김영임&양지은 - 정선 아리랑+별리  | KBS 230211 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/33044666</link>
             <guid>https://tv.naver.com/v/33044666</guid>
@@ -1614,14 +1638,6 @@
             <pubDate>Mon, 13 Feb 2023 01:15:41 GMT</pubDate>
             <content:encoded><![CDATA[5:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_131/PgfVJ_1676022150225y7TEV_JPEG/Gq09Axkwazt6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 그 시절, 우리의 가슴을 설레게 했던 🌼작사가 故박건호 편🌼 본방사수🌟 | KB (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33062821</link>
-            <guid>https://tv.naver.com/v/33062821</guid>
-            <pubDate>Mon, 13 Feb 2023 01:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[0:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230211_285/PHEUS_1676115409681LWjfb_JPEG/63e778401e13404c67a714fa_upload_1676114339129.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[신이 강림했다..! 짜릿한 앙상블을🎤 보여준 김호중&에스페로의 무대 | KBS 230211 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
@@ -1774,22 +1790,6 @@
             <pubDate>Wed, 25 Jan 2023 01:09:28 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230121_125/3BNlv_1674297392629uDus5_PNG/teAN19aKZU8V.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[4K 직캠] 나태주 - 장윤정 트위스트 | KBS 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32548717</link>
-            <guid>https://tv.naver.com/v/32548717</guid>
-            <pubDate>Wed, 25 Jan 2023 01:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[5:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_73/pb8nd_1674605498923idHcO_JPEG/Cr0KSj4KafCg.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[세로 직캠] 나태주 - 장윤정 트위스트 | KBS 방송 (KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32548671</link>
-            <guid>https://tv.naver.com/v/32548671</guid>
-            <pubDate>Wed, 25 Jan 2023 01:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[5:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230121_136/jT3vh_16742977530822tqoj_PNG/ayKMPCfQFWtY.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[엠뚜루마뚜루] 이름은 니가 버터면서 발리는 건 왜 난데,,🍀 싱어송라이돌 정세운💛💜ㅣ#버터 #정세운 MBC210718방송 (MBC 복면가왕 ─ 네이버TV)]]></title>
