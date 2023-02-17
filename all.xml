@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 04:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 05:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[STAGE MIX🪄] NCT 127 – DJ(엔시티 127 - 디제이)  | Show! Music Core (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33156105</link>
+            <guid>https://tv.naver.com/v/33156105</guid>
+            <pubDate>Fri, 17 Feb 2023 05:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_173/n4RLx_1676446290605y0EDl_JPEG/clip_20230215160622_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] NCT 127 JUNGWOO - 2 Baddies(엔시티 127 정우 - 질주) Close-up Cam | Show! MusicCore | MBC230211방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 11 Feb 2023 09:14:27 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230211_216/1tqbz_1676106397124gafaQ_JPEG/clip_20230211173256_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT 127 JUNGWOO – DJ(엔시티 127 정우 - 디제이) FanCam | Show! MusicCore | MBC230211방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33060527</link>
-            <guid>https://tv.naver.com/v/33060527</guid>
-            <pubDate>Sat, 11 Feb 2023 09:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230211_128/qQoNE_16761063958301oM3n_JPEG/clip_20230211172919_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부석순 - 파이팅 해야지(feat. 이영지) | SBS 230212 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -2032,6 +2032,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.556  TNX(티엔엑스), cignature(시그니처), TRI.BE (트라이비), XG(엑스지) (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33213063</link>
+            <guid>https://tv.naver.com/v/33213063</guid>
+            <pubDate>Fri, 17 Feb 2023 05:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[55:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_9/yHORn_1676592844851kr3Rt_JPEG/1676592379008.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.555 – IM CHANG JUNG(임창정), Kim Jong Seo(김종서), cignature(시그니처), XG(엑스 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/33027134</link>
             <guid>https://tv.naver.com/v/33027134</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Fri, 02 Dec 2022 05:15:16 GMT</pubDate>
             <content:encoded><![CDATA[9:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_225/bvgLT_1669945668874cRvdv_JPEG/1669945202253.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TRENDZ(트렌드지) - ‘VAGABOND’ _ Ep.548 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31270820</link>
-            <guid>https://tv.naver.com/v/31270820</guid>
-            <pubDate>Fri, 02 Dec 2022 05:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_235/Swusi_1669945663719CxKHQ_JPEG/1669945194760.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전건호_이럴거면 (원곡 아이비) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
