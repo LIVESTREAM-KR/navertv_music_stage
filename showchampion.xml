@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 01:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 02:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2월 3주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아 나나, 빌리 문수아&츠키) | Show Champion | EP.463]]></title>
+            <link>https://tv.naver.com/v/33213520</link>
+            <guid>https://tv.naver.com/v/33213520</guid>
+            <pubDate>Fri, 17 Feb 2023 02:52:05 GMT</pubDate>
+            <content:encoded><![CDATA[5:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_167/mOoqi_16765950925651goCs_JPEG/CA202302150073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] XG HARVEY - SHOOTING STAR (엑스지 하비 - 슈팅 스타) | Show Champion | EP.463]]></title>
             <link>https://tv.naver.com/v/33166301</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Feb 2023 11:15:26 GMT</pubDate>
             <content:encoded><![CDATA[3:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230215_287/2ZVaf_16764582895938Im17_JPEG/CA202302150069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL STAGE] woo!ah! - Feel Special (우아! - 필 스페셜) (원곡 : TWICE) l Show Champion l EP.463]]></title>
-            <link>https://tv.naver.com/v/33163388</link>
-            <guid>https://tv.naver.com/v/33163388</guid>
-            <pubDate>Wed, 15 Feb 2023 11:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_211/xa3cU_1676456849660ofQwS_JPEG/CA202302150067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
