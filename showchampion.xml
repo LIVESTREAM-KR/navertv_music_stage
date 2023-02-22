@@ -4,7 +4,7 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 11:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 12:31:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/33376343</link>
             <guid>https://tv.naver.com/v/33376343</guid>
             <pubDate>Wed, 22 Feb 2023 11:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230222_259/khwnt_1677062553078t3hsD_JPEG/CA202302220075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +76,7 @@
             <link>https://tv.naver.com/v/33375800</link>
             <guid>https://tv.naver.com/v/33375800</guid>
             <pubDate>Wed, 22 Feb 2023 11:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230222_55/2D6kY_1677061293509zH4OY_JPEG/CA202302220069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
