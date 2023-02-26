@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 08:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 09:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230225_36/f3wGo_16773141927321Uj8e_JPEG/clip_20230225170535_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[더보이즈(THE BOYZ) - Awake | SBS 230226 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33481260</link>
+            <guid>https://tv.naver.com/v/33481260</guid>
+            <pubDate>Sun, 26 Feb 2023 09:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_160/ppzEF_1677400591087YkSpA_JPEG/d6ae4bd6-6c7e-4b04-b156-bbefc24b0457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더보이즈(THE BOYZ) - ROAR | SBS 230226 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/33480600</link>
             <guid>https://tv.naver.com/v/33480600</guid>
@@ -486,14 +494,6 @@
             <pubDate>Sun, 19 Feb 2023 07:13:41 GMT</pubDate>
             <content:encoded><![CDATA[2:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230219_136/wgNRo_1676789849458RAjsP_JPEG/f2b44e3d-4d9e-4673-81f7-86734b176bb4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부석순 - 파이팅 해야지(feat. 이영지) | SBS 230212 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33073543</link>
-            <guid>https://tv.naver.com/v/33073543</guid>
-            <pubDate>Sun, 12 Feb 2023 08:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_291/NprRK_1676190391670EbbM9_JPEG/103bd935-180c-4f51-b5c7-7cf10d646240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
