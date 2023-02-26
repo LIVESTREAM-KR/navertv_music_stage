@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 06:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 07:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,38 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230225_36/f3wGo_16773141927321Uj8e_JPEG/clip_20230225170535_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[송민경 - 큰거온다 | SBS 230226 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33479554</link>
+            <guid>https://tv.naver.com/v/33479554</guid>
+            <pubDate>Sun, 26 Feb 2023 07:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_46/4crNT_1677395489518bYotd_JPEG/938b90c7-c59e-4a0f-9b48-8a4ae71d65b2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[tripleS(트리플에스) - Rising | SBS 230226 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33479438</link>
+            <guid>https://tv.naver.com/v/33479438</guid>
+            <pubDate>Sun, 26 Feb 2023 07:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_145/iFi0r_1677395191318mXMWe_JPEG/7c205ed8-d719-4945-b7ff-6c3af2d52a70.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HAWW(하우) - How Are You | SBS 230226 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33479437</link>
+            <guid>https://tv.naver.com/v/33479437</guid>
+            <pubDate>Sun, 26 Feb 2023 07:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_163/qaAiO_1677395189655Q8TPI_JPEG/cf020000-8b43-4293-a37b-6b0eeacb64b8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박로시 - Gossip (feat. 유명한 아이) | SBS 230226 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33479334</link>
+            <guid>https://tv.naver.com/v/33479334</guid>
+            <pubDate>Sun, 26 Feb 2023 07:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_129/UPRew_16773948894031rWFg_JPEG/a19f8114-defb-4ba3-966a-5929160242ef.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[키(KEY) - Killer | SBS 230219 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/33272176</link>
             <guid>https://tv.naver.com/v/33272176</guid>
@@ -462,38 +494,6 @@
             <pubDate>Sun, 12 Feb 2023 08:17:55 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230212_128/CcD9z_1676186190443q8oPm_JPEG/c9d11143-c767-4188-bfae-8b02eb61eb36.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강버터(Kang Butter) - 분명한 건 널 사랑했단 거야 | SBS 230212 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33072377</link>
-            <guid>https://tv.naver.com/v/33072377</guid>
-            <pubDate>Sun, 12 Feb 2023 07:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_89/KzCry_1676185592449mJ7yQ_JPEG/406e507d-79d2-45a5-844a-4c69f52d4c0c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[uni(유니) - DIVE | SBS 230212 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33072376</link>
-            <guid>https://tv.naver.com/v/33072376</guid>
-            <pubDate>Sun, 12 Feb 2023 07:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_171/1TJb0_1676185590502twV85_JPEG/3a1b19a6-fa41-4ed2-ab0b-25969c8a2c19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8TURN(에잇턴) - TIC TAC | SBS 230212 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33072313</link>
-            <guid>https://tv.naver.com/v/33072313</guid>
-            <pubDate>Sun, 12 Feb 2023 07:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_160/GB50T_1676185289367lLolS_JPEG/13b8703d-060b-43c6-8946-7d9213a240aa.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ARTBEAT(아트비트) - 아프로디테 | SBS 230212 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33072258</link>
-            <guid>https://tv.naver.com/v/33072258</guid>
-            <pubDate>Sun, 12 Feb 2023 07:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_8/PgBLH_1676185049296hTEiQ_JPEG/2958a031-7e90-4412-bd70-fc24d88f4dd1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
