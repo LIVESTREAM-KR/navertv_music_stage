@@ -4,9 +4,33 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 10:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 11:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[STAYC - Teddy Bear (스테이씨 - 테디 베어) l Show Champion l EP.465]]></title>
+            <link>https://tv.naver.com/v/33569431</link>
+            <guid>https://tv.naver.com/v/33569431</guid>
+            <pubDate>Wed, 01 Mar 2023 11:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_72/CBIoA_1677666690756BqDpI_JPEG/CA202303010048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엔딩원샷] 쉽지 않은 짱테이씨의 엔딩 장벽! 엔딩요정 주인공은 과연 누구?]]></title>
+            <link>https://tv.naver.com/v/33569337</link>
+            <guid>https://tv.naver.com/v/33569337</guid>
+            <pubDate>Wed, 01 Mar 2023 11:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_155/SCZJn_1677666449287B7WDX_JPEG/CA202303010047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SPECIAL STAGE] San E - Me You (feat. MOON SUA) (산이 - 미 유 (feat. 문수아)) l Show Champion l EP.465]]></title>
+            <link>https://tv.naver.com/v/33569317</link>
+            <guid>https://tv.naver.com/v/33569317</guid>
+            <pubDate>Wed, 01 Mar 2023 11:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_120/7c8d4_16776663902959o4dO_JPEG/CA202303010044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[COMEBACK] LUCY - Unbelievable (루시 - 아니 근데 진짜) l Show Champion l EP.465]]></title>
             <link>https://tv.naver.com/v/33568966</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 22 Feb 2023 13:24:57 GMT</pubDate>
             <content:encoded><![CDATA[2:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230222_283/xI1yu_1677061589627Bo0Wl_JPEG/CA202302220051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] tripleS - Rising (트리플에스 - 라이징) | Show Champion | EP.464]]></title>
-            <link>https://tv.naver.com/v/33375799</link>
-            <guid>https://tv.naver.com/v/33375799</guid>
-            <pubDate>Wed, 22 Feb 2023 13:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_53/21zlo_1677061291611Twr7y_JPEG/CA202302220058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] tripleS KAEDE - Rising (트리플에스 카에데 - 라이징) | Show Champion | EP.464]]></title>
-            <link>https://tv.naver.com/v/33375796</link>
-            <guid>https://tv.naver.com/v/33375796</guid>
-            <pubDate>Wed, 22 Feb 2023 13:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_73/79Cem_167706129025728xFn_JPEG/CA202302220055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] tripleS CHAEYEON - Rising (트리플에스 김채연 - 라이징) | Show Champion | EP.464]]></title>
-            <link>https://tv.naver.com/v/33375579</link>
-            <guid>https://tv.naver.com/v/33375579</guid>
-            <pubDate>Wed, 22 Feb 2023 13:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_71/M58nQ_1677060691859hBQSa_JPEG/CA202302220052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
