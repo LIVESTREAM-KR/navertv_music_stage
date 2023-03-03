@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 23:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 03:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[3월 1주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아 나나, 빌리 문수아&츠키) | Show Champion | EP.465 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33582927</link>
+            <guid>https://tv.naver.com/v/33582927</guid>
+            <pubDate>Fri, 03 Mar 2023 03:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_167/ZwDPS_1677720098335iRfID_JPEG/CA202303010068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] MOON SUA - Me You (문수아 - 미 유) | Show Champion | EP.465 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/33571112</link>
             <guid>https://tv.naver.com/v/33571112</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 01 Mar 2023 10:18:15 GMT</pubDate>
             <content:encoded><![CDATA[4:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230301_24/NktGb_16776655515959Da6t_JPEG/CA202303010042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PURPLE KISS - Sweet Juice (퍼플키스 - 스윗 쥬스) l Show Champion l EP.465 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33568941</link>
-            <guid>https://tv.naver.com/v/33568941</guid>
-            <pubDate>Wed, 01 Mar 2023 10:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_198/xOY11_1677665489313TXITT_JPEG/CA202303010040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
