@@ -4,9 +4,97 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 07:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 08:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황민현 - Hidden Side | SBS 230305 방송]]></title>
+            <link>https://tv.naver.com/v/33677204</link>
+            <guid>https://tv.naver.com/v/33677204</guid>
+            <pubDate>Sun, 05 Mar 2023 08:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_220/upL5H_1678002991575M52z6_JPEG/bb1d1445-177f-44cd-80ec-c90f67b11ea9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황민현 - Honest | SBS 230305 방송]]></title>
+            <link>https://tv.naver.com/v/33677203</link>
+            <guid>https://tv.naver.com/v/33677203</guid>
+            <pubDate>Sun, 05 Mar 2023 08:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_160/dZAvf_1678002989441tz7IN_JPEG/7f98fe38-5198-49cc-bdf8-8efc4fca134e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예성 - Floral Sense | SBS 230305 방송]]></title>
+            <link>https://tv.naver.com/v/33677014</link>
+            <guid>https://tv.naver.com/v/33677014</guid>
+            <pubDate>Sun, 05 Mar 2023 08:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_221/a56QL_1678002390070xuATX_JPEG/1516fa4f-f0d5-4318-bed7-4adb2e01ed2b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더보이즈(THE BOYZ) - ROAR | SBS 230305 방송]]></title>
+            <link>https://tv.naver.com/v/33676921</link>
+            <guid>https://tv.naver.com/v/33676921</guid>
+            <pubDate>Sun, 05 Mar 2023 08:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_125/tnxFK_16780020910686ubWr_JPEG/1ec07fa2-e472-4638-965c-a816dbf58bed.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박우진(AB6IX) - Top Tier | SBS 230305 방송]]></title>
+            <link>https://tv.naver.com/v/33676920</link>
+            <guid>https://tv.naver.com/v/33676920</guid>
+            <pubDate>Sun, 05 Mar 2023 08:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_190/zsIEW_1678002089195d00rN_JPEG/46dca6cb-76dc-4411-bdf8-7bef6f387a46.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STAYC - Teddy Bear | SBS 230305 방송]]></title>
+            <link>https://tv.naver.com/v/33676817</link>
+            <guid>https://tv.naver.com/v/33676817</guid>
+            <pubDate>Sun, 05 Mar 2023 08:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_241/4YhrT_167800179125136vBF_JPEG/67955766-8c6b-4189-8b2c-d8bdd71cb912.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TNX - Love or Die | SBS 230305 방송]]></title>
+            <link>https://tv.naver.com/v/33676605</link>
+            <guid>https://tv.naver.com/v/33676605</guid>
+            <pubDate>Sun, 05 Mar 2023 08:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_206/h5Vj3_1678001249406oDVVQ_JPEG/d86580de-12cb-49f5-bb71-7f0718ddbf00.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼플키스(PURPLE KISS) - Sweet Juice | SBS 230305 방송]]></title>
+            <link>https://tv.naver.com/v/33676579</link>
+            <guid>https://tv.naver.com/v/33676579</guid>
+            <pubDate>Sun, 05 Mar 2023 08:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_39/E4ptV_1678001189299MbpMR_JPEG/118ce6da-4618-4856-8d0e-b72d898aed86.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8TURN(에잇턴) - WE | SBS 230305 방송]]></title>
+            <link>https://tv.naver.com/v/33676472</link>
+            <guid>https://tv.naver.com/v/33676472</guid>
+            <pubDate>Sun, 05 Mar 2023 08:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_95/1Zz43_1678000891298bXhn6_JPEG/42022abe-a0a9-43b0-a783-062d1618af29.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트라이비(TRI.BE) - WE ARE YOUNG | SBS 230305 방송]]></title>
+            <link>https://tv.naver.com/v/33676471</link>
+            <guid>https://tv.naver.com/v/33676471</guid>
+            <pubDate>Sun, 05 Mar 2023 08:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_92/pv6Hl_1678000889576M1YvJ_JPEG/04944e4f-279f-4918-8444-3619e53da9c9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FIFTY FIFTY - Cupid | SBS 230305 방송]]></title>
+            <link>https://tv.naver.com/v/33676368</link>
+            <guid>https://tv.naver.com/v/33676368</guid>
+            <pubDate>Sun, 05 Mar 2023 08:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_62/eY3aV_1678000589142oPqwq_JPEG/36e4212c-fc61-4e66-9d23-be5323760b18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[tripleS(트리플에스) - Rising | SBS 230305 방송]]></title>
             <link>https://tv.naver.com/v/33676286</link>
@@ -158,94 +246,6 @@
             <pubDate>Sun, 26 Feb 2023 07:14:09 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230226_145/iFi0r_1677395191318mXMWe_JPEG/7c205ed8-d719-4945-b7ff-6c3af2d52a70.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HAWW(하우) - How Are You | SBS 230226 방송]]></title>
-            <link>https://tv.naver.com/v/33479437</link>
-            <guid>https://tv.naver.com/v/33479437</guid>
-            <pubDate>Sun, 26 Feb 2023 07:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_163/qaAiO_1677395189655Q8TPI_JPEG/cf020000-8b43-4293-a37b-6b0eeacb64b8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박로시 - Gossip (feat. 유명한 아이) | SBS 230226 방송]]></title>
-            <link>https://tv.naver.com/v/33479334</link>
-            <guid>https://tv.naver.com/v/33479334</guid>
-            <pubDate>Sun, 26 Feb 2023 07:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_129/UPRew_16773948894031rWFg_JPEG/a19f8114-defb-4ba3-966a-5929160242ef.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키(KEY) - Killer | SBS 230219 방송]]></title>
-            <link>https://tv.naver.com/v/33272176</link>
-            <guid>https://tv.naver.com/v/33272176</guid>
-            <pubDate>Sun, 19 Feb 2023 08:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230219_276/r0yCz_1676793390025yMhUK_JPEG/f344fed2-de3d-4d05-b0f6-a9468f6d7819.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STAYC - Teddy Bear | SBS 230219 방송]]></title>
-            <link>https://tv.naver.com/v/33272083</link>
-            <guid>https://tv.naver.com/v/33272083</guid>
-            <pubDate>Sun, 19 Feb 2023 08:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230219_264/7Tszv_1676793089734aIlGE_JPEG/9b56a158-85b5-4f04-9912-9db6c44863e2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼플키스(PURPLE KISS) - Sweet Juice | SBS 230219 방송]]></title>
-            <link>https://tv.naver.com/v/33271985</link>
-            <guid>https://tv.naver.com/v/33271985</guid>
-            <pubDate>Sun, 19 Feb 2023 08:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230219_238/E93am_1676792791266E484H_JPEG/19e4751d-3ca7-40b8-8061-67f31f88fc4f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼플키스(PURPLE KISS) - Intro : Save Me | SBS 230219 방송]]></title>
-            <link>https://tv.naver.com/v/33271762</link>
-            <guid>https://tv.naver.com/v/33271762</guid>
-            <pubDate>Sun, 19 Feb 2023 08:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230219_129/fJ6OF_1676792197940tvAKL_JPEG/68e8f320-9533-4f13-a638-925b999ae3c5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TNX - Love or Die | SBS 230219 방송]]></title>
-            <link>https://tv.naver.com/v/33271761</link>
-            <guid>https://tv.naver.com/v/33271761</guid>
-            <pubDate>Sun, 19 Feb 2023 08:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230219_260/AhzWB_16767921961677jV5g_JPEG/71e11e17-09bd-4d5f-a4ab-5c7462c82c3f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TNX - I Need U | SBS 230219 방송]]></title>
-            <link>https://tv.naver.com/v/33271759</link>
-            <guid>https://tv.naver.com/v/33271759</guid>
-            <pubDate>Sun, 19 Feb 2023 08:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230219_277/BwV6S_167679219425594PGN_JPEG/14c7f26d-46bf-4152-9c9d-338fae113ebd.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라임라잇(LIMELIGHT) - Honestly | SBS 230219 방송]]></title>
-            <link>https://tv.naver.com/v/33271757</link>
-            <guid>https://tv.naver.com/v/33271757</guid>
-            <pubDate>Sun, 19 Feb 2023 08:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230219_141/Hebjm_1676792190671g4A52_JPEG/6dfca144-cee0-46d0-82df-2b26daaa846e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남동현(Nam Dong Hyun) - Drivers License | SBS 230219 방송]]></title>
-            <link>https://tv.naver.com/v/33271545</link>
-            <guid>https://tv.naver.com/v/33271545</guid>
-            <pubDate>Sun, 19 Feb 2023 08:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230219_281/BWrNN_1676791589213xPMAy_JPEG/8f16ecfa-e346-4d71-b743-a59f153155cf.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트라이비(TRI.BE) - WE ARE YOUNG | SBS 230219 방송]]></title>
-            <link>https://tv.naver.com/v/33271448</link>
-            <guid>https://tv.naver.com/v/33271448</guid>
-            <pubDate>Sun, 19 Feb 2023 08:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230219_110/goTMK_1676791291782icY5t_JPEG/6a5b351c-2123-427e-8d38-c4b8bc75d8b0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
