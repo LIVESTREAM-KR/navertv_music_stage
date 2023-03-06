@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 06:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 07:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 3월에도 앞만 보고 쇼챔피언으로 달려🏎]]></title>
+            <link>https://tv.naver.com/v/33702629</link>
+            <guid>https://tv.naver.com/v/33702629</guid>
+            <pubDate>Mon, 06 Mar 2023 07:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230306_294/M6Zzo_1678085497093QSvd0_JPEG/CA202303080002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3월 1주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아 나나, 빌리 문수아&츠키) | Show Champion | EP.465]]></title>
             <link>https://tv.naver.com/v/33582927</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Mar 2023 11:14:39 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230301_120/7c8d4_16776663902959o4dO_JPEG/CA202303010044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] LUCY - Unbelievable (루시 - 아니 근데 진짜) l Show Champion l EP.465]]></title>
-            <link>https://tv.naver.com/v/33568966</link>
-            <guid>https://tv.naver.com/v/33568966</guid>
-            <pubDate>Wed, 01 Mar 2023 10:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_24/NktGb_16776655515959Da6t_JPEG/CA202303010042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
