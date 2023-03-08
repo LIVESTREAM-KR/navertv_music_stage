@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 10:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 11:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[STAYC - Teddy Bear (스테이씨 - 테디 베어) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33782185</link>
+            <guid>https://tv.naver.com/v/33782185</guid>
+            <pubDate>Wed, 08 Mar 2023 11:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_51/Gowup_1678271791400ywEDC_JPEG/CA202303080066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔 에세이] TEMPEST 제2장 ＂선택＂ 템페스트의 사계절은 계속된다 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33782184</link>
+            <guid>https://tv.naver.com/v/33782184</guid>
+            <pubDate>Wed, 08 Mar 2023 11:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[8:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_20/MqsjJ_1678271789797K9ibq_JPEG/CA202303080063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] OnlyOneOf - seOul drift (온리원오브 - 서울 드리프트) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33782046</link>
+            <guid>https://tv.naver.com/v/33782046</guid>
+            <pubDate>Wed, 08 Mar 2023 11:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_178/t7uEq_1678271490482BhLET_JPEG/CA202303080065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OnlyOneOf - chrOme arts (온리원오브 - 크롬 아츠) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33781926</link>
+            <guid>https://tv.naver.com/v/33781926</guid>
+            <pubDate>Wed, 08 Mar 2023 11:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_157/Jfd33_1678271250526TXF9J_JPEG/CA202303080064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PURPLE KISS - Sweet Juice (퍼플키스 - 스윗 쥬스) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33781749</link>
+            <guid>https://tv.naver.com/v/33781749</guid>
+            <pubDate>Wed, 08 Mar 2023 11:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_241/kBaV0_1678270894210UrOn9_JPEG/CA202303080062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TNX - Love or Die (티엔엑스 - 러브 오어 다이) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/33781501</link>
             <guid>https://tv.naver.com/v/33781501</guid>
@@ -1260,7 +1300,7 @@
             <link>https://tv.naver.com/v/33780974</link>
             <guid>https://tv.naver.com/v/33780974</guid>
             <pubDate>Wed, 08 Mar 2023 10:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230308_253/zxEQX_1678269092336fomBJ_JPEG/CA202303080056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1317,7 +1357,7 @@
             <guid>https://tv.naver.com/v/33780093</guid>
             <pubDate>Wed, 08 Mar 2023 10:18:53 GMT</pubDate>
             <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_120/lGo3E_16782675925169h7bH_JPEG/CA202303080049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_291/V0QxE_1678271795098u91EV_JPEG/CA202303080049_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 3월에도 앞만 보고 쇼챔피언으로 달려🏎 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
@@ -1414,46 +1454,6 @@
             <pubDate>Wed, 01 Mar 2023 14:15:56 GMT</pubDate>
             <content:encoded><![CDATA[3:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230301_274/DqoqM_1677666389103PHX8m_JPEG/CA202303010027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] tripleS Seo DaHyun - Rising (트리플에스 서다현 - 라이징) | Show Champion | EP.465 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33569183</link>
-            <guid>https://tv.naver.com/v/33569183</guid>
-            <pubDate>Wed, 01 Mar 2023 14:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_145/Bwt1T_1677666089701JAgfx_JPEG/CA202303010018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] LUCY SHIN YE CHAN - Fill it up (루시 신예찬 - 채워) | Show Champion | EP.465 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33568965</link>
-            <guid>https://tv.naver.com/v/33568965</guid>
-            <pubDate>Wed, 01 Mar 2023 14:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_91/zm7Ra_16776655503701nczG_JPEG/CA202303010024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] tripleS Kim YooYeon - Rising (트리플에스 김유연 - 라이징) | Show Champion | EP.465 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33568845</link>
-            <guid>https://tv.naver.com/v/33568845</guid>
-            <pubDate>Wed, 01 Mar 2023 14:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_22/FAZ5X_1677665192235xDgyl_JPEG/CA202303010016.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] LUCY - Fill it up (루시 - 채워) l Show Champion l EP.465 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33568843</link>
-            <guid>https://tv.naver.com/v/33568843</guid>
-            <pubDate>Wed, 01 Mar 2023 14:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_174/A4Spr_167766519048795JFy_JPEG/CA202303010029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TNX - Love or Die (티엔엑스 - 러브 오어 다이) | Show Champion | EP.465 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33568691</link>
-            <guid>https://tv.naver.com/v/33568691</guid>
-            <pubDate>Wed, 01 Mar 2023 14:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_214/odI0o_1677664650011C4Vd2_JPEG/CA202303010014.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
