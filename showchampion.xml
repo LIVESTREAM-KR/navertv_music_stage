@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 01:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 02:57:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 2주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아 나나, 빌리 문수아&츠키) | Show Champion | EP.466]]></title>
+            <link>https://tv.naver.com/v/33818796</link>
+            <guid>https://tv.naver.com/v/33818796</guid>
+            <pubDate>Fri, 10 Mar 2023 02:56:22 GMT</pubDate>
+            <content:encoded><![CDATA[5:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_81/xieWW_1678352793661rvzko_JPEG/CA202303080082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] OnlyOneOf Mill - seOul drift (온리원오브 밀 - 서울 드리프트) | Show Champion | EP.466]]></title>
             <link>https://tv.naver.com/v/33785223</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 08 Mar 2023 13:25:15 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230308_155/UbAt4_1678265493354fh6G5_JPEG/CA202303080023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] STAYC SIEUN - Teddy Bear (스테이씨 시은 - 테디 베어) | Show Champion | EP.466]]></title>
-            <link>https://tv.naver.com/v/33778879</link>
-            <guid>https://tv.naver.com/v/33778879</guid>
-            <pubDate>Wed, 08 Mar 2023 13:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_293/guIwR_1678265490606BJTqK_JPEG/CA202303080020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
