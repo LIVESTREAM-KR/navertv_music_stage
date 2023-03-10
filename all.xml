@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 04:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 05:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2032,6 +2032,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.559 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33836677</link>
+            <guid>https://tv.naver.com/v/33836677</guid>
+            <pubDate>Fri, 10 Mar 2023 05:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[49:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_261/gkPtZ_1678408021569qVm3e_JPEG/1678407513965.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.556  TNX(티엔엑스), cignature(시그니처), TRI.BE (트라이비), XG(엑스지) (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/33213063</link>
             <guid>https://tv.naver.com/v/33213063</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Fri, 02 Dec 2022 05:15:16 GMT</pubDate>
             <content:encoded><![CDATA[5:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_18/c7xah_1669945673716lwjI5_JPEG/1669945209118.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FIFTY FIFTY(피프티 피프티) - ‘Log in + Higher’ ★Simply's Spotlight★ _ Ep.548 | [4K] (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31270825</link>
-            <guid>https://tv.naver.com/v/31270825</guid>
-            <pubDate>Fri, 02 Dec 2022 05:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[9:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_225/bvgLT_1669945668874cRvdv_JPEG/1669945202253.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경서_밤하늘의 별을(2020) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
