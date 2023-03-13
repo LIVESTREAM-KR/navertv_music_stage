@@ -4,9 +4,25 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 07:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 08:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] STAYC SIEUN - DDU-DU DDU-DU(스테이씨 시은 - 뚜두뚜두) Close-up Cam | Show! MusicCore | MBC230311방송]]></title>
+            <link>https://tv.naver.com/v/33924715</link>
+            <guid>https://tv.naver.com/v/33924715</guid>
+            <pubDate>Mon, 13 Mar 2023 08:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_105/IVqbx_1678692690542BPndK_JPEG/clip_20230313155313_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] STAYC ISA - DDU-DU DDU-DU(스테이씨 아이사 - 뚜두뚜두) Close-up Cam | Show! MusicCore | MBC230311방송]]></title>
+            <link>https://tv.naver.com/v/33924530</link>
+            <guid>https://tv.naver.com/v/33924530</guid>
+            <pubDate>Mon, 13 Mar 2023 08:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_117/JfoMb_1678692449758lnSRh_JPEG/clip_20230313155315_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] IVE AN YUJIN - My Satisfaction(아이브 안유진 - 마이 새티스팩션) Close-up Cam | Show! MusicCore | MBC2303]]></title>
             <link>https://tv.naver.com/v/33923716</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
             <content:encoded><![CDATA[2:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230225_85/JIz5o_1677314494793sn6xB_JPEG/clip_20230225170443_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ YOUNGHOON – Awake(더보이즈 영훈 - 어웨이크) FanCam | Show! MusicCore | MBC230225방송]]></title>
-            <link>https://tv.naver.com/v/33463196</link>
-            <guid>https://tv.naver.com/v/33463196</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_107/C57TO_1677314493645v3vz4_JPEG/clip_20230225170441_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ KEVIN – Awake(더보이즈 케빈 - 어웨이크) FanCam | Show! MusicCore | MBC230225방송]]></title>
-            <link>https://tv.naver.com/v/33463195</link>
-            <guid>https://tv.naver.com/v/33463195</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_41/ggRMD_1677314492412RaMSe_JPEG/clip_20230225170439_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
