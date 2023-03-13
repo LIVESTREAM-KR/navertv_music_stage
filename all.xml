@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 06:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 07:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE AN YUJIN - My Satisfaction(아이브 안유진 - 마이 새티스팩션) Close-up Cam | Show! MusicCore | MBC2303 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33923716</link>
+            <guid>https://tv.naver.com/v/33923716</guid>
+            <pubDate>Mon, 13 Mar 2023 07:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_5/0rvIY_16786914904658M1AC_JPEG/clip_20230313153712_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE JANG WONYOUNG - My Satisfaction(아이브 장원영 - 마이 새티스팩션) Close-up Cam | Show! MusicCore | MB (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33923172</link>
+            <guid>https://tv.naver.com/v/33923172</guid>
+            <pubDate>Mon, 13 Mar 2023 07:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_181/nyxAy_1678690893213zSeVC_JPEG/clip_20230313153710_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE REI - My Satisfaction(아이브 레이 - 마이 새티스팩션) Close-up Cam | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33922966</link>
+            <guid>https://tv.naver.com/v/33922966</guid>
+            <pubDate>Mon, 13 Mar 2023 07:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_7/lAseg_16786906489094zK37_JPEG/clip_20230313153714_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] THE BOYZ SUNWOO – ROAR(더보이즈 선우 - 로어) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230225_41/ggRMD_1677314492412RaMSe_JPEG/clip_20230225170439_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ - Awake(더보이즈 – 어웨이크) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463194</link>
-            <guid>https://tv.naver.com/v/33463194</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_280/JvdKR_1677314490600X0Yzo_JPEG/clip_20230225170434_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ Q – ROAR(더보이즈 큐 - 로어) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463191</link>
-            <guid>https://tv.naver.com/v/33463191</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[4:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_235/WKspy_1677314489490RaBmw_JPEG/clip_20230225170416_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] STAYC YOON – Teddy Bear(스테이씨 윤 - 테디베어) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463088</link>
-            <guid>https://tv.naver.com/v/33463088</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_36/f3wGo_16773141927321Uj8e_JPEG/clip_20230225170535_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[황민현 - Hidden Side | SBS 230305 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
