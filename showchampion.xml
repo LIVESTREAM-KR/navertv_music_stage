@@ -4,9 +4,41 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 10:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 11:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2023 쇼챔 키워드 ④성장] IVE - LOVE DIVE (아이브 - 러브 다이브)]]></title>
+            <link>https://tv.naver.com/v/34007179</link>
+            <guid>https://tv.naver.com/v/34007179</guid>
+            <pubDate>Wed, 15 Mar 2023 11:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_94/egCp6_1678876052989nOAyi_JPEG/CA202303150052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023 쇼챔 키워드 ④성장] TWICE - Feel Special (트와이스 - 필 스페셜)]]></title>
+            <link>https://tv.naver.com/v/34007023</link>
+            <guid>https://tv.naver.com/v/34007023</guid>
+            <pubDate>Wed, 15 Mar 2023 11:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_233/AwFL9_1678875694854YK6Gn_JPEG/CA202303150051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023 쇼챔 키워드 ④성장] BTS - DOPE (방탄소년단 - 쩔어)]]></title>
+            <link>https://tv.naver.com/v/34007021</link>
+            <guid>https://tv.naver.com/v/34007021</guid>
+            <pubDate>Wed, 15 Mar 2023 11:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_61/UmeyA_1678875691325i0Tgw_JPEG/CA202303150050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023 쇼챔 키워드 ④성장] SEVENTEEN - Mansae (세븐틴 - 만세)]]></title>
+            <link>https://tv.naver.com/v/34007019</link>
+            <guid>https://tv.naver.com/v/34007019</guid>
+            <pubDate>Wed, 15 Mar 2023 11:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_216/Vti5U_1678875689437csMeL_JPEG/CA202303150049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2023 쇼챔 키워드 ④성장] (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이)]]></title>
             <link>https://tv.naver.com/v/34006706</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 08 Mar 2023 13:25:15 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230308_157/k9ZD7_16782756902110IRXI_JPEG/CA202303080078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] PURPLE KISS SWAN - Sweet Juice (퍼플키스 수안 - 스윗 쥬스) | Show Champion | EP.466]]></title>
-            <link>https://tv.naver.com/v/33783870</link>
-            <guid>https://tv.naver.com/v/33783870</guid>
-            <pubDate>Wed, 08 Mar 2023 13:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_181/6JxCD_1678275390450WiFPw_JPEG/CA202303080069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] OnlyOneOf YooJung - seOul drift (온리원오브 유정 - 서울 드리프트) | Show Champion | EP.466]]></title>
-            <link>https://tv.naver.com/v/33783713</link>
-            <guid>https://tv.naver.com/v/33783713</guid>
-            <pubDate>Wed, 08 Mar 2023 13:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_283/Y73gw_1678275090524NUhQY_JPEG/CA202303080076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] OnlyOneOf JUNJI - seOul drift (온리원오브 준지 - 서울 드리프트) | Show Champion | EP.466]]></title>
-            <link>https://tv.naver.com/v/33783412</link>
-            <guid>https://tv.naver.com/v/33783412</guid>
-            <pubDate>Wed, 08 Mar 2023 13:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_84/jlhEK_1678274489245xPMwr_JPEG/CA202303080075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] OnlyOneOf RIE - seOul drift (온리원오브 리에 - 서울 드리프트) | Show Champion | EP.466]]></title>
-            <link>https://tv.naver.com/v/33783120</link>
-            <guid>https://tv.naver.com/v/33783120</guid>
-            <pubDate>Wed, 08 Mar 2023 13:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_290/5gflD_1678273891466W9DAl_JPEG/CA202303080073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
