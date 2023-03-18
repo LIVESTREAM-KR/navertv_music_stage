@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 08:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 09:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CRAVITY SERIM – Groovy(크래비티 세림 - 그루비) FanCam | Show! MusicCore | MBC230318방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34099105</link>
+            <guid>https://tv.naver.com/v/34099105</guid>
+            <pubDate>Sat, 18 Mar 2023 09:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_108/BciPi_1679128890100BLQIk_JPEG/clip_20230318172458_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[STAGE MIX🪄] THE BOYZ – ROAR(더보이즈 - 로어)  | Show! Music Core (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
             <content:encoded><![CDATA[2:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230225_165/c3UkA_1677314496688Flvs4_JPEG/clip_20230225170545_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ ERIC – Awake(더보이즈 에릭 - 어웨이크) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463198</link>
-            <guid>https://tv.naver.com/v/33463198</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_243/5326O_1677314495762KcdTV_JPEG/clip_20230225170500_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[황민현 - Hidden Side | SBS 230305 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
