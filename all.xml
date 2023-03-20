@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 06:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 07:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VIVIZ SINB – PULL UP(비비지 신비 - 풀업) FanCam | Show! MusicCore | MBC230204방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34147610</link>
+            <guid>https://tv.naver.com/v/34147610</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230320_191/JDIqJ_1679296314898kx3di_JPEG/clip_20230204170716_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] TWICE TZUYU - SET ME FREE(트와이스 쯔위 - 셋 미 프리) Close-up Cam | Show! MusicCore | MBC230318방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -88,172 +96,164 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230313_7/lAseg_16786906489094zK37_JPEG/clip_20230313153714_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] THE BOYZ SUNWOO – ROAR(더보이즈 선우 - 로어) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463775</link>
-            <guid>https://tv.naver.com/v/33463775</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[4:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_22/lA6Yr_1677316290239OWDOX_JPEG/clip_20230225170206_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[예능연구소] ONEW - Rain On Me(온유 – 우중산책) FanCam | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33880632</link>
+            <guid>https://tv.naver.com/v/33880632</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_242/sKrCj_1678538190484cpwzt_JPEG/clip_20230311202815_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] Lee Chan Won - Wish Lanterns(이찬원 – 풍등) FanCam (Horizontal Ver.) | Show! MusicCore | MBC2302 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463694</link>
-            <guid>https://tv.naver.com/v/33463694</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[4:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_182/JygEx_1677315991816MzIsx_JPEG/clip_20230225170707_33.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[예능연구소] ZU HO - It’s my paradise(주호 – 잇츠 마이 파라다이스) FanCam (Horizontal Ver.) | Show! MusicCore | MBC (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33880631</link>
+            <guid>https://tv.naver.com/v/33880631</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[4:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_18/T6jDS_1678538189077SB2U6_JPEG/clip_20230311202748_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] tripleS Kim YooYeon – Rising(트리플에스 김유연 - 라이징) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463693</link>
-            <guid>https://tv.naver.com/v/33463693</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_52/QelZK_1677315990501QQAoO_JPEG/clip_20230225170618_29.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[예능연구소] CRAVITY HYEONGJUN – Perfect Man(크래비티 형준 - 퍼펙트 맨) FanCam | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33880516</link>
+            <guid>https://tv.naver.com/v/33880516</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_160/LmNsy_16785378905110Nbfb_JPEG/clip_20230311202714_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] THE BOYZ YOUNGHOON – ROAR(더보이즈 영훈 - 로어) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463692</link>
-            <guid>https://tv.naver.com/v/33463692</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[4:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_64/PaMND_1677315989401OERym_JPEG/clip_20230225170208_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[예능연구소] tripleS - Rising(트리플에스 – 라이징) FanCam | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33880427</link>
+            <guid>https://tv.naver.com/v/33880427</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_200/lTjrk_1678537653063rCAWO_JPEG/clip_20230311202835_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] STAYC - Poppy(스테이씨 – 파피) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463616</link>
-            <guid>https://tv.naver.com/v/33463616</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_108/vGX3C_1677315693493CoEhA_JPEG/clip_20230225171153_37.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[예능연구소] CRAVITY - Groovy(크래비티 – 그루비) FanCam | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33880426</link>
+            <guid>https://tv.naver.com/v/33880426</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_150/xgsLy_1678537651577wK9ly_JPEG/clip_20230311202826_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] TNX – Love or Die(티엔엑스 - 러브 오어 다이) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463615</link>
-            <guid>https://tv.naver.com/v/33463615</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_190/4kKds_1677315692007pgRnD_JPEG/clip_20230225170801_35.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[예능연구소] YUJU - Without U(유주 – 위드아웃 유) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33880424</link>
+            <guid>https://tv.naver.com/v/33880424</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_246/0onvF_1678537649779a2DJI_JPEG/clip_20230311202735_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] Lee Chan Won – Wish Lanterns(이찬원 - 풍등) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463612</link>
-            <guid>https://tv.naver.com/v/33463612</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_253/Upfru_1677315691001cd1mG_JPEG/clip_20230225170710_34.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[예능연구소] CRAVITY WOOBIN – Perfect Man(크래비티 우빈 - 퍼펙트 맨) FanCam | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33880274</link>
+            <guid>https://tv.naver.com/v/33880274</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_206/MtYhk_1678537292792IDdw3_JPEG/clip_20230311202659_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] THE BOYZ ERIC – ROAR(더보이즈 에릭 - 로어) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463610</link>
-            <guid>https://tv.naver.com/v/33463610</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_276/JtjB9_1677315689892KmVfB_JPEG/clip_20230225170414_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[예능연구소] CRAVITY MINHEE – Shock(크래비티 민희 - 쇼크) FanCam | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33880273</link>
+            <guid>https://tv.naver.com/v/33880273</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_247/FYpNk_1678537291505rTyAd_JPEG/clip_20230311202638_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] tripleS Kaede – Rising(트리플에스 카에데 - 라이징) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463523</link>
-            <guid>https://tv.naver.com/v/33463523</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_189/NQIUO_1677315449275V7k3G_JPEG/clip_20230225170620_30.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[예능연구소] CRAVITY JUNGMO – Shock(크래비티 정모 - 쇼크) FanCam | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33880271</link>
+            <guid>https://tv.naver.com/v/33880271</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_50/Vcg96_16785372898711xnOA_JPEG/clip_20230311202633_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] tripleS Kim ChaeYeon – Rising(트리플에스 김채연 - 라이징) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463498</link>
-            <guid>https://tv.naver.com/v/33463498</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_252/g9XPQ_16773153897016n7i0_JPEG/clip_20230225170625_32.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[예능연구소] tripleS Kim YooYeon – Rising(트리플에스 김유연 - 라이징) FanCam | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33880152</link>
+            <guid>https://tv.naver.com/v/33880152</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_12/tnkvo_1678536989518HmikE_JPEG/clip_20230311202845_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[#최애직캠] THE BOYZ JUYEON - ROAR(더보이즈 주연 - 로어) Close-up Cam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463395</link>
-            <guid>https://tv.naver.com/v/33463395</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_140/TIuvv_1677315089243Ld8lB_JPEG/clip_20230225170420_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] PURPLE KISS - Sweet Juice(퍼플키스 – 스윗 쥬스) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463298</link>
-            <guid>https://tv.naver.com/v/33463298</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_22/2Ly0h_1677314795942Kje2N_JPEG/clip_20230225171006_36.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] tripleS Gong YuBin – Rising(트리플에스 공유빈 - 라이징) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463296</link>
-            <guid>https://tv.naver.com/v/33463296</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_143/VsDso_1677314794646bbWbi_JPEG/clip_20230225170622_31.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] STAYC SUMIN – Teddy Bear(스테이씨 수민 - 테디베어) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463295</link>
-            <guid>https://tv.naver.com/v/33463295</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_33/dlJla_1677314793543aReTm_JPEG/clip_20230225170533_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ SANGYEON – ROAR(더보이즈 상연 - 로어) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463292</link>
-            <guid>https://tv.naver.com/v/33463292</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_110/6t4DX_16773147925320QN8F_JPEG/clip_20230225170204_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ NEW – ROAR(더보이즈 뉴 - 로어) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463291</link>
-            <guid>https://tv.naver.com/v/33463291</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_277/zhnrN_1677314791558d63tW_JPEG/clip_20230225170201_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ - ROAR(더보이즈 – 로어) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463290</link>
-            <guid>https://tv.naver.com/v/33463290</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_10/u5Dav_1677314789965B4pLT_JPEG/clip_20230225170158_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] STAYC ISA – Teddy Bear(스테이씨 아이사 - 테디베어) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463219</link>
-            <guid>https://tv.naver.com/v/33463219</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_157/RvQem_1677314555909ldypJ_JPEG/clip_20230225170531_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] STAYC J – Teddy Bear(스테이씨 재이 - 테디베어) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463218</link>
-            <guid>https://tv.naver.com/v/33463218</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
+            <title><![CDATA[[예능연구소] STAYC - Teddy Bear(스테이씨 – 테디베어) FanCam | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33879954</link>
+            <guid>https://tv.naver.com/v/33879954</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_61/RAgqM_1677314554527xIKci_JPEG/clip_20230225170528_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_228/OPzXX_1678536396688EHsr1_JPEG/clip_20230311202850_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] STAYC SIEUN – Teddy Bear(스테이씨 시은 - 테디베어) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463216</link>
-            <guid>https://tv.naver.com/v/33463216</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_193/b0nf6_1677314553418nGV2L_JPEG/clip_20230225170527_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] STAYC - Teddy Bear(스테이씨 – 테디베어) FanCam | Show! MusicCore | MBC230225방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33463215</link>
-            <guid>https://tv.naver.com/v/33463215</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
+            <title><![CDATA[[예능연구소] Cherry Bullet - P.O.W! (Play On the World)(체리블렛 – 파우) FanCam | Show! MusicCore | MBC230311방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33879953</link>
+            <guid>https://tv.naver.com/v/33879953</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_184/LmpQr_1677314551701qM3Qj_JPEG/clip_20230225170523_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_257/tXSrm_1678536395352BXwFd_JPEG/clip_20230311202759_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] YUJU – Without U(유주 - 위드아웃 유) FanCam | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33879951</link>
+            <guid>https://tv.naver.com/v/33879951</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_15/oVgss_1678536393893JRMxk_JPEG/clip_20230311202739_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CRAVITY TAEYOUNG – Perfect Man(크래비티 태영 - 퍼펙트 맨) FanCam | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33879950</link>
+            <guid>https://tv.naver.com/v/33879950</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_192/nPwu6_1678536392435zcRBg_JPEG/clip_20230311202709_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CRAVITY WONJIN – Perfect Man(크래비티 원진 - 퍼펙트 맨) FanCam | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33879949</link>
+            <guid>https://tv.naver.com/v/33879949</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_259/VguRv_1678536391209Qr2L6_JPEG/clip_20230311202704_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CRAVITY SERIM – Perfect Man(크래비티 세림 - 퍼펙트 맨) FanCam | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33879877</link>
+            <guid>https://tv.naver.com/v/33879877</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_288/tGXSd_1678536091856PnLdU_JPEG/clip_20230311202654_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] IVE REI – My Satisfaction(아이브 레이 - 마이 새티스팩션) FanCam | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33879876</link>
+            <guid>https://tv.naver.com/v/33879876</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_177/SNAEo_1678536090851NoWjQ_JPEG/clip_20230311202349_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CRAVITY SEONGMIN – Shock(크래비티 성민 - 쇼크) FanCam | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33879812</link>
+            <guid>https://tv.naver.com/v/33879812</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_93/Dcats_1678535854727Metas_JPEG/clip_20230311202642_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] IVE JANG WONYOUNG – My Satisfaction(아이브 장원영 - 마이 새티스팩션) FanCam | Show! MusicCore | MBC23031 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33879811</link>
+            <guid>https://tv.naver.com/v/33879811</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_89/E7G8a_1678535853401WXGbl_JPEG/clip_20230311202411_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] IVE LEESEO – My Satisfaction(아이브 이서 - 마이 새티스팩션) FanCam | Show! MusicCore | MBC230311방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/33879810</link>
+            <guid>https://tv.naver.com/v/33879810</guid>
+            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_237/hm1mu_1678535852216kNoUL_JPEG/clip_20230311202407_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[온유(ONEW) - O(Circle) | SBS 230319 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 거센 바람을 불러일으킬 쇼챔 라인업🏴‍☠🌪 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34145522</link>
+            <guid>https://tv.naver.com/v/34145522</guid>
+            <pubDate>Mon, 20 Mar 2023 07:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230320_157/Ffms2_1679293588771rIF9t_JPEG/CA202303220002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[2023 쇼챔 키워드 ④성장] IVE - LOVE DIVE (아이브 - 러브 다이브) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/34007179</link>
             <guid>https://tv.naver.com/v/34007179</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 08 Mar 2023 13:25:15 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230308_264/1LZAB_1678275989182wnHTe_JPEG/CA202303080071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] PURPLE KISS CHAEIN - Sweet Juice (퍼플키스 채인 - 스윗 쥬스) | Show Champion | EP.466 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33784026</link>
-            <guid>https://tv.naver.com/v/33784026</guid>
-            <pubDate>Wed, 08 Mar 2023 13:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_157/k9ZD7_16782756902110IRXI_JPEG/CA202303080078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
