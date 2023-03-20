@@ -4,9 +4,25 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 02:42:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 03:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] TWICE TZUYU - SET ME FREE(트와이스 쯔위 - 셋 미 프리) Close-up Cam | Show! MusicCore | MBC230318방송]]></title>
+            <link>https://tv.naver.com/v/34137145</link>
+            <guid>https://tv.naver.com/v/34137145</guid>
+            <pubDate>Mon, 20 Mar 2023 03:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230320_197/8PhLL_1679280396255PgsOL_JPEG/clip_20230320112958_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] TWICE NAYEON - SET ME FREE(트와이스 나연 - 셋 미 프리) Close-up Cam | Show! MusicCore | MBC230318방송]]></title>
+            <link>https://tv.naver.com/v/34137144</link>
+            <guid>https://tv.naver.com/v/34137144</guid>
+            <pubDate>Mon, 20 Mar 2023 03:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230320_152/LuNJf_1679280394443pKTE7_JPEG/clip_20230320112956_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] CRAVITY SERIM – Groovy(크래비티 세림 - 그루비) FanCam | Show! MusicCore | MBC230318방송]]></title>
             <link>https://tv.naver.com/v/34099105</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230225_184/LmpQr_1677314551701qM3Qj_JPEG/clip_20230225170523_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ NEW – Awake(더보이즈 뉴 - 어웨이크) FanCam | Show! MusicCore | MBC230225방송]]></title>
-            <link>https://tv.naver.com/v/33463214</link>
-            <guid>https://tv.naver.com/v/33463214</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_14/6J1gS_1677314550508hYl8e_JPEG/clip_20230225170452_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] tripleS - Rising(트리플에스 – 라이징) FanCam | Show! MusicCore | MBC230225방송]]></title>
-            <link>https://tv.naver.com/v/33463200</link>
-            <guid>https://tv.naver.com/v/33463200</guid>
-            <pubDate>Sat, 25 Feb 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_165/c3UkA_1677314496688Flvs4_JPEG/clip_20230225170545_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
