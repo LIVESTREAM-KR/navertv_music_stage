@@ -4,9 +4,57 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 10:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 11:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[COMEBACK] Nicole - Mysterious (니콜 - 미스테리어스)]]></title>
+            <link>https://tv.naver.com/v/34231609</link>
+            <guid>https://tv.naver.com/v/34231609</guid>
+            <pubDate>Wed, 22 Mar 2023 11:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_176/XqFQM_16794813929333LeXY_JPEG/CA202303220066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] YUJU - Without U (유주 - 위드아웃 유)]]></title>
+            <link>https://tv.naver.com/v/34231604</link>
+            <guid>https://tv.naver.com/v/34231604</guid>
+            <pubDate>Wed, 22 Mar 2023 11:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_24/GrMFi_1679481388914Ezvkh_JPEG/CA202303220065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔 에세이] TEMPEST - Young & Wild (템페스트 - 영 앤 와일드)]]></title>
+            <link>https://tv.naver.com/v/34231304</link>
+            <guid>https://tv.naver.com/v/34231304</guid>
+            <pubDate>Wed, 22 Mar 2023 11:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_25/KYB57_16794808491505ANsp_JPEG/CA202303220063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YUJU - Peach Blossom (Feat.sokodomo) (유주 - 복숭아꽃 (Feat.sokodomo))]]></title>
+            <link>https://tv.naver.com/v/34231278</link>
+            <guid>https://tv.naver.com/v/34231278</guid>
+            <pubDate>Wed, 22 Mar 2023 11:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[2:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_107/txms5_16794807993590Pisd_JPEG/CA202303220064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔 에세이] TEMPEST 제 3장 ＂희망＂ 함께 해 이끝엔 더 높은 곳을 밝게 비출게]]></title>
+            <link>https://tv.naver.com/v/34231093</link>
+            <guid>https://tv.naver.com/v/34231093</guid>
+            <pubDate>Wed, 22 Mar 2023 11:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[5:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_119/v6xgR_1679480494002xJAs7_JPEG/CA202303220062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] Cherry Bullet - P.O.W! (Play On the World) (체리블렛 - 파우)]]></title>
+            <link>https://tv.naver.com/v/34230939</link>
+            <guid>https://tv.naver.com/v/34230939</guid>
+            <pubDate>Wed, 22 Mar 2023 11:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_274/UIUrQ_1679480189171s9hdA_JPEG/CA202303220061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ULALA SESSION - ON MY WAY (울랄라세션 - 온 마이 웨이)]]></title>
             <link>https://tv.naver.com/v/34230598</link>
@@ -20,7 +68,7 @@
             <link>https://tv.naver.com/v/34230429</link>
             <guid>https://tv.naver.com/v/34230429</guid>
             <pubDate>Wed, 22 Mar 2023 10:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230322_73/jI0c9_1679479292809Y6FiH_JPEG/CA202303220059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -198,54 +246,6 @@
             <pubDate>Wed, 15 Mar 2023 10:16:59 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230315_228/gKhy2_1678873891052D922P_JPEG/CA202303150041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2023 쇼챔 키워드 ②행복] ASTRO - Baby (아스트로 - 베이비)]]></title>
-            <link>https://tv.naver.com/v/34005835</link>
-            <guid>https://tv.naver.com/v/34005835</guid>
-            <pubDate>Wed, 15 Mar 2023 10:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_174/Kh5oF_1678873351405GFl8M_JPEG/CA202303150040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2023 쇼챔 키워드 ②행복] Billlie - GingaMingaYo (the strange world) (빌리 - 긴가민가요)]]></title>
-            <link>https://tv.naver.com/v/34005831</link>
-            <guid>https://tv.naver.com/v/34005831</guid>
-            <pubDate>Wed, 15 Mar 2023 10:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_164/TMY38_1678873349444K9Glr_JPEG/CA202303150039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2023 쇼챔 키워드 ②행복] Red Velvet - Rookie (레드벨벳 - 루키) l Show Champion l EP.467]]></title>
-            <link>https://tv.naver.com/v/34005801</link>
-            <guid>https://tv.naver.com/v/34005801</guid>
-            <pubDate>Wed, 15 Mar 2023 10:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_98/Qey1B_1678873293391ujATM_JPEG/CA202303150038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2023 쇼챔 키워드 ①공감] ENHYPEN - Go Big or Go Home (엔하이픈 - 모 아니면 도)]]></title>
-            <link>https://tv.naver.com/v/34005797</link>
-            <guid>https://tv.naver.com/v/34005797</guid>
-            <pubDate>Wed, 15 Mar 2023 10:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_190/TOVNM_1678873290326DTUpA_JPEG/CA202303150037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2023 쇼챔 키워드 ①공감]  STAYC - STEREOTYPE (스테이씨 - 색안경)]]></title>
-            <link>https://tv.naver.com/v/34005520</link>
-            <guid>https://tv.naver.com/v/34005520</guid>
-            <pubDate>Wed, 15 Mar 2023 10:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_107/7onKq_1678872694691ARs4z_JPEG/CA202303150036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2023 쇼챔 키워드 ①공감] CIX - WAVE (씨아이엑스 - 웨이브)]]></title>
-            <link>https://tv.naver.com/v/34005518</link>
-            <guid>https://tv.naver.com/v/34005518</guid>
-            <pubDate>Wed, 15 Mar 2023 10:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_255/EpniA_1678872691016jHRSd_JPEG/CA202303150035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
