@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 12:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 13:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -768,6 +768,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230323_89/4pMGe_167956780567630kPd_JPEG/616a972e-90a2-4b5a-9df8-b678b75f73d6_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TRENDZ(트렌드지) - NEW DAYZ | Mnet 230323 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34273923</link>
+            <guid>https://tv.naver.com/v/34273923</guid>
+            <pubDate>Thu, 23 Mar 2023 13:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_164/Z5nXG_1679574398070Uc4FI_JPEG/8f02424b-f523-44c9-8b1a-66ed58a06551_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ICHILLIN'(아이칠린) - Alarm | Mnet 230323 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/34268809</link>
             <guid>https://tv.naver.com/v/34268809</guid>
@@ -966,14 +974,6 @@
             <pubDate>Thu, 15 Dec 2022 02:47:11 GMT</pubDate>
             <content:encoded><![CDATA[3:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220303_163/2c10W_1646303866128WUPiu_JPEG/c95bf101-b6a0-433c-af4c-86de3afde37f_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['1위' 팔색조 매력 '휘인'의 '오묘해' 무대 | Mnet 220127 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24834275</link>
-            <guid>https://tv.naver.com/v/24834275</guid>
-            <pubDate>Thu, 15 Dec 2022 02:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_165/jJynr_1643279810980fU96g_JPEG/f1f12259-216c-4202-b6ad-7f4e9d36833d_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Hot Debut] 케이팝의 신! 장르는 '기팝', 기현 (몬스타엑스) 'VOYAGER' (SBS MTV 더쇼 ─ 네이버TV)]]></title>
