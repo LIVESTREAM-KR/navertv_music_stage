@@ -4,9 +4,49 @@
         <title>Mnet 엠카운트다운 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 11:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 12:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['최초 공개' BOBBY - Drowning (feat. 가은 of 라임라잇) | Mnet 230323 방송]]></title>
+            <link>https://tv.naver.com/v/34270978</link>
+            <guid>https://tv.naver.com/v/34270978</guid>
+            <pubDate>Thu, 23 Mar 2023 12:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_40/wEjE6_1679569290726vYBuu_JPEG/b517e34f-10ed-4682-9e2a-c5205052c28f_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAVITY - Groovy | Mnet 230323 방송]]></title>
+            <link>https://tv.naver.com/v/34270589</link>
+            <guid>https://tv.naver.com/v/34270589</guid>
+            <pubDate>Thu, 23 Mar 2023 12:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_156/iMiGJ_1679568697270VLFgy_JPEG/dc466a7c-23cc-4562-86e2-3e5d826eb708_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['컴백 인터뷰' with 김재환 (KIM JAE HWAN) | Mnet 230323 방송]]></title>
+            <link>https://tv.naver.com/v/34270403</link>
+            <guid>https://tv.naver.com/v/34270403</guid>
+            <pubDate>Thu, 23 Mar 2023 12:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_79/VTQos_1679568388319lS49Y_JPEG/587fbff2-c9a5-4947-ba5a-876efa3c07e2_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['최초 공개' NMIXX - Young, Dumb, Stupid | Mnet 230323 방송]]></title>
+            <link>https://tv.naver.com/v/34270096</link>
+            <guid>https://tv.naver.com/v/34270096</guid>
+            <pubDate>Thu, 23 Mar 2023 12:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[2:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_89/4pMGe_167956780567630kPd_JPEG/616a972e-90a2-4b5a-9df8-b678b75f73d6_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ICHILLIN'(아이칠린) - Alarm | Mnet 230323 방송]]></title>
+            <link>https://tv.naver.com/v/34268809</link>
+            <guid>https://tv.naver.com/v/34268809</guid>
+            <pubDate>Thu, 23 Mar 2023 12:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_272/zbkqV_1679565690310Eix5x_JPEG/220ab877-0f9b-44a5-9535-2d20ad3360bf_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[8TURN(에잇턴) - TIC TAC | Mnet 230209 방송]]></title>
             <link>https://tv.naver.com/v/33015470</link>
@@ -206,46 +246,6 @@
             <pubDate>Thu, 15 Dec 2022 02:47:11 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220127_165/jJynr_1643279810980fU96g_JPEG/f1f12259-216c-4202-b6ad-7f4e9d36833d_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['1위' 꿈이 현실로! '케플러(Kep1er)'의 'WA DA DA' 무대 | Mnet 220113 방송]]></title>
-            <link>https://tv.naver.com/v/24588234</link>
-            <guid>https://tv.naver.com/v/24588234</guid>
-            <pubDate>Thu, 15 Dec 2022 02:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[5:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_272/Rtx9h_1642070209031K3isP_JPEG/1c670e8b-506f-4ad8-a3af-2dfaaffffd07_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['SPECIAL STAGE' 신한류 이끌 테마곡 'TO1'의 'Infinite City (Groundbreak Ver.)' 무대 | Mnet 211028 방송]]></title>
-            <link>https://tv.naver.com/v/23225166</link>
-            <guid>https://tv.naver.com/v/23225166</guid>
-            <pubDate>Thu, 15 Dec 2022 02:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[4:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211028_95/hxI3r_1635422213836k0wYJ_JPEG/1a3d48d8-7b5c-4406-b7f1-fae3ca547b71_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['최초 공개' 믿듣보비 '비투비'의 'Outsider' 무대 | Mnet 210902 방송]]></title>
-            <link>https://tv.naver.com/v/22222307</link>
-            <guid>https://tv.naver.com/v/22222307</guid>
-            <pubDate>Thu, 15 Dec 2022 02:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210902_30/HMrja_1630579904942leKkA_JPEG/66c12c64-8096-4f17-bef0-b788422f4017_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청량이 쏟아지는 '온앤오프'의 '여름 쏙 (Popping)' 무대 | Mnet 210902 방송]]></title>
-            <link>https://tv.naver.com/v/22222300</link>
-            <guid>https://tv.naver.com/v/22222300</guid>
-            <pubDate>Thu, 15 Dec 2022 02:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210902_268/Vd52a_1630579898975wn5ti_JPEG/8f1c078d-b538-4d77-bc2a-f7046a8ed221_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독특 매력 'BZ-BOYS(청공소년)'의 'Close Your Eyes' 무대 | Mnet 210902 방송]]></title>
-            <link>https://tv.naver.com/v/22222428</link>
-            <guid>https://tv.naver.com/v/22222428</guid>
-            <pubDate>Thu, 15 Dec 2022 02:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210902_136/LzSzg_1630580211683BqB5a_JPEG/50f2b46f-2ff0-4e80-b5b6-3da99ed99763_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
