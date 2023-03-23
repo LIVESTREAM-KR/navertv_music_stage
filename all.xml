@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 09:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 10:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] Nicole - Mysterious (니콜 - 미스테리어스) | Show Champion | EP.468 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34251414</link>
+            <guid>https://tv.naver.com/v/34251414</guid>
+            <pubDate>Thu, 23 Mar 2023 10:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_17/Dg5Rj_1679540787225qWyn3_JPEG/CA202303220078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] YUJU - Peach Blossom (Feat. sokodomo) (유주-복숭아꽃 (Feat. sokodomo)) | Show Champion | EP.468 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34251244</link>
+            <guid>https://tv.naver.com/v/34251244</guid>
+            <pubDate>Thu, 23 Mar 2023 10:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_32/aiIhc_1679542588156Ue9J5_JPEG/CA202303220079_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] Cherry Bullet YUJU - P.O.W! (Play On the World) (체리블렛 유주 - 파우) | Show Champion | EP.468 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/34229297</link>
             <guid>https://tv.naver.com/v/34229297</guid>
@@ -1438,22 +1454,6 @@
             <pubDate>Wed, 22 Mar 2023 10:15:48 GMT</pubDate>
             <content:encoded><![CDATA[2:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230322_195/rLz84_167947959363129NRx_JPEG/CA202303220060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK DIARY] 3월 29일 쇼챔에서 최.초.공.개💖 Billlie의 스포가 궁금하다면? (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34230429</link>
-            <guid>https://tv.naver.com/v/34230429</guid>
-            <pubDate>Wed, 22 Mar 2023 10:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_73/jI0c9_1679479292809Y6FiH_JPEG/CA202303220059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OnlyOneOf - seOul drift (온리원오브 - 서울 드리프트) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34230295</link>
-            <guid>https://tv.naver.com/v/34230295</guid>
-            <pubDate>Wed, 22 Mar 2023 10:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_165/osUc5_1679479049179JD12B_JPEG/CA202303220058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
