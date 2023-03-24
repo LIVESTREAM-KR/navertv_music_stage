@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 01:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 02:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 4주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아! 나나, 빌리 문수아&츠키) | Show Champion | EP.468]]></title>
+            <link>https://tv.naver.com/v/34249590</link>
+            <guid>https://tv.naver.com/v/34249590</guid>
+            <pubDate>Fri, 24 Mar 2023 02:34:41 GMT</pubDate>
+            <content:encoded><![CDATA[6:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_278/m0zU4_1679537488649C79Iy_JPEG/CA202303220071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] Nicole - Mysterious (니콜 - 미스테리어스) | Show Champion | EP.468]]></title>
             <link>https://tv.naver.com/v/34251414</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Mar 2023 11:13:27 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230322_274/UIUrQ_1679480189171s9hdA_JPEG/CA202303220061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ULALA SESSION - ON MY WAY (울랄라세션 - 온 마이 웨이)]]></title>
-            <link>https://tv.naver.com/v/34230598</link>
-            <guid>https://tv.naver.com/v/34230598</guid>
-            <pubDate>Wed, 22 Mar 2023 10:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_195/rLz84_167947959363129NRx_JPEG/CA202303220060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
