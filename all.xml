@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 06:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 07:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,54 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230311_200/lTjrk_1678537653063rCAWO_JPEG/clip_20230311202835_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[ICHILLIN’(아이칠린) - Alarm | SBS 230326 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34342643</link>
+            <guid>https://tv.naver.com/v/34342643</guid>
+            <pubDate>Sun, 26 Mar 2023 07:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_247/ZRkFR_1679814687878Rz7Cs_JPEG/e1daeb02-88f7-4aa5-90dd-c44f91035ef6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAN - Fix YOU | SBS 230326 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34342532</link>
+            <guid>https://tv.naver.com/v/34342532</guid>
+            <pubDate>Sun, 26 Mar 2023 07:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_238/dvZtF_1679814387185qKY5z_JPEG/a72c0d84-d576-4c26-8353-0c0675388c11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PIXY(픽시) - KARMA | SBS 230326 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34342402</link>
+            <guid>https://tv.naver.com/v/34342402</guid>
+            <pubDate>Sun, 26 Mar 2023 07:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_119/lqCzI_1679814089457FO9Mh_JPEG/c042ca32-75c2-4488-a540-2218677b375e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KINGDOM(킹덤) - 혼(魂; Dystopia) | SBS 230326 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34342399</link>
+            <guid>https://tv.naver.com/v/34342399</guid>
+            <pubDate>Sun, 26 Mar 2023 07:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_268/WQ1SQ_1679814087579jyEMM_JPEG/61a4427b-7095-4d32-bc28-e138959337d3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소유미 - 평생직장 | SBS 230326 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34342152</link>
+            <guid>https://tv.naver.com/v/34342152</guid>
+            <pubDate>Sun, 26 Mar 2023 07:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_25/pu93V_1679813491556P7a0b_JPEG/635a2c42-f0e9-4018-94c4-212b49472ff8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임사랑 - 너랑 친구도 하기 싫어 | SBS 230326 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34342148</link>
+            <guid>https://tv.naver.com/v/34342148</guid>
+            <pubDate>Sun, 26 Mar 2023 07:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_175/pQbVj_167981348850247dGR_JPEG/0f846d5a-13cd-47d6-8fbb-7e96ee59d3d6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[온유(ONEW) - O(Circle) | SBS 230319 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/34118071</link>
             <guid>https://tv.naver.com/v/34118071</guid>
@@ -446,54 +494,6 @@
             <pubDate>Sun, 05 Mar 2023 08:18:47 GMT</pubDate>
             <content:encoded><![CDATA[3:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230305_39/E4ptV_1678001189299MbpMR_JPEG/118ce6da-4618-4856-8d0e-b72d898aed86.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8TURN(에잇턴) - WE | SBS 230305 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33676472</link>
-            <guid>https://tv.naver.com/v/33676472</guid>
-            <pubDate>Sun, 05 Mar 2023 08:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_95/1Zz43_1678000891298bXhn6_JPEG/42022abe-a0a9-43b0-a783-062d1618af29.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트라이비(TRI.BE) - WE ARE YOUNG | SBS 230305 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33676471</link>
-            <guid>https://tv.naver.com/v/33676471</guid>
-            <pubDate>Sun, 05 Mar 2023 08:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_92/pv6Hl_1678000889576M1YvJ_JPEG/04944e4f-279f-4918-8444-3619e53da9c9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FIFTY FIFTY - Cupid | SBS 230305 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33676368</link>
-            <guid>https://tv.naver.com/v/33676368</guid>
-            <pubDate>Sun, 05 Mar 2023 08:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_62/eY3aV_1678000589142oPqwq_JPEG/36e4212c-fc61-4e66-9d23-be5323760b18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tripleS(트리플에스) - Rising | SBS 230305 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33676286</link>
-            <guid>https://tv.naver.com/v/33676286</guid>
-            <pubDate>Sun, 05 Mar 2023 07:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_254/gqgMu_1678000289319V03NW_JPEG/fe704c92-1711-4dd2-8866-03473518c9bd.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리사 - 부탁 | SBS 230305 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33676177</link>
-            <guid>https://tv.naver.com/v/33676177</guid>
-            <pubDate>Sun, 05 Mar 2023 07:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_17/TckKj_1677999989303Cq5Pq_JPEG/c0dd1ff9-4c3f-46f7-8f33-6d05685d9c06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이찬원 - 풍등 | SBS 230305 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33676018</link>
-            <guid>https://tv.naver.com/v/33676018</guid>
-            <pubDate>Sun, 05 Mar 2023 07:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_6/BRyNi_1677999449554313Po_JPEG/b4779940-16b4-4a46-8381-166e4ed44760.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
