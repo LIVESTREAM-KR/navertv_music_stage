@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 05:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 06:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 3월 마지막 주에도 쇼챔피언 본.방.사.수!]]></title>
+            <link>https://tv.naver.com/v/34367190</link>
+            <guid>https://tv.naver.com/v/34367190</guid>
+            <pubDate>Mon, 27 Mar 2023 06:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_289/hFNc6_1679895762692MeT40_JPEG/CA202303290002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] Cherry Bullet JIWON - P.O.W! (Play On the World) (체리블렛 지원 - 파우) | Show Champion | EP.468]]></title>
             <link>https://tv.naver.com/v/34304955</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Mar 2023 11:13:27 GMT</pubDate>
             <content:encoded><![CDATA[2:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230322_107/txms5_16794807993590Pisd_JPEG/CA202303220064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 에세이] TEMPEST 제 3장 ＂희망＂ 함께 해 이끝엔 더 높은 곳을 밝게 비출게]]></title>
-            <link>https://tv.naver.com/v/34231093</link>
-            <guid>https://tv.naver.com/v/34231093</guid>
-            <pubDate>Wed, 22 Mar 2023 11:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[5:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_119/v6xgR_1679480494002xJAs7_JPEG/CA202303220062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
