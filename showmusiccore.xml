@@ -4,9 +4,57 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 07:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 08:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] NMIXX SULLYOON-Love Me Like This(엔믹스 설윤-러브 미 라이크 디스) Close-upCam|Show! MusicCore|MBC230325방]]></title>
+            <link>https://tv.naver.com/v/34373722</link>
+            <guid>https://tv.naver.com/v/34373722</guid>
+            <pubDate>Mon, 27 Mar 2023 08:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_26/wsQ7G_1679904389861AGPa5_JPEG/clip_20230327163304_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NMIXX HAEWON - Love Me Like This(엔믹스 해원-러브 미 라이크 디스)Close-up Cam|Show! MusicCore|MBC230325방]]></title>
+            <link>https://tv.naver.com/v/34373720</link>
+            <guid>https://tv.naver.com/v/34373720</guid>
+            <pubDate>Mon, 27 Mar 2023 08:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_27/uwOQj_1679904387922JBHfw_JPEG/clip_20230327163303_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NMIXX KYUJIN-Young, Dumb, Stupid(엔믹스 규진-영, 덤, 스투피드)Close-up Cam|Show! MusicCore|MBC230325방송]]></title>
+            <link>https://tv.naver.com/v/34373060</link>
+            <guid>https://tv.naver.com/v/34373060</guid>
+            <pubDate>Mon, 27 Mar 2023 08:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_286/iY1s7_1679903496298SFiFu_JPEG/clip_20230327163459_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NMIXX LILY - Young, Dumb, Stupid(엔믹스 릴리-영, 덤, 스투피드)Close-up Cam|Show! MusicCore|MBC230325방송]]></title>
+            <link>https://tv.naver.com/v/34373058</link>
+            <guid>https://tv.naver.com/v/34373058</guid>
+            <pubDate>Mon, 27 Mar 2023 08:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_4/BQf9A_1679903494652Exgmf_JPEG/clip_20230327163450_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NMIXX JIWOO - Young, Dumb, Stupid(엔믹스 지우-영, 덤, 스투피드) Close-upCam|Show! MusicCore|MBC230325방]]></title>
+            <link>https://tv.naver.com/v/34373057</link>
+            <guid>https://tv.naver.com/v/34373057</guid>
+            <pubDate>Mon, 27 Mar 2023 08:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_217/vcA7C_1679903492671mW0Mp_JPEG/clip_20230327163438_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NMIXX BAE - Love Me Like This(엔믹스 배이 - 러브 미 라이크 디스) Close-up Cam|Show! MusicCore|MBC230325방]]></title>
+            <link>https://tv.naver.com/v/34373297</link>
+            <guid>https://tv.naver.com/v/34373297</guid>
+            <pubDate>Mon, 27 Mar 2023 08:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_121/Hgon8_16799038472005hJiE_JPEG/clip_20230327163307_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] BOBBY – Drowning(바비 - 드라우닝) FanCam | Show! MusicCore | MBC230325방송]]></title>
             <link>https://tv.naver.com/v/34325471</link>
@@ -198,54 +246,6 @@
             <pubDate>Mon, 13 Mar 2023 07:14:20 GMT</pubDate>
             <content:encoded><![CDATA[3:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230313_5/0rvIY_16786914904658M1AC_JPEG/clip_20230313153712_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] IVE JANG WONYOUNG - My Satisfaction(아이브 장원영 - 마이 새티스팩션) Close-up Cam | Show! MusicCore | MB]]></title>
-            <link>https://tv.naver.com/v/33923172</link>
-            <guid>https://tv.naver.com/v/33923172</guid>
-            <pubDate>Mon, 13 Mar 2023 07:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_181/nyxAy_1678690893213zSeVC_JPEG/clip_20230313153710_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] IVE REI - My Satisfaction(아이브 레이 - 마이 새티스팩션) Close-up Cam | Show! MusicCore | MBC230311방송]]></title>
-            <link>https://tv.naver.com/v/33922966</link>
-            <guid>https://tv.naver.com/v/33922966</guid>
-            <pubDate>Mon, 13 Mar 2023 07:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_7/lAseg_16786906489094zK37_JPEG/clip_20230313153714_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ONEW - Rain On Me(온유 – 우중산책) FanCam | Show! MusicCore | MBC230311방송]]></title>
-            <link>https://tv.naver.com/v/33880632</link>
-            <guid>https://tv.naver.com/v/33880632</guid>
-            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_242/sKrCj_1678538190484cpwzt_JPEG/clip_20230311202815_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ZU HO - It’s my paradise(주호 – 잇츠 마이 파라다이스) FanCam (Horizontal Ver.) | Show! MusicCore | MBC]]></title>
-            <link>https://tv.naver.com/v/33880631</link>
-            <guid>https://tv.naver.com/v/33880631</guid>
-            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[4:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_18/T6jDS_1678538189077SB2U6_JPEG/clip_20230311202748_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CRAVITY HYEONGJUN – Perfect Man(크래비티 형준 - 퍼펙트 맨) FanCam | Show! MusicCore | MBC230311방송]]></title>
-            <link>https://tv.naver.com/v/33880516</link>
-            <guid>https://tv.naver.com/v/33880516</guid>
-            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_160/LmNsy_16785378905110Nbfb_JPEG/clip_20230311202714_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] tripleS - Rising(트리플에스 – 라이징) FanCam | Show! MusicCore | MBC230311방송]]></title>
-            <link>https://tv.naver.com/v/33880427</link>
-            <guid>https://tv.naver.com/v/33880427</guid>
-            <pubDate>Mon, 20 Mar 2023 07:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_200/lTjrk_1678537653063rCAWO_JPEG/clip_20230311202835_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
