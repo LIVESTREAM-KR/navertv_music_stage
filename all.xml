@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 04:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 05:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -768,6 +768,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230323_89/4pMGe_167956780567630kPd_JPEG/616a972e-90a2-4b5a-9df8-b678b75f73d6_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['SPECIAL STAGE' 〈BOYS PLANET〉 ACES - TOMBOY | Mnet 230323 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34270090</link>
+            <guid>https://tv.naver.com/v/34270090</guid>
+            <pubDate>Tue, 28 Mar 2023 05:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_149/ci89N_1679567794925APH1o_JPEG/2aa0cfa9-2cf3-485e-9e69-ff6e0d1014a1_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TRENDZ(트렌드지) - NEW DAYZ | Mnet 230323 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/34273923</link>
             <guid>https://tv.naver.com/v/34273923</guid>
@@ -966,14 +974,6 @@
             <pubDate>Thu, 15 Dec 2022 02:47:11 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_238/6Az7p_16475206253785lr7W_JPEG/281e7d1a-7988-406f-bd5e-a934a85afcff_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['HOT DEBUT' 설렘 주의 'CLASS:y'의 'SURPRISE' 무대 | Mnet 220303 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25452434</link>
-            <guid>https://tv.naver.com/v/25452434</guid>
-            <pubDate>Thu, 15 Dec 2022 02:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_163/2c10W_1646303866128WUPiu_JPEG/c95bf101-b6a0-433c-af4c-86de3afde37f_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Hot Debut] 케이팝의 신! 장르는 '기팝', 기현 (몬스타엑스) 'VOYAGER' (SBS MTV 더쇼 ─ 네이버TV)]]></title>
