@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 11:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 12:31:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔 1위] 3월 다섯째 주 챔피언송 ＜NMIXX - Love Me Like This＞ 앵콜 Full ver. l Show Champion l EP.469 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34452459</link>
+            <guid>https://tv.naver.com/v/34452459</guid>
+            <pubDate>Wed, 29 Mar 2023 12:31:12 GMT</pubDate>
+            <content:encoded><![CDATA[5:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230329_57/v0VDM_168009068758882VFH_JPEG/CA202303290077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔 에세이] TEMPEST - Full Of Happiness (템페스트 - 행복 (원곡 : H.O.T.)) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/34449718</link>
             <guid>https://tv.naver.com/v/34449718</guid>
@@ -1236,7 +1244,7 @@
             <link>https://tv.naver.com/v/34449470</link>
             <guid>https://tv.naver.com/v/34449470</guid>
             <pubDate>Wed, 29 Mar 2023 11:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230329_284/vwDOY_16800852910054AggU_JPEG/CA202303290066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1252,7 +1260,7 @@
             <link>https://tv.naver.com/v/34449212</link>
             <guid>https://tv.naver.com/v/34449212</guid>
             <pubDate>Wed, 29 Mar 2023 10:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230329_251/z8K1n_1680084753301DBitK_JPEG/CA202303290065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1446,14 +1454,6 @@
             <pubDate>Fri, 24 Mar 2023 11:12:54 GMT</pubDate>
             <content:encoded><![CDATA[3:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230324_140/b4wew_1679647347809jNdcC_JPEG/CA202303220095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST HYEONGSEOP - Young & Wild (템페스트 형섭 - 영 앤 와일드) | Show Champion | EP.468 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34302452</link>
-            <guid>https://tv.naver.com/v/34302452</guid>
-            <pubDate>Fri, 24 Mar 2023 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_167/oy7mo_1679646447512TaRKA_JPEG/CA202303220091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
