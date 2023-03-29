@@ -4,9 +4,33 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 10:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 11:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔 에세이] TEMPEST - Full Of Happiness (템페스트 - 행복 (원곡 : H.O.T.))]]></title>
+            <link>https://tv.naver.com/v/34449718</link>
+            <guid>https://tv.naver.com/v/34449718</guid>
+            <pubDate>Wed, 29 Mar 2023 11:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230329_118/s2szN_1680085887164Ww4a9_JPEG/CA202303290070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔 에세이 에필로그] iE의 행복 TEMPEST 덕분에 행복 지수 302%💘]]></title>
+            <link>https://tv.naver.com/v/34449622</link>
+            <guid>https://tv.naver.com/v/34449622</guid>
+            <pubDate>Wed, 29 Mar 2023 11:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230329_33/aqZSX_1680085649154p0B8J_JPEG/CA202303290072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔 에세이] TEMPEST 제4장 '사랑' 템페스트가 사랑을 표현하는 방법]]></title>
+            <link>https://tv.naver.com/v/34449470</link>
+            <guid>https://tv.naver.com/v/34449470</guid>
+            <pubDate>Wed, 29 Mar 2023 11:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230329_284/vwDOY_16800852910054AggU_JPEG/CA202303290066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[최초공개] Billlie - EUNOIA (빌리 - 유노이아)]]></title>
             <link>https://tv.naver.com/v/34449314</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 24 Mar 2023 11:12:54 GMT</pubDate>
             <content:encoded><![CDATA[3:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230324_167/oy7mo_1679646447512TaRKA_JPEG/CA202303220091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST LEW - Young & Wild (템페스트 루 - 영 앤 와일드) | Show Champion | EP.468]]></title>
-            <link>https://tv.naver.com/v/34301886</link>
-            <guid>https://tv.naver.com/v/34301886</guid>
-            <pubDate>Fri, 24 Mar 2023 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_283/N50bt_1679645550182O8XjN_JPEG/CA202303220094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST - Young & Wild (템페스트 - 영 앤 와일드) l Show Champion l EP.468]]></title>
-            <link>https://tv.naver.com/v/34301688</link>
-            <guid>https://tv.naver.com/v/34301688</guid>
-            <pubDate>Fri, 24 Mar 2023 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_252/EquYG_1679645187145iDxy1_JPEG/CA202303220097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST TAERAE - Young & Wild (템페스트 태래 - 영 앤 와일드) | Show Champion | EP.468]]></title>
-            <link>https://tv.naver.com/v/34301520</link>
-            <guid>https://tv.naver.com/v/34301520</guid>
-            <pubDate>Fri, 24 Mar 2023 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_26/5ZIxd_1679644887129JmukQ_JPEG/CA202303220096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
