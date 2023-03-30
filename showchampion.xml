@@ -4,9 +4,49 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 23:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 01:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! 'Billlie' 나!왔어✋🏻]]></title>
+            <link>https://tv.naver.com/v/34465632</link>
+            <guid>https://tv.naver.com/v/34465632</guid>
+            <pubDate>Thu, 30 Mar 2023 01:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_170/ZC4k1_1680137493189E0Ri1_JPEG/CA202303290083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAN - Fix YOU (티에이엔 - 픽스 유)]]></title>
+            <link>https://tv.naver.com/v/34465631</link>
+            <guid>https://tv.naver.com/v/34465631</guid>
+            <pubDate>Thu, 30 Mar 2023 01:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_211/2SeUD_1680137491291GJAKp_JPEG/CA202303290082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] ICHILLIN’ - Alarm (아이칠린 - 알람)]]></title>
+            <link>https://tv.naver.com/v/34465628</link>
+            <guid>https://tv.naver.com/v/34465628</guid>
+            <pubDate>Thu, 30 Mar 2023 01:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_300/VSl1m_1680137489205xqcdY_JPEG/CA202303290081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HAWW - Wanna Be Love (하우 - 워너 비 러브)]]></title>
+            <link>https://tv.naver.com/v/34465626</link>
+            <guid>https://tv.naver.com/v/34465626</guid>
+            <pubDate>Thu, 30 Mar 2023 01:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_273/U5ray_16801374871755nV0u_JPEG/CA202303290080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAXY - NUGUDOM (크랙시 - 누구덤)]]></title>
+            <link>https://tv.naver.com/v/34465445</link>
+            <guid>https://tv.naver.com/v/34465445</guid>
+            <pubDate>Thu, 30 Mar 2023 01:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_73/5vGaG_1680136947597feLpE_JPEG/CA202303290079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] Billlie SIYOON - enchanted night ~ 白夜 (빌리 시윤 - 인챈티드 나잇~백야) | Show Champion | EP.469]]></title>
             <link>https://tv.naver.com/v/34451732</link>
@@ -96,7 +136,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230329_32/CvANG_1680085287828Iq333_JPEG/CA202303290054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST EUNCHAN - 행복 (원곡 : H.O.T) (템페스트 은찬 - 행복) | Show Champion | EP.469]]></title>
+            <title><![CDATA[[쇼챔직캠 4K] TEMPEST EUNCHAN - 행복 (원곡 : H.O.T.) (템페스트 은찬 - 행복) | Show Champion | EP.469]]></title>
             <link>https://tv.naver.com/v/34449464</link>
             <guid>https://tv.naver.com/v/34449464</guid>
             <pubDate>Wed, 29 Mar 2023 13:23:38 GMT</pubDate>
@@ -120,7 +160,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230329_172/Y1nBB_1680083847011nUl9E_JPEG/CA202303290050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST - 행복 (원곡 : H.O.T) (템페스트 - 행복) | Show Champion | EP.469]]></title>
+            <title><![CDATA[[쇼챔직캠 4K] TEMPEST - 행복 (원곡 : H.O.T.) (템페스트 - 행복) | Show Champion | EP.469]]></title>
             <link>https://tv.naver.com/v/34448667</link>
             <guid>https://tv.naver.com/v/34448667</guid>
             <pubDate>Wed, 29 Mar 2023 13:23:38 GMT</pubDate>
@@ -128,7 +168,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230329_25/f4WxN_1680083488713nW3fp_JPEG/CA202303290046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST LEW - 행복 (원곡 : H.O.T) (템페스트 루 - 행복) | Show Champion | EP.469]]></title>
+            <title><![CDATA[[쇼챔직캠 4K] TEMPEST LEW - 행복 (원곡 : H.O.T.) (템페스트 루 - 행복) | Show Champion | EP.469]]></title>
             <link>https://tv.naver.com/v/34448666</link>
             <guid>https://tv.naver.com/v/34448666</guid>
             <pubDate>Wed, 29 Mar 2023 13:23:38 GMT</pubDate>
@@ -136,7 +176,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230329_46/dpftP_1680083487518omrHX_JPEG/CA202303290043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST TAERAE - 행복 (원곡 : H.O.T) (템페스트 태래 - 행복) | Show Champion | EP.469]]></title>
+            <title><![CDATA[[쇼챔직캠 4K] TEMPEST TAERAE - 행복 (원곡 : H.O.T.) (템페스트 태래 - 행복) | Show Champion | EP.469]]></title>
             <link>https://tv.naver.com/v/34448371</link>
             <guid>https://tv.naver.com/v/34448371</guid>
             <pubDate>Wed, 29 Mar 2023 13:23:38 GMT</pubDate>
@@ -176,7 +216,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230329_225/Zr7gN_1680081086858s87yi_JPEG/CA202303290047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST HYUK - 행복 (원곡 : H.O.T) (템페스트 혁 - 행복) | Show Champion | EP.469]]></title>
+            <title><![CDATA[[쇼챔직캠 4K] TEMPEST HYUK - 행복 (원곡 : H.O.T.) (템페스트 혁 - 행복) | Show Champion | EP.469]]></title>
             <link>https://tv.naver.com/v/34447305</link>
             <guid>https://tv.naver.com/v/34447305</guid>
             <pubDate>Wed, 29 Mar 2023 13:23:38 GMT</pubDate>
@@ -184,7 +224,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230329_271/JHgAQ_1680080787668DExyr_JPEG/CA202303290041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST HYEONGSEOP - 행복 (원곡 : H.O.T) (템페스트 형섭 - 행복) | Show Champion | EP.469]]></title>
+            <title><![CDATA[[쇼챔직캠 4K] TEMPEST HYEONGSEOP - 행복 (원곡 : H.O.T.) (템페스트 형섭 - 행복) | Show Champion | EP.469]]></title>
             <link>https://tv.naver.com/v/34446955</link>
             <guid>https://tv.naver.com/v/34446955</guid>
             <pubDate>Wed, 29 Mar 2023 13:23:38 GMT</pubDate>
@@ -192,7 +232,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230329_81/RKTb2_168008018774287s1p_JPEG/CA202303290040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST HWARANG - 행복 (원곡 : H.O.T) (템페스트 화랑 - 행복) | Show Champion | EP.469]]></title>
+            <title><![CDATA[[쇼챔직캠 4K] TEMPEST HWARANG - 행복 (원곡 : H.O.T.) (템페스트 화랑 - 행복) | Show Champion | EP.469]]></title>
             <link>https://tv.naver.com/v/34446588</link>
             <guid>https://tv.naver.com/v/34446588</guid>
             <pubDate>Wed, 29 Mar 2023 13:23:38 GMT</pubDate>
@@ -200,52 +240,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230329_1/jPOFn_168007958721092938_JPEG/CA202303290044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST HANBIN - 행복 (원곡 : H.O.T) (템페스트 한빈 - 행복) | Show Champion | EP.469]]></title>
+            <title><![CDATA[[쇼챔직캠 4K] TEMPEST HANBIN - 행복 (원곡 : H.O.T.) (템페스트 한빈 - 행복) | Show Champion | EP.469]]></title>
             <link>https://tv.naver.com/v/34446009</link>
             <guid>https://tv.naver.com/v/34446009</guid>
             <pubDate>Wed, 29 Mar 2023 13:23:38 GMT</pubDate>
             <content:encoded><![CDATA[4:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230329_177/stBU0_1680078687096CbfVT_JPEG/CA202303290039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Billlie HARAM - EUNOIA (빌리 하람 - 유노이아) | Show Champion | EP.469]]></title>
-            <link>https://tv.naver.com/v/34444917</link>
-            <guid>https://tv.naver.com/v/34444917</guid>
-            <pubDate>Wed, 29 Mar 2023 13:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230329_144/2cJ7w_1680077188235sPYkx_JPEG/CA202303290025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Billlie HARUNA - EUNOIA (빌리 하루나 - 유노이아) | Show Champion | EP.469]]></title>
-            <link>https://tv.naver.com/v/34444707</link>
-            <guid>https://tv.naver.com/v/34444707</guid>
-            <pubDate>Wed, 29 Mar 2023 13:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230329_231/TwiZy_1680076887333qHey0_JPEG/CA202303290026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Billlie SHEON - EUNOIA (빌리 션 - 유노이아) | Show Champion | EP.469]]></title>
-            <link>https://tv.naver.com/v/34444281</link>
-            <guid>https://tv.naver.com/v/34444281</guid>
-            <pubDate>Wed, 29 Mar 2023 13:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230329_114/LJs0f_1680076287699Yn1zH_JPEG/CA202303290021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Billlie TSUKI - EUNOIA (빌리 츠키 - 유노이아) | Show Champion | EP.469]]></title>
-            <link>https://tv.naver.com/v/34443926</link>
-            <guid>https://tv.naver.com/v/34443926</guid>
-            <pubDate>Wed, 29 Mar 2023 13:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230329_154/pi76G_1680075747683IllAq_JPEG/CA202303290024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Billlie SUHYEON - EUNOIA (빌리 수현 - 유노이아) | Show Champion | EP.469]]></title>
-            <link>https://tv.naver.com/v/34443657</link>
-            <guid>https://tv.naver.com/v/34443657</guid>
-            <pubDate>Wed, 29 Mar 2023 13:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230329_145/BDa1k_1680075387760cXRhb_JPEG/CA202303290022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
