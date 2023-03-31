@@ -4,9 +4,17 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 09:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 10:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[범진_후회]]></title>
+            <link>https://tv.naver.com/v/34479002</link>
+            <guid>https://tv.naver.com/v/34479002</guid>
+            <pubDate>Fri, 31 Mar 2023 10:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_268/aS4ed_1680158649152VhMtv_JPEG/230962b1-cec5-11ed-849b-505dac8c385b_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안다은_그땐 어렸고 미안했다고 말해]]></title>
             <link>https://tv.naver.com/v/34478502</link>
@@ -38,6 +46,54 @@
             <pubDate>Fri, 31 Mar 2023 09:15:29 GMT</pubDate>
             <content:encoded><![CDATA[4:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230330_221/dlzwC_1680158037855ShNdl_JPEG/535139da-cec3-11ed-a7c2-505dac8c3721_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경서예지&전건호_사실 나는]]></title>
+            <link>https://tv.naver.com/v/34478403</link>
+            <guid>https://tv.naver.com/v/34478403</guid>
+            <pubDate>Fri, 31 Mar 2023 10:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[4:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_32/UDKYG_1680158032096aVuKB_JPEG/3026152e-cec3-11ed-9523-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이키즈_가을 안부]]></title>
+            <link>https://tv.naver.com/v/34478394</link>
+            <guid>https://tv.naver.com/v/34478394</guid>
+            <pubDate>Fri, 31 Mar 2023 10:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[5:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_124/vWUym_1680158025908xwLGj_JPEG/04e1933a-cec3-11ed-9bb4-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몽니_소나기]]></title>
+            <link>https://tv.naver.com/v/34478390</link>
+            <guid>https://tv.naver.com/v/34478390</guid>
+            <pubDate>Fri, 31 Mar 2023 10:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_166/YY7hY_1680158021735zttpC_JPEG/e376952e-cec2-11ed-a7cf-a0369ffbd890_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21학번_완전 내 스타일]]></title>
+            <link>https://tv.naver.com/v/34478387</link>
+            <guid>https://tv.naver.com/v/34478387</guid>
+            <pubDate>Fri, 31 Mar 2023 10:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_132/mwptt_1680158017457HFFvU_JPEG/c33263ca-cec2-11ed-a7cf-a0369ffbd890_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박보람_예뻐졌다]]></title>
+            <link>https://tv.naver.com/v/34478381</link>
+            <guid>https://tv.naver.com/v/34478381</guid>
+            <pubDate>Fri, 31 Mar 2023 10:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_129/EVnyO_1680158010853pOiNi_JPEG/a4deb7fe-cec2-11ed-8c85-b443264fff5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박보람_혜화동 (원곡 동물원)]]></title>
+            <link>https://tv.naver.com/v/34478375</link>
+            <guid>https://tv.naver.com/v/34478375</guid>
+            <pubDate>Fri, 31 Mar 2023 10:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[4:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_195/uLdA7_1680158000563HcfhI_JPEG/7f54460a-cec2-11ed-b9d7-48df3772580c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[변진섭_홀로 된다는 것]]></title>
@@ -190,62 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 10:18:07 GMT</pubDate>
             <content:encoded><![CDATA[5:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_130/eXdDn_1678952783498m1Xkh_JPEG/2e95623b-c3cc-11ed-a25f-80615f0bcc3a_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경서_밤하늘의 별을(2020)]]></title>
-            <link>https://tv.naver.com/v/33804875</link>
-            <guid>https://tv.naver.com/v/33804875</guid>
-            <pubDate>Thu, 09 Mar 2023 10:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_256/i0cjv_1678336699185wdN4h_JPEG/b7df7d35-be33-11ed-a04e-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경서_인터뷰]]></title>
-            <link>https://tv.naver.com/v/33804868</link>
-            <guid>https://tv.naver.com/v/33804868</guid>
-            <pubDate>Thu, 09 Mar 2023 10:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[6:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_30/NIhZ7_1678336692562wmFaq_JPEG/81ce8cbd-be33-11ed-b05f-d4f5ef58ac88_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경서_나의 X에게]]></title>
-            <link>https://tv.naver.com/v/33804860</link>
-            <guid>https://tv.naver.com/v/33804860</guid>
-            <pubDate>Thu, 09 Mar 2023 10:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_248/2j6EJ_1678336678624nAApX_JPEG/68c0ab29-be33-11ed-8152-d4f5ef590144_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경서_고백연습]]></title>
-            <link>https://tv.naver.com/v/33804851</link>
-            <guid>https://tv.naver.com/v/33804851</guid>
-            <pubDate>Thu, 09 Mar 2023 10:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_275/QLPm2_1678336657554wn1Ln_JPEG/4eff7f94-be33-11ed-8152-d4f5ef590144_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제아_Greedyy]]></title>
-            <link>https://tv.naver.com/v/33804838</link>
-            <guid>https://tv.naver.com/v/33804838</guid>
-            <pubDate>Thu, 09 Mar 2023 10:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[4:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_27/Lt8xY_16783366430522X5n3_JPEG/2bcbcfb5-be33-11ed-b1c6-a0369ffabf74_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제아_인터뷰]]></title>
-            <link>https://tv.naver.com/v/33804820</link>
-            <guid>https://tv.naver.com/v/33804820</guid>
-            <pubDate>Thu, 09 Mar 2023 10:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[11:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_56/qSjcR_16783366210825tjRH_JPEG/cf8f23f1-be32-11ed-b1c6-a0369ffabf74_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제아_Orange Drive]]></title>
-            <link>https://tv.naver.com/v/33804813</link>
-            <guid>https://tv.naver.com/v/33804813</guid>
-            <pubDate>Thu, 09 Mar 2023 10:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_253/WqfKP_1678336615579zpsi9_JPEG/b111cf5e-be32-11ed-98ec-a0369ffdaefc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
