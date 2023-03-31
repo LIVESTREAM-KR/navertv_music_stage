@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 01:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 02:36:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[3월 5주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아! 나나, 빌리 문수아&츠키) | Show Champion | EP.469 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34468097</link>
+            <guid>https://tv.naver.com/v/34468097</guid>
+            <pubDate>Fri, 31 Mar 2023 02:35:35 GMT</pubDate>
+            <content:encoded><![CDATA[4:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_101/8pyoI_1680142347330Ga8bb_JPEG/CA202303290084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! 'Billlie' 나!왔어✋🏻 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/34465632</link>
             <guid>https://tv.naver.com/v/34465632</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 29 Mar 2023 13:23:38 GMT</pubDate>
             <content:encoded><![CDATA[4:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230329_1/jPOFn_168007958721092938_JPEG/CA202303290044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST HANBIN - 행복 (원곡 : H.O.T.) (템페스트 한빈 - 행복) | Show Champion | EP.469 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34446009</link>
-            <guid>https://tv.naver.com/v/34446009</guid>
-            <pubDate>Wed, 29 Mar 2023 13:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230329_177/stBU0_1680078687096CbfVT_JPEG/CA202303290039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
