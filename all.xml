@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 06:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 07:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,54 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230313_5/0rvIY_16786914904658M1AC_JPEG/clip_20230313153712_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[첫사랑(CSR) - 빛을 따라서(Shining Bright) | SBS 230402 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34554038</link>
+            <guid>https://tv.naver.com/v/34554038</guid>
+            <pubDate>Sun, 02 Apr 2023 07:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_136/7sJH1_1680419491823kLvHe_JPEG/52cf55d5-a5fa-415d-ade5-ea446ad1807f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TRENDZ(트렌드지) - NEW DAYZ | SBS 230402 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34554036</link>
+            <guid>https://tv.naver.com/v/34554036</guid>
+            <pubDate>Sun, 02 Apr 2023 07:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_51/TdK5a_1680419489526y7Ecp_JPEG/a65148b7-6034-4a16-a9bc-fada2802234b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세리(달샤벳) - Spotlight | SBS 230402 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34553935</link>
+            <guid>https://tv.naver.com/v/34553935</guid>
+            <pubDate>Sun, 02 Apr 2023 07:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_223/Giy06_16804191879613diXP_JPEG/e5da8e5e-4f48-451a-b3bb-9f86da84e142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[xikers - 도깨비집(TRICKY HOUSE) | SBS 230402 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34553787</link>
+            <guid>https://tv.naver.com/v/34553787</guid>
+            <pubDate>Sun, 02 Apr 2023 07:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_235/X4vsj_1680418649867gViKt_JPEG/f892414c-a50c-4796-b24d-d5573299b745.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이솔로몬 - 시인 | SBS 230402 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34553769</link>
+            <guid>https://tv.naver.com/v/34553769</guid>
+            <pubDate>Sun, 02 Apr 2023 07:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_249/AzKHi_1680418587635l6u6m_JPEG/887b879f-d82e-4976-939c-74f248a96fb4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남승민 - 세글자 | SBS 230402 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34553676</link>
+            <guid>https://tv.naver.com/v/34553676</guid>
+            <pubDate>Sun, 02 Apr 2023 07:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_56/fmdxA_1680418288956eG05K_JPEG/c1e0cbfc-842d-4844-8a62-a921dea9496e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KAI(카이) - Rover | SBS 230326 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/34343668</link>
             <guid>https://tv.naver.com/v/34343668</guid>
@@ -446,54 +494,6 @@
             <pubDate>Sun, 19 Mar 2023 08:17:56 GMT</pubDate>
             <content:encoded><![CDATA[3:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230319_97/FrukA_1679211089342CH3bx_JPEG/ddc0e4e5-ea6c-49f6-96ab-3c349ba186cd.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유주 - Without U | SBS 230319 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34117330</link>
-            <guid>https://tv.naver.com/v/34117330</guid>
-            <pubDate>Sun, 19 Mar 2023 08:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_54/j6yhu_1679210489006q7j8T_JPEG/728ab880-9d1e-486c-b4ba-1e0740e139fb.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체리블렛(Cherry Bullet) - P.O.W!(Play On the World) | SBS 230319 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34117240</link>
-            <guid>https://tv.naver.com/v/34117240</guid>
-            <pubDate>Sun, 19 Mar 2023 08:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_101/LrFgA_167921018834615Bbx_JPEG/9fe3d3a5-8a42-4be9-b22e-fb5664ace16e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAVITY - Groovy | SBS 230319 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34117170</link>
-            <guid>https://tv.naver.com/v/34117170</guid>
-            <pubDate>Sun, 19 Mar 2023 07:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_145/zoSBe_1679209948972Ezf1G_JPEG/4562f1f4-42fa-40a5-b7f2-811480853f05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울랄라세션 - ON MY WAY | SBS 230319 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34117140</link>
-            <guid>https://tv.naver.com/v/34117140</guid>
-            <pubDate>Sun, 19 Mar 2023 07:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_73/rMFvl_16792098896549vpDt_JPEG/5a2af64f-477f-43fb-8f95-80799a6c4032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAN - Fix YOU | SBS 230319 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34117006</link>
-            <guid>https://tv.naver.com/v/34117006</guid>
-            <pubDate>Sun, 19 Mar 2023 07:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_6/9Xa5L_1679209588970Wa1Pl_JPEG/a7e34f18-b041-4b10-996b-1d510022be9c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OnlyOneOf(온리원오브) - seOul drift | SBS 230319 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34116840</link>
-            <guid>https://tv.naver.com/v/34116840</guid>
-            <pubDate>Sun, 19 Mar 2023 07:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_237/7T6gp_1679209288918EJH8s_JPEG/b0f21e88-388d-47c8-8bf6-a094cbc20e13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
