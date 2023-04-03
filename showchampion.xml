@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 05:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 06:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 푸릇푸릇한 4월은 쇼챔피언에서 사랑❤감성🍃꿈🌙열정🔥 심자!]]></title>
+            <link>https://tv.naver.com/v/34576708</link>
+            <guid>https://tv.naver.com/v/34576708</guid>
+            <pubDate>Mon, 03 Apr 2023 06:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_121/wN6jR_16805004910059GOSY_JPEG/CA202304050002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3월 5주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아! 나나, 빌리 문수아&츠키) | Show Champion | EP.469]]></title>
             <link>https://tv.naver.com/v/34468097</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Mar 2023 13:23:38 GMT</pubDate>
             <content:encoded><![CDATA[4:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230329_81/RKTb2_168008018774287s1p_JPEG/CA202303290040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST HWARANG - 행복 (원곡 : H.O.T.) (템페스트 화랑 - 행복) | Show Champion | EP.469]]></title>
-            <link>https://tv.naver.com/v/34446588</link>
-            <guid>https://tv.naver.com/v/34446588</guid>
-            <pubDate>Wed, 29 Mar 2023 13:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230329_1/jPOFn_168007958721092938_JPEG/CA202303290044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
