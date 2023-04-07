@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 03:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 04:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.563 – Billlie(빌리), KINGDOM(킹덤), CSR(첫사랑), ICHILLIN'(아이칠린)]]></title>
+            <link>https://tv.naver.com/v/34717288</link>
+            <guid>https://tv.naver.com/v/34717288</guid>
+            <pubDate>Fri, 07 Apr 2023 04:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[57:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_53/neMVk_1680831511686321ez_JPEG/1680830681116.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.562 – Billlie(빌리), KINGDOM(킹덤), TAN(티에이엔), CSR(첫사랑), JANG WOOHYUK(장]]></title>
             <link>https://tv.naver.com/v/34508146</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 02 Dec 2022 05:15:16 GMT</pubDate>
             <content:encoded><![CDATA[4:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_59/yZT7U_1669945694578EeA7d_JPEG/1669945238755.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[woo!ah!(우아!) - ‘Rollercoaster’ _  Ep.548 | [4K]]]></title>
-            <link>https://tv.naver.com/v/31270837</link>
-            <guid>https://tv.naver.com/v/31270837</guid>
-            <pubDate>Fri, 02 Dec 2022 05:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_106/QS2Eb_16699456890437QfLQ_JPEG/1669945231370.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
