@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 07:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 08:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] xikers - XIKEY(싸이커스 – 싸이키) FanCam | Show! MusicCore | MBC230408방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34757295</link>
+            <guid>https://tv.naver.com/v/34757295</guid>
+            <pubDate>Sat, 08 Apr 2023 08:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_77/yeFfe_1680941547349m7muA_JPEG/clip_20230408165540_77.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] NMIXX SULLYOON-Love Me Like This(엔믹스 설윤-러브 미 라이크 디스) Close-upCam|Show! MusicCore|MBC230325방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Mon, 13 Mar 2023 08:19:45 GMT</pubDate>
             <content:encoded><![CDATA[2:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230313_117/JfoMb_1678692449758lnSRh_JPEG/clip_20230313155315_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] IVE AN YUJIN - My Satisfaction(아이브 안유진 - 마이 새티스팩션) Close-up Cam | Show! MusicCore | MBC2303 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33923716</link>
-            <guid>https://tv.naver.com/v/33923716</guid>
-            <pubDate>Mon, 13 Mar 2023 07:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_5/0rvIY_16786914904658M1AC_JPEG/clip_20230313153712_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지민 - Like Crazy | SBS 230402 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
