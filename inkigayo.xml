@@ -4,9 +4,33 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 06:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 07:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아리(Ahri) - Eyes On Me | SBS 230409 방송]]></title>
+            <link>https://tv.naver.com/v/34775561</link>
+            <guid>https://tv.naver.com/v/34775561</guid>
+            <pubDate>Sun, 09 Apr 2023 07:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230409_240/kbUVc_1681023987279w182s_JPEG/0583209b-0e53-4deb-91c8-5cb0d10fb624.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MC김지은×형원 - 봄 사랑 벚꽃 말고 | SBS 230409 방송]]></title>
+            <link>https://tv.naver.com/v/34775461</link>
+            <guid>https://tv.naver.com/v/34775461</guid>
+            <pubDate>Sun, 09 Apr 2023 07:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230409_107/Z9H4r_1681023687148rkj4m_JPEG/73e9642a-a2f0-415c-b038-b274d3ea94ff.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[X:IN - Keeping the fire | SBS 230409 방송]]></title>
+            <link>https://tv.naver.com/v/34775344</link>
+            <guid>https://tv.naver.com/v/34775344</guid>
+            <pubDate>Sun, 09 Apr 2023 07:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230409_83/nrbgT_16810233871156lwYh_JPEG/a861e19b-a3fd-4a36-9ea1-da8a4bcf4aa2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지민 - Like Crazy | SBS 230402 방송]]></title>
             <link>https://tv.naver.com/v/34554762</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 26 Mar 2023 08:16:48 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230326_110/VOs5u_1679815290309jXn1E_JPEG/5ca81807-dab4-4931-9936-c0689371c723.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAVITY - Groovy | SBS 230326 방송]]></title>
-            <link>https://tv.naver.com/v/34342882</link>
-            <guid>https://tv.naver.com/v/34342882</guid>
-            <pubDate>Sun, 26 Mar 2023 08:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_62/Iidhg_1679815288893hymvs_JPEG/7f8fa76e-8a90-4e65-acf3-cb2dd7bc1370.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TRENDZ(트렌드지) - NEW DAYZ | SBS 230326 방송]]></title>
-            <link>https://tv.naver.com/v/34342772</link>
-            <guid>https://tv.naver.com/v/34342772</guid>
-            <pubDate>Sun, 26 Mar 2023 08:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_24/D1FFK_1679814987481dpVyY_JPEG/ec71f45a-1c98-4bbc-99db-9ec29f270e46.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICHILLIN’(아이칠린) - Alarm | SBS 230326 방송]]></title>
-            <link>https://tv.naver.com/v/34342643</link>
-            <guid>https://tv.naver.com/v/34342643</guid>
-            <pubDate>Sun, 26 Mar 2023 07:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_247/ZRkFR_1679814687878Rz7Cs_JPEG/e1daeb02-88f7-4aa5-90dd-c44f91035ef6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
