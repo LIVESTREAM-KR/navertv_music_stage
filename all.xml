@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 02:31:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 03:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230408_196/5wgRi_1680942686980cRKE7_JPEG/clip_20230408165331_57.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예능연구소] ICHILLIN’ - Alarm(아이칠린 – 알람) FanCam | Show! MusicCore | MBC230408방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34757588</link>
+            <guid>https://tv.naver.com/v/34757588</guid>
+            <pubDate>Sat, 08 Apr 2023 09:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_234/iOOCo_1680942451693lsQTY_JPEG/clip_20230408165606_85.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예능연구소] X:IN E.SHA – KEEPING THE FIRE(엑신 이샤 - 키핑 더 파이어) FanCam | Show! MusicCore | MBC230408방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/34757586</link>
             <guid>https://tv.naver.com/v/34757586</guid>
@@ -190,14 +198,6 @@
             <pubDate>Sat, 08 Apr 2023 09:12:39 GMT</pubDate>
             <content:encoded><![CDATA[2:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230408_239/tS7fA_1680942448347OF9hC_JPEG/clip_20230408165555_79.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ICHILLIN’ - Alarm(아이칠린 – 알람) FanCam | Show! MusicCore | MBC230408방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34757588</link>
-            <guid>https://tv.naver.com/v/34757588</guid>
-            <pubDate>Sat, 08 Apr 2023 09:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_234/iOOCo_1680942451693lsQTY_JPEG/clip_20230408165606_85.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] BamBam – Sour & Sweet(뱀뱀 - 사워 앤드 스윗) FanCam | Show! MusicCore | MBC230408방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
