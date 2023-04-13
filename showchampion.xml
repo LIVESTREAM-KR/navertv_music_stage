@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 01:05:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 02:30:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] Billlie HARUNA(빌리 하루나) - various and precious(moment of inertia) | Show Champion | EP.471]]></title>
+            <link>https://tv.naver.com/v/34905363</link>
+            <guid>https://tv.naver.com/v/34905363</guid>
+            <pubDate>Thu, 13 Apr 2023 02:30:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_272/Hucdu_16813488886683yiNh_JPEG/CA202304120088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] NMIXX SULLYOON - Love Me Like This (엔믹스 설윤 - 러브 미 라이크 디스) | Show Champion | EP.471]]></title>
             <link>https://tv.naver.com/v/34892198</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Apr 2023 13:18:15 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230412_199/d63Xs_1681284990484i4wbn_JPEG/CA202304120031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엔딩원샷] Billlie -EUNOIA (빌리 - 유노이아)]]></title>
-            <link>https://tv.naver.com/v/34888422</link>
-            <guid>https://tv.naver.com/v/34888422</guid>
-            <pubDate>Wed, 12 Apr 2023 14:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_2/FTJeN_1681295787983mA2k6_JPEG/CA202304120076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
