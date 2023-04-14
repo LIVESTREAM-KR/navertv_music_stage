@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 01:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 02:30:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월 2주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아! 나나, 빌리 문수아&츠키) | Show Champion | EP.471]]></title>
+            <link>https://tv.naver.com/v/34906300</link>
+            <guid>https://tv.naver.com/v/34906300</guid>
+            <pubDate>Fri, 14 Apr 2023 02:30:02 GMT</pubDate>
+            <content:encoded><![CDATA[4:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_77/FwCsk_168135068903995PmI_JPEG/CA202304120097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] xikers - TRICKY HOUSE (싸이커스 - 도깨비집) l Show Champion l EP.471]]></title>
             <link>https://tv.naver.com/v/34904782</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Apr 2023 13:18:15 GMT</pubDate>
             <content:encoded><![CDATA[3:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230412_43/7jjdU_1681288587943u5bSq_JPEG/CA202304120038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Billlie - EUNOIA (빌리 - 유노이아) l Show Champion l EP.471]]></title>
-            <link>https://tv.naver.com/v/34883383</link>
-            <guid>https://tv.naver.com/v/34883383</guid>
-            <pubDate>Wed, 12 Apr 2023 13:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_75/lnrHO_168128798766511I7J_JPEG/CA202304120036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
