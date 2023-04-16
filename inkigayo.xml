@@ -4,9 +4,49 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 06:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 07:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ICHILLIN’(아이칠린) - Alarm | SBS 23016 방송]]></title>
+            <link>https://tv.naver.com/v/34999284</link>
+            <guid>https://tv.naver.com/v/34999284</guid>
+            <pubDate>Sun, 16 Apr 2023 07:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230416_120/jRiFb_1681629089292HllYA_JPEG/defeb96e-b0d5-44f1-998a-0c26d00a5a06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAXY(크랙시) - NUGUDOM | SBS 23016 방송]]></title>
+            <link>https://tv.naver.com/v/34999283</link>
+            <guid>https://tv.naver.com/v/34999283</guid>
+            <pubDate>Sun, 16 Apr 2023 07:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230416_174/lHpjL_1681629087502EY90O_JPEG/96f0653f-e1cf-4915-96c1-9e774f7e143f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[xikers - 도깨비집(TRICKY HOUSE) | SBS 23016 방송]]></title>
+            <link>https://tv.naver.com/v/34999154</link>
+            <guid>https://tv.naver.com/v/34999154</guid>
+            <pubDate>Sun, 16 Apr 2023 07:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230416_186/kjWnY_1681628788923mUCCG_JPEG/24cedb80-8d73-48e2-9d4c-e75a13b6b799.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이아영 - 마지막이란 걸 알면서도 | SBS 23016 방송]]></title>
+            <link>https://tv.naver.com/v/34999026</link>
+            <guid>https://tv.naver.com/v/34999026</guid>
+            <pubDate>Sun, 16 Apr 2023 07:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230416_108/OmSfQ_1681628486719wFNNR_JPEG/e7dfe578-ca2d-4191-9444-372e8f15bddd.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드림노트(DreamNote) - Lemonade | SBS 23016 방송]]></title>
+            <link>https://tv.naver.com/v/34998916</link>
+            <guid>https://tv.naver.com/v/34998916</guid>
+            <pubDate>Sun, 16 Apr 2023 07:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230416_106/pZ293_1681628187120I1bMN_JPEG/ec9fcce8-5829-4594-b05c-05c14a23af79.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지수(JISOO) - 꽃(FLOWER) | SBS 230409 방송]]></title>
             <link>https://tv.naver.com/v/34776593</link>
@@ -206,46 +246,6 @@
             <pubDate>Sun, 02 Apr 2023 08:16:41 GMT</pubDate>
             <content:encoded><![CDATA[3:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230402_287/Tescm_168042009205589ocG_JPEG/723637e9-6463-456f-9bf5-29ba1407e536.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KINGDOM(킹덤) - 혼(魂; Dystopia) | SBS 230402 방송]]></title>
-            <link>https://tv.naver.com/v/34554202</link>
-            <guid>https://tv.naver.com/v/34554202</guid>
-            <pubDate>Sun, 02 Apr 2023 08:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_71/NRzNQ_1680420090158UOsj7_JPEG/84c24987-4004-4485-ab98-c8e4dd180d7b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICHILLIN’(아이칠린) - Alarm | SBS 230402 방송]]></title>
-            <link>https://tv.naver.com/v/34554115</link>
-            <guid>https://tv.naver.com/v/34554115</guid>
-            <pubDate>Sun, 02 Apr 2023 08:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_1/TYydU_1680419789902alGGP_JPEG/445f40d4-62ed-4dea-aae7-c21c75cb1a2e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫사랑(CSR) - 빛을 따라서(Shining Bright) | SBS 230402 방송]]></title>
-            <link>https://tv.naver.com/v/34554038</link>
-            <guid>https://tv.naver.com/v/34554038</guid>
-            <pubDate>Sun, 02 Apr 2023 07:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_136/7sJH1_1680419491823kLvHe_JPEG/52cf55d5-a5fa-415d-ade5-ea446ad1807f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TRENDZ(트렌드지) - NEW DAYZ | SBS 230402 방송]]></title>
-            <link>https://tv.naver.com/v/34554036</link>
-            <guid>https://tv.naver.com/v/34554036</guid>
-            <pubDate>Sun, 02 Apr 2023 07:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_51/TdK5a_1680419489526y7Ecp_JPEG/a65148b7-6034-4a16-a9bc-fada2802234b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세리(달샤벳) - Spotlight | SBS 230402 방송]]></title>
-            <link>https://tv.naver.com/v/34553935</link>
-            <guid>https://tv.naver.com/v/34553935</guid>
-            <pubDate>Sun, 02 Apr 2023 07:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_223/Giy06_16804191879613diXP_JPEG/e5da8e5e-4f48-451a-b3bb-9f86da84e142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
