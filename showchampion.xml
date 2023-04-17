@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 05:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 06:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Billlie랑 같이 드라이브 할 사람?🙋[예고]]]></title>
+            <link>https://tv.naver.com/v/35028497</link>
+            <guid>https://tv.naver.com/v/35028497</guid>
+            <pubDate>Mon, 17 Apr 2023 06:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_40/8AXuC_168171159391384crb_JPEG/CA202304190004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4월 2주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아! 나나, 빌리 문수아&츠키) | Show Champion | EP.471]]></title>
             <link>https://tv.naver.com/v/34906300</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Apr 2023 13:18:15 GMT</pubDate>
             <content:encoded><![CDATA[3:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230412_53/BnG5O_1681288887649mEWjp_JPEG/CA202304120040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Billlie SHEON - EUNOIA (빌리 션 - 유노이아) | Show Champion | EP.471]]></title>
-            <link>https://tv.naver.com/v/34883906</link>
-            <guid>https://tv.naver.com/v/34883906</guid>
-            <pubDate>Wed, 12 Apr 2023 13:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_43/7jjdU_1681288587943u5bSq_JPEG/CA202304120038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
