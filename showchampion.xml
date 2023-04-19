@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 08:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 09:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YEAHSHINE - Spring Propose (예빈나다 - 봄의 고백)]]></title>
+            <link>https://tv.naver.com/v/35117594</link>
+            <guid>https://tv.naver.com/v/35117594</guid>
+            <pubDate>Wed, 19 Apr 2023 09:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_276/YRZOg_1681896090886trFoA_JPEG/CA202304190051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Billlie랑 같이 드라이브 할 사람?🙋[예고]]]></title>
             <link>https://tv.naver.com/v/35028497</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Apr 2023 13:18:15 GMT</pubDate>
             <content:encoded><![CDATA[3:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230412_192/sGDci_1681289487027dDOpF_JPEG/CA202304120039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Billlie TSUKI - EUNOIA (빌리 츠키 - 유노이아) | Show Champion | EP.471]]></title>
-            <link>https://tv.naver.com/v/34884179</link>
-            <guid>https://tv.naver.com/v/34884179</guid>
-            <pubDate>Wed, 12 Apr 2023 13:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_53/BnG5O_1681288887649mEWjp_JPEG/CA202304120040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
