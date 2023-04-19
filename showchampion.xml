@@ -4,9 +4,49 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 10:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 11:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[컴백스포] 템페스트 '난장(Dangerous)'의 컴백을 기다리는 바람직한 자세는?]]></title>
+            <link>https://tv.naver.com/v/35119899</link>
+            <guid>https://tv.naver.com/v/35119899</guid>
+            <pubDate>Wed, 19 Apr 2023 11:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_16/sZL4F_1681900050095Rpb7w_JPEG/CA202304190069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LEE CHAE YEON - I Don't Wanna Know (이채연 - 아이돈 워너 노우)]]></title>
+            <link>https://tv.naver.com/v/35119898</link>
+            <guid>https://tv.naver.com/v/35119898</guid>
+            <pubDate>Wed, 19 Apr 2023 11:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_273/LLIX1_16819000481671ukkx_JPEG/CA202304190065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] PARK JIHOON - Blank Effect (박지훈 - 무표정)]]></title>
+            <link>https://tv.naver.com/v/35119851</link>
+            <guid>https://tv.naver.com/v/35119851</guid>
+            <pubDate>Wed, 19 Apr 2023 11:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_146/EqMrf_1681899988581CEKuc_JPEG/CA202304190068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] LEE CHAE YEON - KNOCK (이채연 - 노크)]]></title>
+            <link>https://tv.naver.com/v/35119686</link>
+            <guid>https://tv.naver.com/v/35119686</guid>
+            <pubDate>Wed, 19 Apr 2023 11:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_232/PZngq_1681899696234V9uLc_JPEG/CA202304190066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] Kep1er - Giddy (케플러 - 기디)]]></title>
+            <link>https://tv.naver.com/v/35119685</link>
+            <guid>https://tv.naver.com/v/35119685</guid>
+            <pubDate>Wed, 19 Apr 2023 11:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_258/FxSNd_1681899694283UffO4_JPEG/CA202304190067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Billlie -EUNOIA (빌리 - 유노이아)]]></title>
             <link>https://tv.naver.com/v/35119286</link>
@@ -14,14 +54,6 @@
             <pubDate>Wed, 19 Apr 2023 10:15:15 GMT</pubDate>
             <content:encoded><![CDATA[3:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230419_160/ZH8Ir_1681899086833ugAKd_JPEG/CA202304190064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컴백스포] 템페스트 '난장(Dangerous)'의 컴백을 기다리는 바람직한 자세는?]]></title>
-            <link>https://tv.naver.com/v/35119105</link>
-            <guid>https://tv.naver.com/v/35119105</guid>
-            <pubDate>Wed, 19 Apr 2023 10:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_255/W46im_1681898789630sM13k_JPEG/CA202303080086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Park Hyeon Seo - Be my spring (박현서 - 나의 봄이 되어줘)]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 12 Apr 2023 13:18:15 GMT</pubDate>
             <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230412_160/vQcNE_16813014889634cLHN_JPEG/CA202304120091_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] NMIXX BAE - Love Me Like This (엔믹스 배이 - 러브 미 라이크 디스) | Show Champion | EP.471]]></title>
-            <link>https://tv.naver.com/v/34891416</link>
-            <guid>https://tv.naver.com/v/34891416</guid>
-            <pubDate>Wed, 12 Apr 2023 13:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_271/pqbgO_1681301188177BuBxu_JPEG/CA202304120087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Billlie MOON SUA (빌리 문수아)-various and precious(moment of inertia)| Show Champion | EP.471]]></title>
-            <link>https://tv.naver.com/v/34891020</link>
-            <guid>https://tv.naver.com/v/34891020</guid>
-            <pubDate>Wed, 12 Apr 2023 13:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_172/pj3Vg_168130058782719lkp_JPEG/CA202304120078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Billlie SHEON (빌리 션) - various and precious(moment of inertia) | Show Champion | EP.471]]></title>
-            <link>https://tv.naver.com/v/34890851</link>
-            <guid>https://tv.naver.com/v/34890851</guid>
-            <pubDate>Wed, 12 Apr 2023 13:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_119/odSSW_168130028722589jB1_JPEG/CA202304120084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Billlie SIYOON(빌리 시윤) - various and precious(moment of inertia) | Show Champion | EP.471]]></title>
-            <link>https://tv.naver.com/v/34890558</link>
-            <guid>https://tv.naver.com/v/34890558</guid>
-            <pubDate>Wed, 12 Apr 2023 13:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_53/wY6Yd_168129974735310U4T_JPEG/CA202304120086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
