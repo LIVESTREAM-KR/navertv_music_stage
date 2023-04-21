@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 06:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 07:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[STAGE MIX🪄] FIFTY FIFTY – Cupid(피프티 피프티 - 큐피드) | Show! Music Core (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35161890</link>
+            <guid>https://tv.naver.com/v/35161890</guid>
+            <pubDate>Fri, 21 Apr 2023 07:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_74/tMs2v_1681989688891EUTUj_JPEG/clip_20230420183420_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] Billlie HARUNA - EUNOIA(빌리 하루나 - 유노이아) Close-up Cam | Show! MusicCore | MBC230408방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 08 Apr 2023 09:12:39 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230408_166/jfcFt_1680942093438nbfhg_JPEG/clip_20230408165524_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Billlie HARAM – EUNOIA(빌리 하람 - 유노이아) FanCam | Show! MusicCore | MBC230408방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34757464</link>
-            <guid>https://tv.naver.com/v/34757464</guid>
-            <pubDate>Sat, 08 Apr 2023 09:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_7/YcfHt_16809420923151wDUG_JPEG/clip_20230408165521_71.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지수(JISOO) - 꽃(FLOWER) | SBS 230416 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
