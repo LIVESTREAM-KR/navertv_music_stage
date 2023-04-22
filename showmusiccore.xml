@@ -4,9 +4,49 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 09:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 10:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] LEE GIKWANG - Favorite(이기광 – 페이버릿) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230422방송]]></title>
+            <link>https://tv.naver.com/v/35220061</link>
+            <guid>https://tv.naver.com/v/35220061</guid>
+            <pubDate>Sat, 22 Apr 2023 10:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_188/sTwZv_1682158347422hyk1F_JPEG/clip_20230422182501_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TEMPEST HYUK – Dangerous(템페스트 혁 - 난장) FanCam | Show! MusicCore | MBC230422방송]]></title>
+            <link>https://tv.naver.com/v/35220042</link>
+            <guid>https://tv.naver.com/v/35220042</guid>
+            <pubDate>Sat, 22 Apr 2023 10:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_249/P6JSO_1682158286957vgdBl_JPEG/clip_20230422182557_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] IVE LIZ – I AM(아이브 리즈 - 아이엠) FanCam | Show! MusicCore | MBC230422방송]]></title>
+            <link>https://tv.naver.com/v/35219943</link>
+            <guid>https://tv.naver.com/v/35219943</guid>
+            <pubDate>Sat, 22 Apr 2023 10:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_289/WgceQ_1682157987008uWh1O_JPEG/clip_20230422182528_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TEMPEST HANBIN – Dangerous(템페스트 한빈 - 난장) FanCam | Show! MusicCore | MBC230422방송]]></title>
+            <link>https://tv.naver.com/v/35219853</link>
+            <guid>https://tv.naver.com/v/35219853</guid>
+            <pubDate>Sat, 22 Apr 2023 10:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_53/EDYiR_1682157687584nyVV0_JPEG/clip_20230422182551_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] IVE GAEUL – I AM(아이브 가을 - 아이엠) FanCam | Show! MusicCore | MBC230422방송]]></title>
+            <link>https://tv.naver.com/v/35219671</link>
+            <guid>https://tv.naver.com/v/35219671</guid>
+            <pubDate>Sat, 22 Apr 2023 10:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_137/b6DTM_1682157087147MIJfr_JPEG/clip_20230422182527_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[STAGE MIX🪄] FIFTY FIFTY – Cupid(피프티 피프티 - 큐피드) | Show! Music Core]]></title>
             <link>https://tv.naver.com/v/35161890</link>
@@ -206,46 +246,6 @@
             <pubDate>Sat, 08 Apr 2023 09:12:39 GMT</pubDate>
             <content:encoded><![CDATA[2:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230408_75/9qWGZ_1680942447179dUvET_JPEG/clip_20230408165449_64.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] X:IN - KEEPING THE FIRE(엑신 – 키핑 더 파이어) FanCam | Show! MusicCore | MBC230408방송]]></title>
-            <link>https://tv.naver.com/v/34757546</link>
-            <guid>https://tv.naver.com/v/34757546</guid>
-            <pubDate>Sat, 08 Apr 2023 09:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_111/k19Ie_1680942386842nDwUc_JPEG/clip_20230408165550_78.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] X:IN NOVA – KEEPING THE FIRE(엑신 노바 - 키핑 더 파이어) FanCam | Show! MusicCore | MBC230408방송]]></title>
-            <link>https://tv.naver.com/v/34757468</link>
-            <guid>https://tv.naver.com/v/34757468</guid>
-            <pubDate>Sat, 08 Apr 2023 09:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230410_58/KhkK5_1681087887413TIKbB_JPEG/clip_20230410091925_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] X:IN ARIA – KEEPING THE FIRE(엑신 아리아 - 키핑 더 파이어) FanCam | Show! MusicCore | MBC230408방송]]></title>
-            <link>https://tv.naver.com/v/34757467</link>
-            <guid>https://tv.naver.com/v/34757467</guid>
-            <pubDate>Sat, 08 Apr 2023 09:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_282/Hcg8D_16809420957865FF56_JPEG/clip_20230408165556_80.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Billlie HARUNA – EUNOIA(빌리 하루나 - 유노이아) FanCam | Show! MusicCore | MBC230408방송]]></title>
-            <link>https://tv.naver.com/v/34757466</link>
-            <guid>https://tv.naver.com/v/34757466</guid>
-            <pubDate>Sat, 08 Apr 2023 09:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_191/rR4iD_1680942094667EbuEJ_JPEG/clip_20230408165525_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Billlie SHEON – EUNOIA(빌리 션 - 유노이아) FanCam | Show! MusicCore | MBC230408방송]]></title>
-            <link>https://tv.naver.com/v/34757465</link>
-            <guid>https://tv.naver.com/v/34757465</guid>
-            <pubDate>Sat, 08 Apr 2023 09:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_166/jfcFt_1680942093438nbfhg_JPEG/clip_20230408165524_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
