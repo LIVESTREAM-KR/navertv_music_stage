@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 12:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 13:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Kep1er - Giddy(케플러 – 기디) FanCam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35222634</link>
+            <guid>https://tv.naver.com/v/35222634</guid>
+            <pubDate>Sat, 22 Apr 2023 13:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_138/TzaOP_1682166447250AFCoa_JPEG/clip_20230422182608_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Kep1er YOUNGEUN – Giddy(케플러 서영은 - 기디) FanCam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35222612</link>
+            <guid>https://tv.naver.com/v/35222612</guid>
+            <pubDate>Sat, 22 Apr 2023 13:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_81/3seT5_1682166387870jvS4p_JPEG/clip_20230422182616_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] GIUK - (TIME MACHINE) (2100)(기욱 – 제0호선 시간역행) FanCam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 22 Apr 2023 10:14:03 GMT</pubDate>
             <content:encoded><![CDATA[3:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230422_289/WgceQ_1682157987008uWh1O_JPEG/clip_20230422182528_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TEMPEST HANBIN – Dangerous(템페스트 한빈 - 난장) FanCam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35219853</link>
-            <guid>https://tv.naver.com/v/35219853</guid>
-            <pubDate>Sat, 22 Apr 2023 10:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_53/EDYiR_1682157687584nyVV0_JPEG/clip_20230422182551_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE GAEUL – I AM(아이브 가을 - 아이엠) FanCam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35219671</link>
-            <guid>https://tv.naver.com/v/35219671</guid>
-            <pubDate>Sat, 22 Apr 2023 10:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_137/b6DTM_1682157087147MIJfr_JPEG/clip_20230422182527_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지수(JISOO) - 꽃(FLOWER) | SBS 230416 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
