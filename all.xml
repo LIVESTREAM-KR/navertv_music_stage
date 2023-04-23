@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 07:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 08:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,86 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230422_289/WgceQ_1682157987008uWh1O_JPEG/clip_20230422182528_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이기광 - Predator | SBS 230423 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35236789</link>
+            <guid>https://tv.naver.com/v/35236789</guid>
+            <pubDate>Sun, 23 Apr 2023 08:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230423_79/A8VmW_1682236287207jlp1w_JPEG/41680594-c62c-46d0-a219-bcad4a66aa35.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IVE - I AM | SBS 230423 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35236599</link>
+            <guid>https://tv.naver.com/v/35236599</guid>
+            <pubDate>Sun, 23 Apr 2023 08:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230423_282/8zoXF_1682236651841L3g91_JPEG/32845f7b-3769-4bdb-b912-a688efb5fa2b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IVE - Kitsch | SBS 230423 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35236471</link>
+            <guid>https://tv.naver.com/v/35236471</guid>
+            <pubDate>Sun, 23 Apr 2023 08:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230423_214/oOQOv_1682235394697HEVkX_JPEG/b2ddf349-3ad3-4e60-a8e4-aafaaabe9719.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박지훈 - Blank Effect(무표정) | SBS 230423 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35236470</link>
+            <guid>https://tv.naver.com/v/35236470</guid>
+            <pubDate>Sun, 23 Apr 2023 08:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230423_235/ludFj_1682235392818P3012_JPEG/4f1dee21-e5ac-47df-89c6-42848648bd45.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이채연 - KNOCK  | SBS 230423 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35236469</link>
+            <guid>https://tv.naver.com/v/35236469</guid>
+            <pubDate>Sun, 23 Apr 2023 08:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230423_287/3xdNe_168223539100249d52_JPEG/d59f6d56-3847-4bb0-b976-2bbeb54cdbc7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기욱(ONEWE) - 제0호선 시간역행(TIME MACHINE)(2100) | SBS 230423 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35236370</link>
+            <guid>https://tv.naver.com/v/35236370</guid>
+            <pubDate>Sun, 23 Apr 2023 08:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230423_62/hVLTv_1682235087332i83Ja_JPEG/f17b2dfc-f0ad-4bea-93bd-5ff4b231d264.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DRIPPIN - SEVEN SINS | SBS 230423 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35236241</link>
+            <guid>https://tv.naver.com/v/35236241</guid>
+            <pubDate>Sun, 23 Apr 2023 08:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230423_141/26k99_16822347871996LuRW_JPEG/98ea20e6-ec5f-4c00-800b-c7ea566f624f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예은(YEEUN) - Cherry Coke | SBS 230423 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35236119</link>
+            <guid>https://tv.naver.com/v/35236119</guid>
+            <pubDate>Sun, 23 Apr 2023 08:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230423_202/8VKFS_1682234491379iWdFR_JPEG/875cecb4-0c4b-4fea-8368-447eab53a318.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[케플러(Kep1er) - Giddy | SBS 230423 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35236118</link>
+            <guid>https://tv.naver.com/v/35236118</guid>
+            <pubDate>Sun, 23 Apr 2023 08:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230423_206/xhClU_16822344895618Dkcz_JPEG/266d7b7f-0aba-4a21-90fc-4d2301bc5451.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[첫사랑(CSR) - 빛을 따라서(Shining Bright) | SBS 230423 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35235852</link>
+            <guid>https://tv.naver.com/v/35235852</guid>
+            <pubDate>Sun, 23 Apr 2023 08:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230423_16/fxjGr_1682233946926Xs1cJ_JPEG/152bc531-be0d-434a-9b5d-6b29aa48b594.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TEMPEST(템페스트) - 난장(Dangerous)  | SBS 230423 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/35235826</link>
             <guid>https://tv.naver.com/v/35235826</guid>
@@ -414,86 +494,6 @@
             <pubDate>Sun, 16 Apr 2023 07:12:47 GMT</pubDate>
             <content:encoded><![CDATA[3:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230416_213/RM9Bv_1681632749131qmoNY_JPEG/1511ff8c-1aae-45d8-bf78-50d13f5bf31e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이아영 - 마지막이란 걸 알면서도 | SBS 230416 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34999026</link>
-            <guid>https://tv.naver.com/v/34999026</guid>
-            <pubDate>Sun, 16 Apr 2023 07:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230416_84/vSN1m_16816327477496iMyf_JPEG/5d6b2e7c-4691-41f7-879e-ce82ac6d6b56.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드림노트(DreamNote) - Lemonade | SBS 230416 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34998916</link>
-            <guid>https://tv.naver.com/v/34998916</guid>
-            <pubDate>Sun, 16 Apr 2023 07:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230416_178/yn7Ku_1681632419346p9ktr_JPEG/63f88aa0-d101-45f3-9c26-20e653b3fc91.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지수(JISOO) - 꽃(FLOWER) | SBS 230409 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34776593</link>
-            <guid>https://tv.naver.com/v/34776593</guid>
-            <pubDate>Sun, 09 Apr 2023 08:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230409_121/H4Jic_1681041448982tlQrQ_PNG/9645f24e-5cea-47fe-893e-2a3621c2143a.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Apink(에이핑크) - D N D  | SBS 230409 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34776592</link>
-            <guid>https://tv.naver.com/v/34776592</guid>
-            <pubDate>Sun, 09 Apr 2023 08:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230409_65/yoKAO_1681026987168CJSfk_PNG/6e045413-7f35-480f-9504-81d1c3d5adcd.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뱀뱀(BamBam) - Sour & Sweet | SBS 230409 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34776507</link>
-            <guid>https://tv.naver.com/v/34776507</guid>
-            <pubDate>Sun, 09 Apr 2023 08:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230409_212/18FvC_1681026689005kjiyd_JPEG/52d95a9d-4a3b-48a7-95a5-9e5e6e5f048c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뱀뱀(BamBam) - TIPPY TOE | SBS 230409 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34776345</link>
-            <guid>https://tv.naver.com/v/34776345</guid>
-            <pubDate>Sun, 09 Apr 2023 08:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230409_257/KogQp_1681026148974D1YzP_JPEG/46beaf00-2683-4546-9163-8b6b73b854de.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김우석 - Dawn | SBS 230409 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34776321</link>
-            <guid>https://tv.naver.com/v/34776321</guid>
-            <pubDate>Sun, 09 Apr 2023 08:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230409_152/lHfQR_1681026089351C4Fhi_JPEG/56131530-9a15-4a26-9cdf-e17cdff989a6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAXY(크랙시) - NUGUDOM | SBS 230409 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34776320</link>
-            <guid>https://tv.naver.com/v/34776320</guid>
-            <pubDate>Sun, 09 Apr 2023 08:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230409_254/gxQh5_1681026087122sliyh_JPEG/6d3ac4c2-ce4c-4f83-971a-27a1550dfe03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICHILLIN’(아이칠린) - Alarm | SBS 230409 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34776230</link>
-            <guid>https://tv.naver.com/v/34776230</guid>
-            <pubDate>Sun, 09 Apr 2023 08:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230409_29/a2JHi_1681025788895rspE0_JPEG/6c5ceaf4-0dd7-4a0a-b549-9062cce00239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Billlie - EUNOIA | SBS 230409 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34776107</link>
-            <guid>https://tv.naver.com/v/34776107</guid>
-            <pubDate>Sun, 09 Apr 2023 08:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230409_176/VFgk0_1681025489321apgTx_JPEG/0e435987-1eea-4b0a-a8b4-1ecf7f1c28d7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
