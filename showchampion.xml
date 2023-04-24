@@ -4,9 +4,33 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 07:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 08:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] CSR - Shining Bright (첫사랑 - 빛을 따라서) | Show Champion | EP.472]]></title>
+            <link>https://tv.naver.com/v/35146581</link>
+            <guid>https://tv.naver.com/v/35146581</guid>
+            <pubDate>Mon, 24 Apr 2023 08:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_33/4v10a_16819675480434DHiB_JPEG/CA202304190096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] YEEUN - Strange Way To Love (예은 - 스트레인지 웨이 투 러브) | Show Champion | EP.472]]></title>
+            <link>https://tv.naver.com/v/35146353</link>
+            <guid>https://tv.naver.com/v/35146353</guid>
+            <pubDate>Mon, 24 Apr 2023 08:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_39/wSvLf_1681967187779PFAXn_JPEG/CA202304190095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] LEE CHAEYEON - I Don't Wanna Know (이채연 - 아이돈 워너 노우) | Show Champion | EP.472]]></title>
+            <link>https://tv.naver.com/v/35145915</link>
+            <guid>https://tv.naver.com/v/35145915</guid>
+            <pubDate>Mon, 24 Apr 2023 08:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_196/mSEqN_1681966587840PRIeC_JPEG/CA202304190094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] Billlie SHEON - EUNOIA (빌리 션 - 유노이아) | Show Champion | EP.472]]></title>
             <link>https://tv.naver.com/v/35125373</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 19 Apr 2023 11:13:12 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230419_232/PZngq_1681899696234V9uLc_JPEG/CA202304190066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] Kep1er - Giddy (케플러 - 기디)]]></title>
-            <link>https://tv.naver.com/v/35119685</link>
-            <guid>https://tv.naver.com/v/35119685</guid>
-            <pubDate>Wed, 19 Apr 2023 11:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_258/FxSNd_1681899694283UffO4_JPEG/CA202304190067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Billlie -EUNOIA (빌리 - 유노이아)]]></title>
-            <link>https://tv.naver.com/v/35119286</link>
-            <guid>https://tv.naver.com/v/35119286</guid>
-            <pubDate>Wed, 19 Apr 2023 10:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_160/ZH8Ir_1681899086833ugAKd_JPEG/CA202304190064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Park Hyeon Seo - Be my spring (박현서 - 나의 봄이 되어줘)]]></title>
-            <link>https://tv.naver.com/v/35118934</link>
-            <guid>https://tv.naver.com/v/35118934</guid>
-            <pubDate>Wed, 19 Apr 2023 10:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_216/Dat9O_1681898488824sEsVl_JPEG/CA202304190063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

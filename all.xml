@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 07:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 08:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE JANG WONYOUNG - I AM(아이브 장원영 - 아이엠) Close-up Cam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35266707</link>
+            <guid>https://tv.naver.com/v/35266707</guid>
+            <pubDate>Mon, 24 Apr 2023 08:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230424_149/G6vx8_1682321188235AsLuu_JPEG/clip_20230424155004_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE YUJIN - I AM(아이브 안유진 - 아이엠) Close-up Cam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35266479</link>
+            <guid>https://tv.naver.com/v/35266479</guid>
+            <pubDate>Mon, 24 Apr 2023 08:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230424_227/hwCCZ_1682320887869CFO6H_JPEG/clip_20230424155000_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE GAEUL - I AM(아이브 가을 - 아이엠) Close-up Cam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35266218</link>
+            <guid>https://tv.naver.com/v/35266218</guid>
+            <pubDate>Mon, 24 Apr 2023 08:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230424_6/TZPyP_1682320587383LlLBH_JPEG/clip_20230424155002_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] IVE LEESEO - I AM(아이브 이서 - 아이엠) Close-up Cam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Sat, 22 Apr 2023 11:11:16 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230422_3/z9V3m_1682159487639Y6NmH_JPEG/clip_20230422182525_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE AN YUJIN – I AM(아이브 안유진 - 아이엠) FanCam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35220320</link>
-            <guid>https://tv.naver.com/v/35220320</guid>
-            <pubDate>Sat, 22 Apr 2023 11:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_244/clWsm_1682159187556QVsHg_JPEG/clip_20230422182532_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE JANG WONYOUNG – I AM(아이브 장원영 - 아이엠) FanCam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35220219</link>
-            <guid>https://tv.naver.com/v/35220219</guid>
-            <pubDate>Sat, 22 Apr 2023 11:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_262/4KBKS_1682158886727gUhVM_JPEG/clip_20230422182530_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] LEE GIKWANG - Favorite(이기광 – 페이버릿) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35220061</link>
-            <guid>https://tv.naver.com/v/35220061</guid>
-            <pubDate>Sat, 22 Apr 2023 10:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_188/sTwZv_1682158347422hyk1F_JPEG/clip_20230422182501_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이기광 - Predator | SBS 230423 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -1216,6 +1216,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] CSR - Shining Bright (첫사랑 - 빛을 따라서) | Show Champion | EP.472 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35146581</link>
+            <guid>https://tv.naver.com/v/35146581</guid>
+            <pubDate>Mon, 24 Apr 2023 08:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_33/4v10a_16819675480434DHiB_JPEG/CA202304190096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] YEEUN - Strange Way To Love (예은 - 스트레인지 웨이 투 러브) | Show Champion | EP.472 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35146353</link>
+            <guid>https://tv.naver.com/v/35146353</guid>
+            <pubDate>Mon, 24 Apr 2023 08:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_39/wSvLf_1681967187779PFAXn_JPEG/CA202304190095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] LEE CHAEYEON - I Don't Wanna Know (이채연 - 아이돈 워너 노우) | Show Champion | EP.472 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35145915</link>
+            <guid>https://tv.naver.com/v/35145915</guid>
+            <pubDate>Mon, 24 Apr 2023 08:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_196/mSEqN_1681966587840PRIeC_JPEG/CA202304190094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] Billlie SHEON - EUNOIA (빌리 션 - 유노이아) | Show Champion | EP.472 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/35125373</link>
             <guid>https://tv.naver.com/v/35125373</guid>
@@ -1430,30 +1454,6 @@
             <pubDate>Wed, 19 Apr 2023 11:13:12 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230419_232/PZngq_1681899696234V9uLc_JPEG/CA202304190066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] Kep1er - Giddy (케플러 - 기디) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35119685</link>
-            <guid>https://tv.naver.com/v/35119685</guid>
-            <pubDate>Wed, 19 Apr 2023 11:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_258/FxSNd_1681899694283UffO4_JPEG/CA202304190067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Billlie -EUNOIA (빌리 - 유노이아) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35119286</link>
-            <guid>https://tv.naver.com/v/35119286</guid>
-            <pubDate>Wed, 19 Apr 2023 10:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_160/ZH8Ir_1681899086833ugAKd_JPEG/CA202304190064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Park Hyeon Seo - Be my spring (박현서 - 나의 봄이 되어줘) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35118934</link>
-            <guid>https://tv.naver.com/v/35118934</guid>
-            <pubDate>Wed, 19 Apr 2023 10:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_216/Dat9O_1681898488824sEsVl_JPEG/CA202304190063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>

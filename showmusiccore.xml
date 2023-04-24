@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 07:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 08:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE JANG WONYOUNG - I AM(아이브 장원영 - 아이엠) Close-up Cam | Show! MusicCore | MBC230422방송]]></title>
+            <link>https://tv.naver.com/v/35266707</link>
+            <guid>https://tv.naver.com/v/35266707</guid>
+            <pubDate>Mon, 24 Apr 2023 08:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230424_149/G6vx8_1682321188235AsLuu_JPEG/clip_20230424155004_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE YUJIN - I AM(아이브 안유진 - 아이엠) Close-up Cam | Show! MusicCore | MBC230422방송]]></title>
+            <link>https://tv.naver.com/v/35266479</link>
+            <guid>https://tv.naver.com/v/35266479</guid>
+            <pubDate>Mon, 24 Apr 2023 08:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230424_227/hwCCZ_1682320887869CFO6H_JPEG/clip_20230424155000_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE GAEUL - I AM(아이브 가을 - 아이엠) Close-up Cam | Show! MusicCore | MBC230422방송]]></title>
+            <link>https://tv.naver.com/v/35266218</link>
+            <guid>https://tv.naver.com/v/35266218</guid>
+            <pubDate>Mon, 24 Apr 2023 08:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230424_6/TZPyP_1682320587383LlLBH_JPEG/clip_20230424155002_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] IVE LEESEO - I AM(아이브 이서 - 아이엠) Close-up Cam | Show! MusicCore | MBC230422방송]]></title>
             <link>https://tv.naver.com/v/35266031</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 22 Apr 2023 11:11:16 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230422_3/z9V3m_1682159487639Y6NmH_JPEG/clip_20230422182525_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE AN YUJIN – I AM(아이브 안유진 - 아이엠) FanCam | Show! MusicCore | MBC230422방송]]></title>
-            <link>https://tv.naver.com/v/35220320</link>
-            <guid>https://tv.naver.com/v/35220320</guid>
-            <pubDate>Sat, 22 Apr 2023 11:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_244/clWsm_1682159187556QVsHg_JPEG/clip_20230422182532_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE JANG WONYOUNG – I AM(아이브 장원영 - 아이엠) FanCam | Show! MusicCore | MBC230422방송]]></title>
-            <link>https://tv.naver.com/v/35220219</link>
-            <guid>https://tv.naver.com/v/35220219</guid>
-            <pubDate>Sat, 22 Apr 2023 11:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_262/4KBKS_1682158886727gUhVM_JPEG/clip_20230422182530_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] LEE GIKWANG - Favorite(이기광 – 페이버릿) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230422방송]]></title>
-            <link>https://tv.naver.com/v/35220061</link>
-            <guid>https://tv.naver.com/v/35220061</guid>
-            <pubDate>Sat, 22 Apr 2023 10:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_188/sTwZv_1682158347422hyk1F_JPEG/clip_20230422182501_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
