@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 10:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 11:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[DRIPPIN - STEREO (드리핀 - 스테레오) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35350191</link>
+            <guid>https://tv.naver.com/v/35350191</guid>
+            <pubDate>Wed, 26 Apr 2023 11:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_62/Rf2KJ_1682504790139jLevJ_JPEG/CA202304260078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] LEE GI KWANG - Predator (이기광 - 프레데터) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35350032</link>
+            <guid>https://tv.naver.com/v/35350032</guid>
+            <pubDate>Wed, 26 Apr 2023 11:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_17/i7WzP_1682504488947uaKki_JPEG/CA202304260083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LEE GI KWANG - Favorite (이기광 - 페이보릿) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35350031</link>
+            <guid>https://tv.naver.com/v/35350031</guid>
+            <pubDate>Wed, 26 Apr 2023 11:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_44/bjAFQ_1682504487296g2MQu_JPEG/CA202304260082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Kep1er - Giddy (케플러 - 기디) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/35349792</link>
             <guid>https://tv.naver.com/v/35349792</guid>
@@ -1248,7 +1272,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230426_124/VZHuW_1682503600719U0rNJ_JPEG/CA202304260074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[COMEBACK] TEMPEST - Dangerous (템페스트 - 난장) l Show Champion l EP.473 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <title><![CDATA[[COMEBACK] TEMPEST - Dangerous (템페스트 - 난장) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/35349601</link>
             <guid>https://tv.naver.com/v/35349601</guid>
             <pubDate>Wed, 26 Apr 2023 10:15:30 GMT</pubDate>
@@ -1256,7 +1280,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230426_58/vjaJD_1682503589455P9L7k_JPEG/CA202304260076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[COMEBACK] ALICE - SHOW DOWN (앨리스 - 쇼 다운) l Show Champion l EP.473 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <title><![CDATA[[COMEBACK] ALICE - SHOW DOWN (앨리스 - 쇼 다운) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/35349182</link>
             <guid>https://tv.naver.com/v/35349182</guid>
             <pubDate>Wed, 26 Apr 2023 10:15:30 GMT</pubDate>
@@ -1430,30 +1454,6 @@
             <pubDate>Wed, 19 Apr 2023 13:18:15 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230419_139/xeqNh_1681896447646C58Am_JPEG/CA202304190045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Kep1er YOUNGEUN - Giddy (케플러 서영은 - 기디) | Show Champion | EP.472 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35117591</link>
-            <guid>https://tv.naver.com/v/35117591</guid>
-            <pubDate>Wed, 19 Apr 2023 13:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_150/fRDhC_1681896087499GRK3g_JPEG/CA202304190044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Kep1er XIAOTING - Giddy (케플러 샤오팅 - 기디) | Show Champion | EP.472 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35117433</link>
-            <guid>https://tv.naver.com/v/35117433</guid>
-            <pubDate>Wed, 19 Apr 2023 13:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_3/vDNZP_1681895787608lfY3O_JPEG/CA202304190043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Kep1er DAYEON - Giddy (케플러 김다연 - 기디) | Show Champion | EP.472 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35117318</link>
-            <guid>https://tv.naver.com/v/35117318</guid>
-            <pubDate>Wed, 19 Apr 2023 13:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_285/rcaNu_1681895547992HyuFy_JPEG/CA202304190041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
