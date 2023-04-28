@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 04:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 05:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.566 - ALICE(앨리스), YEEUN(예은), The Abbagirls(아바걸스), TEMPEST(템페스트), GI]]></title>
+            <link>https://tv.naver.com/v/35407034</link>
+            <guid>https://tv.naver.com/v/35407034</guid>
+            <pubDate>Fri, 28 Apr 2023 05:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[54:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230428_52/wuOfz_1682646143841ggsOK_JPEG/1682644985759.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.565 - LEE GI KWANG(이기광), ALICE(앨리스), YEEUN(예은), TEMPEST(템페스트), CRAXY(]]></title>
             <link>https://tv.naver.com/v/35182554</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 16 Dec 2022 05:14:35 GMT</pubDate>
             <content:encoded><![CDATA[51:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221215_49/auf8T_1671094938851lJ55y_PNG/1671093855349.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SECRET NUMBER(시크릿넘버) - ‘TAP’ _Ep.548 [4K]]]></title>
-            <link>https://tv.naver.com/v/31270850</link>
-            <guid>https://tv.naver.com/v/31270850</guid>
-            <pubDate>Fri, 02 Dec 2022 05:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_194/SoTfC_16699457058171qzMr_JPEG/1669945253019.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
