@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 08:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 09:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2152,6 +2152,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221215_49/auf8T_1671094938851lJ55y_PNG/1671093855349.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[조성모_뒤란에게 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35407490</link>
+            <guid>https://tv.naver.com/v/35407490</guid>
+            <pubDate>Fri, 28 Apr 2023 09:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230428_285/MWLdm_1682646948718mD04P_JPEG/58f9a02d-e567-11ed-9971-48df37ae3dc4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김기태_그날들 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/35150616</link>
             <guid>https://tv.naver.com/v/35150616</guid>
@@ -2382,14 +2390,6 @@
             <pubDate>Fri, 07 Apr 2023 10:15:55 GMT</pubDate>
             <content:encoded><![CDATA[4:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230406_221/3xIQX_1680767730521bKvbs_JPEG/71c3db44-d44b-11ed-9adb-a0369ffabb28_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무성_네가 없단걸 그제야 알았어 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34693232</link>
-            <guid>https://tv.naver.com/v/34693232</guid>
-            <pubDate>Fri, 07 Apr 2023 10:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230406_204/bZMCP_1680767726075rww8n_JPEG/507c6aab-d44b-11ed-bb22-a0369ffabc5c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
