@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 08:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 09:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,70 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT DOJAEJUNG JAEHYUN – Kiss(NCT 도재정 재현 - 키스) FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35447818</link>
+            <guid>https://tv.naver.com/v/35447818</guid>
+            <pubDate>Sat, 29 Apr 2023 09:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230429_131/q1zwV_1682759187342BNkBN_JPEG/clip_20230429173937_63.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TAEYANG – Seed(태양 - 나의 마음에) FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35447704</link>
+            <guid>https://tv.naver.com/v/35447704</guid>
+            <pubDate>Sat, 29 Apr 2023 09:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[4:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230429_185/Td7lY_1682758887121y8B36_JPEG/clip_20230429173341_60.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TAEYANG - Seed(태양 – 나의 마음에) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35447581</link>
+            <guid>https://tv.naver.com/v/35447581</guid>
+            <pubDate>Sat, 29 Apr 2023 09:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[4:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230429_144/TyjfH_1682758587100vrQyX_JPEG/clip_20230429173328_59.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT DOJAEJUNG - Perfume(NCT 도재정 – 퍼퓸) FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35447491</link>
+            <guid>https://tv.naver.com/v/35447491</guid>
+            <pubDate>Sat, 29 Apr 2023 09:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230429_206/k4QQM_1682758287515GaYK6_JPEG/clip_20230429171135_53.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT DOJAEJUNG DOYOUNG – Perfume(NCT 도재정 도영 - 퍼퓸) FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35447381</link>
+            <guid>https://tv.naver.com/v/35447381</guid>
+            <pubDate>Sat, 29 Apr 2023 09:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230429_126/O9bkL_1682757987486raIUv_JPEG/clip_20230429171342_54.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT DOJAEJUNG JAEHYUN – Perfume(NCT 도재정 재현 - 퍼퓸) FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35447282</link>
+            <guid>https://tv.naver.com/v/35447282</guid>
+            <pubDate>Sat, 29 Apr 2023 09:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230429_17/SBzk0_16827576873641aUOl_JPEG/clip_20230429171354_55.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT DOJAEJUNG JUNGWOO – Perfume(NCT 도재정 정우 - 퍼퓸) FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35447188</link>
+            <guid>https://tv.naver.com/v/35447188</guid>
+            <pubDate>Sat, 29 Apr 2023 09:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230429_151/SXLtk_1682757387057mTuAn_JPEG/clip_20230429171408_56.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT DOJAEJUNG – Perfume(NCT 도재정 - 퍼퓸) 1위 직캠 FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35447010</link>
+            <guid>https://tv.naver.com/v/35447010</guid>
+            <pubDate>Sat, 29 Apr 2023 09:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[5:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230429_77/dBtHi_1682756787693FI6Ih_JPEG/clip_20230429170315_50.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[STAGE MIX🪄] NMIXX – Love Me Like This(엔믹스 - 러브 미 라이크 디스) | Show! Music Core (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -190,70 +254,6 @@
             <pubDate>Sat, 22 Apr 2023 12:24:31 GMT</pubDate>
             <content:encoded><![CDATA[3:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230422_234/sTM2C_1682162187780XXnOK_JPEG/clip_20230422182617_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Kep1er XIAOTING – Giddy(케플러 샤오팅 - 기디) FanCam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35221185</link>
-            <guid>https://tv.naver.com/v/35221185</guid>
-            <pubDate>Sat, 22 Apr 2023 12:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_39/WjlaZ_1682161887643KpXet_JPEG/clip_20230422182614_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TEMPEST TAERAE – Dangerous(템페스트 태래 - 난장) FanCam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35221074</link>
-            <guid>https://tv.naver.com/v/35221074</guid>
-            <pubDate>Sat, 22 Apr 2023 11:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_181/RaSZw_16821615871684iHrB_JPEG/clip_20230422182559_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TEMPEST - Dangerous(템페스트 – 난장) FanCam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35220974</link>
-            <guid>https://tv.naver.com/v/35220974</guid>
-            <pubDate>Sat, 22 Apr 2023 11:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_157/57LTs_1682161287486HA2uI_JPEG/clip_20230422182547_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] PARK JIHOON – Blank Effect(박지훈 - 무표정) FanCam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35220865</link>
-            <guid>https://tv.naver.com/v/35220865</guid>
-            <pubDate>Sat, 22 Apr 2023 11:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_182/m4vMW_1682160988359rwYhG_JPEG/clip_20230422182505_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TEMPEST EUNCHAN – Dangerous(템페스트 은찬 - 난장) FanCam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35220864</link>
-            <guid>https://tv.naver.com/v/35220864</guid>
-            <pubDate>Sat, 22 Apr 2023 11:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_300/zCHvu_1682160987229uVIE5_JPEG/clip_20230422182553_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TEMPEST HWARANG – Dangerous(템페스트 화랑 - 난장) FanCam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35220679</link>
-            <guid>https://tv.naver.com/v/35220679</guid>
-            <pubDate>Sat, 22 Apr 2023 11:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_292/DJT15_168216038746835LbO_JPEG/clip_20230422182550_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TEMPEST HYEONGSEOP – Dangerous(템페스트 형섭 - 난장) FanCam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35220605</link>
-            <guid>https://tv.naver.com/v/35220605</guid>
-            <pubDate>Sat, 22 Apr 2023 11:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_143/tQCq9_1682160088270z5Pn9_JPEG/clip_20230422182554_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TEMPEST LEW – Dangerous(템페스트 루 - 난장) FanCam | Show! MusicCore | MBC230422방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35220511</link>
-            <guid>https://tv.naver.com/v/35220511</guid>
-            <pubDate>Sat, 22 Apr 2023 11:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_153/ZrtNK_1682159787118pVxAL_JPEG/clip_20230422182556_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이기광 - Predator | SBS 230423 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
