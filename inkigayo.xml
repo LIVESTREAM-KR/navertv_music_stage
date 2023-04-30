@@ -4,9 +4,41 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 06:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 07:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블리처스(BLITZERS) - 마카레나(Macarena) | SBS 230430 방송]]></title>
+            <link>https://tv.naver.com/v/35465410</link>
+            <guid>https://tv.naver.com/v/35465410</guid>
+            <pubDate>Sun, 30 Apr 2023 07:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230430_233/xggkB_1682838687326B0wMA_JPEG/bd78da20-1897-41ca-8766-1f16b717cfae.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[XODIAC - THROW A DICE | SBS 230430 방송]]></title>
+            <link>https://tv.naver.com/v/35465297</link>
+            <guid>https://tv.naver.com/v/35465297</guid>
+            <pubDate>Sun, 30 Apr 2023 07:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230430_116/W5Mk4_16828383886713BWQw_JPEG/edfa8b26-0486-469c-85d2-7493ee186944.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[xikers - ROCKSTAR | SBS 230430 방송]]></title>
+            <link>https://tv.naver.com/v/35465296</link>
+            <guid>https://tv.naver.com/v/35465296</guid>
+            <pubDate>Sun, 30 Apr 2023 07:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230430_73/PJAMx_16828383869289L7oD_JPEG/2942d268-f640-4569-aaae-435ed4d46458.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주은 - Easy Breezy | SBS 230430 방송]]></title>
+            <link>https://tv.naver.com/v/35465076</link>
+            <guid>https://tv.naver.com/v/35465076</guid>
+            <pubDate>Sun, 30 Apr 2023 07:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230430_132/SglaI_1682837787163hjwDh_JPEG/3f155c22-0491-4501-b149-d5939fa64b1f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이기광 - Predator | SBS 230423 방송]]></title>
             <link>https://tv.naver.com/v/35236789</link>
@@ -214,38 +246,6 @@
             <pubDate>Sun, 16 Apr 2023 08:16:45 GMT</pubDate>
             <content:encoded><![CDATA[2:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230416_138/3pPjO_16816327550512SXbR_JPEG/9b932287-80fa-4efb-92a0-b6fa8bd960b0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫사랑(CSR) - 빛을 따라서(Shining Bright) | SBS 230416 방송]]></title>
-            <link>https://tv.naver.com/v/34999395</link>
-            <guid>https://tv.naver.com/v/34999395</guid>
-            <pubDate>Sun, 16 Apr 2023 08:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230416_264/2bgCM_1681632753286L9oGl_JPEG/4e21c9a1-3cfc-4307-91d6-e22db56a31d8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICHILLIN’(아이칠린) - Alarm | SBS 230416 방송]]></title>
-            <link>https://tv.naver.com/v/34999284</link>
-            <guid>https://tv.naver.com/v/34999284</guid>
-            <pubDate>Sun, 16 Apr 2023 07:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230416_48/48QoS_1681632752397Keucf_JPEG/e7e6c857-395b-4357-adbc-ae246215c87b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAXY(크랙시) - NUGUDOM | SBS 230416 방송]]></title>
-            <link>https://tv.naver.com/v/34999283</link>
-            <guid>https://tv.naver.com/v/34999283</guid>
-            <pubDate>Sun, 16 Apr 2023 07:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230416_78/qPv9p_1681632750380JbtV2_JPEG/98c479ae-a157-4502-b2cf-289098d8b570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[xikers - 도깨비집(TRICKY HOUSE) | SBS 230416 방송]]></title>
-            <link>https://tv.naver.com/v/34999154</link>
-            <guid>https://tv.naver.com/v/34999154</guid>
-            <pubDate>Sun, 16 Apr 2023 07:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230416_213/RM9Bv_1681632749131qmoNY_JPEG/1511ff8c-1aae-45d8-bf78-50d13f5bf31e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
