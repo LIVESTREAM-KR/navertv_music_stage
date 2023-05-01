@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 07:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 08:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윙경위의 수상한(?) 쇼챔피언 용의자 추적! 🐰🚓 [예고]]]></title>
+            <link>https://tv.naver.com/v/35492024</link>
+            <guid>https://tv.naver.com/v/35492024</guid>
+            <pubDate>Mon, 01 May 2023 08:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230501_241/1ulqw_1682928394907Qvymo_JPEG/CA202305030003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] LEE GI KWANG - Favorite (이기광 - 페이보릿) | Show Champion | EP.473]]></title>
             <link>https://tv.naver.com/v/35381280</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 26 Apr 2023 13:19:27 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230426_58/XV0Gs_168248018799949N5k_JPEG/CA202304260022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST HYEONGSEOP - Dangerous (템페스트 형섭 - 난장) | Show Champion | EP.473]]></title>
-            <link>https://tv.naver.com/v/35334400</link>
-            <guid>https://tv.naver.com/v/35334400</guid>
-            <pubDate>Wed, 26 Apr 2023 13:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_11/NjvNk_16824801869345xQq6_JPEG/CA202304260021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
