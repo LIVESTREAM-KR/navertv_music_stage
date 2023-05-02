@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 07:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 08:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,70 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] IVE GAEUL – I AM(아이브 가을 - 아이엠) FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35527623</link>
+            <guid>https://tv.naver.com/v/35527623</guid>
+            <pubDate>Tue, 02 May 2023 08:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_116/o3SaF_1683015388987j0nQH_JPEG/clip_20230502163342_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] IVE - I AM(아이브 – 아이엠) FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35527434</link>
+            <guid>https://tv.naver.com/v/35527434</guid>
+            <pubDate>Tue, 02 May 2023 08:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_267/bM7Cf_1683015087345qm5Rg_JPEG/clip_20230502163336_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE JANG WONYOUNG - I AM(아이브 장원영 - 아이엠) Close-up Cam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35527246</link>
+            <guid>https://tv.naver.com/v/35527246</guid>
+            <pubDate>Tue, 02 May 2023 08:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_270/gwAR2_1683014788053t9jKX_JPEG/clip_20230502163401_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] IVE LEESEO – I AM(아이브 이서 - 아이엠) FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35527031</link>
+            <guid>https://tv.naver.com/v/35527031</guid>
+            <pubDate>Tue, 02 May 2023 08:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_51/WxmTd_16830144874354f4wO_JPEG/clip_20230502163351_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] IVE LIZ – I AM(아이브 리즈 - 아이엠) FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35526850</link>
+            <guid>https://tv.naver.com/v/35526850</guid>
+            <pubDate>Tue, 02 May 2023 08:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_80/IES6J_1683014187272KDxbY_JPEG/clip_20230502163347_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT DOJAEJUNG JAEHYUN - Perfume(NCT 도재정 재현 - 퍼퓸) Close-up Cam | Show! MusicCore |MBC230429방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35526473</link>
+            <guid>https://tv.naver.com/v/35526473</guid>
+            <pubDate>Tue, 02 May 2023 08:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_161/VvrB5_1683013590077mvOp4_JPEG/clip_20230502161850_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT DOJAEJUNG DOYOUNG - Perfume(NCT 도재정 도영 - 퍼퓸) Close-up Cam | Show! MusicCore |MBC230429방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35526284</link>
+            <guid>https://tv.naver.com/v/35526284</guid>
+            <pubDate>Tue, 02 May 2023 08:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_203/IdTtg_1683013349800bdfh7_JPEG/clip_20230502161846_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT DOJAEJUNG JUNGWOO - Perfume(NCT 도재정 정우 - 퍼퓸) Close-up Cam | Show! MusicCore |MBC230429방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35526051</link>
+            <guid>https://tv.naver.com/v/35526051</guid>
+            <pubDate>Tue, 02 May 2023 08:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_102/irEbk_1683012993662D9NxG_JPEG/clip_20230502161856_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최애직캠] TAEYANG - Seed(태양 – 나의 마음에) Close-up Cam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -190,70 +254,6 @@
             <pubDate>Sat, 29 Apr 2023 10:13:32 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230429_187/shq4c_1682760447293IiMwu_JPEG/clip_20230429174229_65.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DOJAEJUNG JUNGWOO – Kiss(NCT 도재정 정우 - 키스) FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35448303</link>
-            <guid>https://tv.naver.com/v/35448303</guid>
-            <pubDate>Sat, 29 Apr 2023 10:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230429_278/7ohUo_1682760387568pXQ9A_JPEG/clip_20230429173945_64.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DOJAEJUNG DOYOUNG – Kiss(NCT 도재정 도영 - 키스) FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35448073</link>
-            <guid>https://tv.naver.com/v/35448073</guid>
-            <pubDate>Sat, 29 Apr 2023 10:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230429_158/syKPc_1682759787952difXz_JPEG/clip_20230429173929_62.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DOJAEJUNG - Kiss(NCT 도재정 – 키스) FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35447970</link>
-            <guid>https://tv.naver.com/v/35447970</guid>
-            <pubDate>Sat, 29 Apr 2023 10:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230429_175/ADA8H_1682759546932n1xbY_JPEG/clip_20230429173805_61.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DOJAEJUNG JAEHYUN – Kiss(NCT 도재정 재현 - 키스) FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35447818</link>
-            <guid>https://tv.naver.com/v/35447818</guid>
-            <pubDate>Sat, 29 Apr 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230429_131/q1zwV_1682759187342BNkBN_JPEG/clip_20230429173937_63.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TAEYANG – Seed(태양 - 나의 마음에) FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35447704</link>
-            <guid>https://tv.naver.com/v/35447704</guid>
-            <pubDate>Sat, 29 Apr 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[4:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230429_185/Td7lY_1682758887121y8B36_JPEG/clip_20230429173341_60.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TAEYANG - Seed(태양 – 나의 마음에) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35447581</link>
-            <guid>https://tv.naver.com/v/35447581</guid>
-            <pubDate>Sat, 29 Apr 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[4:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230429_144/TyjfH_1682758587100vrQyX_JPEG/clip_20230429173328_59.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DOJAEJUNG - Perfume(NCT 도재정 – 퍼퓸) FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35447491</link>
-            <guid>https://tv.naver.com/v/35447491</guid>
-            <pubDate>Sat, 29 Apr 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230429_206/k4QQM_1682758287515GaYK6_JPEG/clip_20230429171135_53.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DOJAEJUNG DOYOUNG – Perfume(NCT 도재정 도영 - 퍼퓸) FanCam | Show! MusicCore | MBC230429방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35447381</link>
-            <guid>https://tv.naver.com/v/35447381</guid>
-            <pubDate>Sat, 29 Apr 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230429_126/O9bkL_1682757987486raIUv_JPEG/clip_20230429171342_54.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태양 - 나의 마음에 (Seed) | SBS 230430 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
