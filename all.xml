@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 10:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 11:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,38 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[COMEBACK] 엑스디너리 히어로즈(Xdinary Heroes) - Freakin’ Bad (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35571672</link>
+            <guid>https://tv.naver.com/v/35571672</guid>
+            <pubDate>Wed, 03 May 2023 11:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_51/hHjsY_1683109295467aMjNN_JPEG/CA202305030083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 이펙스(EPEX) - Sunshower(여우가 시집가는 날) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35571668</link>
+            <guid>https://tv.naver.com/v/35571668</guid>
+            <pubDate>Wed, 03 May 2023 11:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_119/WiMmk_1683109291226rFsNY_JPEG/CA202305030082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이펙스(EPEX) - 안녕, 나의 첫사랑 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35571667</link>
+            <guid>https://tv.naver.com/v/35571667</guid>
+            <pubDate>Wed, 03 May 2023 11:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_14/TAepm_1683109289420PdJsp_JPEG/CA202305030081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드리핀(DRIPPIN) - SEVEN SINS (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35571518</link>
+            <guid>https://tv.naver.com/v/35571518</guid>
+            <pubDate>Wed, 03 May 2023 11:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_296/oRtwE_1683108988682Jbv7s_JPEG/CA202305030080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[템페스트(TEMPEST) - Dangerous(난장) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/35571401</link>
             <guid>https://tv.naver.com/v/35571401</guid>
@@ -1422,38 +1454,6 @@
             <pubDate>Wed, 26 Apr 2023 13:19:27 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230426_104/7Kq5P_1682495847425YsbFH_JPEG/CA202304260044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST EUNCHAN - Freak Show (템페스트 은찬 - 프릭 쇼) | Show Champion | EP.473 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35344428</link>
-            <guid>https://tv.naver.com/v/35344428</guid>
-            <pubDate>Wed, 26 Apr 2023 13:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_262/MRN2J_1682495489693usFhd_JPEG/CA202304260045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST HYEONGSEOP - Freak Show (템페스트 형섭 - 프릭 쇼) | Show Champion | EP.473 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35343986</link>
-            <guid>https://tv.naver.com/v/35343986</guid>
-            <pubDate>Wed, 26 Apr 2023 13:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_143/GsBht_1682494949241x5bzP_JPEG/CA202304260043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TEMPEST HANBIN - Freak Show (템페스트 한빈 - 프릭 쇼) | Show Champion | EP.473 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35343697</link>
-            <guid>https://tv.naver.com/v/35343697</guid>
-            <pubDate>Wed, 26 Apr 2023 13:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_46/w1p3E_1682494597115HRN8z_JPEG/CA202304260042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] BLITZERS - Macarena (블리처스 - 마카레나) l Show Champion l EP.473 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35342022</link>
-            <guid>https://tv.naver.com/v/35342022</guid>
-            <pubDate>Wed, 26 Apr 2023 13:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_205/Rowkb_1682492247693qoABh_JPEG/CA202304260035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
