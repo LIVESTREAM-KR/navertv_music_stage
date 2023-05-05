@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 01:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 02:06:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[5월 1주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (우아! 나나, 빌리 츠키) | Show Champion | EP.474 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35574235</link>
+            <guid>https://tv.naver.com/v/35574235</guid>
+            <pubDate>Fri, 05 May 2023 02:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[4:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_4/WbST2_1683113489223ambIs_JPEG/CA202305030085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] EPEX - Goodbye, My First Love (이펙스 - 안녕, 나의 첫사랑) l Show Champion l EP.474 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/35589574</link>
             <guid>https://tv.naver.com/v/35589574</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 03 May 2023 13:16:52 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230503_228/lnCdg_1683082287718GzVcc_JPEG/CA202305030023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] EPEX KEUM - Sunshower (이펙스 금동현 - 여우가 시집가는 날) | Show Champion | EP.474 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35554087</link>
-            <guid>https://tv.naver.com/v/35554087</guid>
-            <pubDate>Wed, 03 May 2023 13:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_241/Shbdt_1683081387278JSMyy_JPEG/CA202305030022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
