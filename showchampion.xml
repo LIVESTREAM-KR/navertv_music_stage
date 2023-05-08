@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 07:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 08:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쇼챔피언이랑 이번주도 함께 가자❣ [예고]]]></title>
+            <link>https://tv.naver.com/v/35709271</link>
+            <guid>https://tv.naver.com/v/35709271</guid>
+            <pubDate>Mon, 08 May 2023 08:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_292/kCd9x_1683532653989IOHM5_JPEG/CA202305100011.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5월 1주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (우아! 나나, 빌리 츠키) | Show Champion | EP.474]]></title>
             <link>https://tv.naver.com/v/35574235</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 03 May 2023 13:16:52 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230503_86/GcryU_1683082587891rzhqu_JPEG/CA202305030024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] EPEX MU - Sunshower (이펙스 뮤 - 여우가 시집가는 날) | Show Champion | EP.474]]></title>
-            <link>https://tv.naver.com/v/35554693</link>
-            <guid>https://tv.naver.com/v/35554693</guid>
-            <pubDate>Wed, 03 May 2023 13:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_228/lnCdg_1683082287718GzVcc_JPEG/CA202305030023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
