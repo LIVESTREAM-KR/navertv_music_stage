@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 05:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 06:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT DOJAEJUNG JUNGWOO - Kiss(NCT 도재정 정우 - 키스) Close-up Cam | Show! MusicCore | MBC230506방송]]></title>
+            <link>https://tv.naver.com/v/35713952</link>
+            <guid>https://tv.naver.com/v/35713952</guid>
+            <pubDate>Tue, 09 May 2023 06:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_173/xnlUB_16835403883839kKmF_JPEG/clip_20230508184514_51.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT DOJAEJUNG JAEHYUN - Kiss(NCT 도재정 재현 - 키스) Close-up Cam | Show! MusicCore | MBC230506방송]]></title>
+            <link>https://tv.naver.com/v/35709445</link>
+            <guid>https://tv.naver.com/v/35709445</guid>
+            <pubDate>Tue, 09 May 2023 06:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_186/U4Cji_1683532889516KR1S0_JPEG/clip_20230508163244_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT DOJAEJUNG DOYOUNG - Kiss(NCT 도재정 도영 - 키스) Close-up Cam | Show! MusicCore | MBC230506방송]]></title>
+            <link>https://tv.naver.com/v/35709210</link>
+            <guid>https://tv.naver.com/v/35709210</guid>
+            <pubDate>Tue, 09 May 2023 06:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_253/7O8tf_1683532587619sUqF2_JPEG/clip_20230508163158_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] NCT DOJAEJUNG JUNGWOO - Perfume(NCT 도재정 정우 - 퍼퓸) Close-up Cam | Show! MusicCore |MBC230506방]]></title>
             <link>https://tv.naver.com/v/35713309</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 06 May 2023 12:23:48 GMT</pubDate>
             <content:encoded><![CDATA[4:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230506_299/ei1ti_1683371487830b6lMv_JPEG/clip_20230506192733_82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS OH HYEONTAE  – REALLY REALLY(소년판타지 오현태 -릴리릴리)FanCam|Show! MusicCore|MBC230506방]]></title>
-            <link>https://tv.naver.com/v/35660963</link>
-            <guid>https://tv.naver.com/v/35660963</guid>
-            <pubDate>Sat, 06 May 2023 11:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230506_192/woR2x_1683371188061fiDHy_JPEG/clip_20230506192737_85.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS HIKARU – REALLY REALLY(소년판타지 히카루 - 릴리릴리) FanCam | Show! MusicCore | MBC230506방]]></title>
-            <link>https://tv.naver.com/v/35660876</link>
-            <guid>https://tv.naver.com/v/35660876</guid>
-            <pubDate>Sat, 06 May 2023 11:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230506_238/r6lgf_1683370886962Sn2bU_JPEG/clip_20230506192734_83.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS - Monster(소년판타지 – 몬스터) FanCam | Show! MusicCore | MBC230506방송]]></title>
-            <link>https://tv.naver.com/v/35660696</link>
-            <guid>https://tv.naver.com/v/35660696</guid>
-            <pubDate>Sat, 06 May 2023 11:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230506_172/Req2K_1683370288935zHgfF_JPEG/clip_20230506192809_89.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
