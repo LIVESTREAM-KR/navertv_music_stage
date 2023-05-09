@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 02:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 03:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT DOJAEJUNG JUNGWOO - Perfume(NCT 도재정 정우 - 퍼퓸) Close-up Cam | Show! MusicCore |MBC230506방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35713309</link>
+            <guid>https://tv.naver.com/v/35713309</guid>
+            <pubDate>Tue, 09 May 2023 03:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_35/gwqzQ_1683538949367OEp6P_JPEG/clip_20230508182411_44.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT DOJAEJUNG JAEHYUN - Dive(NCT 도재정 재현 - 다이브) Close-up Cam | Show! MusicCore | MBC230506방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35712588</link>
+            <guid>https://tv.naver.com/v/35712588</guid>
+            <pubDate>Tue, 09 May 2023 03:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230509_249/yir8Y_1683588686798Kwwma_JPEG/clip_20230509082308_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NCT DOJAEJUNG DOYOUNG - Perfume(NCT 도재정 도영 - 퍼퓸) Close-up Cam | Show! MusicCore |MBC230506방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35712293</link>
+            <guid>https://tv.naver.com/v/35712293</guid>
+            <pubDate>Tue, 09 May 2023 03:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_41/cWC15_1683537147843wOLqK_JPEG/clip_20230508175530_34.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] NCT DOJAEJUNG JAEHYUN - Dive(NCT 도재정 재현 - 다이브) Close-up Cam | Show! MusicCore | MBC230506방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Sat, 06 May 2023 11:11:10 GMT</pubDate>
             <content:encoded><![CDATA[3:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230506_172/Req2K_1683370288935zHgfF_JPEG/clip_20230506192809_89.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS KIM BEOMJUN – REALLY REALLY(소년판타지 김범준 - 릴리릴리)FanCam|Show! MusicCore|MBC230506방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35660695</link>
-            <guid>https://tv.naver.com/v/35660695</guid>
-            <pubDate>Sat, 06 May 2023 11:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230506_162/zc0XX_1683370287899X2uQU_JPEG/clip_20230506192735_84.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DOJAEJUNG JUNGWOO – Perfume(NCT 도재정 정우 - 퍼퓸) FanCam | Show! MusicCore | MBC230506방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35660456</link>
-            <guid>https://tv.naver.com/v/35660456</guid>
-            <pubDate>Sat, 06 May 2023 11:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230506_119/zzI9U_1683369388559O8jvN_JPEG/clip_20230506181753_76.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DOJAEJUNG - Perfume(NCT 도재정 – 퍼퓸) FanCam | Show! MusicCore | MBC230506방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35660455</link>
-            <guid>https://tv.naver.com/v/35660455</guid>
-            <pubDate>Sat, 06 May 2023 11:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230506_233/zi8xJ_16833693871125fRPW_JPEG/clip_20230506181735_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴(SEVENTEEN) - My Life | SBS 230507 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
