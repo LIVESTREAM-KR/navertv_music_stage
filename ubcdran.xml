@@ -4,9 +4,17 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 08:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 09:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오곤_낭만적인 너에게]]></title>
+            <link>https://tv.naver.com/v/35825530</link>
+            <guid>https://tv.naver.com/v/35825530</guid>
+            <pubDate>Fri, 12 May 2023 09:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_128/kA2Qz_1683789709257A6gUK_JPEG/e1c384e1-efcb-11ed-b1f7-a0369ffd9e4c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부활_4.1.9 코끼리 탈출하다+사랑할수록]]></title>
             <link>https://tv.naver.com/v/35597282</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Apr 2023 10:16:05 GMT</pubDate>
             <content:encoded><![CDATA[4:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230413_122/RQPQj_1681373398435uQTsP_JPEG/aa2ad815-d9d1-11ed-99c6-80615f0bcc1c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크랙실버_Dash]]></title>
-            <link>https://tv.naver.com/v/34921397</link>
-            <guid>https://tv.naver.com/v/34921397</guid>
-            <pubDate>Fri, 14 Apr 2023 10:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_194/7as7q_1681373361189PTJNL_JPEG/6990e944-d9d1-11ed-935b-a0369ffda99c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
