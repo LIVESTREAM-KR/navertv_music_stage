@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 11:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 12:26:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2152,46 +2152,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_102/jVzEz_1671771286193hYuxO_PNG/1671771277263.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[오곤+무성_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35825528</link>
-            <guid>https://tv.naver.com/v/35825528</guid>
-            <pubDate>Fri, 12 May 2023 10:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[5:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_290/XBPmV_1683789705034kod0N_JPEG/b2c38176-efcb-11ed-b1f7-a0369ffd9e4c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무성_사랑이 이렇게 떠나가요 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35825523</link>
-            <guid>https://tv.naver.com/v/35825523</guid>
-            <pubDate>Fri, 12 May 2023 10:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_128/z1C18_1683789700287blJQa_JPEG/77846cb7-efcb-11ed-8be2-a0369ffac12c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아키텍쳐_Prayer for the Dying (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35825520</link>
-            <guid>https://tv.naver.com/v/35825520</guid>
-            <pubDate>Fri, 12 May 2023 10:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[8:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_138/w9F4Q_1683789694469Lj69M_JPEG/2adab8ef-efcb-11ed-8be2-a0369ffac12c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아키텍쳐_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35825513</link>
-            <guid>https://tv.naver.com/v/35825513</guid>
-            <pubDate>Fri, 12 May 2023 10:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[7:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_283/XYNEC_16837896892471902r_JPEG/eeb0ce38-efca-11ed-8be2-a0369ffac12c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아키텍쳐_Dark Matter (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35825506</link>
-            <guid>https://tv.naver.com/v/35825506</guid>
-            <pubDate>Fri, 12 May 2023 10:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[10:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_164/Mp7sq_1683789684194kw02G_JPEG/89c9a856-efca-11ed-bb6e-505dac8c35ff_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[부활_4.1.9 코끼리 탈출하다+사랑할수록 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/35597282</link>
             <guid>https://tv.naver.com/v/35597282</guid>
@@ -2390,6 +2350,46 @@
             <pubDate>Fri, 12 May 2023 11:13:52 GMT</pubDate>
             <content:encoded><![CDATA[2:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230420_168/TtjdW_1681972557385o5ulf_JPEG/b5512451-df43-11ed-9174-a0369ffabfec_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박현규_천일동안 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/35150322</link>
+            <guid>https://tv.naver.com/v/35150322</guid>
+            <pubDate>Fri, 12 May 2023 12:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_180/5Xxor_16819725506296SWyH_JPEG/96c44048-df43-11ed-b8b6-a0369ffabf34_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요아리_나타나 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34921438</link>
+            <guid>https://tv.naver.com/v/34921438</guid>
+            <pubDate>Fri, 12 May 2023 12:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_248/wFIRV_1681373411405LKdJh_JPEG/2793f277-d9d2-11ed-92f0-a0369ffda02c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요아리_연인 (원곡 박효신) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34921429</link>
+            <guid>https://tv.naver.com/v/34921429</guid>
+            <pubDate>Fri, 12 May 2023 12:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_91/AtRci_1681373403912ngwEU_JPEG/ef6e9fdc-d9d1-11ed-9b16-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요아리_빛그림 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34921426</link>
+            <guid>https://tv.naver.com/v/34921426</guid>
+            <pubDate>Fri, 12 May 2023 12:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[4:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_122/RQPQj_1681373398435uQTsP_JPEG/aa2ad815-d9d1-11ed-99c6-80615f0bcc1c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크랙실버_Dash (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/34921397</link>
+            <guid>https://tv.naver.com/v/34921397</guid>
+            <pubDate>Fri, 12 May 2023 12:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_194/7as7q_1681373361189PTJNL_JPEG/6990e944-d9d1-11ed-935b-a0369ffda99c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
