@@ -4,9 +4,49 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 06:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 07:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EPEX(이펙스) - 여우가 시집가는 날 | SBS 230514 방송]]></title>
+            <link>https://tv.naver.com/v/35909103</link>
+            <guid>https://tv.naver.com/v/35909103</guid>
+            <pubDate>Sun, 14 May 2023 07:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230514_164/cpA3Q_1684048287135MAvxQ_JPEG/637befbf-9e29-49c6-bc62-34fbc19bcfa0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민민(MinMin) - Take Me | SBS 230514 방송]]></title>
+            <link>https://tv.naver.com/v/35908999</link>
+            <guid>https://tv.naver.com/v/35908999</guid>
+            <pubDate>Sun, 14 May 2023 07:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230514_215/ohtG0_1684047990501zTRrR_JPEG/209475e8-53df-489e-bf8f-f76912763915.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AIMERS - Bubble | SBS 230514 방송]]></title>
+            <link>https://tv.naver.com/v/35908997</link>
+            <guid>https://tv.naver.com/v/35908997</guid>
+            <pubDate>Sun, 14 May 2023 07:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230514_35/DgxXp_16840479872642kujU_JPEG/8fdc68f8-e153-4a57-b427-2556e0f42730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ADYA - Per | SBS 230514 방송]]></title>
+            <link>https://tv.naver.com/v/35908817</link>
+            <guid>https://tv.naver.com/v/35908817</guid>
+            <pubDate>Sun, 14 May 2023 07:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230514_157/YSoo3_16840474472829Tv3e_JPEG/7a0eecca-6269-45d2-ba9a-5e90927901a3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장혜리 - 사랑 그게 뭔데 | SBS 230514 방송]]></title>
+            <link>https://tv.naver.com/v/35908708</link>
+            <guid>https://tv.naver.com/v/35908708</guid>
+            <pubDate>Sun, 14 May 2023 07:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230514_186/36C6J_1684047087622CCWeb_JPEG/0bf61afe-a7a3-4e0f-a386-7e94fd73cbe6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐틴(SEVENTEEN) - My Life | SBS 230507 방송]]></title>
             <link>https://tv.naver.com/v/35675616</link>
@@ -206,46 +246,6 @@
             <pubDate>Sun, 30 Apr 2023 08:15:48 GMT</pubDate>
             <content:encoded><![CDATA[2:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230430_98/IaGtc_1682840192473Y7ELp_JPEG/fcc0c9e9-b813-4162-b15f-0b2c952bba0d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Xdinary Heroes - Freakin’ Bad | SBS 230430 방송]]></title>
-            <link>https://tv.naver.com/v/35465978</link>
-            <guid>https://tv.naver.com/v/35465978</guid>
-            <pubDate>Sun, 30 Apr 2023 08:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230430_58/atWSw_1682840190557174ir_JPEG/4cc71b3d-d441-4906-a9fa-7238b90edaec.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DRIPPIN - SEVEN SINS | SBS 230430 방송]]></title>
-            <link>https://tv.naver.com/v/35465856</link>
-            <guid>https://tv.naver.com/v/35465856</guid>
-            <pubDate>Sun, 30 Apr 2023 08:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230430_88/nkqBw_1682839886675vb56A_JPEG/99473986-c855-4219-bc8c-e470da786848.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EPEX(이펙스) - 여우가 시집가는 날 | SBS 230430 방송]]></title>
-            <link>https://tv.naver.com/v/35465658</link>
-            <guid>https://tv.naver.com/v/35465658</guid>
-            <pubDate>Sun, 30 Apr 2023 08:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230430_227/fsG2n_1682839292563CnGLE_JPEG/02deb339-1f36-4886-a271-743d63144469.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케플러(Kep1er) - Giddy | SBS 230430 방송]]></title>
-            <link>https://tv.naver.com/v/35465654</link>
-            <guid>https://tv.naver.com/v/35465654</guid>
-            <pubDate>Sun, 30 Apr 2023 08:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230430_57/eRQQV_1682839288804fwXSa_JPEG/486bdb41-0ca7-476c-99b0-8764f647ed92.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TEMPEST(템페스트) - 난장(Dangerous) | SBS 230430 방송]]></title>
-            <link>https://tv.naver.com/v/35465537</link>
-            <guid>https://tv.naver.com/v/35465537</guid>
-            <pubDate>Sun, 30 Apr 2023 08:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230430_205/LFt21_1682838988959j5iV4_JPEG/3566bfda-02de-43c2-b1d6-dc685d587068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
