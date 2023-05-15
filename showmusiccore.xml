@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 10:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 11:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] aespa GISELLE - Salty & Sweet(에스파 지젤 - 솔티 앤 스위트) Close-up Cam | Show! MusicCore | MBC230513]]></title>
+            <link>https://tv.naver.com/v/35949753</link>
+            <guid>https://tv.naver.com/v/35949753</guid>
+            <pubDate>Mon, 15 May 2023 11:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_248/77NzS_1684148788581uERyr_JPEG/clip_20230515194619_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] ADYA - Per(에이디야 – 퍼) FanCam | Show! MusicCore | MBC230513방송]]></title>
             <link>https://tv.naver.com/v/35894637</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 13 May 2023 09:12:23 GMT</pubDate>
             <content:encoded><![CDATA[4:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230513_26/Hb4w5_1683966987286YukVi_JPEG/clip_20230513171311_52.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] NCT DOJAEJUNG JUNGWOO - Kiss(NCT 도재정 정우 - 키스) Close-up Cam | Show! MusicCore | MBC230506방송]]></title>
-            <link>https://tv.naver.com/v/35713952</link>
-            <guid>https://tv.naver.com/v/35713952</guid>
-            <pubDate>Tue, 09 May 2023 06:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_173/xnlUB_16835403883839kKmF_JPEG/clip_20230508184514_51.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
