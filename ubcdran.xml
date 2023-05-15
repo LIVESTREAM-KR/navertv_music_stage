@@ -4,9 +4,57 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 05:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 06:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아키텍쳐_Dark Matter]]></title>
+            <link>https://tv.naver.com/v/35936608</link>
+            <guid>https://tv.naver.com/v/35936608</guid>
+            <pubDate>Mon, 15 May 2023 06:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[10:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_1/lHiC7_1684131356843SsIcl_JPEG/eb5772ee-f2e6-11ed-b1f7-a0369ffd9e4c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아키텍쳐_인터뷰]]></title>
+            <link>https://tv.naver.com/v/35936296</link>
+            <guid>https://tv.naver.com/v/35936296</guid>
+            <pubDate>Mon, 15 May 2023 06:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[7:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_44/y0Bgh_16841308896713BKtb_JPEG/fa07a8c9-f2e2-11ed-a28f-48df3770706a_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아키텍쳐_Prayer for the Dying]]></title>
+            <link>https://tv.naver.com/v/35936283</link>
+            <guid>https://tv.naver.com/v/35936283</guid>
+            <pubDate>Mon, 15 May 2023 06:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[8:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_193/k1GXs_168413086508514QUK_JPEG/3794f412-f2e3-11ed-a28f-48df3770706a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무성_사랑이 이렇게 떠나가요]]></title>
+            <link>https://tv.naver.com/v/35936261</link>
+            <guid>https://tv.naver.com/v/35936261</guid>
+            <pubDate>Mon, 15 May 2023 06:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_90/pEiFJ_16841308406589oGjG_JPEG/8173ef11-f2e3-11ed-833a-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오곤+무성_인터뷰]]></title>
+            <link>https://tv.naver.com/v/35936229</link>
+            <guid>https://tv.naver.com/v/35936229</guid>
+            <pubDate>Mon, 15 May 2023 06:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[5:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_246/ByWI5_1684130794113OGkG3_JPEG/a29cdb62-f2e3-11ed-837b-505dac8c3721_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오곤_낭만적인 너에게]]></title>
+            <link>https://tv.naver.com/v/35936201</link>
+            <guid>https://tv.naver.com/v/35936201</guid>
+            <pubDate>Mon, 15 May 2023 06:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_193/9GqOA_1684130757565AtfAJ_JPEG/d20e64a4-f2e3-11ed-84f4-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부활_4.1.9 코끼리 탈출하다+사랑할수록]]></title>
             <link>https://tv.naver.com/v/35597282</link>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 21 Apr 2023 10:15:37 GMT</pubDate>
             <content:encoded><![CDATA[2:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230420_219/9RFnG_1681972565180jITdQ_JPEG/cea843ab-df43-11ed-9d98-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박현규_사랑에 빠진 걸까요]]></title>
-            <link>https://tv.naver.com/v/35150325</link>
-            <guid>https://tv.naver.com/v/35150325</guid>
-            <pubDate>Fri, 12 May 2023 11:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_168/TtjdW_1681972557385o5ulf_JPEG/b5512451-df43-11ed-9174-a0369ffabfec_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박현규_천일동안]]></title>
-            <link>https://tv.naver.com/v/35150322</link>
-            <guid>https://tv.naver.com/v/35150322</guid>
-            <pubDate>Fri, 12 May 2023 12:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_180/5Xxor_16819725506296SWyH_JPEG/96c44048-df43-11ed-b8b6-a0369ffabf34_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요아리_나타나]]></title>
-            <link>https://tv.naver.com/v/34921438</link>
-            <guid>https://tv.naver.com/v/34921438</guid>
-            <pubDate>Fri, 12 May 2023 12:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[2:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_248/wFIRV_1681373411405LKdJh_JPEG/2793f277-d9d2-11ed-92f0-a0369ffda02c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요아리_연인 (원곡 박효신)]]></title>
-            <link>https://tv.naver.com/v/34921429</link>
-            <guid>https://tv.naver.com/v/34921429</guid>
-            <pubDate>Fri, 12 May 2023 12:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_91/AtRci_1681373403912ngwEU_JPEG/ef6e9fdc-d9d1-11ed-9b16-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요아리_빛그림]]></title>
-            <link>https://tv.naver.com/v/34921426</link>
-            <guid>https://tv.naver.com/v/34921426</guid>
-            <pubDate>Fri, 12 May 2023 12:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[4:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_122/RQPQj_1681373398435uQTsP_JPEG/aa2ad815-d9d1-11ed-99c6-80615f0bcc1c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크랙실버_Dash]]></title>
-            <link>https://tv.naver.com/v/34921397</link>
-            <guid>https://tv.naver.com/v/34921397</guid>
-            <pubDate>Fri, 12 May 2023 12:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_194/7as7q_1681373361189PTJNL_JPEG/6990e944-d9d1-11ed-935b-a0369ffda99c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
