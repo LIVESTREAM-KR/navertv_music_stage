@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 09:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 10:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2168,6 +2168,62 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230519_152/qyJoO_1684461456990t9edG_JPEG/c165f7fa-f5e3-11ed-8cf7-80615f0bcc48_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[송하예_너를 보는게 지친 하루에 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36087708</link>
+            <guid>https://tv.naver.com/v/36087708</guid>
+            <pubDate>Fri, 19 May 2023 10:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_269/HlPff_1684461453588JIUKo_JPEG/a05cc97b-f5e3-11ed-9a0b-a0369ffdf530_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송하예_바보가슴(with 김대우) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36087702</link>
+            <guid>https://tv.naver.com/v/36087702</guid>
+            <pubDate>Fri, 19 May 2023 10:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_89/Dceyv_1684461448983m5ht4_JPEG/7d546f43-f5e3-11ed-a7b9-a0369ffde1ec_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드원밴드_Rain (원곡 Uriah Heep) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36087699</link>
+            <guid>https://tv.naver.com/v/36087699</guid>
+            <pubDate>Fri, 19 May 2023 10:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[4:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_64/x9poy_16844614429930QA2X_JPEG/54150b49-f5e3-11ed-9d52-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드원밴드_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36087694</link>
+            <guid>https://tv.naver.com/v/36087694</guid>
+            <pubDate>Fri, 19 May 2023 10:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[6:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_218/gxQM8_1684461437218Og39i_JPEG/1add85ea-f5e3-11ed-b384-48df37e302ac_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드원밴드_Secret Sunshine (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36087354</link>
+            <guid>https://tv.naver.com/v/36087354</guid>
+            <pubDate>Fri, 19 May 2023 10:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[5:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_255/g3hgk_1684460852234InL3D_JPEG/e038673e-f5e2-11ed-837b-505dac8c3721_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드원밴드_크게 라디오를 켜고 (원곡 시나위) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36087346</link>
+            <guid>https://tv.naver.com/v/36087346</guid>
+            <pubDate>Fri, 19 May 2023 10:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[4:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_179/cwMaS_1684460841654mKmLP_JPEG/bb413507-f5e2-11ed-9d52-48df379ccacc_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드원밴드_하늘을 달리다(원곡 이적) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36087344</link>
+            <guid>https://tv.naver.com/v/36087344</guid>
+            <pubDate>Fri, 19 May 2023 10:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[5:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_40/sBZ53_1684460834536kDUKj_JPEG/80b51b6c-f5e2-11ed-833a-505dac8c3639_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아키텍쳐_Dark Matter (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/35936608</link>
             <guid>https://tv.naver.com/v/35936608</guid>
@@ -2334,62 +2390,6 @@
             <pubDate>Fri, 21 Apr 2023 09:15:01 GMT</pubDate>
             <content:encoded><![CDATA[3:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230420_202/OMFch_1681972904702XhwGy_JPEG/f27478c4-df45-11ed-9d98-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김기태_휠릴리 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35150612</link>
-            <guid>https://tv.naver.com/v/35150612</guid>
-            <pubDate>Fri, 21 Apr 2023 09:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_46/o9x4f_1681972897960rldIN_JPEG/c9c45d22-df45-11ed-9523-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주혁_우린 달랐고 달랐어 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35150390</link>
-            <guid>https://tv.naver.com/v/35150390</guid>
-            <pubDate>Fri, 21 Apr 2023 10:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_168/mKv3L_1681972612564SR9nz_JPEG/9ca0d797-df44-11ed-b9a4-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주혁_세탁소에서 만나요 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35150381</link>
-            <guid>https://tv.naver.com/v/35150381</guid>
-            <pubDate>Fri, 21 Apr 2023 10:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_266/F2JDe_1681972605897QMvD1_JPEG/80119752-df44-11ed-9523-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주혁_푸른밤 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35150377</link>
-            <guid>https://tv.naver.com/v/35150377</guid>
-            <pubDate>Fri, 21 Apr 2023 10:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_276/VhOU4_1681972601235SryWN_JPEG/5f958d4c-df44-11ed-9e51-a0369ffdb74c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리누_You my love (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35150370</link>
-            <guid>https://tv.naver.com/v/35150370</guid>
-            <pubDate>Fri, 21 Apr 2023 10:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_24/Fp0ka_1681972596367YuyXw_JPEG/3c3c0554-df44-11ed-8bb1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리누_수줍게 빛나던 그 모든 날 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35150363</link>
-            <guid>https://tv.naver.com/v/35150363</guid>
-            <pubDate>Fri, 21 Apr 2023 10:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[4:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_223/8Jp7t_16819725917644KfPn_JPEG/1af24ac2-df44-11ed-8d99-80615f0bcd58_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤성_창밖의 여자 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35150357</link>
-            <guid>https://tv.naver.com/v/35150357</guid>
-            <pubDate>Fri, 21 Apr 2023 10:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_59/FQQwg_1681972585601xL1N2_JPEG/0022e409-df44-11ed-92f0-a0369ffda02c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
