@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 05:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 06:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2032,6 +2032,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.569 - ONEUS(원어스), SECRET NUMBER(시크릿넘버), EPEX(이펙스), ATBO(에이티비오 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36095011</link>
+            <guid>https://tv.naver.com/v/36095011</guid>
+            <pubDate>Fri, 19 May 2023 06:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[53:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_24/JXn0Y_1684473318126ARmCP_JPEG/1684472350531.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.568 - EPEX(이펙스), DRIPPIN(드리핀), TEMPEST(템페스트), ALICE(앨리스) (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/35829564</link>
             <guid>https://tv.naver.com/v/35829564</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
             <content:encoded><![CDATA[58:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_243/p77R1_1672968384406Im3aM_PNG/1672966667549.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.551 – NIEL(니엘), EPEX(이펙스), TEMPEST(템페스트), DRIPPIN(드리핀), woo!ah! (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/31838321</link>
-            <guid>https://tv.naver.com/v/31838321</guid>
-            <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[55:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_102/jVzEz_1671771286193hYuxO_PNG/1671771277263.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아키텍쳐_Dark Matter (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
