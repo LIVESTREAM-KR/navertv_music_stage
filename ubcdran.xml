@@ -4,9 +4,25 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 08:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 09:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송하예_니 소식]]></title>
+            <link>https://tv.naver.com/v/36087717</link>
+            <guid>https://tv.naver.com/v/36087717</guid>
+            <pubDate>Fri, 19 May 2023 09:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_300/lM1kM_16844614613070kyVg_JPEG/e7b45645-f5e3-11ed-ad6d-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송하예_인터뷰]]></title>
+            <link>https://tv.naver.com/v/36087712</link>
+            <guid>https://tv.naver.com/v/36087712</guid>
+            <pubDate>Fri, 19 May 2023 09:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_152/qyJoO_1684461456990t9edG_JPEG/c165f7fa-f5e3-11ed-8cf7-80615f0bcc48_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아키텍쳐_Dark Matter]]></title>
             <link>https://tv.naver.com/v/35936608</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 21 Apr 2023 10:15:37 GMT</pubDate>
             <content:encoded><![CDATA[3:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230420_59/FQQwg_1681972585601xL1N2_JPEG/0022e409-df44-11ed-92f0-a0369ffda02c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤성_길 위에서]]></title>
-            <link>https://tv.naver.com/v/35150350</link>
-            <guid>https://tv.naver.com/v/35150350</guid>
-            <pubDate>Fri, 21 Apr 2023 10:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_94/If9oa_16819725763034Dqdg_JPEG/e74fe92a-df43-11ed-b9a4-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박현규_오르막길]]></title>
-            <link>https://tv.naver.com/v/35150334</link>
-            <guid>https://tv.naver.com/v/35150334</guid>
-            <pubDate>Fri, 21 Apr 2023 10:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_219/9RFnG_1681972565180jITdQ_JPEG/cea843ab-df43-11ed-9d98-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
