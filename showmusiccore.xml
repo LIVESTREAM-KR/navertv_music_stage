@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 08:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 09:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] aespa – Spicy(에스파 - 스파이시) 1위 직캠 FanCam | Show! MusicCore | MBC230520방송]]></title>
+            <link>https://tv.naver.com/v/36130495</link>
+            <guid>https://tv.naver.com/v/36130495</guid>
+            <pubDate>Sat, 20 May 2023 09:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[4:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_2/P1bkr_16845726882542OuN1_JPEG/clip_20230520173206_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] aespa WINTER - Salty & Sweet(에스파 윈터 - 솔티 앤 스위트) Close-up Cam | Show! MusicCore | MBC230513방]]></title>
             <link>https://tv.naver.com/v/35950816</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 13 May 2023 09:12:23 GMT</pubDate>
             <content:encoded><![CDATA[3:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230513_215/FM4h5_1683968487301yemPU_JPEG/clip_20230513172116_59.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] aespa WINTER – Spicy(에스파 윈터 - 스파이시) FanCam | Show! MusicCore | MBC230513방송]]></title>
-            <link>https://tv.naver.com/v/35892275</link>
-            <guid>https://tv.naver.com/v/35892275</guid>
-            <pubDate>Sat, 13 May 2023 09:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230513_106/cATnn_1683967888381wVbyj_JPEG/clip_20230513171326_55.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
