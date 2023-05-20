@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 13:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 14:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] ATBO - Next to Me(에이티비오 – 넥스트 투 미) FanCam | Show! MusicCore | MBC230520방송]]></title>
+            <link>https://tv.naver.com/v/36136099</link>
+            <guid>https://tv.naver.com/v/36136099</guid>
+            <pubDate>Sat, 20 May 2023 14:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_274/U7KPk_1684588589975WAKvb_JPEG/clip_20230520194741_97.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] The Wind - ISLAND(더윈드 – 아일랜드) FanCam | Show! MusicCore | MBC230520방송]]></title>
             <link>https://tv.naver.com/v/36135983</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 20 May 2023 11:11:25 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230520_42/qG7i8_1684579588747RRr2n_JPEG/clip_20230520191048_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS KANG IRANG – RUN(소년판타지 강이랑 - 뛰어) FanCam | Show! MusicCore | MBC230520방송]]></title>
-            <link>https://tv.naver.com/v/36132840</link>
-            <guid>https://tv.naver.com/v/36132840</guid>
-            <pubDate>Sat, 20 May 2023 11:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[4:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_154/7YFaK_16845792893005FNQY_JPEG/clip_20230520191057_79.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
