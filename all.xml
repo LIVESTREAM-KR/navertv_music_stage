@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 12:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 13:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,94 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] The Wind - ISLAND(더윈드 – 아일랜드) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36135983</link>
+            <guid>https://tv.naver.com/v/36135983</guid>
+            <pubDate>Sat, 20 May 2023 13:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_235/iUw1J_1684588289180HBo9m_JPEG/clip_20230520194744_99.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] YOUNITE - WATERFALL(유나이트 – 워터폴) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36135835</link>
+            <guid>https://tv.naver.com/v/36135835</guid>
+            <pubDate>Sat, 20 May 2023 13:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_203/L3mbi_1684587989790lo17s_JPEG/clip_20230520194743_98.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Xdinary Heroes - DEAR H.(엑스디너리 히어로즈 – 디어 에이치) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36135715</link>
+            <guid>https://tv.naver.com/v/36135715</guid>
+            <pubDate>Sat, 20 May 2023 13:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_15/JdJt2_1684587688793PnjiV_JPEG/clip_20230520194745_100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] BAE173 - GT(비에이이173 – 지티) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36135630</link>
+            <guid>https://tv.naver.com/v/36135630</guid>
+            <pubDate>Sat, 20 May 2023 13:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_109/2OSk0_1684587448755LiHAE_JPEG/clip_20230520194746_101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ONEUS - ERASE ME(원어스 – 이레이즈 미) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36135605</link>
+            <guid>https://tv.naver.com/v/36135605</guid>
+            <pubDate>Sat, 20 May 2023 13:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_44/186wQ_1684587389911z5IeL_JPEG/clip_20230520194747_102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VERIVERY KANGMIN – Crazy Like That(베리베리 강민 - 크레이지 라이크 댓) FanCam | Show! MusicCore | MBC2305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36135521</link>
+            <guid>https://tv.naver.com/v/36135521</guid>
+            <pubDate>Sat, 20 May 2023 13:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_93/VOrmW_1684587089220fW7Fk_JPEG/clip_20230520194201_95.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VERIVERY - Crazy Like That(베리베리 – 크레이지 라이크 댓) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36135308</link>
+            <guid>https://tv.naver.com/v/36135308</guid>
+            <pubDate>Sat, 20 May 2023 13:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_56/40yUJ_16845865500087bwMx_JPEG/clip_20230520194202_96.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] aespa - Spicy(에스파 – 스파이시) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36135284</link>
+            <guid>https://tv.naver.com/v/36135284</guid>
+            <pubDate>Sat, 20 May 2023 13:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_157/A8mlK_1684586488740lBHmN_JPEG/clip_20230520193634_86.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] aespa WINTER – Spicy(에스파 윈터 - 스파이시) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36135167</link>
+            <guid>https://tv.naver.com/v/36135167</guid>
+            <pubDate>Sat, 20 May 2023 13:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_181/HzrmG_1684586189623RvNJk_JPEG/clip_20230520193639_88.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] aespa NINGNING – Spicy(에스파 닝닝 - 스파이시) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36134966</link>
+            <guid>https://tv.naver.com/v/36134966</guid>
+            <pubDate>Sat, 20 May 2023 13:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_300/nHtZx_1684585648950akQKq_JPEG/clip_20230520193637_87.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] MIJOO - Movie Star(미주 – 무비 스타) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36134937</link>
+            <guid>https://tv.naver.com/v/36134937</guid>
+            <pubDate>Sat, 20 May 2023 13:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_201/f9LLc_1684585589158vxArl_JPEG/clip_20230520193841_91.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] LEE CHAEYEON – KNOCK(이채연 - 노크) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -166,94 +254,6 @@
             <pubDate>Sat, 20 May 2023 11:11:25 GMT</pubDate>
             <content:encoded><![CDATA[4:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230520_154/7YFaK_16845792893005FNQY_JPEG/clip_20230520191057_79.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS SANTA – SPACEMAN(소년판타지 산타 - 스페이스맨) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36132734</link>
-            <guid>https://tv.naver.com/v/36132734</guid>
-            <pubDate>Sat, 20 May 2023 11:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_222/kcr6p_16845789884387nWM1_JPEG/clip_20230520191045_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS HAYATO – SPACEMAN(소년판타지 하야토 - 스페이스맨) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36132563</link>
-            <guid>https://tv.naver.com/v/36132563</guid>
-            <pubDate>Sat, 20 May 2023 11:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_269/98ZxT_1684578448697dRqz1_JPEG/clip_20230520191051_76.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] (G)I-DLE SHUHUA – Queencard((여자)아이들 슈화 - 퀸카) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36131607</link>
-            <guid>https://tv.naver.com/v/36131607</guid>
-            <pubDate>Sat, 20 May 2023 10:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_186/yOWQh_1684575389263OqEAN_JPEG/clip_20230520175756_69.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] (G)I-DLE MIYEON – Queencard((여자)아이들 미연 - 퀸카) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36131525</link>
-            <guid>https://tv.naver.com/v/36131525</guid>
-            <pubDate>Sat, 20 May 2023 10:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_242/nYDQD_1684575089432UKjF6_JPEG/clip_20230520175518_68.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36131413</link>
-            <guid>https://tv.naver.com/v/36131413</guid>
-            <pubDate>Sat, 20 May 2023 10:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_238/DaH5G_16845747896966l6PU_JPEG/clip_20230520175457_64.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] (G)I-DLE YUQI – Queencard((여자)아이들 우기 - 퀸카) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36131317</link>
-            <guid>https://tv.naver.com/v/36131317</guid>
-            <pubDate>Sat, 20 May 2023 10:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_206/oey14_16845744889924kMKW_JPEG/clip_20230520175514_67.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] (G)I-DLE MINNIE – Queencard((여자)아이들 민니 - 퀸카) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36131180</link>
-            <guid>https://tv.naver.com/v/36131180</guid>
-            <pubDate>Sat, 20 May 2023 10:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_51/Qspea_1684574189342sp1CY_JPEG/clip_20230520175459_65.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] (G)I-DLE SOYEON – Queencard((여자)아이들 소연 - 퀸카) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36131077</link>
-            <guid>https://tv.naver.com/v/36131077</guid>
-            <pubDate>Sat, 20 May 2023 10:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_257/lTW3S_1684573950055U9Ka4_JPEG/clip_20230520175510_66.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] aespa – Spicy(에스파 - 스파이시) 1위 직캠 FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36130495</link>
-            <guid>https://tv.naver.com/v/36130495</guid>
-            <pubDate>Sat, 20 May 2023 09:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_2/P1bkr_16845726882542OuN1_JPEG/clip_20230520173206_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] aespa WINTER - Salty & Sweet(에스파 윈터 - 솔티 앤 스위트) Close-up Cam | Show! MusicCore | MBC230513방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35950816</link>
-            <guid>https://tv.naver.com/v/35950816</guid>
-            <pubDate>Mon, 15 May 2023 12:33:23 GMT</pubDate>
-            <content:encoded><![CDATA[4:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_297/m0G10_1684150287305qtd0w_JPEG/clip_20230515194627_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] aespa KARINA - Salty & Sweet(에스파 카리나 - 솔티 앤 스위트) Close-up Cam | Show! MusicCore | MBC230513 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35950365</link>
-            <guid>https://tv.naver.com/v/35950365</guid>
-            <pubDate>Mon, 15 May 2023 12:33:23 GMT</pubDate>
-            <content:encoded><![CDATA[4:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_36/dH6gv_1684149687859UQIab_JPEG/clip_20230515194614_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비투비 - 나의 바람(Wind And Wish) | SBS 230514 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
