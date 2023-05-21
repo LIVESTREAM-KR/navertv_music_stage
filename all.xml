@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 06:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 07:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,54 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230520_42/qG7i8_1684579588747RRr2n_JPEG/clip_20230520191048_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[(여자)아이들 - 퀸카(Queencard) | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36148833</link>
+            <guid>https://tv.naver.com/v/36148833</guid>
+            <pubDate>Sun, 21 May 2023 07:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[2:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_131/bc4Dr_1684651288689SdFTh_JPEG/1687695e-2be1-44d8-9e1d-56525fec8573.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa - Spicy | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36148698</link>
+            <guid>https://tv.naver.com/v/36148698</guid>
+            <pubDate>Sun, 21 May 2023 07:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_198/W8mku_1684650994737D9vkR_JPEG/2fffe555-5316-404b-b80a-e91877e34fea.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LE SSERAFIM - UNFORGIVEN(feat. Nile Rodgers) | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36148694</link>
+            <guid>https://tv.naver.com/v/36148694</guid>
+            <pubDate>Sun, 21 May 2023 07:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_194/lW2vd_1684650991053gmVr8_JPEG/f69ef8f8-52d5-40bc-a43e-5d0a2602a5a1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미주(MIJOO) - Movie Star | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36148544</link>
+            <guid>https://tv.naver.com/v/36148544</guid>
+            <pubDate>Sun, 21 May 2023 07:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_164/raufn_1684650689071lUK0W_JPEG/0f624e85-0184-4a32-bb6d-18e1355152f8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원어스(ONEUS) - ERASE ME | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36148424</link>
+            <guid>https://tv.naver.com/v/36148424</guid>
+            <pubDate>Sun, 21 May 2023 07:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_243/kZqs6_1684650451198XFyJl_JPEG/362093ac-237e-45fa-8492-a04f40645841.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베리베리(VERIVERY) - Crazy Like That | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36148423</link>
+            <guid>https://tv.naver.com/v/36148423</guid>
+            <pubDate>Sun, 21 May 2023 07:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_36/YqTUU_1684650449199EXq1z_JPEG/01f1ce1e-e93d-478e-b30a-62294d491219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BAE173 - GT(Prod. KENZIE) | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/36148070</link>
             <guid>https://tv.naver.com/v/36148070</guid>
@@ -446,54 +494,6 @@
             <pubDate>Sun, 14 May 2023 07:13:19 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230514_164/cpA3Q_1684048287135MAvxQ_JPEG/637befbf-9e29-49c6-bc62-34fbc19bcfa0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민민(MinMin) - Take Me | SBS 230514 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35908999</link>
-            <guid>https://tv.naver.com/v/35908999</guid>
-            <pubDate>Sun, 14 May 2023 07:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230514_215/ohtG0_1684047990501zTRrR_JPEG/209475e8-53df-489e-bf8f-f76912763915.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AIMERS - Bubble | SBS 230514 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35908997</link>
-            <guid>https://tv.naver.com/v/35908997</guid>
-            <pubDate>Sun, 14 May 2023 07:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230514_35/DgxXp_16840479872642kujU_JPEG/8fdc68f8-e153-4a57-b427-2556e0f42730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ADYA - Per | SBS 230514 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35908817</link>
-            <guid>https://tv.naver.com/v/35908817</guid>
-            <pubDate>Sun, 14 May 2023 07:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230514_157/YSoo3_16840474472829Tv3e_JPEG/7a0eecca-6269-45d2-ba9a-5e90927901a3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장혜리 - 사랑 그게 뭔데 | SBS 230514 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35908708</link>
-            <guid>https://tv.naver.com/v/35908708</guid>
-            <pubDate>Sun, 14 May 2023 07:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230514_186/36C6J_1684047087622CCWeb_JPEG/0bf61afe-a7a3-4e0f-a386-7e94fd73cbe6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴(SEVENTEEN) - My Life | SBS 230507 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35675616</link>
-            <guid>https://tv.naver.com/v/35675616</guid>
-            <pubDate>Sun, 07 May 2023 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_27/gwPgB_1683442648595HowFt_JPEG/1f195b09-c070-48ed-9980-0069e7d5bf51.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비투비 - 나의 바람(Wind And Wish) | SBS 230507 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35675590</link>
-            <guid>https://tv.naver.com/v/35675590</guid>
-            <pubDate>Sun, 07 May 2023 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_64/XjB01_16834425874795OUAW_JPEG/9b1ede76-697b-450e-9e1e-4bd679e285af.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
