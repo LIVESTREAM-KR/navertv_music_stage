@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 05:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 06:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,94 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230520_42/qG7i8_1684579588747RRr2n_JPEG/clip_20230520191048_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BAE173 - GT(Prod. KENZIE) | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36148070</link>
+            <guid>https://tv.naver.com/v/36148070</guid>
+            <pubDate>Sun, 21 May 2023 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_149/4sSZ4_1684649550266bAFpb_JPEG/ba639c3c-2a26-47f4-99c4-0556c096bd22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATBO - Next to Me | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36148044</link>
+            <guid>https://tv.naver.com/v/36148044</guid>
+            <pubDate>Sun, 21 May 2023 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_102/lPP6L_1684649491189jWxpD_JPEG/e8508290-9099-4d1a-a854-65464d33ce4b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ICHILLIN’(아이칠린) - Siren | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36148042</link>
+            <guid>https://tv.naver.com/v/36148042</guid>
+            <pubDate>Sun, 21 May 2023 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_19/0VnJH_1684649489579HUdMg_JPEG/0a5166c8-a762-4329-84b9-9089160a3168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YOUNITE - WATERFALL | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36147910</link>
+            <guid>https://tv.naver.com/v/36147910</guid>
+            <pubDate>Sun, 21 May 2023 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_35/MOkbK_1684649190800A2UDS_JPEG/8639894e-3c3d-41f5-aa81-53d579aadc7d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes - Dear H. | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36147730</link>
+            <guid>https://tv.naver.com/v/36147730</guid>
+            <pubDate>Sun, 21 May 2023 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_45/5HxWe_1684648654536bzK2W_JPEG/1c090e4a-4bf6-4a9e-8e04-3bc4cb404556.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EPEX(이펙스) - 여우가 시집가는 날 | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36147726</link>
+            <guid>https://tv.naver.com/v/36147726</guid>
+            <pubDate>Sun, 21 May 2023 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_197/B7hHw_1684648648561FDVQc_JPEG/4907d767-8b8e-4dda-93cb-da9fdee7fdba.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DRIPPIN - SEVEN SINS | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36147577</link>
+            <guid>https://tv.naver.com/v/36147577</guid>
+            <pubDate>Sun, 21 May 2023 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_93/iHuGx_1684648289222fKX6I_JPEG/fd1d06b7-0da4-4718-aa9f-d4b8f7f50e73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양지은 - 물레방아 | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36147457</link>
+            <guid>https://tv.naver.com/v/36147457</guid>
+            <pubDate>Sun, 21 May 2023 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_139/4UnUA_1684647990975lF7Un_JPEG/a752126c-6c9b-4f70-b0c3-6c0232d01f6d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더윈드(The Wind) - ISLAND | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36147456</link>
+            <guid>https://tv.naver.com/v/36147456</guid>
+            <pubDate>Sun, 21 May 2023 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_126/Byx66_16846479889898nkCo_JPEG/9809dd24-3954-4195-8105-892b3475c49b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙스완 - Karma | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36147324</link>
+            <guid>https://tv.naver.com/v/36147324</guid>
+            <pubDate>Sun, 21 May 2023 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_178/NyM7a_1684647690863MuxiT_JPEG/b9e94690-ad91-4e28-b1d2-bc2389735d67.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AIMERS - Bubble | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36147322</link>
+            <guid>https://tv.naver.com/v/36147322</guid>
+            <pubDate>Sun, 21 May 2023 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_286/VBN9k_1684647689279N4wr7_JPEG/adb0e1ec-83bd-4df9-99ae-84f8dafd7e93.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[비투비 - 나의 바람(Wind And Wish) | SBS 230514 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/35910136</link>
             <guid>https://tv.naver.com/v/35910136</guid>
@@ -406,94 +494,6 @@
             <pubDate>Sun, 07 May 2023 07:11:59 GMT</pubDate>
             <content:encoded><![CDATA[3:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230507_64/XjB01_16834425874795OUAW_JPEG/9b1ede76-697b-450e-9e1e-4bd679e285af.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 도재정 - Perfume | SBS 230507 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35675495</link>
-            <guid>https://tv.naver.com/v/35675495</guid>
-            <pubDate>Sun, 07 May 2023 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_283/b9HJZ_1683442292238tlya3_JPEG/9bbc3778-5664-4ca8-93ad-83daae687ae1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LE SSERAFIM - INTRO+UNFORGIVEN(feat. Nile Rodgers) | SBS 230507 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35675401</link>
-            <guid>https://tv.naver.com/v/35675401</guid>
-            <pubDate>Sun, 07 May 2023 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_27/yJqSF_1683441988720NfVHg_JPEG/9dee119e-00c2-4f48-8ae4-4ea6ca341ba7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 도재정 - Kiss | SBS 230507 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35675324</link>
-            <guid>https://tv.naver.com/v/35675324</guid>
-            <pubDate>Sun, 07 May 2023 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_207/1bktH_1683441747591ms2yF_JPEG/a9e046f1-5c76-45bd-b578-30b9f2baa1ff.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LE SSERAFIM - No-Return(Into the unknown) | SBS 230507 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35675303</link>
-            <guid>https://tv.naver.com/v/35675303</guid>
-            <pubDate>Sun, 07 May 2023 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_230/OsGVz_1683441688792qPvtn_JPEG/a9fd04f6-502d-4071-a866-6fab7a6e4c9d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DRIPPIN - SEVEN SINS | SBS 230507 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35675302</link>
-            <guid>https://tv.naver.com/v/35675302</guid>
-            <pubDate>Sun, 07 May 2023 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_157/6Xq69_1683441687096vjvi4_JPEG/0087e77e-dc99-4d13-b1a5-39f1441f5af6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EPEX(이펙스) - 여우가 시집가는 날 | SBS 230507 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35675208</link>
-            <guid>https://tv.naver.com/v/35675208</guid>
-            <pubDate>Sun, 07 May 2023 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_63/VHwfH_1683441387053GT3I8_JPEG/fccb19a8-3c8e-45cb-b8a3-f0752d9cfb0e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앨리스(ALICE) - SHOW DOWN | SBS 230507 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35675005</link>
-            <guid>https://tv.naver.com/v/35675005</guid>
-            <pubDate>Sun, 07 May 2023 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_6/x8trE_1683440849148tLkkM_JPEG/ade8b6e2-cb22-4437-85ca-3f24a263101c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TEMPEST(템페스트) - 난장(Dangerous) | SBS 230507 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35675001</link>
-            <guid>https://tv.naver.com/v/35675001</guid>
-            <pubDate>Sun, 07 May 2023 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_40/0Deie_1683440847089V3728_JPEG/02234066-b8a3-4f35-8058-75380a95e2a0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Xdinary Heroes - Freakin’ Bad | SBS 230507 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35674982</link>
-            <guid>https://tv.naver.com/v/35674982</guid>
-            <pubDate>Sun, 07 May 2023 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_219/fZOmf_1683440788502fQlDQ_JPEG/bace817c-428f-4f18-be03-a4e4ff2f0d8d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블리처스(BLITZERS) - 마카레나(Macarena) | SBS 230507 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35674887</link>
-            <guid>https://tv.naver.com/v/35674887</guid>
-            <pubDate>Sun, 07 May 2023 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_94/HHLl9_1683440488713qiSag_JPEG/53326d4b-781b-41f3-af7b-48d43c450cdc.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드림노트(DreamNote) - Lemonade  | SBS 230507 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35674782</link>
-            <guid>https://tv.naver.com/v/35674782</guid>
-            <pubDate>Sun, 07 May 2023 06:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_242/pmn59_1683440188689pIOtW_JPEG/ec08a313-76b3-42c6-acfa-d07c28c80a2b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
