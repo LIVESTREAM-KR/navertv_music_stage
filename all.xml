@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 04:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 05:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쇼챔피언에 온 걸 축하해 Every Day~💛🫶[예고] (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36174766</link>
+            <guid>https://tv.naver.com/v/36174766</guid>
+            <pubDate>Mon, 22 May 2023 05:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230522_167/or3Fk_16847301923321IzvM_JPEG/CA202305240007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[5월 2주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (우아! 나나, 빌리 츠키) | Show Champion | EP.475 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/35828870</link>
             <guid>https://tv.naver.com/v/35828870</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 10 May 2023 10:15:23 GMT</pubDate>
             <content:encoded><![CDATA[2:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230510_123/MsySG_1683712891222IHapY_JPEG/CA202305100092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑스디너리 히어로즈(Xdinary Heroes) - Freakin’ Bad (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35793679</link>
-            <guid>https://tv.naver.com/v/35793679</guid>
-            <pubDate>Wed, 10 May 2023 10:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_163/77aQ0_16837128872183AWca_JPEG/CA202305100091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
