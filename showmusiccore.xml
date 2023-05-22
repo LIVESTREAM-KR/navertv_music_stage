@@ -4,9 +4,49 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 05:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 06:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] (G)I-DLE SOYEON - Queencard((여자)아이들 소연 - 퀸카) Close-up Cam | Show! MusicCore | MBC230520방송]]></title>
+            <link>https://tv.naver.com/v/36177495</link>
+            <guid>https://tv.naver.com/v/36177495</guid>
+            <pubDate>Mon, 22 May 2023 06:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230522_263/4cuop_1684734149327srIqm_JPEG/clip_20230522141005_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] (G)I-DLE MIYEON - Queencard((여자)아이들 미연 - 퀸카) Close-up Cam | Show! MusicCore | MBC230520방송]]></title>
+            <link>https://tv.naver.com/v/36177449</link>
+            <guid>https://tv.naver.com/v/36177449</guid>
+            <pubDate>Mon, 22 May 2023 06:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230522_113/dh8cq_1684734090178abHpC_JPEG/clip_20230522141002_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] (G)I-DLE SHUHUA - Queencard((여자)아이들 슈화 - 퀸카) Close-up Cam | Show! MusicCore | MBC230520방송]]></title>
+            <link>https://tv.naver.com/v/36177206</link>
+            <guid>https://tv.naver.com/v/36177206</guid>
+            <pubDate>Mon, 22 May 2023 06:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230522_96/C2L0Q_16847337912417g68b_JPEG/clip_20230522141008_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] (G)I-DLE YUQI - Queencard((여자)아이들 우기 - 퀸카) Close-up Cam | Show! MusicCore | MBC230520방송]]></title>
+            <link>https://tv.naver.com/v/36176985</link>
+            <guid>https://tv.naver.com/v/36176985</guid>
+            <pubDate>Mon, 22 May 2023 06:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230522_259/PtwA5_16847334901558ApKM_JPEG/clip_20230522141007_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] (G)I-DLE MINNIE - Queencard((여자)아이들 민니 - 퀸카) Close-up Cam | Show! MusicCore | MBC230520방송]]></title>
+            <link>https://tv.naver.com/v/36176819</link>
+            <guid>https://tv.naver.com/v/36176819</guid>
+            <pubDate>Mon, 22 May 2023 06:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230522_75/DPgIl_1684733248951XIVA0_JPEG/clip_20230522141004_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] ATBO - Next to Me(에이티비오 – 넥스트 투 미) FanCam | Show! MusicCore | MBC230520방송]]></title>
             <link>https://tv.naver.com/v/36136099</link>
@@ -206,46 +246,6 @@
             <pubDate>Sat, 20 May 2023 12:23:41 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230520_105/CXJj8_1684581149954wEqwJ_JPEG/clip_20230520191053_77.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS - SPACEMAN(소년판타지 – 스페이스맨) FanCam | Show! MusicCore | MBC230520방송]]></title>
-            <link>https://tv.naver.com/v/36133382</link>
-            <guid>https://tv.naver.com/v/36133382</guid>
-            <pubDate>Sat, 20 May 2023 12:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_139/flHgU_1684581089413tP4zB_JPEG/clip_20230520191040_70.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS K-SOUL – SPACEMAN(소년판타지 소울 - 스페이스맨) FanCam | Show! MusicCore | MBC230520방송]]></title>
-            <link>https://tv.naver.com/v/36133178</link>
-            <guid>https://tv.naver.com/v/36133178</guid>
-            <pubDate>Sat, 20 May 2023 11:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_224/E26C2_1684580489350QbSQt_JPEG/clip_20230520191046_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS HA SEOKHEE – SPACEMAN(소년판타지 하석희 - 스페이스맨) FanCam | Show! MusicCore | MBC230520방]]></title>
-            <link>https://tv.naver.com/v/36133115</link>
-            <guid>https://tv.naver.com/v/36133115</guid>
-            <pubDate>Sat, 20 May 2023 11:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_98/LMuZ1_16845802491281CQ5B_JPEG/clip_20230520191049_75.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS KIM GYURAE – SPACEMAN(소년판타지 김규래 - 스페이스맨) FanCam | Show! MusicCore | MBC230520방]]></title>
-            <link>https://tv.naver.com/v/36133019</link>
-            <guid>https://tv.naver.com/v/36133019</guid>
-            <pubDate>Sat, 20 May 2023 11:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_119/2gigH_1684579888453JzcWi_JPEG/clip_20230520191043_71.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS LEE HANBIN – SPACEMAN(소년판타지 이한빈 - 스페이스맨) FanCam | Show! MusicCore | MBC230520방]]></title>
-            <link>https://tv.naver.com/v/36132930</link>
-            <guid>https://tv.naver.com/v/36132930</guid>
-            <pubDate>Sat, 20 May 2023 11:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_42/qG7i8_1684579588747RRr2n_JPEG/clip_20230520191048_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
