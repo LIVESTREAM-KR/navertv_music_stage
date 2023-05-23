@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 07:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 08:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] aespa KARINA - Spicy(에스파 카리나 - 스파이시) Close-up Cam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36224677</link>
+            <guid>https://tv.naver.com/v/36224677</guid>
+            <pubDate>Tue, 23 May 2023 08:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_59/KwAfB_1684826488879tHkNN_JPEG/clip_20230523154115_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] aespa WINTER - Spicy(에스파 윈터 - 스파이시) Close-up Cam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 20 May 2023 12:23:41 GMT</pubDate>
             <content:encoded><![CDATA[4:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230520_125/B8zxl_1684583188667JfV4h_JPEG/clip_20230520191103_83.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS KANG HYUNWOO – RUN(소년판타지 강현우 - 뛰어) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36133988</link>
-            <guid>https://tv.naver.com/v/36133988</guid>
-            <pubDate>Sat, 20 May 2023 12:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[4:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_90/WPqk8_1684582888492gWqUb_JPEG/clip_20230520191059_80.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(여자)아이들 - 퀸카(Queencard) | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
