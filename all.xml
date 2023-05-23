@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 06:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 07:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] aespa WINTER - Spicy(에스파 윈터 - 스파이시) Close-up Cam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36224170</link>
+            <guid>https://tv.naver.com/v/36224170</guid>
+            <pubDate>Tue, 23 May 2023 07:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_300/ppCBV_1684825950305HuADf_JPEG/clip_20230523154127_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] aespa NINGNING - Spicy(에스파 닝닝 - 스파이시) Close-up Cam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36224099</link>
+            <guid>https://tv.naver.com/v/36224099</guid>
+            <pubDate>Tue, 23 May 2023 07:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_291/ow8Lw_1684825890816BmFuz_JPEG/clip_20230523154141_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] aespa GISELLE - Spicy(에스파 지젤 - 스파이시) Close-up Cam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36223759</link>
+            <guid>https://tv.naver.com/v/36223759</guid>
+            <pubDate>Tue, 23 May 2023 07:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_174/OW9FY_1684825589480SYBFy_JPEG/clip_20230523154121_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] MIJOO - Movie Star(미주 - 무비 스타) Close-up Cam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Sat, 20 May 2023 12:23:41 GMT</pubDate>
             <content:encoded><![CDATA[4:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230520_90/WPqk8_1684582888492gWqUb_JPEG/clip_20230520191059_80.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS OH HYEONTAE – RUN(소년판타지 오현태 - 뛰어) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36133893</link>
-            <guid>https://tv.naver.com/v/36133893</guid>
-            <pubDate>Sat, 20 May 2023 12:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[4:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_168/4FFNL_1684582589058fTfTc_JPEG/clip_20230520191105_84.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS KEUM JINHO – RUN(소년판타지 금진호 - 뛰어) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36133701</link>
-            <guid>https://tv.naver.com/v/36133701</guid>
-            <pubDate>Sat, 20 May 2023 12:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[4:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_147/I7ojo_1684581989548Mymif_JPEG/clip_20230520191100_81.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS - RUN(소년판타지 – 뛰어) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36133597</link>
-            <guid>https://tv.naver.com/v/36133597</guid>
-            <pubDate>Sat, 20 May 2023 12:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[4:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_119/AoIvz_1684581688277drcbS_JPEG/clip_20230520191055_78.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(여자)아이들 - 퀸카(Queencard) | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
