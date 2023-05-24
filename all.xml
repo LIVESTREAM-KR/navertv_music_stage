@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 09:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 10:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,86 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[원어스(ONEUS) - 잇다 있다 잊었다(Unforgettable) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36272228</link>
+            <guid>https://tv.naver.com/v/36272228</guid>
+            <pubDate>Wed, 24 May 2023 10:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_260/Fk0Hl_1684923090279eE2kB_JPEG/CA202305240084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원어스(ONEUS) - ERASE ME (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36272069</link>
+            <guid>https://tv.naver.com/v/36272069</guid>
+            <pubDate>Wed, 24 May 2023 10:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_186/B7kkP_1684922799129ooSLs_JPEG/CA202305240087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT DEBUT] 에이디야(ADYA) - Per (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36272060</link>
+            <guid>https://tv.naver.com/v/36272060</guid>
+            <pubDate>Wed, 24 May 2023 10:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_84/xuyP0_16849227936542jDxi_JPEG/CA202305240070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더윈드(The Wind) - ISLAND (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36272058</link>
+            <guid>https://tv.naver.com/v/36272058</guid>
+            <pubDate>Wed, 24 May 2023 10:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_36/cLqsQ_1684922791668GN6v4_JPEG/CA202305240068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 에이티비오(ATBO) - Next to Me (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36271940</link>
+            <guid>https://tv.naver.com/v/36271940</guid>
+            <pubDate>Wed, 24 May 2023 10:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_114/8gGN7_1684922489380mmOJI_JPEG/CA202305240072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! '(여자)아이들' 나!왔어✋🏻 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36271837</link>
+            <guid>https://tv.naver.com/v/36271837</guid>
+            <pubDate>Wed, 24 May 2023 10:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_207/4eBRg_1684922255408JSjVN_JPEG/CA202305240073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MC석 코너] 'ONEUS'에게 주문하신 OO 나왔습니다♥ (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36271813</link>
+            <guid>https://tv.naver.com/v/36271813</guid>
+            <pubDate>Wed, 24 May 2023 10:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_221/YZBFa_1684922190278INpb4_JPEG/CA202305240069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이티비오(ATBO) - BOUNCE (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36271682</link>
+            <guid>https://tv.naver.com/v/36271682</guid>
+            <pubDate>Wed, 24 May 2023 10:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_76/GnvQa_1684921892528gNa84_JPEG/CA202305240071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT DEBUT] 김도아(KIMDOAH) - 꿈의 태엽 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36271680</link>
+            <guid>https://tv.naver.com/v/36271680</guid>
+            <pubDate>Wed, 24 May 2023 10:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_84/FsQgB_1684921890513PCrGH_JPEG/CA202305240067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민민(MINMIN) - Take Me (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36270806</link>
+            <guid>https://tv.naver.com/v/36270806</guid>
+            <pubDate>Wed, 24 May 2023 10:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_175/XzLOt_1684920094155DchiE_JPEG/CA202305240066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[쇼챔피언에 온 걸 축하해 Every Day~💛🫶[예고] (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/36174766</link>
             <guid>https://tv.naver.com/v/36174766</guid>
@@ -1374,86 +1454,6 @@
             <pubDate>Wed, 10 May 2023 11:12:37 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230510_165/gcGro_1683705987846HmzL9_JPEG/CA202305100052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] LE SSERAFIM KAZUHA (르세라핌 카즈하) - UNFORGIVEN (feat. Nile Rodgers) | Show Champion | EP.475 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35788873</link>
-            <guid>https://tv.naver.com/v/35788873</guid>
-            <pubDate>Wed, 10 May 2023 11:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_5/aTVeU_1683705687183OLDQm_JPEG/CA202305100055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] LE SSERAFIM HONG EUNCHAE(르세라핌 홍은채)-UNFORGIVEN (feat. Nile Rodgers) |Show Champion| EP.475 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35788411</link>
-            <guid>https://tv.naver.com/v/35788411</guid>
-            <pubDate>Wed, 10 May 2023 11:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_106/gCIsO_16837050877159ijNe_JPEG/CA202305100054_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 원픽캠 4K] LE SSERAFIM KIM CHAEWON(르세라핌 김채원)-UNFORGIVEN (feat. Nile Rodgers) |Show Champion|EP.475 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35787993</link>
-            <guid>https://tv.naver.com/v/35787993</guid>
-            <pubDate>Wed, 10 May 2023 11:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_190/O4tHk_1683704548914346yp_JPEG/CA202305100051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] LE SSERAFIM KIM CHAEWON(르세라핌 김채원) - UNFORGIVEN (feat. Nile Rodgers) |Show Champion|EP.475 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35787992</link>
-            <guid>https://tv.naver.com/v/35787992</guid>
-            <pubDate>Wed, 10 May 2023 11:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_160/7oE0O_168370454772993RG3_JPEG/CA202305100049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] LE SSERAFIM SAKURA (르세라핌 사쿠라) - UNFORGIVEN (feat. Nile Rodgers) | Show Champion | EP.475 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35787509</link>
-            <guid>https://tv.naver.com/v/35787509</guid>
-            <pubDate>Wed, 10 May 2023 11:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_228/IyKHH_1683703887445QPckB_JPEG/CA202305100050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드리핀(DRIPPIN) - SEVEN SINS (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35794578</link>
-            <guid>https://tv.naver.com/v/35794578</guid>
-            <pubDate>Wed, 10 May 2023 11:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_1/Tdyes_1683714447605m49LA_JPEG/CA202305100095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] 르세라핌(LE SSERAFIM) - UNFORGIVEN (feat. Nile Rodgers) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35794362</link>
-            <guid>https://tv.naver.com/v/35794362</guid>
-            <pubDate>Wed, 10 May 2023 11:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_179/VILbi_1683714089460VwAiA_JPEG/CA202305100096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엔딩원샷] 이펙스(EPEX) - Sunshower(여우가 시집가는 날) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35794207</link>
-            <guid>https://tv.naver.com/v/35794207</guid>
-            <pubDate>Wed, 10 May 2023 11:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_2/UgRF4_1683713788909LRJQt_JPEG/CA202305100094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엔딩원샷] 전설의 우산 씬 재연하기☂💘 EPEX 엔딩요정 주인공은 과연 누구? (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35793859</link>
-            <guid>https://tv.naver.com/v/35793859</guid>
-            <pubDate>Wed, 10 May 2023 10:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[4:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_213/leRsO_1683713187220nJSOe_JPEG/CA202305100093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최초공개] 이펙스(EPEX) - 사랑하는 내 님아 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35793683</link>
-            <guid>https://tv.naver.com/v/35793683</guid>
-            <pubDate>Wed, 10 May 2023 10:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_123/MsySG_1683712891222IHapY_JPEG/CA202305100092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
