@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 12:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 13:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] ONEUS - Unforgettable (원어스 - 잇다 있다 잊었다) l Show Champion l EP.476 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36291395</link>
+            <guid>https://tv.naver.com/v/36291395</guid>
+            <pubDate>Thu, 25 May 2023 13:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_199/IJwuN_1684975890557WhOjL_JPEG/CA202305240102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] ATBO - BOUNCE (에이티비오 - 바운스) l Show Champion l EP.476 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36291237</link>
+            <guid>https://tv.naver.com/v/36291237</guid>
+            <pubDate>Thu, 25 May 2023 13:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_300/qBRk0_1684975349437k54KU_JPEG/CA202305240101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] VERIVERY YONGSEUNG - CRAZY LIKE THAT (베리베리 용승 - 크레이지 라이크 댓) | Show Champion | EP.476 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/36275176</link>
             <guid>https://tv.naver.com/v/36275176</guid>
@@ -1438,22 +1454,6 @@
             <pubDate>Wed, 24 May 2023 11:12:03 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230524_253/cnEFV_1684908749601Y2Mw4_JPEG/CA202305240039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] (G)I-DLE MINNIE - Queencard ((여자)아이들 민니 - 퀸카) | Show Champion | EP.476 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36261421</link>
-            <guid>https://tv.naver.com/v/36261421</guid>
-            <pubDate>Wed, 24 May 2023 11:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_8/jYHkZ_1684908392584h3AKV_JPEG/CA202305240040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] (G)I-DLE - Queencard ((여자)아이들 - 퀸카) l Show Champion l EP.476 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36261420</link>
-            <guid>https://tv.naver.com/v/36261420</guid>
-            <pubDate>Wed, 24 May 2023 11:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_65/f0OPm_1684908390032XBPnF_JPEG/CA202305240038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
