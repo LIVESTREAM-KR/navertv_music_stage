@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 01:08:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 02:32:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[5월 4주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (우아! 나나, 빌리 츠키) | Show Champion | EP.476 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36302037</link>
+            <guid>https://tv.naver.com/v/36302037</guid>
+            <pubDate>Fri, 26 May 2023 02:32:23 GMT</pubDate>
+            <content:encoded><![CDATA[4:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_10/7uFPc_1684992995437aXaXD_JPEG/CA202305240103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] ONEUS - Unforgettable (원어스 - 잇다 있다 잊었다) l Show Champion l EP.476 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/36291395</link>
             <guid>https://tv.naver.com/v/36291395</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 24 May 2023 11:12:03 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230524_105/hZwGn_1684909589563JczjF_JPEG/CA202305240041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] (G)I-DLE MIYEON - Queencard ((여자)아이들 미연 - 퀸카) | Show Champion | EP.476 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36261732</link>
-            <guid>https://tv.naver.com/v/36261732</guid>
-            <pubDate>Wed, 24 May 2023 11:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_253/cnEFV_1684908749601Y2Mw4_JPEG/CA202305240039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
