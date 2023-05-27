@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 08:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 09:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] JOOHONEY – FREEDOM(주헌 - 프리덤) FanCam | Show! MusicCore | MBC230527방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36377654</link>
+            <guid>https://tv.naver.com/v/36377654</guid>
+            <pubDate>Sat, 27 May 2023 09:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230527_290/8rkhO_1685178091333tqoA1_JPEG/clip_20230527174016_122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] JOOHONEY - FREEDOM(주헌 – 프리덤) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230527방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36377653</link>
+            <guid>https://tv.naver.com/v/36377653</guid>
+            <pubDate>Sat, 27 May 2023 09:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230527_264/YBing_1685178089560BpHIF_JPEG/clip_20230527174006_121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] (G)I-DLE – Queencard((여자)아이들 - 퀸카) 1위 직캠 FanCam | Show! MusicCore | MBC230527방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36377194</link>
+            <guid>https://tv.naver.com/v/36377194</guid>
+            <pubDate>Sat, 27 May 2023 09:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230527_199/XJaC1_1685176951882ImVOJ_JPEG/clip_20230527172311_120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] aespa KARINA - Spicy(에스파 카리나 - 스파이시) Close-up Cam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Sat, 20 May 2023 12:23:41 GMT</pubDate>
             <content:encoded><![CDATA[3:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230520_87/Im5hE_16845840885857E957_JPEG/clip_20230520194021_93.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS HIKARU – RUN(소년판타지 히카루 - 뛰어) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36134297</link>
-            <guid>https://tv.naver.com/v/36134297</guid>
-            <pubDate>Sat, 20 May 2023 12:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[4:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_244/XcAzX_1684583789779t8bq9_JPEG/clip_20230520191106_85.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS KIM DAEHUI – RUN(소년판타지 김대희 - 뛰어) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36134199</link>
-            <guid>https://tv.naver.com/v/36134199</guid>
-            <pubDate>Sat, 20 May 2023 12:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[4:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_93/r7z2s_1684583488997N4aGD_JPEG/clip_20230520191102_82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS KIM WOOSEOK – RUN(소년판타지 김우석 - 뛰어) FanCam | Show! MusicCore | MBC230520방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36134093</link>
-            <guid>https://tv.naver.com/v/36134093</guid>
-            <pubDate>Sat, 20 May 2023 12:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[4:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_125/B8zxl_1684583188667JfV4h_JPEG/clip_20230520191103_83.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(여자)아이들 - 퀸카(Queencard) | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
