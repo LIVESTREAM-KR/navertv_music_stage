@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 08:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 09:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] (G)I-DLE MIYEON - Queencard((여자)아이들 미연 - 퀸카) Close-up Cam | Show! MusicCore | MBC230527방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36463083</link>
+            <guid>https://tv.naver.com/v/36463083</guid>
+            <pubDate>Tue, 30 May 2023 09:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230530_139/BpHyw_16854375908309pMiI_JPEG/clip_20230530173734_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] (G)I-DLE SHUHUA - Queencard((여자)아이들 슈화 - 퀸카) Close-up Cam | Show! MusicCore | MBC230527방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36462623</link>
+            <guid>https://tv.naver.com/v/36462623</guid>
+            <pubDate>Tue, 30 May 2023 09:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230530_121/ycZXv_1685437051417CoWgv_JPEG/clip_20230530173823_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] (G)I-DLE YUQI - Queencard((여자)아이들 우기 - 퀸카) Close-up Cam | Show! MusicCore | MBC230527방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36462621</link>
+            <guid>https://tv.naver.com/v/36462621</guid>
+            <pubDate>Tue, 30 May 2023 09:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230530_133/xQ8XM_1685437049341tT7dT_JPEG/clip_20230530173746_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] JOOHONEY - FREEDOM(주헌 – 프리덤) Close-up Cam | Show! MusicCore | MBC230527방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Sat, 27 May 2023 10:13:03 GMT</pubDate>
             <content:encoded><![CDATA[3:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230527_73/nFbyf_1685180790916K6rSa_JPEG/clip_20230527180827_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | Show! MusicCore | MBC230527방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36378535</link>
-            <guid>https://tv.naver.com/v/36378535</guid>
-            <pubDate>Sat, 27 May 2023 10:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230527_117/XDABU_1685180789093LRKj9_JPEG/clip_20230527180707_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] (G)I-DLE MIYEON – Queencard((여자)아이들 미연 - 퀸카) FanCam | Show! MusicCore | MBC230527방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36378442</link>
-            <guid>https://tv.naver.com/v/36378442</guid>
-            <pubDate>Sat, 27 May 2023 10:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230527_5/D1Pub_1685180488849yCWX1_JPEG/clip_20230527180813_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] (G)I-DLE MINNIE – Queencard((여자)아이들 민니 - 퀸카) FanCam | Show! MusicCore | MBC230527방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36378346</link>
-            <guid>https://tv.naver.com/v/36378346</guid>
-            <pubDate>Sat, 27 May 2023 10:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230527_216/g67Zp_1685180188401DKCun_JPEG/clip_20230527180820_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ENHYPEN(엔하이픈) - Bite Me | SBS 230528 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
