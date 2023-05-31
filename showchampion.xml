@@ -4,9 +4,41 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 10:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 11:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔 에세이] 퍼플키스(PURPLE KISS) - 거부 (원곡 : 빅마마)]]></title>
+            <link>https://tv.naver.com/v/36508959</link>
+            <guid>https://tv.naver.com/v/36508959</guid>
+            <pubDate>Wed, 31 May 2023 11:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[9:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_112/3f5ox_1685529390108URRVe_JPEG/CA202305310097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 드림캐쳐(Dreamcatcher) - BONVOYAGE]]></title>
+            <link>https://tv.naver.com/v/36508759</link>
+            <guid>https://tv.naver.com/v/36508759</guid>
+            <pubDate>Wed, 31 May 2023 11:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_197/gEI5Q_1685529088791KKGSf_JPEG/CA202305310100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 카드(KARD) - ICKY]]></title>
+            <link>https://tv.naver.com/v/36508380</link>
+            <guid>https://tv.naver.com/v/36508380</guid>
+            <pubDate>Wed, 31 May 2023 11:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_267/whbvS_1685528494918ImVHD_JPEG/CA202305310099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베리베리(VERIVERY) - Crazy Like That]]></title>
+            <link>https://tv.naver.com/v/36508378</link>
+            <guid>https://tv.naver.com/v/36508378</guid>
+            <pubDate>Wed, 31 May 2023 11:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_8/NKFfP_16855284927447GA08_JPEG/CA202305310098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[COMEBACK] 시크릿넘버(SECRET NUMBER) - DOXA(독사)]]></title>
             <link>https://tv.naver.com/v/36507664</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 24 May 2023 13:18:06 GMT</pubDate>
             <content:encoded><![CDATA[3:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230524_126/wCUGe_1684918290552lzbYd_JPEG/CA202305240059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ONEUS KEONHEE - ERASE ME (원어스 건희 - 이레이즈 미) | Show Champion | EP.476]]></title>
-            <link>https://tv.naver.com/v/36269201</link>
-            <guid>https://tv.naver.com/v/36269201</guid>
-            <pubDate>Wed, 24 May 2023 13:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_150/y8M9r_1684917749039mNVHi_JPEG/CA202305240054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ATBO OH JUNSEOK - Next to Me (에이티비오 오준석 - 넥스트 투 미) | Show Champion | EP.476]]></title>
-            <link>https://tv.naver.com/v/36263191</link>
-            <guid>https://tv.naver.com/v/36263191</guid>
-            <pubDate>Wed, 24 May 2023 13:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_174/guKHy_1684910489008heAdn_JPEG/CA202305240044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ATBO JEONG SEUNGHWAN - Next to Me (에이티비오 정승환 - 넥스트 투 미) | Show Champion | EP.476]]></title>
-            <link>https://tv.naver.com/v/36262969</link>
-            <guid>https://tv.naver.com/v/36262969</guid>
-            <pubDate>Wed, 24 May 2023 13:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_219/XoFy7_1684910188539f4spK_JPEG/CA202305240043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ATBO - Next to Me (에이티비오 - 넥스트 투 미) l Show Champion l EP.476]]></title>
-            <link>https://tv.naver.com/v/36262524</link>
-            <guid>https://tv.naver.com/v/36262524</guid>
-            <pubDate>Wed, 24 May 2023 13:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_245/vWC5u_1684909649163cX6G5_JPEG/CA202305240042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
