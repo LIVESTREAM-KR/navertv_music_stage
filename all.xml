@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 09:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 10:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,86 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[COMEBACK] 시크릿넘버(SECRET NUMBER) - DOXA(독사) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36507664</link>
+            <guid>https://tv.naver.com/v/36507664</guid>
+            <pubDate>Wed, 31 May 2023 10:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_57/8bEQR_1685527289943QmvBQ_JPEG/CA202305310094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이티비오(ATBO) - Next to Me (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36507497</link>
+            <guid>https://tv.naver.com/v/36507497</guid>
+            <pubDate>Wed, 31 May 2023 10:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_4/nZVQF_1685526994322KFBmT_JPEG/CA202305310091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이칠린(ICHILLIN’) - Siren (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36507313</link>
+            <guid>https://tv.naver.com/v/36507313</guid>
+            <pubDate>Wed, 31 May 2023 10:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_244/Ex9Un_1685526693660fAyLL_JPEG/CA202305310087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MC석 코너] 'VERIVERY'에게 주문하신 OO 나왔습니다♥ (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36507120</link>
+            <guid>https://tv.naver.com/v/36507120</guid>
+            <pubDate>Wed, 31 May 2023 10:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_56/uCezr_1685526397126F2ofS_JPEG/CA202305310089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최초공개] 나인투식스(NINE to SIX) - Don't Call Me (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36506969</link>
+            <guid>https://tv.naver.com/v/36506969</guid>
+            <pubDate>Wed, 31 May 2023 10:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_255/0yCDV_1685526149547d9akp_JPEG/CA202305310083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김도아(KIMDOAH) - 꿈의 태엽 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36506703</link>
+            <guid>https://tv.naver.com/v/36506703</guid>
+            <pubDate>Wed, 31 May 2023 10:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_265/qAvRN_1685525796141k4nEr_JPEG/CA202305310079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! '드림캐쳐' 나!왔어✋🏻 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36506698</link>
+            <guid>https://tv.naver.com/v/36506698</guid>
+            <pubDate>Wed, 31 May 2023 10:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_141/YBbYD_1685525793287tBpyT_JPEG/CA202305310076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더윈드(The Wind) - ISLAND (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36506697</link>
+            <guid>https://tv.naver.com/v/36506697</guid>
+            <pubDate>Wed, 31 May 2023 10:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_228/YTyMH_16855257920352JcE6_JPEG/CA202305310073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이디야(ADYA) - Per (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36506228</link>
+            <guid>https://tv.naver.com/v/36506228</guid>
+            <pubDate>Wed, 31 May 2023 10:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_174/EfK4B_1685525248782ivrbO_JPEG/CA202305310071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙스완(BLACKSWAN) - Karma (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36506186</link>
+            <guid>https://tv.naver.com/v/36506186</guid>
+            <pubDate>Wed, 31 May 2023 10:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_284/yQl9N_1685525192588PkgMu_JPEG/CA202305310069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[5월 마지막 날에도 떠나려해 우리 같이 쇼챔피언으로! [예고] (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/36426879</link>
             <guid>https://tv.naver.com/v/36426879</guid>
@@ -1374,86 +1454,6 @@
             <pubDate>Wed, 24 May 2023 13:18:06 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230524_245/vWC5u_1684909649163cX6G5_JPEG/CA202305240042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] The Wind THANATORN - ISLAND (더윈드 타나톤 - 아일랜드) | Show Champion | EP.476 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36259691</link>
-            <guid>https://tv.naver.com/v/36259691</guid>
-            <pubDate>Wed, 24 May 2023 13:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_285/2kdAE_1684906048622laFgl_JPEG/CA202305240034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] The Wind - ISLAND (더윈드 - 아일랜드) l Show Champion l EP.476 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36259650</link>
-            <guid>https://tv.naver.com/v/36259650</guid>
-            <pubDate>Wed, 24 May 2023 13:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_271/YGjfq_16849059899221tV1M_JPEG/CA202305240033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] The Wind Shin Jae Won - ISLAND (더윈드 신재원 - 아일랜드) | Show Champion | EP.476 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36259436</link>
-            <guid>https://tv.naver.com/v/36259436</guid>
-            <pubDate>Wed, 24 May 2023 13:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_257/GdS07_1684905690536mDCRa_JPEG/CA202305240035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] The Wind Park Hayuchan - ISLAND (더윈드 박하유찬 - 아일랜드) | Show Champion | EP.476 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36259034</link>
-            <guid>https://tv.naver.com/v/36259034</guid>
-            <pubDate>Wed, 24 May 2023 13:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_160/IQllh_16849050889213HacR_JPEG/CA202305240036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 1위] 5월 4주 챔피언송 ＜ (여자)아이들 - 퀸카 (Queencard) ＞ 앵콜 Full ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36273915</link>
-            <guid>https://tv.naver.com/v/36273915</guid>
-            <pubDate>Wed, 24 May 2023 11:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_75/FlXwO_1684926393801iYnFP_JPEG/CA202305240100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 원픽캠 4K] (G)I-DLE SHUHUA - Queencard ((여자)아이들 슈화 - 퀸카) | Show Champion | EP.476 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36268923</link>
-            <guid>https://tv.naver.com/v/36268923</guid>
-            <pubDate>Wed, 24 May 2023 11:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_262/QQaaq_1684917390241Rpxt6_JPEG/CA202305240053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 원픽캠 4K] (G)I-DLE MIYEON - Queencard ((여자)아이들 미연 - 퀸카) | Show Champion | EP.476 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36268508</link>
-            <guid>https://tv.naver.com/v/36268508</guid>
-            <pubDate>Wed, 24 May 2023 11:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_127/qIC93_1684916849317wQPHz_JPEG/CA202305240051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 원픽캠 4K] (G)I-DLE MINNIE - Queencard ((여자)아이들 민니 - 퀸카) | Show Champion | EP.476 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36268452</link>
-            <guid>https://tv.naver.com/v/36268452</guid>
-            <pubDate>Wed, 24 May 2023 11:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_169/vUR2q_1684916790129Irl6I_JPEG/CA202305240052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] (G)I-DLE SOYEON - Queencard ((여자)아이들 소연 - 퀸카) | Show Champion | EP.476 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36268237</link>
-            <guid>https://tv.naver.com/v/36268237</guid>
-            <pubDate>Wed, 24 May 2023 11:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_18/cODxX_168491648874486DbS_JPEG/CA202305240049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] (G)I-DLE SHUHUA - Queencard ((여자)아이들 슈화 - 퀸카) | Show Champion | EP.476 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36267601</link>
-            <guid>https://tv.naver.com/v/36267601</guid>
-            <pubDate>Wed, 24 May 2023 11:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_9/FOzQ1_1684915590349p5gK4_JPEG/CA202305240050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
