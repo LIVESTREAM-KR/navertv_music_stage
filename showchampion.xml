@@ -4,9 +4,25 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 07:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 08:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] VERIVERY - CRAZY LIKE THAT (베리베리 - 크레이지 라이크 댓) l Show Champion l EP.477]]></title>
+            <link>https://tv.naver.com/v/36541922</link>
+            <guid>https://tv.naver.com/v/36541922</guid>
+            <pubDate>Thu, 01 Jun 2023 08:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_166/GbwKQ_1685604089051Onijc_JPEG/CA202305310105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] BLACKSWAN - Karma (블랙스완 - 카르마) l Show Champion l EP.477]]></title>
+            <link>https://tv.naver.com/v/36541632</link>
+            <guid>https://tv.naver.com/v/36541632</guid>
+            <pubDate>Thu, 01 Jun 2023 08:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_44/tcxsD_1685603789554B1grz_JPEG/CA202305310104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] KARD J.Seph - ICKY (카드 제이셉 - 이끼) | Show Champion | EP.477]]></title>
             <link>https://tv.naver.com/v/36509192</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 31 May 2023 13:19:14 GMT</pubDate>
             <content:encoded><![CDATA[3:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230531_228/awqZ3_1685512589627NnbsW_JPEG/CA202305310034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남동현(Nam Dong Hyun) - Blind (feat.김농밀)]]></title>
-            <link>https://tv.naver.com/v/36511168</link>
-            <guid>https://tv.naver.com/v/36511168</guid>
-            <pubDate>Wed, 31 May 2023 12:29:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_126/FxO4I_1685533357685Qmm36_JPEG/CA202305310096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 1위] 5월 5주 챔피언송 ＜Dreamcatcher - BONVOYAGE＞ 앵콜 Full ver. l Show Champion l EP.477]]></title>
-            <link>https://tv.naver.com/v/36510161</link>
-            <guid>https://tv.naver.com/v/36510161</guid>
-            <pubDate>Wed, 31 May 2023 12:29:43 GMT</pubDate>
-            <content:encoded><![CDATA[5:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_109/ZZLKR_1685531491464qwaVT_JPEG/CA202305310102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
