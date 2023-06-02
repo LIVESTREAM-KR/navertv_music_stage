@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 04:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 05:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.571 -AB6IX(에이비식스),Dreamcatcher(드림캐쳐),KARD(카드), NINE to SIX]]></title>
+            <link>https://tv.naver.com/v/36543371</link>
+            <guid>https://tv.naver.com/v/36543371</guid>
+            <pubDate>Fri, 02 Jun 2023 05:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[54:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_152/ZkUNR_1685605805025rxznQ_JPEG/1685605017069.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.570 -Dreamcatcher(드림캐쳐), KARD(카드), EPEX(이펙스), ATBO(에이티비오)]]></title>
             <link>https://tv.naver.com/v/36331960</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
             <content:encoded><![CDATA[53:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_184/XgQ2s_1675988219866uIb8Y_JPEG/1675987447689.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.554 –  WEi(위아이), AleXa(알렉사), KINGDOM(킹덤)]]></title>
-            <link>https://tv.naver.com/v/32353837</link>
-            <guid>https://tv.naver.com/v/32353837</guid>
-            <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[57:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_291/yKUuU_1673590379406tefqH_PNG/1673589417161.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
