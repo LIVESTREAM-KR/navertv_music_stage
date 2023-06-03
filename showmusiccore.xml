@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Jun 2023 08:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 09:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] Stray Kids I.N – S-Class(스트레이 키즈 아이엔 - 특) FanCam | Show! MusicCore | MBC230603방송]]></title>
+            <link>https://tv.naver.com/v/36613729</link>
+            <guid>https://tv.naver.com/v/36613729</guid>
+            <pubDate>Sat, 03 Jun 2023 09:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_281/wEopq_1685783489027kMCBv_JPEG/clip_20230603174336_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Stray Kids HYUNJIN – S-Class(스트레이 키즈 현진 - 특) FanCam | Show! MusicCore | MBC230603방송]]></title>
+            <link>https://tv.naver.com/v/36613728</link>
+            <guid>https://tv.naver.com/v/36613728</guid>
+            <pubDate>Sat, 03 Jun 2023 09:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_146/2dPw7_1685783487783cAv24_JPEG/clip_20230603174326_68.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] (G)I-DLE – Queencard((여자)아이들 - 퀸카) 1위 직캠 FanCam | Show! MusicCore | MBC230603방송]]></title>
+            <link>https://tv.naver.com/v/36612927</link>
+            <guid>https://tv.naver.com/v/36612927</guid>
+            <pubDate>Sat, 03 Jun 2023 09:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[4:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_38/0THeZ_16857810884219tlq3_JPEG/clip_20230603171438_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] (G)I-DLE MIYEON - Queencard((여자)아이들 미연 - 퀸카) Close-up Cam | Show! MusicCore | MBC230527방송]]></title>
             <link>https://tv.naver.com/v/36463083</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 27 May 2023 10:13:03 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230527_219/9Oovq_1685181989677gc3Fm_JPEG/clip_20230527182455_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] BLACKSWAN FATOU – Karma(블랙스완 파투 - 카르마) FanCam | Show! MusicCore | MBC230527방송]]></title>
-            <link>https://tv.naver.com/v/36378716</link>
-            <guid>https://tv.naver.com/v/36378716</guid>
-            <pubDate>Sat, 27 May 2023 10:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230527_143/750qp_16851814486687MGGl_JPEG/clip_20230527182140_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] BLACKSWAN GABI – Karma(블랙스완 가비 - 카르마) FanCam | Show! MusicCore | MBC230527방송]]></title>
-            <link>https://tv.naver.com/v/36378616</link>
-            <guid>https://tv.naver.com/v/36378616</guid>
-            <pubDate>Sat, 27 May 2023 10:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230527_122/FUm5c_1685181088161nYSfe_JPEG/clip_20230527182154_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] (G)I-DLE SOYEON – Queencard((여자)아이들 소연 - 퀸카) FanCam | Show! MusicCore | MBC230527방송]]></title>
-            <link>https://tv.naver.com/v/36378536</link>
-            <guid>https://tv.naver.com/v/36378536</guid>
-            <pubDate>Sat, 27 May 2023 10:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230527_73/nFbyf_1685180790916K6rSa_JPEG/clip_20230527180827_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
