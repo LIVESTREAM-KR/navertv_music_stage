@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 08:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 09:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230603_74/gMspq_1685785350543pnUIi_JPEG/clip_20230603174331_70.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Stray Kids - 특 | SBS 230604 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36632922</link>
+            <guid>https://tv.naver.com/v/36632922</guid>
+            <pubDate>Sun, 04 Jun 2023 09:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_252/IIden_1685869053739Q63dB_JPEG/1eeb75e6-61a2-4f25-9ad9-33f76688e013.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들 - 퀸카(Queencard) | SBS 230604 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36632914</link>
+            <guid>https://tv.naver.com/v/36632914</guid>
+            <pubDate>Sun, 04 Jun 2023 09:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_285/RNjfi_16858690518811XXd0_JPEG/289ef825-19e2-4575-9ffb-393da06cf684.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조미 - Mañana(Our Drama)(feat. 은혁)  | SBS 230604 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36632661</link>
+            <guid>https://tv.naver.com/v/36632661</guid>
+            <pubDate>Sun, 04 Jun 2023 09:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_93/d8NLI_1685866887380TOKaJ_JPEG/17172418-106c-4ed2-bcbb-048f9380a883.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ENHYPEN(엔하이픈) - Bite Me | SBS 230604 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/36632485</link>
             <guid>https://tv.naver.com/v/36632485</guid>
@@ -470,30 +494,6 @@
             <pubDate>Sun, 28 May 2023 07:11:46 GMT</pubDate>
             <content:encoded><![CDATA[3:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230528_34/O9wCh_168525759020919JnF_JPEG/8fb1047c-1c38-49c3-8b8d-c1c8cb7da161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블리처스(BLITZERS) - 마카레나(Macarena)- | SBS 230528 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36396014</link>
-            <guid>https://tv.naver.com/v/36396014</guid>
-            <pubDate>Sun, 28 May 2023 07:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230528_125/gynCG_16852572889547N6y7_JPEG/0f758efa-6ea8-4c1b-8b4c-88043d9f2ecb.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SECRET NUMBER(시크릿넘버) - 독사(DOXA) | SBS 230528 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36395920</link>
-            <guid>https://tv.naver.com/v/36395920</guid>
-            <pubDate>Sun, 28 May 2023 07:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230528_226/bgM45_1685256988681a9xox_JPEG/c0accd7c-a361-45dc-b1ce-cf0747be73c2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙스완 - Karma | SBS 230528 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36395799</link>
-            <guid>https://tv.naver.com/v/36395799</guid>
-            <pubDate>Sun, 28 May 2023 07:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230528_134/jj8rC_168525669376089rJ0_JPEG/fff37812-e4b6-47bd-aa36-5917c5afdd1f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
