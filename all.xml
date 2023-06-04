@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 06:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 07:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230603_74/gMspq_1685785350543pnUIi_JPEG/clip_20230603174331_70.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[YOUNITE - WATERFALL | SBS 230604 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36631153</link>
+            <guid>https://tv.naver.com/v/36631153</guid>
+            <pubDate>Sun, 04 Jun 2023 07:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_263/vzYQA_1685862688494f8BPd_JPEG/291523be-99af-4dab-9167-d0daadbae5a0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AIMERS - Bubble | SBS 230604 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36630828</link>
+            <guid>https://tv.naver.com/v/36630828</guid>
+            <pubDate>Sun, 04 Jun 2023 07:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_30/rKGib_1685861848882peyM0_JPEG/2f32c8b6-6a14-4440-b686-c2556ed6bb2c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ENHYPEN(엔하이픈) - Bite Me | SBS 230528 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/36397086</link>
             <guid>https://tv.naver.com/v/36397086</guid>
@@ -478,22 +494,6 @@
             <pubDate>Sun, 21 May 2023 06:16:22 GMT</pubDate>
             <content:encoded><![CDATA[2:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230521_45/5HxWe_1684648654536bzK2W_JPEG/1c090e4a-4bf6-4a9e-8e04-3bc4cb404556.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EPEX(이펙스) - 여우가 시집가는 날 | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36147726</link>
-            <guid>https://tv.naver.com/v/36147726</guid>
-            <pubDate>Sun, 21 May 2023 06:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_197/B7hHw_1684648648561FDVQc_JPEG/4907d767-8b8e-4dda-93cb-da9fdee7fdba.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DRIPPIN - SEVEN SINS | SBS 230521 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36147577</link>
-            <guid>https://tv.naver.com/v/36147577</guid>
-            <pubDate>Sun, 21 May 2023 06:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_93/iHuGx_1684648289222fKX6I_JPEG/fd1d06b7-0da4-4718-aa9f-d4b8f7f50e73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
