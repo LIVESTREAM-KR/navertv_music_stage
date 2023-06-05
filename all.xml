@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 02:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 03:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] (G)I-DLE YUQI – Queencard((여자)아이들 우기 - 퀸카) FanCam | Show! MusicCore | MBC230603방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36652806</link>
+            <guid>https://tv.naver.com/v/36652806</guid>
+            <pubDate>Mon, 05 Jun 2023 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_125/qvm17_1685934750151Eyspr_JPEG/clip_20230605114957_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] (G)I-DLE SOYEON – Queencard((여자)아이들 소연 - 퀸카) FanCam | Show! MusicCore | MBC230603방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36652593</link>
+            <guid>https://tv.naver.com/v/36652593</guid>
+            <pubDate>Mon, 05 Jun 2023 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_230/HUBFq_1685934390546g3OFq_JPEG/clip_20230605114955_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] FANTASY BOYS MOON HYUNBIN – Gesture(소년판타지 문현빈 - 제스처) FanCam | Show! MusicCore | MBC230603방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 03 Jun 2023 10:13:13 GMT</pubDate>
             <content:encoded><![CDATA[4:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230603_75/agSwT_168578619029535Y7G_JPEG/clip_20230603175458_88.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Stray Kids CHANGBIN – S-Class(스트레이 키즈 창빈 - 특) FanCam | Show! MusicCore | MBC230603방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36614379</link>
-            <guid>https://tv.naver.com/v/36614379</guid>
-            <pubDate>Sat, 03 Jun 2023 10:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_180/7okGZ_1685785888538QQYev_JPEG/clip_20230603174324_67.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Stray Kids FELIX – S-Class(스트레이 키즈 필릭스 - 특) FanCam | Show! MusicCore | MBC230603방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36614234</link>
-            <guid>https://tv.naver.com/v/36614234</guid>
-            <pubDate>Sat, 03 Jun 2023 10:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_74/gMspq_1685785350543pnUIi_JPEG/clip_20230603174331_70.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids - 특 | SBS 230604 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
