@@ -4,9 +4,41 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 04:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 05:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] CIX HYUNSUK – Save me, Kill me(씨아이엑스 현석 - 세이브 미, 킬 미) FanCam | Show! MusicCore | MBC230603방]]></title>
+            <link>https://tv.naver.com/v/36657937</link>
+            <guid>https://tv.naver.com/v/36657937</guid>
+            <pubDate>Mon, 05 Jun 2023 05:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_214/cTrip_16859419491256kf9y_JPEG/clip_20230605133411_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] JOOHONEY – FREEDOM(주헌 - 프리덤) FanCam | Show! MusicCore | MBC230603방송]]></title>
+            <link>https://tv.naver.com/v/36657668</link>
+            <guid>https://tv.naver.com/v/36657668</guid>
+            <pubDate>Mon, 05 Jun 2023 05:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_226/DU90H_16859415886390rXin_JPEG/clip_20230605133245_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CIX YONGHEE – Save me, Kill me(씨아이엑스 용희 - 세이브 미, 킬 미) FanCam | Show! MusicCore | MBC230603방]]></title>
+            <link>https://tv.naver.com/v/36657438</link>
+            <guid>https://tv.naver.com/v/36657438</guid>
+            <pubDate>Mon, 05 Jun 2023 05:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_99/F8dnl_1685941288590kI5IQ_JPEG/clip_20230605133419_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CIX SEUNGHUN – Save me, Kill me(씨아이엑스 승훈 - 세이브 미, 킬 미) FanCam | Show! MusicCore |MBC230603방]]></title>
+            <link>https://tv.naver.com/v/36657209</link>
+            <guid>https://tv.naver.com/v/36657209</guid>
+            <pubDate>Mon, 05 Jun 2023 05:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_214/x8OTT_1685940989199riHNY_JPEG/clip_20230605133435_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] (G)I-DLE MINNIE – Queencard((여자)아이들 민니 - 퀸카) FanCam | Show! MusicCore | MBC230603방송]]></title>
             <link>https://tv.naver.com/v/36653364</link>
@@ -214,38 +246,6 @@
             <pubDate>Sat, 03 Jun 2023 11:11:21 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230603_245/YlOj4_1685788589641W3a5e_JPEG/clip_20230603175424_83.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS YU JUNWON – Gesture(소년판타지 유준원 - 제스처) FanCam | Show! MusicCore | MBC230603방송]]></title>
-            <link>https://tv.naver.com/v/36615174</link>
-            <guid>https://tv.naver.com/v/36615174</guid>
-            <pubDate>Sat, 03 Jun 2023 11:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_300/6Stdj_1685788588306njwQk_JPEG/clip_20230603175413_80.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS KANG MINSEO – Shut Off(소년판타지 강민서 - 셧 오프) FanCam | Show! MusicCore | MBC230603방]]></title>
-            <link>https://tv.naver.com/v/36615012</link>
-            <guid>https://tv.naver.com/v/36615012</guid>
-            <pubDate>Sat, 03 Jun 2023 11:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[4:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_93/dRzi3_1685787989347Xh0yt_JPEG/clip_20230603175455_87.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS KIM WOOSEOK – Gesture(소년판타지 김우석 - 제스처) FanCam | Show! MusicCore | MBC230603방송]]></title>
-            <link>https://tv.naver.com/v/36614930</link>
-            <guid>https://tv.naver.com/v/36614930</guid>
-            <pubDate>Sat, 03 Jun 2023 11:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_15/s7PwV_16857876882560XbFo_JPEG/clip_20230603175352_77.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS YUMA – Gesture(소년판타지 유우마 - 제스처) FanCam | Show! MusicCore | MBC230603방송]]></title>
-            <link>https://tv.naver.com/v/36614745</link>
-            <guid>https://tv.naver.com/v/36614745</guid>
-            <pubDate>Sat, 03 Jun 2023 10:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_119/Imc7i_1685787149850hvnjs_JPEG/clip_20230603175410_79.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
