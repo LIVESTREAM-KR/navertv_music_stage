@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 03:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 04:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] (G)I-DLE MINNIE – Queencard((여자)아이들 민니 - 퀸카) FanCam | Show! MusicCore | MBC230603방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36653364</link>
+            <guid>https://tv.naver.com/v/36653364</guid>
+            <pubDate>Mon, 05 Jun 2023 04:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_216/M1yXa_1685935591166jltGw_JPEG/clip_20230605114953_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] (G)I-DLE SHUHUA – Queencard((여자)아이들 슈화 - 퀸카) FanCam | Show! MusicCore | MBC230603방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36653144</link>
+            <guid>https://tv.naver.com/v/36653144</guid>
+            <pubDate>Mon, 05 Jun 2023 04:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_223/u8Rx4_1685935291737igNMl_JPEG/clip_20230605114959_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] (G)I-DLE MIYEON – Queencard((여자)아이들 미연 - 퀸카) FanCam | Show! MusicCore | MBC230603방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36653143</link>
+            <guid>https://tv.naver.com/v/36653143</guid>
+            <pubDate>Mon, 05 Jun 2023 04:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_245/gt6o9_16859352908021aCJt_JPEG/clip_20230605114952_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] (G)I-DLE YUQI – Queencard((여자)아이들 우기 - 퀸카) FanCam | Show! MusicCore | MBC230603방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Sat, 03 Jun 2023 10:13:13 GMT</pubDate>
             <content:encoded><![CDATA[3:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230603_119/Imc7i_1685787149850hvnjs_JPEG/clip_20230603175410_79.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS K-SOUL – Shut Off(소년판타지 소울 - 셧 오프) FanCam | Show! MusicCore | MBC230603방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36614617</link>
-            <guid>https://tv.naver.com/v/36614617</guid>
-            <pubDate>Sat, 03 Jun 2023 10:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_129/UBHga_16857867895807ikxm_JPEG/clip_20230603175501_89.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS - Gesture(소년판타지 – 제스처) FanCam | Show! MusicCore | MBC230603방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36614537</link>
-            <guid>https://tv.naver.com/v/36614537</guid>
-            <pubDate>Sat, 03 Jun 2023 10:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_164/0RzVj_1685786488021uPMFh_JPEG/clip_20230603175332_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS LINGQI – Shut Off(소년판타지 링치 - 셧 오프) FanCam | Show! MusicCore | MBC230603방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36614466</link>
-            <guid>https://tv.naver.com/v/36614466</guid>
-            <pubDate>Sat, 03 Jun 2023 10:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_75/agSwT_168578619029535Y7G_JPEG/clip_20230603175458_88.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids - 특 | SBS 230604 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
