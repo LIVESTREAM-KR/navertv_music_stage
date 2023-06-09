@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 04:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 05:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.572 - KARD, SECRET NUMBER(시크릿넘버), NINE to SIX(나인투식스), YOUNITE(유나이]]></title>
+            <link>https://tv.naver.com/v/36782943</link>
+            <guid>https://tv.naver.com/v/36782943</guid>
+            <pubDate>Fri, 09 Jun 2023 05:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[55:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_243/cFKZ2_1686214052965Uqy3H_JPEG/1686213440647.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.571 -AB6IX(에이비식스),Dreamcatcher(드림캐쳐),KARD(카드), NINE to SIX]]></title>
             <link>https://tv.naver.com/v/36543371</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
             <content:encoded><![CDATA[55:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_9/yHORn_1676592844851kr3Rt_JPEG/1676592379008.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.555 – IM CHANG JUNG(임창정), Kim Jong Seo(김종서), cignature(시그니처), XG(엑스]]></title>
-            <link>https://tv.naver.com/v/33027134</link>
-            <guid>https://tv.naver.com/v/33027134</guid>
-            <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[53:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_184/XgQ2s_1675988219866uIb8Y_JPEG/1675987447689.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
