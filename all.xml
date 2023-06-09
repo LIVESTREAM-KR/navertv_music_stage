@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 08:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 09:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2152,6 +2152,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_9/yHORn_1676592844851kr3Rt_JPEG/1676592379008.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크랙샷_INFP (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36804765</link>
+            <guid>https://tv.naver.com/v/36804765</guid>
+            <pubDate>Fri, 09 Jun 2023 09:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[4:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_139/uHpMS_1686273309271N0jQj_JPEG/92a72422-05b9-11ee-9971-48df37ae3dc4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크랙샷_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36804761</link>
+            <guid>https://tv.naver.com/v/36804761</guid>
+            <pubDate>Fri, 09 Jun 2023 09:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[7:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_56/33m2z_16862733013611Gjg0_JPEG/ba55fcdc-05b9-11ee-9dc4-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크랙샷_Goodbye My Love (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36804756</link>
+            <guid>https://tv.naver.com/v/36804756</guid>
+            <pubDate>Fri, 09 Jun 2023 09:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[8:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_177/mf96K_1686273293085LNjEb_JPEG/02bcd6b8-05ba-11ee-bda5-d4f5ef590144_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이바다_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/36574346</link>
             <guid>https://tv.naver.com/v/36574346</guid>
@@ -2366,30 +2390,6 @@
             <pubDate>Mon, 15 May 2023 06:19:55 GMT</pubDate>
             <content:encoded><![CDATA[10:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230515_1/lHiC7_1684131356843SsIcl_JPEG/eb5772ee-f2e6-11ed-b1f7-a0369ffd9e4c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아키텍쳐_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35936296</link>
-            <guid>https://tv.naver.com/v/35936296</guid>
-            <pubDate>Mon, 15 May 2023 06:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[7:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_44/y0Bgh_16841308896713BKtb_JPEG/fa07a8c9-f2e2-11ed-a28f-48df3770706a_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아키텍쳐_Prayer for the Dying (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35936283</link>
-            <guid>https://tv.naver.com/v/35936283</guid>
-            <pubDate>Mon, 15 May 2023 06:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[8:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_193/k1GXs_168413086508514QUK_JPEG/3794f412-f2e3-11ed-a28f-48df3770706a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무성_사랑이 이렇게 떠나가요 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35936261</link>
-            <guid>https://tv.naver.com/v/35936261</guid>
-            <pubDate>Mon, 15 May 2023 06:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_90/pEiFJ_16841308406589oGjG_JPEG/8173ef11-f2e3-11ed-833a-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
