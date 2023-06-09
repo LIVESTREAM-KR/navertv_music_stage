@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 01:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 02:56:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월 1주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (우아! 나나, 빌리 츠키) | Show Champion | EP.478]]></title>
+            <link>https://tv.naver.com/v/36745270</link>
+            <guid>https://tv.naver.com/v/36745270</guid>
+            <pubDate>Fri, 09 Jun 2023 02:55:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_226/9L2s7_1686135449071dwhuB_JPEG/CA202306070092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] XODIAC - SPECIAL LOVE (소디엑 - 스페셜 러브) l Show Champion l EP.478]]></title>
             <link>https://tv.naver.com/v/36747635</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 07 Jun 2023 10:15:40 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230607_254/iMBg2_16861318488189pwRy_JPEG/CA202306070086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시크릿넘버(SECRET NUMBER) - DOXA(독사)]]></title>
-            <link>https://tv.naver.com/v/36743162</link>
-            <guid>https://tv.naver.com/v/36743162</guid>
-            <pubDate>Wed, 07 Jun 2023 10:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_90/0boyY_1686131789811AjtEm_JPEG/CA202306070085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
