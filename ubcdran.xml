@@ -4,9 +4,33 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 09:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 10:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크랙샷_달의 몰락(원곡 김현철)]]></title>
+            <link>https://tv.naver.com/v/36804786</link>
+            <guid>https://tv.naver.com/v/36804786</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[5:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_202/0Nzn3_1686273333741GodD6_JPEG/f36e7e53-05b8-11ee-9971-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크랙샷_Follow Me]]></title>
+            <link>https://tv.naver.com/v/36804783</link>
+            <guid>https://tv.naver.com/v/36804783</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[7:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_282/jeVof_1686273327556Dpfc0_JPEG/2313e975-05b9-11ee-9971-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크랙샷_난 괜찮아 (원곡 진주)]]></title>
+            <link>https://tv.naver.com/v/36804774</link>
+            <guid>https://tv.naver.com/v/36804774</guid>
+            <pubDate>Fri, 09 Jun 2023 10:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[5:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_58/XqfiX_1686273320358YGySS_JPEG/5ffb5729-05b9-11ee-a6ee-505dac8c3607_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크랙샷_INFP]]></title>
             <link>https://tv.naver.com/v/36804765</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 19 May 2023 10:15:25 GMT</pubDate>
             <content:encoded><![CDATA[5:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230519_255/g3hgk_1684460852234InL3D_JPEG/e038673e-f5e2-11ed-837b-505dac8c3721_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드원밴드_크게 라디오를 켜고 (원곡 시나위)]]></title>
-            <link>https://tv.naver.com/v/36087346</link>
-            <guid>https://tv.naver.com/v/36087346</guid>
-            <pubDate>Fri, 19 May 2023 10:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[4:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_179/cwMaS_1684460841654mKmLP_JPEG/bb413507-f5e2-11ed-9d52-48df379ccacc_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드원밴드_하늘을 달리다(원곡 이적)]]></title>
-            <link>https://tv.naver.com/v/36087344</link>
-            <guid>https://tv.naver.com/v/36087344</guid>
-            <pubDate>Fri, 19 May 2023 10:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[5:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_40/sBZ53_1684460834536kDUKj_JPEG/80b51b6c-f5e2-11ed-833a-505dac8c3639_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아키텍쳐_Dark Matter]]></title>
-            <link>https://tv.naver.com/v/35936608</link>
-            <guid>https://tv.naver.com/v/35936608</guid>
-            <pubDate>Mon, 15 May 2023 06:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[10:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_1/lHiC7_1684131356843SsIcl_JPEG/eb5772ee-f2e6-11ed-b1f7-a0369ffd9e4c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
