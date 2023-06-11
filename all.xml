@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 07:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 08:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,38 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230605_181/aXuBA_1685955448181AMPaB_JPEG/clip_20230605172959_131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[태용 - 샤랄라(SHALALA) | SBS 230611 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36870708</link>
+            <guid>https://tv.naver.com/v/36870708</guid>
+            <pubDate>Sun, 11 Jun 2023 08:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230611_178/Gl4bw_1686468688868dJ0e1_JPEG/0440e2e3-5244-4b01-b5b1-271aff9375fb.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태용 - 관둬(GWANDO) | SBS 230611 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36870565</link>
+            <guid>https://tv.naver.com/v/36870565</guid>
+            <pubDate>Sun, 11 Jun 2023 08:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230611_266/jtqaD_16864683885721JSTx_JPEG/f701d31f-87dc-47bc-85fb-9a75d795fbee.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프로미스나인(fromis_9) - #menow | SBS 230611 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36870295</link>
+            <guid>https://tv.naver.com/v/36870295</guid>
+            <pubDate>Sun, 11 Jun 2023 08:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230611_129/wNngA_1686467787950fFjou_JPEG/1bd2e470-af51-41d4-b3f3-242e6a33deaf.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids - 특 | SBS 230611 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/36870192</link>
+            <guid>https://tv.naver.com/v/36870192</guid>
+            <pubDate>Sun, 11 Jun 2023 08:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230611_300/joi1E_1686467547992Vyv7g_JPEG/0635022e-3ac0-44c3-9500-7ab4fcbfa607.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[AB6IX(에이비식스) - LOSER | SBS 230611 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/36870004</link>
             <guid>https://tv.naver.com/v/36870004</guid>
@@ -462,38 +494,6 @@
             <pubDate>Sun, 04 Jun 2023 08:15:40 GMT</pubDate>
             <content:encoded><![CDATA[3:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230604_220/KB7rV_1685863288710v9kae_JPEG/f8e36f93-b083-41a8-8c51-f3c8e57619ee.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다크비(DKB) - Turning Point (Prod. 주헌(몬스타엑스)) | SBS 230604 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36631174</link>
-            <guid>https://tv.naver.com/v/36631174</guid>
-            <pubDate>Sun, 04 Jun 2023 08:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_129/VwRns_16858627486450Op1U_JPEG/86352962-f2b7-4adc-ba17-dbac1dd69454.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOUNITE - WATERFALL | SBS 230604 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36631153</link>
-            <guid>https://tv.naver.com/v/36631153</guid>
-            <pubDate>Sun, 04 Jun 2023 07:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_263/vzYQA_1685862688494f8BPd_JPEG/291523be-99af-4dab-9167-d0daadbae5a0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AIMERS - Bubble | SBS 230604 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36630828</link>
-            <guid>https://tv.naver.com/v/36630828</guid>
-            <pubDate>Sun, 04 Jun 2023 07:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_30/rKGib_1685861848882peyM0_JPEG/2f32c8b6-6a14-4440-b686-c2556ed6bb2c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENHYPEN(엔하이픈) - Bite Me | SBS 230528 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36397086</link>
-            <guid>https://tv.naver.com/v/36397086</guid>
-            <pubDate>Sun, 28 May 2023 08:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230528_108/2e1g4_1685260293129p8tkR_JPEG/3f8584d7-09c0-482f-8167-5de247567181.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
