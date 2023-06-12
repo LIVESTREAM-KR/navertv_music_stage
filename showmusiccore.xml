@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 01:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 02:54:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] TAEYONG - SHALALA(태용 – 샤랄라) Close-up Cam | Show! MusicCore | MBC230610방송]]></title>
+            <link>https://tv.naver.com/v/36889629</link>
+            <guid>https://tv.naver.com/v/36889629</guid>
+            <pubDate>Mon, 12 Jun 2023 02:53:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230612_181/SwGYX_16865350522995BONa_JPEG/clip_20230612103953_47.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] CIX - Save me, Kill me(씨아이엑스 – 세이브 미, 킬 미) FanCam | Show! MusicCore | MBC230610방송]]></title>
             <link>https://tv.naver.com/v/36852411</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 05 Jun 2023 09:15:19 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230605_56/ickmg_1685955989196YPpKY_JPEG/clip_20230605173329_135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] Stray Kids FELIX - S-Class(스트레이 키즈 필릭스 - 특) Close-up Cam | Show! MusicCore | MBC230603방송]]></title>
-            <link>https://tv.naver.com/v/36668527</link>
-            <guid>https://tv.naver.com/v/36668527</guid>
-            <pubDate>Mon, 05 Jun 2023 09:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_181/aXuBA_1685955448181AMPaB_JPEG/clip_20230605172959_131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
