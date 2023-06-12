@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 06:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 07:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 쇼챔피언과 함께 느껴봐 me now↗↘➡↗↘➡]]></title>
+            <link>https://tv.naver.com/v/36899897</link>
+            <guid>https://tv.naver.com/v/36899897</guid>
+            <pubDate>Mon, 12 Jun 2023 07:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230612_120/KAMYd_1686551790516p1HFt_JPEG/CA202306140007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6월 1주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (우아! 나나, 빌리 츠키) | Show Champion | EP.478]]></title>
             <link>https://tv.naver.com/v/36745270</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 07 Jun 2023 10:15:40 GMT</pubDate>
             <content:encoded><![CDATA[3:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230607_255/LXQsD_1686132388932MkSBy_JPEG/CA202306070087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다크비(DKB) - Turning Point (Prod. 주헌(몬스타엑스))]]></title>
-            <link>https://tv.naver.com/v/36743194</link>
-            <guid>https://tv.naver.com/v/36743194</guid>
-            <pubDate>Wed, 07 Jun 2023 10:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_254/iMBg2_16861318488189pwRy_JPEG/CA202306070086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
