@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 05:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 06:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] TAEYONG - GWANDO(태용 – 관둬) Close-up Cam | Show! MusicCore | MBC230610방송]]></title>
+            <link>https://tv.naver.com/v/36898880</link>
+            <guid>https://tv.naver.com/v/36898880</guid>
+            <pubDate>Mon, 12 Jun 2023 06:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230612_126/FwJXZ_1686550352416EUFEO_JPEG/clip_20230612145134_58.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] TAEYONG - SHALALA(태용 – 샤랄라) Close-up Cam | Show! MusicCore | MBC230610방송]]></title>
             <link>https://tv.naver.com/v/36889629</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 05 Jun 2023 09:15:19 GMT</pubDate>
             <content:encoded><![CDATA[4:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230605_42/DbPZG_1685955991358gtQLe_JPEG/clip_20230605173408_136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] (G)I-DLE YUQI - Queencard((여자)아이들 우기 - 퀸카) Close-up Cam | Show! MusicCore | MBC230603방송]]></title>
-            <link>https://tv.naver.com/v/36668935</link>
-            <guid>https://tv.naver.com/v/36668935</guid>
-            <pubDate>Mon, 05 Jun 2023 09:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_56/ickmg_1685955989196YPpKY_JPEG/clip_20230605173329_135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
