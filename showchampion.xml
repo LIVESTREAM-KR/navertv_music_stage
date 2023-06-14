@@ -4,9 +4,33 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 10:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 11:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프로미스나인(fromis_9) - Attitude]]></title>
+            <link>https://tv.naver.com/v/36992433</link>
+            <guid>https://tv.naver.com/v/36992433</guid>
+            <pubDate>Wed, 14 Jun 2023 11:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_102/A2vnx_1686739351822iQRdS_JPEG/CA202306140095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엔딩원샷] 씨아이엑스(CIX) - Save me, Kill me]]></title>
+            <link>https://tv.naver.com/v/36992432</link>
+            <guid>https://tv.naver.com/v/36992432</guid>
+            <pubDate>Wed, 14 Jun 2023 11:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_231/BnWzJ_1686739349912sgCRH_JPEG/CA202306140094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 프로미스나인(fromis_9) - #menow]]></title>
+            <link>https://tv.naver.com/v/36992256</link>
+            <guid>https://tv.naver.com/v/36992256</guid>
+            <pubDate>Wed, 14 Jun 2023 11:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_217/sodi8_1686738989985qTjIJ_JPEG/CA202306140096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엔딩원샷] 러블리 큐피트로 변신💘 CIX 엔딩요정 주인공은 과연 누구?]]></title>
             <link>https://tv.naver.com/v/36991416</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 07 Jun 2023 13:18:57 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230607_12/TdexO_1686129689552wvhyy_JPEG/CA202306070057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] PURPLE KISS CHAEIN - Love Is Dead (퍼플키스 채인 - 러브 이즈 데드) | Show Champion | EP.478]]></title>
-            <link>https://tv.naver.com/v/36741623</link>
-            <guid>https://tv.naver.com/v/36741623</guid>
-            <pubDate>Wed, 07 Jun 2023 13:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_19/n1IUf_1686129388745szSXU_JPEG/CA202306070062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] PURPLE KISS DOSIE - Love Is Dead (퍼플키스 도시 - 러브 이즈 데드) | Show Champion | EP.478]]></title>
-            <link>https://tv.naver.com/v/36741480</link>
-            <guid>https://tv.naver.com/v/36741480</guid>
-            <pubDate>Wed, 07 Jun 2023 13:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_135/1aiRN_1686129149169f158S_JPEG/CA202306070058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] PURPLE KISS IREH - Love Is Dead (퍼플키스 이레 - 러브 이즈 데드) | Show Champion | EP.478]]></title>
-            <link>https://tv.naver.com/v/36740846</link>
-            <guid>https://tv.naver.com/v/36740846</guid>
-            <pubDate>Wed, 07 Jun 2023 13:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_15/1GaZN_1686128252409ghC3w_JPEG/CA202306070061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
