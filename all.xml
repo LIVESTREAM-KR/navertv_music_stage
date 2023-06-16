@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 04:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 05:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2032,6 +2032,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.572 - CIX(씨아이엑스), B.I(비아이), DKB(다크비), THE NEW SIX(TNX)(더뉴식스), X (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37051958</link>
+            <guid>https://tv.naver.com/v/37051958</guid>
+            <pubDate>Fri, 16 Jun 2023 05:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[54:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_183/rnPQb_1686879779202hLpAm_JPEG/1686879284034.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.572 - KARD, SECRET NUMBER(시크릿넘버), NINE to SIX(나인투식스), YOUNITE(유나이 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/36782943</link>
             <guid>https://tv.naver.com/v/36782943</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
             <content:encoded><![CDATA[49:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230310_261/gkPtZ_1678408021569qVm3e_JPEG/1678407513965.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.556  TNX(티엔엑스), cignature(시그니처), TRI.BE (트라이비), XG(엑스지) (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/33213063</link>
-            <guid>https://tv.naver.com/v/33213063</guid>
-            <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[55:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_9/yHORn_1676592844851kr3Rt_JPEG/1676592379008.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크랙샷_달의 몰락(원곡 김현철) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
