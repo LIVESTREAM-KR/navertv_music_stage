@@ -4,9 +4,41 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 09:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 10:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오곤&무성_울산 관람차]]></title>
+            <link>https://tv.naver.com/v/37054422</link>
+            <guid>https://tv.naver.com/v/37054422</guid>
+            <pubDate>Fri, 16 Jun 2023 10:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_257/2rTm3_16868833727665JjkI_JPEG/3cf4e83e-0bea-11ee-9d52-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로맨틱펀치_그대에게(원곡 신해철)]]></title>
+            <link>https://tv.naver.com/v/37054418</link>
+            <guid>https://tv.naver.com/v/37054418</guid>
+            <pubDate>Fri, 16 Jun 2023 10:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[4:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_15/XUOef_1686883366978fDgfw_JPEG/6225a15e-0bea-11ee-8f8b-80615f0bcbf0_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로맨틱펀치_토요일 밤이 좋아(Saturday Night Fever)]]></title>
+            <link>https://tv.naver.com/v/37054410</link>
+            <guid>https://tv.naver.com/v/37054410</guid>
+            <pubDate>Fri, 16 Jun 2023 10:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[5:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_16/8ewsp_1686883360302gPge3_JPEG/8c4a825d-0bea-11ee-8790-a0369ffb3274_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로맨틱펀치_안녕, 잘 가!(Hasta La Vista)]]></title>
+            <link>https://tv.naver.com/v/37054400</link>
+            <guid>https://tv.naver.com/v/37054400</guid>
+            <pubDate>Fri, 16 Jun 2023 10:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_168/XtezE_1686883349810kFChS_JPEG/c2f1e773-0bea-11ee-8c05-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로맨틱펀치_파이트 클럽]]></title>
             <link>https://tv.naver.com/v/37054390</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 26 May 2023 09:14:53 GMT</pubDate>
             <content:encoded><![CDATA[3:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230526_207/Vx2Zh_1685081562469neAFt_JPEG/8d65f028-fb8a-11ed-967c-a0369ffdab5c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곽동현_나만의 그대 모습(원곡 b612)]]></title>
-            <link>https://tv.naver.com/v/36344462</link>
-            <guid>https://tv.naver.com/v/36344462</guid>
-            <pubDate>Fri, 26 May 2023 09:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[4:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_297/eRIUX_1685081553014Ce1gb_JPEG/6536c4ca-fb8a-11ed-a676-505dac8c385b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송하예_니 소식]]></title>
-            <link>https://tv.naver.com/v/36087717</link>
-            <guid>https://tv.naver.com/v/36087717</guid>
-            <pubDate>Fri, 19 May 2023 09:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_300/lM1kM_16844614613070kyVg_JPEG/e7b45645-f5e3-11ed-ad6d-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송하예_인터뷰]]></title>
-            <link>https://tv.naver.com/v/36087712</link>
-            <guid>https://tv.naver.com/v/36087712</guid>
-            <pubDate>Fri, 19 May 2023 09:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[4:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_152/qyJoO_1684461456990t9edG_JPEG/c165f7fa-f5e3-11ed-8cf7-80615f0bcc48_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송하예_너를 보는게 지친 하루에]]></title>
-            <link>https://tv.naver.com/v/36087708</link>
-            <guid>https://tv.naver.com/v/36087708</guid>
-            <pubDate>Fri, 19 May 2023 10:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_269/HlPff_1684461453588JIUKo_JPEG/a05cc97b-f5e3-11ed-9a0b-a0369ffdf530_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
