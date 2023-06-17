@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 08:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 09:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,46 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ JONGHO - BOUNCY(에이티즈 종호 - 바운시) FanCam | Show! MusicCore | MBC230617방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37095095</link>
+            <guid>https://tv.naver.com/v/37095095</guid>
+            <pubDate>Sat, 17 Jun 2023 09:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_117/dPaA2_1686993089086PfLtk_JPEG/clip_20230617173804_75.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ YUNHO - BOUNCY(에이티즈 윤호 - 바운시) FanCam | Show! MusicCore | MBC230617방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37094953</link>
+            <guid>https://tv.naver.com/v/37094953</guid>
+            <pubDate>Sat, 17 Jun 2023 09:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_183/R9CZU_1686992788006PtzIG_JPEG/clip_20230617173747_70.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ YEOSANG - BOUNCY(에이티즈 여상 - 바운시) FanCam | Show! MusicCore | MBC230617방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37094843</link>
+            <guid>https://tv.naver.com/v/37094843</guid>
+            <pubDate>Sat, 17 Jun 2023 09:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_97/TbMmZ_1686992487731QF3wR_JPEG/clip_20230617173750_71.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ HONGJOONG - BOUNCY(에이티즈 홍중 - 바운시) FanCam | Show! MusicCore | MBC230617방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37094733</link>
+            <guid>https://tv.naver.com/v/37094733</guid>
+            <pubDate>Sat, 17 Jun 2023 09:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_156/3gxLM_1686992248738az0AT_JPEG/clip_20230617173436_68.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ – BOUNCY(에이티즈 - 바운시) FanCam | Show! MusicCore | MBC230617방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37094573</link>
+            <guid>https://tv.naver.com/v/37094573</guid>
+            <pubDate>Sat, 17 Jun 2023 09:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_238/sRK6M_168699188990862R3w_JPEG/clip_20230617173403_67.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] CIX HYUNSUK - Save me, Kill me(현석 – 세이브 미, 킬 미) Close-up Cam | Show! MusicCore | MBC230610방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -214,46 +254,6 @@
             <pubDate>Sat, 10 Jun 2023 10:13:47 GMT</pubDate>
             <content:encoded><![CDATA[4:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230610_272/VWlLT_16863891887895eQyW_JPEG/clip_20230610173218_99.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Stray Kids I.N – S-Class(스트레이 키즈 아이엔 - 특) FanCam | Show! MusicCore | MBC230610방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36850818</link>
-            <guid>https://tv.naver.com/v/36850818</guid>
-            <pubDate>Sat, 10 Jun 2023 10:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[4:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230610_266/BZKrz_1686388889024ga41n_JPEG/clip_20230610173245_102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Stray Kids SEUNGMIN – S-Class(스트레이 키즈 승민 - 특) FanCam | Show! MusicCore | MBC230610방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36850611</link>
-            <guid>https://tv.naver.com/v/36850611</guid>
-            <pubDate>Sat, 10 Jun 2023 09:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[4:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230610_299/k7ZiP_16863883478082fCUX_JPEG/clip_20230610173232_101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Stray Kids - S-Class(스트레이 키즈 – 특) FanCam | Show! MusicCore | MBC230610방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36850591</link>
-            <guid>https://tv.naver.com/v/36850591</guid>
-            <pubDate>Sat, 10 Jun 2023 09:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230610_259/U6oco_1686388287895kaCOE_JPEG/clip_20230610173039_94.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] P1Harmony THEO – JUMP(피원하모니 테오 - 점프) FanCam | Show! MusicCore | MBC230610방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36850377</link>
-            <guid>https://tv.naver.com/v/36850377</guid>
-            <pubDate>Sat, 10 Jun 2023 09:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230610_199/Izx2x_1686387688508Bx7Lr_JPEG/clip_20230610172440_62.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] P1Harmony - JUMP(피원하모니 – 점프) FanCam | Show! MusicCore | MBC230610방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36850281</link>
-            <guid>https://tv.naver.com/v/36850281</guid>
-            <pubDate>Sat, 10 Jun 2023 09:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230610_252/Flufr_1686387448336MvXlg_JPEG/clip_20230610172341_61.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태용 - 샤랄라(SHALALA) | SBS 230611 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
