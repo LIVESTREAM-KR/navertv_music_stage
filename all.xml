@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 11:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 12:25:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Blackswan - Karma(블랙스완 – 카르마) FanCam | Show! MusicCore | MBC230617방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37098182</link>
+            <guid>https://tv.naver.com/v/37098182</guid>
+            <pubDate>Sat, 17 Jun 2023 12:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_199/gxAyt_16870008889325yWYK_JPEG/clip_20230617190428_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] SECRET NUMBER - DOXA(시크릿 넘버 – 독사) FanCam | Show! MusicCore | MBC230617방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37098074</link>
+            <guid>https://tv.naver.com/v/37098074</guid>
+            <pubDate>Sat, 17 Jun 2023 12:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_297/sNPbB_1687000589016Mhp4L_JPEG/clip_20230617190557_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] SECRET NUMBER DITA – DOXA(시크릿 넘버 디타 - 독사) FanCam | Show! MusicCore | MBC230617방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37097979</link>
+            <guid>https://tv.naver.com/v/37097979</guid>
+            <pubDate>Sat, 17 Jun 2023 12:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_46/yc8Nl_1687000349876KMSGn_JPEG/clip_20230617190558_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] Blackswan GABI – Karma(블랙스완 가비 - 카르마) FanCam | Show! MusicCore | MBC230617방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Sat, 17 Jun 2023 09:13:27 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230617_97/TbMmZ_1686992487731QF3wR_JPEG/clip_20230617173750_71.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ATEEZ HONGJOONG - BOUNCY(에이티즈 홍중 - 바운시) FanCam | Show! MusicCore | MBC230617방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37094733</link>
-            <guid>https://tv.naver.com/v/37094733</guid>
-            <pubDate>Sat, 17 Jun 2023 09:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_156/3gxLM_1686992248738az0AT_JPEG/clip_20230617173436_68.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ATEEZ – BOUNCY(에이티즈 - 바운시) FanCam | Show! MusicCore | MBC230617방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37094573</link>
-            <guid>https://tv.naver.com/v/37094573</guid>
-            <pubDate>Sat, 17 Jun 2023 09:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_238/sRK6M_168699188990862R3w_JPEG/clip_20230617173403_67.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] CIX HYUNSUK - Save me, Kill me(현석 – 세이브 미, 킬 미) Close-up Cam | Show! MusicCore | MBC230610방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36906792</link>
-            <guid>https://tv.naver.com/v/36906792</guid>
-            <pubDate>Mon, 12 Jun 2023 10:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230612_264/VFOb2_1686561688402uEdVg_JPEG/clip_20230612175216_43.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태용 - 샤랄라(SHALALA) | SBS 230611 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
