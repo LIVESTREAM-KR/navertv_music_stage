@@ -4,9 +4,89 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 05:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 06:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NINE to SIX - Don’t Call Me | SBS 230618 방송]]></title>
+            <link>https://tv.naver.com/v/37112311</link>
+            <guid>https://tv.naver.com/v/37112311</guid>
+            <pubDate>Sun, 18 Jun 2023 06:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_276/7JPYv_1687068988313u9ck7_JPEG/4fe4ce08-5c23-4019-b5a3-b4d81c90509c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[P1Harmony - JUMP | SBS 230618 방송]]></title>
+            <link>https://tv.naver.com/v/37112235</link>
+            <guid>https://tv.naver.com/v/37112235</guid>
+            <pubDate>Sun, 18 Jun 2023 06:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_263/NZeYa_1687068750379yAy70_JPEG/8887c492-253f-4e5b-a717-c1dd1b60faa1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SECRET NUMBER(시크릿넘버) - 독사(DOXA) | SBS 230618 방송]]></title>
+            <link>https://tv.naver.com/v/37112234</link>
+            <guid>https://tv.naver.com/v/37112234</guid>
+            <pubDate>Sun, 18 Jun 2023 06:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_253/hYhwu_1687068748190okQ3P_JPEG/94c1aa4f-7125-4183-87cf-28582a725617.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LUN8(루네이트) - Wild Heart | SBS 230618 방송]]></title>
+            <link>https://tv.naver.com/v/37112092</link>
+            <guid>https://tv.naver.com/v/37112092</guid>
+            <pubDate>Sun, 18 Jun 2023 06:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_228/ahmEP_1687068389555okICC_JPEG/d438432f-35ad-4a8d-a94a-28051ac9032a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BOYNEXTDOOR - One and Only | SBS 230618 방송]]></title>
+            <link>https://tv.naver.com/v/37111981</link>
+            <guid>https://tv.naver.com/v/37111981</guid>
+            <pubDate>Sun, 18 Jun 2023 06:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_66/WYzU9_1687068088577AVzId_JPEG/4cc79c6c-8cdb-4bfb-b628-369655068d7b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[THE NEW SIX - Kick It 4 Now | SBS 230618 방송]]></title>
+            <link>https://tv.naver.com/v/37111902</link>
+            <guid>https://tv.naver.com/v/37111902</guid>
+            <pubDate>Sun, 18 Jun 2023 06:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_54/VuZ3Z_1687067848412JUFQm_JPEG/4702b31b-1cc0-4438-8d29-7c5da81187f2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백예빈 - 비행구름  | SBS 230618 방송]]></title>
+            <link>https://tv.naver.com/v/37111782</link>
+            <guid>https://tv.naver.com/v/37111782</guid>
+            <pubDate>Sun, 18 Jun 2023 06:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_255/3OZkQ_1687067488767IGtbk_JPEG/23d76943-c8d2-4c5b-ab49-172cd236c0f5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FANTASY BOYS(판타지보이즈) - Gesture | SBS 230618 방송]]></title>
+            <link>https://tv.naver.com/v/37111780</link>
+            <guid>https://tv.naver.com/v/37111780</guid>
+            <pubDate>Sun, 18 Jun 2023 06:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_225/M1hxh_1687067487039Jrtmm_JPEG/1c523a48-325e-4611-ab8a-b612c0509597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VAV - Designer | SBS 230618 방송]]></title>
+            <link>https://tv.naver.com/v/37111610</link>
+            <guid>https://tv.naver.com/v/37111610</guid>
+            <pubDate>Sun, 18 Jun 2023 06:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_281/U3PcS_1687066949306jXH7U_JPEG/c2b29ff3-d15a-4078-8fbc-a409db886776.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박로시 - LUV Myself | SBS 230618 방송]]></title>
+            <link>https://tv.naver.com/v/37111588</link>
+            <guid>https://tv.naver.com/v/37111588</guid>
+            <pubDate>Sun, 18 Jun 2023 06:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_129/6H4HR_1687066888742ChsxQ_PNG/00c8b840-6126-432c-9443-e13fd609dd6e.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[태용 - 샤랄라(SHALALA) | SBS 230611 방송]]></title>
             <link>https://tv.naver.com/v/36870708</link>
@@ -166,86 +246,6 @@
             <pubDate>Sun, 04 Jun 2023 08:15:40 GMT</pubDate>
             <content:encoded><![CDATA[2:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230604_267/1z6s5_1685866350160xxCoF_JPEG/991a57a2-89e5-4e09-ac24-bbe547505b34.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주헌 - FREEDOM | SBS 230604 방송]]></title>
-            <link>https://tv.naver.com/v/36632462</link>
-            <guid>https://tv.naver.com/v/36632462</guid>
-            <pubDate>Sun, 04 Jun 2023 08:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_10/swIgc_1685866290371Ng6Mx_JPEG/1746606e-bb19-4f66-9626-8704d2b798b3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AB6IX(에이비식스) - LOSER | SBS 230604 방송]]></title>
-            <link>https://tv.naver.com/v/36632338</link>
-            <guid>https://tv.naver.com/v/36632338</guid>
-            <pubDate>Sun, 04 Jun 2023 08:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_206/gnEvP_1685865990231YfIQu_JPEG/0f2f0794-3cfb-479b-ac5b-daff386fd11f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KARD - ICKY | SBS 230604 방송]]></title>
-            <link>https://tv.naver.com/v/36632121</link>
-            <guid>https://tv.naver.com/v/36632121</guid>
-            <pubDate>Sun, 04 Jun 2023 08:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_200/OmokI_1685865449888aF4Y2_JPEG/b8b46685-650f-4de3-9a99-0f221cee7e15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드림캐쳐 - BONVOYAGE | SBS 230604 방송]]></title>
-            <link>https://tv.naver.com/v/36632096</link>
-            <guid>https://tv.naver.com/v/36632096</guid>
-            <pubDate>Sun, 04 Jun 2023 08:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_19/amBnL_1685865392150czFzX_JPEG/004df1a7-81c9-41d9-af28-58c628876c65.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NINE to SIX - Don’t Call Me | SBS 230604 방송]]></title>
-            <link>https://tv.naver.com/v/36631899</link>
-            <guid>https://tv.naver.com/v/36631899</guid>
-            <pubDate>Sun, 04 Jun 2023 08:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_289/zfTx9_1685864788550L36E4_JPEG/a9f8f96d-7086-4ebf-bbe6-0a37c0d65e96.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BOYNEXTDOOR - One and Only | SBS 230604 방송]]></title>
-            <link>https://tv.naver.com/v/36631775</link>
-            <guid>https://tv.naver.com/v/36631775</guid>
-            <pubDate>Sun, 04 Jun 2023 08:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_96/9BlQ4_1685864487773Mxeeu_JPEG/cf266a67-56f1-41e2-a4f7-4219af2b617b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BOYNEXTDOOR - 돌아버리겠다 | SBS 230604 방송]]></title>
-            <link>https://tv.naver.com/v/36631550</link>
-            <guid>https://tv.naver.com/v/36631550</guid>
-            <pubDate>Sun, 04 Jun 2023 08:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_109/1UUkn_1685863892629mFvnD_JPEG/f9a1130c-fcf3-4bda-9013-845dcafc9257.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CIX(씨아이엑스) - Save me, Kill me | SBS 230604 방송]]></title>
-            <link>https://tv.naver.com/v/36631547</link>
-            <guid>https://tv.naver.com/v/36631547</guid>
-            <pubDate>Sun, 04 Jun 2023 08:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_39/TR51Y_1685863889688wo4hY_JPEG/ed31e140-e6cf-4a8a-af66-fcdf60b03618.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베리베리(VERIVERY) - Crazy Like That | SBS 230604 방송]]></title>
-            <link>https://tv.naver.com/v/36631448</link>
-            <guid>https://tv.naver.com/v/36631448</guid>
-            <pubDate>Sun, 04 Jun 2023 08:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_202/dqQug_1685863587870xA18A_JPEG/896f38d0-adc8-43ec-95be-ed4ce9be7142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SECRET NUMBER(시크릿넘버) - 독사(DOXA) | SBS 230604 방송]]></title>
-            <link>https://tv.naver.com/v/36631359</link>
-            <guid>https://tv.naver.com/v/36631359</guid>
-            <pubDate>Sun, 04 Jun 2023 08:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_220/KB7rV_1685863288710v9kae_JPEG/f8e36f93-b083-41a8-8c51-f3c8e57619ee.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
