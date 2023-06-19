@@ -4,9 +4,65 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 08:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 09:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] ATEEZ SAN - BOUNCY(에이티즈 산 - 바운시) Close-up Cam | Show! MusicCore | MBC230617방송]]></title>
+            <link>https://tv.naver.com/v/37149134</link>
+            <guid>https://tv.naver.com/v/37149134</guid>
+            <pubDate>Mon, 19 Jun 2023 09:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230619_53/CiPhQ_1687164689985BMVn8_JPEG/clip_20230619173022_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ATEEZ SEONGHWA - BOUNCY(에이티즈 성화 - 바운시) Close-up Cam | Show! MusicCore | MBC230617방송]]></title>
+            <link>https://tv.naver.com/v/37149131</link>
+            <guid>https://tv.naver.com/v/37149131</guid>
+            <pubDate>Mon, 19 Jun 2023 09:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230619_284/MrgSw_1687164688173PumtL_JPEG/clip_20230619173021_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] FANTASY BOYS KIM WOOSEOK - Gesture(판타지 보이즈 김우석 - 제스처)Close-upCam|Show!MusicCore|MBC230617방송]]></title>
+            <link>https://tv.naver.com/v/37148478</link>
+            <guid>https://tv.naver.com/v/37148478</guid>
+            <pubDate>Mon, 19 Jun 2023 09:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230619_151/9Zi8X_168716379075188Ad3_JPEG/clip_20230619162231_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] FANTASY BOYS KAEDAN – Gesture(판타지 보이즈 케이단 - 제스처) FanCam | Show! MusicCore | MBC230617방송]]></title>
+            <link>https://tv.naver.com/v/37148106</link>
+            <guid>https://tv.naver.com/v/37148106</guid>
+            <pubDate>Mon, 19 Jun 2023 09:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230619_211/9xI30_16871632489475Ao2x_JPEG/clip_20230619162143_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] FANTASY BOYS YU JUNWON - Gesture(판타지 보이즈 유준원 - 제스처) Close-up Cam|Show! MusicCore|MBC230617방]]></title>
+            <link>https://tv.naver.com/v/37148060</link>
+            <guid>https://tv.naver.com/v/37148060</guid>
+            <pubDate>Mon, 19 Jun 2023 09:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230619_148/ugHXo_1687163189070Nyn6H_JPEG/clip_20230619162239_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] FANTASY BOYS HONG SUNGMIN - Gesture(판타지 보이즈 홍성민 - 제스처)Close-upCam|Show!MusicCore|MBC230617방]]></title>
+            <link>https://tv.naver.com/v/37147818</link>
+            <guid>https://tv.naver.com/v/37147818</guid>
+            <pubDate>Mon, 19 Jun 2023 09:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230619_177/RqkAU_1687162890137R0ALA_JPEG/clip_20230619162257_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] FANTASY BOYS OH HYEONTAE – Gesture(판타지 보이즈 오현태 - 제스처) FanCam | Show! MusicCore | MBC230617방]]></title>
+            <link>https://tv.naver.com/v/37147815</link>
+            <guid>https://tv.naver.com/v/37147815</guid>
+            <pubDate>Mon, 19 Jun 2023 09:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230619_4/8OSFq_1687162889066zG4EY_JPEG/clip_20230619162210_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] FANTASY BOYS KANG MINSEO – Gesture(판타지 보이즈 강민서 - 제스처) FanCam | Show! MusicCore | MBC230617방]]></title>
             <link>https://tv.naver.com/v/37147155</link>
@@ -190,62 +246,6 @@
             <pubDate>Sat, 17 Jun 2023 10:13:42 GMT</pubDate>
             <content:encoded><![CDATA[3:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230617_91/sqMfU_1686996749918Xu6QW_JPEG/clip_20230617174214_81.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] REN – Ready to Move(렌 - 레디 투 무브) FanCam | Show! MusicCore | MBC230617방송]]></title>
-            <link>https://tv.naver.com/v/37096391</link>
-            <guid>https://tv.naver.com/v/37096391</guid>
-            <pubDate>Sat, 17 Jun 2023 10:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_150/cagow_1686996388093xdbqb_JPEG/clip_20230617174350_84.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] P1Harmony JIUNG – JUMP(피원하모니 지웅 - 점프) FanCam | Show! MusicCore | MBC230617방송]]></title>
-            <link>https://tv.naver.com/v/37096284</link>
-            <guid>https://tv.naver.com/v/37096284</guid>
-            <pubDate>Sat, 17 Jun 2023 10:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_265/fwCUs_168699608871083e0E_JPEG/clip_20230617174218_82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] P1Harmony - JUMP(피원하모니 – 점프) FanCam | Show! MusicCore | MBC230617방송]]></title>
-            <link>https://tv.naver.com/v/37096183</link>
-            <guid>https://tv.naver.com/v/37096183</guid>
-            <pubDate>Sat, 17 Jun 2023 10:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_2/bGVn8_1686995847963O8BhH_JPEG/clip_20230617174209_80.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ATEEZ SAN - BOUNCY(에이티즈 산 - 바운시) FanCam | Show! MusicCore | MBC230617방송]]></title>
-            <link>https://tv.naver.com/v/37096163</link>
-            <guid>https://tv.naver.com/v/37096163</guid>
-            <pubDate>Sat, 17 Jun 2023 10:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_98/0TP4g_1686995790187vYYwy_JPEG/clip_20230617173753_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TAEYONG - SHALALA(태용 – 샤랄라) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230617방송]]></title>
-            <link>https://tv.naver.com/v/37096058</link>
-            <guid>https://tv.naver.com/v/37096058</guid>
-            <pubDate>Sat, 17 Jun 2023 10:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_76/k58Uk_16869954887103GEnm_JPEG/clip_20230617173913_76.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ATEEZ SEONGHWA - BOUNCY(에이티즈 성화 - 바운시) FanCam | Show! MusicCore | MBC230617방송]]></title>
-            <link>https://tv.naver.com/v/37095890</link>
-            <guid>https://tv.naver.com/v/37095890</guid>
-            <pubDate>Sat, 17 Jun 2023 10:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_221/hpctt_16869949495355XhkX_JPEG/clip_20230617173743_69.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TAEYONG – GWANDO(태용 - 관둬) FanCam | Show! MusicCore | MBC230617방송]]></title>
-            <link>https://tv.naver.com/v/37095864</link>
-            <guid>https://tv.naver.com/v/37095864</guid>
-            <pubDate>Sat, 17 Jun 2023 10:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_163/6eBY3_1686994887564qRSyD_JPEG/clip_20230617174036_79.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
