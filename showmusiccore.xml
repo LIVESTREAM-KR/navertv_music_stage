@@ -4,9 +4,49 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 07:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 08:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] CIX YONGHEE - Save me, Kill me(용희 – 세이브 미, 킬 미) Close-up Cam | Show! MusicCore | MBC230617방]]></title>
+            <link>https://tv.naver.com/v/37187871</link>
+            <guid>https://tv.naver.com/v/37187871</guid>
+            <pubDate>Tue, 20 Jun 2023 08:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230620_139/0VuZ3_1687247188727w4LNY_JPEG/clip_20230620160546_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] TAEYONG - SHALALA(태용 – 샤랄라) Close-up Cam | Show! MusicCore | MBC230617방송]]></title>
+            <link>https://tv.naver.com/v/37187627</link>
+            <guid>https://tv.naver.com/v/37187627</guid>
+            <pubDate>Tue, 20 Jun 2023 08:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230620_42/2iz6N_1687246887761g4KBf_JPEG/clip_20230620160326_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] TAEYONG - GWANDO(태용 – 관둬) Close-up Cam | Show! MusicCore | MBC230617방송]]></title>
+            <link>https://tv.naver.com/v/37187378</link>
+            <guid>https://tv.naver.com/v/37187378</guid>
+            <pubDate>Tue, 20 Jun 2023 08:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230620_101/ks3s1_1687246588407B5zyn_JPEG/clip_20230620160406_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CIX BX – Save me, Kill me(씨아이엑스 BX - 세이브 미, 킬 미) FanCam | Show! MusicCore | MBC230617방송]]></title>
+            <link>https://tv.naver.com/v/37187142</link>
+            <guid>https://tv.naver.com/v/37187142</guid>
+            <pubDate>Tue, 20 Jun 2023 08:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230620_196/Dtzoq_1687246289128RRcv4_JPEG/clip_20230620160540_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CIX BAE JINYOUNG – Save me, Kill me(씨아이엑스 배진영 - 세이브 미, 킬 미)FanCam|Show!MusicCore|MBC230617방]]></title>
+            <link>https://tv.naver.com/v/37186532</link>
+            <guid>https://tv.naver.com/v/37186532</guid>
+            <pubDate>Tue, 20 Jun 2023 08:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230620_69/4wnEL_1687245693961Uudid_JPEG/clip_20230620160536_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] ATEEZ SAN - BOUNCY(에이티즈 산 - 바운시) Close-up Cam | Show! MusicCore | MBC230617방송]]></title>
             <link>https://tv.naver.com/v/37149134</link>
@@ -206,46 +246,6 @@
             <pubDate>Sat, 17 Jun 2023 11:11:42 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230617_300/NgI8C_1686998188769gpgLS_JPEG/clip_20230617174645_85.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE NEW SIX HWI – Kick It 4 Now(더뉴식스 은휘 - 킥 잇 포 나우) FanCam | Show! MusicCore | MBC230617방송]]></title>
-            <link>https://tv.naver.com/v/37097044</link>
-            <guid>https://tv.naver.com/v/37097044</guid>
-            <pubDate>Sat, 17 Jun 2023 11:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_78/NaQWa_168699788780884M5D_JPEG/clip_20230617174655_87.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE NEW SIX HYUNSOO – Kick It 4 Now(더뉴식스 장현수 - 킥 잇 포 나우) FanCam |Show! MusicCore|MBC230617방]]></title>
-            <link>https://tv.naver.com/v/37096956</link>
-            <guid>https://tv.naver.com/v/37096956</guid>
-            <pubDate>Sat, 17 Jun 2023 11:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_264/XPsKj_1686997648691Wai1r_JPEG/clip_20230617174658_88.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] LUN8 – Wild Heart(루네이트 - 와일드 하트) FanCam | Show! MusicCore | MBC230617방송]]></title>
-            <link>https://tv.naver.com/v/37096810</link>
-            <guid>https://tv.naver.com/v/37096810</guid>
-            <pubDate>Sat, 17 Jun 2023 11:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_193/Aco4Y_1686997287912GopgE_JPEG/clip_20230617174911_89.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] REN - Ready to Move(렌 – 레디 투 무브) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230617방송]]></title>
-            <link>https://tv.naver.com/v/37096677</link>
-            <guid>https://tv.naver.com/v/37096677</guid>
-            <pubDate>Sat, 17 Jun 2023 11:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_52/7NtVD_1686996988188YmMVu_JPEG/clip_20230617174342_83.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] P1Harmony SOUL – JUMP(피원하모니 소울 - 점프) FanCam | Show! MusicCore | MBC230617방송]]></title>
-            <link>https://tv.naver.com/v/37096591</link>
-            <guid>https://tv.naver.com/v/37096591</guid>
-            <pubDate>Sat, 17 Jun 2023 10:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_91/sqMfU_1686996749918Xu6QW_JPEG/clip_20230617174214_81.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
