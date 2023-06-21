@@ -4,9 +4,41 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 10:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 11:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔 1위] 6월 3주 챔피언송 ＜ATEEZ - BOUNCY (K-HOT CHILLI PEPPERS)＞ 앵콜 Full ver.]]></title>
+            <link>https://tv.naver.com/v/37233894</link>
+            <guid>https://tv.naver.com/v/37233894</guid>
+            <pubDate>Wed, 21 Jun 2023 11:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_206/SqaHp_16873452891008IeHb_JPEG/CA202306210096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 에이티즈(ATEEZ) - BOUNCY (K-HOT CHILLI PEPPERS)]]></title>
+            <link>https://tv.naver.com/v/37232593</link>
+            <guid>https://tv.naver.com/v/37232593</guid>
+            <pubDate>Wed, 21 Jun 2023 11:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_198/9t8IU_1687342890382PpNOh_JPEG/CA202306210094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프로미스나인(fromis_9) - #menow]]></title>
+            <link>https://tv.naver.com/v/37232459</link>
+            <guid>https://tv.naver.com/v/37232459</guid>
+            <pubDate>Wed, 21 Jun 2023 11:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_145/dDsTN_1687342590208S7yty_JPEG/CA202306210093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엔딩원샷] 피원하모니(P1Harmony) - JUMP]]></title>
+            <link>https://tv.naver.com/v/37232458</link>
+            <guid>https://tv.naver.com/v/37232458</guid>
+            <pubDate>Wed, 21 Jun 2023 11:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_84/VJSNf_1687342588536LxxeB_JPEG/CA202306210092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엔딩원샷] 지미집 원샷으로 ＜JUMP＞하기💨 P1Harmony 엔딩요정 주인공은 과연 누구?]]></title>
             <link>https://tv.naver.com/v/37232323</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 14 Jun 2023 13:17:53 GMT</pubDate>
             <content:encoded><![CDATA[2:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_162/2M6gL_1686741989548l0Oak_JPEG/CA202306140105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] P1Harmony THEO - JUMP (피원하모니 테오 - 점프) | Show Champion | EP.479]]></title>
-            <link>https://tv.naver.com/v/36993647</link>
-            <guid>https://tv.naver.com/v/36993647</guid>
-            <pubDate>Wed, 14 Jun 2023 13:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_11/6WPaY_1686741687837IXDSH_JPEG/CA202306140104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] P1Harmony JIUNG - JUMP (피원하모니 지웅 - 점프) | Show Champion | EP.479]]></title>
-            <link>https://tv.naver.com/v/36993332</link>
-            <guid>https://tv.naver.com/v/36993332</guid>
-            <pubDate>Wed, 14 Jun 2023 13:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_129/vA1iB_16867410885272oiH8_JPEG/CA202306140103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] CIX - Save me, Kill me (씨아이엑스 - 세이브 미, 킬 미) l Show Champion l EP.479]]></title>
-            <link>https://tv.naver.com/v/36993201</link>
-            <guid>https://tv.naver.com/v/36993201</guid>
-            <pubDate>Wed, 14 Jun 2023 13:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_190/qkMNT_1686740789210pgbu7_JPEG/CA202306140091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] CIX SEUNGHUN - Save me, Kill me (씨아이엑스 승훈 - 세이브 미, 킬 미) | Show Champion | EP.479]]></title>
-            <link>https://tv.naver.com/v/36993045</link>
-            <guid>https://tv.naver.com/v/36993045</guid>
-            <pubDate>Wed, 14 Jun 2023 13:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_232/8s5w6_1686740488337RKM2T_JPEG/CA202306140090.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
