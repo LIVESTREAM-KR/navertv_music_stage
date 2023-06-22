@@ -4,9 +4,33 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 07:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 08:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] DKB - I Need Love (다크비 - 아이 니드 러브) | Show Champion | EP.480]]></title>
+            <link>https://tv.naver.com/v/37265147</link>
+            <guid>https://tv.naver.com/v/37265147</guid>
+            <pubDate>Thu, 22 Jun 2023 08:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_5/u7EJQ_1687418187983jY31p_JPEG/CA202306210100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] fromis_9 - #menow (프로미스나인 - #미나우) l Show Champion l EP.480]]></title>
+            <link>https://tv.naver.com/v/37236365</link>
+            <guid>https://tv.naver.com/v/37236365</guid>
+            <pubDate>Thu, 22 Jun 2023 08:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_121/lRQBK_1687349548830IwilL_JPEG/CA202306210099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] LUN8 - Voyager (루네이트 - 보야저) | Show Champion | EP.480]]></title>
+            <link>https://tv.naver.com/v/37234960</link>
+            <guid>https://tv.naver.com/v/37234960</guid>
+            <pubDate>Thu, 22 Jun 2023 08:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_150/hTOVm_1687347090062fSavo_JPEG/CA202306210098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] P1Harmony INTAK - JUMP (피원하모니 인탁 - 점프) | Show Champion | EP.480]]></title>
             <link>https://tv.naver.com/v/37230822</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 21 Jun 2023 13:18:05 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230621_63/566Ow_1687328190766aVOKi_JPEG/CA202306210028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 1위] 6월 3주 챔피언송 ＜ATEEZ - BOUNCY (K-HOT CHILLI PEPPERS)＞ 앵콜 Full ver.]]></title>
-            <link>https://tv.naver.com/v/37233894</link>
-            <guid>https://tv.naver.com/v/37233894</guid>
-            <pubDate>Wed, 21 Jun 2023 11:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_206/SqaHp_16873452891008IeHb_JPEG/CA202306210096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] 에이티즈(ATEEZ) - BOUNCY (K-HOT CHILLI PEPPERS)]]></title>
-            <link>https://tv.naver.com/v/37232593</link>
-            <guid>https://tv.naver.com/v/37232593</guid>
-            <pubDate>Wed, 21 Jun 2023 11:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_198/9t8IU_1687342890382PpNOh_JPEG/CA202306210094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로미스나인(fromis_9) - #menow]]></title>
-            <link>https://tv.naver.com/v/37232459</link>
-            <guid>https://tv.naver.com/v/37232459</guid>
-            <pubDate>Wed, 21 Jun 2023 11:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_145/dDsTN_1687342590208S7yty_JPEG/CA202306210093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
