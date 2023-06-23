@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 01:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 03:00:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[6월 3주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.480 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37234070</link>
+            <guid>https://tv.naver.com/v/37234070</guid>
+            <pubDate>Fri, 23 Jun 2023 02:59:25 GMT</pubDate>
+            <content:encoded><![CDATA[4:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_271/abGgB_168734559093064uRJ_JPEG/CA202306210097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] DKB - I Need Love (다크비 - 아이 니드 러브) | Show Champion | EP.480 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/37265147</link>
             <guid>https://tv.naver.com/v/37265147</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 21 Jun 2023 13:18:05 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230621_126/WINoe_16873281920668YoxQ_JPEG/CA202306210030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] LUN8 DOHYUN - Wild Heart (루네이트 도현 - 와일드 하트) | Show Champion | EP.480 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37222015</link>
-            <guid>https://tv.naver.com/v/37222015</guid>
-            <pubDate>Wed, 21 Jun 2023 13:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_63/566Ow_1687328190766aVOKi_JPEG/CA202306210028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
