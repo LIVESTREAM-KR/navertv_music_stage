@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 15:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jun 2023 16:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2152,6 +2152,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_176/HEvnR_1679011704751vmUCb_JPEG/1679010830414.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[플라워_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37293451</link>
+            <guid>https://tv.naver.com/v/37293451</guid>
+            <pubDate>Sat, 24 Jun 2023 16:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[7:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230623_136/MZl1B_1687488311232QpeMi_JPEG/5a8a893a-116d-11ee-a241-48df3770386e_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플라워_Endless (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37293446</link>
+            <guid>https://tv.naver.com/v/37293446</guid>
+            <pubDate>Sat, 24 Jun 2023 16:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230623_230/Qw3kb_1687488306319WooNX_JPEG/ac897189-116d-11ee-ad6d-505dacfbaa5c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지우_Romance (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37293441</link>
+            <guid>https://tv.naver.com/v/37293441</guid>
+            <pubDate>Sat, 24 Jun 2023 16:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230623_272/ehXFx_16874883007232PTjz_JPEG/e2506105-116d-11ee-9d52-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지우_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37293433</link>
+            <guid>https://tv.naver.com/v/37293433</guid>
+            <pubDate>Sat, 24 Jun 2023 16:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[8:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230623_121/juiAu_1687488292437F4u9U_JPEG/01909066-116e-11ee-8f8b-80615f0bcbf0_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지우_발걸음 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37293429</link>
+            <guid>https://tv.naver.com/v/37293429</guid>
+            <pubDate>Sat, 24 Jun 2023 16:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230623_276/facYe_1687488286771KdjUP_JPEG/6c847a40-116e-11ee-8790-a0369ffb3274_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오곤&무성_울산 관람차 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/37054422</link>
             <guid>https://tv.naver.com/v/37054422</guid>
@@ -2350,46 +2390,6 @@
             <pubDate>Fri, 26 May 2023 10:15:57 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230526_1/JpXCo_1685081656233DRoDK_JPEG/7c4e37b6-fb8b-11ed-befd-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아키텍쳐_The Decay (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36344541</link>
-            <guid>https://tv.naver.com/v/36344541</guid>
-            <pubDate>Fri, 26 May 2023 10:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[10:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_197/h8jZy_1685081628988T65h7_JPEG/99d2d389-fb8b-11ed-8bd0-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부활_비와 당신의 이야기 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36344530</link>
-            <guid>https://tv.naver.com/v/36344530</guid>
-            <pubDate>Fri, 26 May 2023 10:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[5:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_248/8jvP7_1685081613995tzrtY_JPEG/483d82cb-fb8b-11ed-8d97-b4055da548d1_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부활_비밀 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36344483</link>
-            <guid>https://tv.naver.com/v/36344483</guid>
-            <pubDate>Fri, 26 May 2023 09:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[4:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_174/kE6e8_1685081578235fqQa6_JPEG/ef9325ed-fb8a-11ed-9d52-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김종서_아름다운 구속 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36344475</link>
-            <guid>https://tv.naver.com/v/36344475</guid>
-            <pubDate>Fri, 26 May 2023 09:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_42/ERpHL_1685081568453Iy3VL_JPEG/ab06c69b-fb8a-11ed-8d97-b4055da548d1_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김종서_플라스틱 신드롬 (Plastic Syndrome) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36344473</link>
-            <guid>https://tv.naver.com/v/36344473</guid>
-            <pubDate>Fri, 26 May 2023 09:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_207/Vx2Zh_1685081562469neAFt_JPEG/8d65f028-fb8a-11ed-967c-a0369ffdab5c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
