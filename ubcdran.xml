@@ -4,9 +4,33 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 16:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jun 2023 17:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플라워_애정표현]]></title>
+            <link>https://tv.naver.com/v/37293469</link>
+            <guid>https://tv.naver.com/v/37293469</guid>
+            <pubDate>Sat, 24 Jun 2023 17:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230623_253/RsjDz_1687488325657Fhdc4_JPEG/0503dada-116d-11ee-bfa2-a0369ffab468_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플라워_축제]]></title>
+            <link>https://tv.naver.com/v/37293463</link>
+            <guid>https://tv.naver.com/v/37293463</guid>
+            <pubDate>Sat, 24 Jun 2023 17:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230623_153/BL5KD_1687488320721HzQGI_JPEG/1fdae259-116d-11ee-88f2-d4f5ef5a9532_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플라워_하루]]></title>
+            <link>https://tv.naver.com/v/37293457</link>
+            <guid>https://tv.naver.com/v/37293457</guid>
+            <pubDate>Sat, 24 Jun 2023 17:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230623_170/0mUZP_1687488315920Oj88n_JPEG/3be3db31-116d-11ee-a241-48df3770386e_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[플라워_인터뷰]]></title>
             <link>https://tv.naver.com/v/37293451</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 02 Jun 2023 09:15:28 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230602_91/CDYgf_1685680367323VBLSk_JPEG/bee371a9-00ed-11ee-954b-a0369ffac1d8_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드원밴드_어린시절 그 기억 속에]]></title>
-            <link>https://tv.naver.com/v/36344602</link>
-            <guid>https://tv.naver.com/v/36344602</guid>
-            <pubDate>Fri, 26 May 2023 10:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_5/wUwP2_1685081697662eENtO_JPEG/16bb4165-fb8b-11ed-8bd0-d4f5ef58ad5e_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드원밴드_Open Arms(원곡 Journey)]]></title>
-            <link>https://tv.naver.com/v/36344587</link>
-            <guid>https://tv.naver.com/v/36344587</guid>
-            <pubDate>Fri, 26 May 2023 10:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_287/Au9Vc_16850816757538NQ7s_JPEG/d141ea8b-fb8a-11ed-9a3e-48df3770378c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송하예_그대를 알고(원곡 양파)]]></title>
-            <link>https://tv.naver.com/v/36344569</link>
-            <guid>https://tv.naver.com/v/36344569</guid>
-            <pubDate>Fri, 26 May 2023 10:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_1/JpXCo_1685081656233DRoDK_JPEG/7c4e37b6-fb8b-11ed-befd-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
