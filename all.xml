@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 08:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 09:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT DREAM MARK – Broken Melodies(엔시티 드림 마크 - 브로큰 멜로디스) FanCam | Show! MusicCore |MBC230624방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37351913</link>
+            <guid>https://tv.naver.com/v/37351913</guid>
+            <pubDate>Sun, 25 Jun 2023 09:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[4:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_142/nTCWP_1687682188484EuHvS_JPEG/clip_20230624182136_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] CIX YONGHEE - Save me, Kill me(용희 – 세이브 미, 킬 미) Close-up Cam | Show! MusicCore | MBC230617방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -248,12 +256,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230617_160/TWEPo_1686998487951XJlKz_JPEG/clip_20230617174918_90.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] THE NEW SIX - Kick It 4 Now(더뉴식스 – 킥 잇 포 나우) FanCam | Show! MusicCore | MBC230617방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37097135</link>
-            <guid>https://tv.naver.com/v/37097135</guid>
-            <pubDate>Sat, 17 Jun 2023 11:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_300/NgI8C_1686998188769gpgLS_JPEG/clip_20230617174645_85.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT DREAM - Broken Melodies | SBS 230625 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37351489</link>
+            <guid>https://tv.naver.com/v/37351489</guid>
+            <pubDate>Sun, 25 Jun 2023 09:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_227/htTiS_1687681289927c2Wxc_PNG/0e6dd387-da54-465e-a51c-b18a4e26fc02.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 230625 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -486,14 +494,6 @@
             <pubDate>Sun, 18 Jun 2023 06:17:15 GMT</pubDate>
             <content:encoded><![CDATA[3:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230618_54/VuZ3Z_1687067848412JUFQm_JPEG/4702b31b-1cc0-4438-8d29-7c5da81187f2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예빈 - 비행구름  | SBS 230618 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37111782</link>
-            <guid>https://tv.naver.com/v/37111782</guid>
-            <pubDate>Sun, 18 Jun 2023 06:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_255/3OZkQ_1687067488767IGtbk_JPEG/23d76943-c8d2-4c5b-ab49-172cd236c0f5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>

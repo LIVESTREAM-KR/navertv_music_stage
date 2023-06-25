@@ -4,9 +4,17 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 08:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 09:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT DREAM - Broken Melodies | SBS 230625 방송]]></title>
+            <link>https://tv.naver.com/v/37351489</link>
+            <guid>https://tv.naver.com/v/37351489</guid>
+            <pubDate>Sun, 25 Jun 2023 09:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_227/htTiS_1687681289927c2Wxc_PNG/0e6dd387-da54-465e-a51c-b18a4e26fc02.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 230625 방송]]></title>
             <link>https://tv.naver.com/v/37351218</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 18 Jun 2023 06:17:15 GMT</pubDate>
             <content:encoded><![CDATA[3:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230618_54/VuZ3Z_1687067848412JUFQm_JPEG/4702b31b-1cc0-4438-8d29-7c5da81187f2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예빈 - 비행구름  | SBS 230618 방송]]></title>
-            <link>https://tv.naver.com/v/37111782</link>
-            <guid>https://tv.naver.com/v/37111782</guid>
-            <pubDate>Sun, 18 Jun 2023 06:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_255/3OZkQ_1687067488767IGtbk_JPEG/23d76943-c8d2-4c5b-ab49-172cd236c0f5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
