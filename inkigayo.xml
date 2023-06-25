@@ -4,9 +4,17 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 06:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 07:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2Z - Like A Movie | SBS 230625 방송]]></title>
+            <link>https://tv.naver.com/v/37349803</link>
+            <guid>https://tv.naver.com/v/37349803</guid>
+            <pubDate>Sun, 25 Jun 2023 07:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_240/B1AwC_168767715106436vPD_PNG/28e545b2-a3a1-4c41-af56-64cca81c599e.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 230618 방송]]></title>
             <link>https://tv.naver.com/v/37112957</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 11 Jun 2023 07:12:00 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230611_297/ZuwUU_1686465687623x3r7l_JPEG/43cb1747-0c46-4210-8743-39263886b12b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김도아 - 꿈의 태엽(dream walking) | SBS 230611 방송]]></title>
-            <link>https://tv.naver.com/v/36869267</link>
-            <guid>https://tv.naver.com/v/36869267</guid>
-            <pubDate>Sun, 11 Jun 2023 07:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230611_88/pTIlS_1686465392702SrM1s_JPEG/3ac2861a-eb57-4ec8-ad42-3469f5741106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
