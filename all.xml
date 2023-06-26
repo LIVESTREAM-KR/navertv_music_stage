@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 05:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 06:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ – BOUNCY(에이티즈 - 바운시) FanCam | Show! MusicCore | MBC230624방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37379844</link>
+            <guid>https://tv.naver.com/v/37379844</guid>
+            <pubDate>Mon, 26 Jun 2023 06:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_135/RhYiM_1687759953588oK9if_JPEG/clip_20230626145538_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] LUN8 – Wild Heart(루네이트 - 와일드 하트) FanCam | Show! MusicCore | MBC230624방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Mon, 19 Jun 2023 09:14:33 GMT</pubDate>
             <content:encoded><![CDATA[3:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230619_284/MrgSw_1687164688173PumtL_JPEG/clip_20230619173021_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] FANTASY BOYS KIM WOOSEOK - Gesture(판타지 보이즈 김우석 - 제스처)Close-upCam|Show!MusicCore|MBC230617방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37148478</link>
-            <guid>https://tv.naver.com/v/37148478</guid>
-            <pubDate>Mon, 19 Jun 2023 09:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[4:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230619_151/9Zi8X_168716379075188Ad3_JPEG/clip_20230619162231_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM - Broken Melodies | SBS 230625 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 쇼챔 에세이에서 들려주는 새로운 우리의 이야기 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37378643</link>
+            <guid>https://tv.naver.com/v/37378643</guid>
+            <pubDate>Mon, 26 Jun 2023 06:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_255/9SwsP_1687758392669KIyd9_JPEG/CA202306280007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[6월 3주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.480 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/37234070</link>
             <guid>https://tv.naver.com/v/37234070</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 21 Jun 2023 13:18:05 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230621_61/TRVfD_16873287933107QJfm_JPEG/CA202306210029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] LUN8 CHAEL - Wild Heart (루네이트 카엘 - 와일드 하트) | Show Champion | EP.480 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37222017</link>
-            <guid>https://tv.naver.com/v/37222017</guid>
-            <pubDate>Wed, 21 Jun 2023 13:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_126/WINoe_16873281920668YoxQ_JPEG/CA202306210030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
