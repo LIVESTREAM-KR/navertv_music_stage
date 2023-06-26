@@ -4,9 +4,41 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 08:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 09:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] ATEEZ WOOYOUNG - BOUNCY(에이티즈 우영 - 바운시) Close-up Cam | Show! MusicCore | MBC230624방송]]></title>
+            <link>https://tv.naver.com/v/37388411</link>
+            <guid>https://tv.naver.com/v/37388411</guid>
+            <pubDate>Mon, 26 Jun 2023 09:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_115/vVJoa_1687770988757w3HdM_JPEG/clip_20230626174340_38.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ SAN - BOUNCY(에이티즈 산 - 바운시) FanCam | Show! MusicCore | MBC230624방송]]></title>
+            <link>https://tv.naver.com/v/37388260</link>
+            <guid>https://tv.naver.com/v/37388260</guid>
+            <pubDate>Mon, 26 Jun 2023 09:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_197/oTSLh_1687770753949m7AFR_JPEG/clip_20230626174319_34.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ HONGJOONG - BOUNCY(에이티즈 홍중 - 바운시) FanCam | Show! MusicCore | MBC230624방송]]></title>
+            <link>https://tv.naver.com/v/37388217</link>
+            <guid>https://tv.naver.com/v/37388217</guid>
+            <pubDate>Mon, 26 Jun 2023 09:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_175/MWl3r_16877706948521XkcB_JPEG/clip_20230626174251_31.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ JONGHO - BOUNCY(에이티즈 종호 - 바운시) FanCam | Show! MusicCore | MBC230624방송]]></title>
+            <link>https://tv.naver.com/v/37388045</link>
+            <guid>https://tv.naver.com/v/37388045</guid>
+            <pubDate>Mon, 26 Jun 2023 09:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_53/JewdZ_1687770393577bOp56_JPEG/clip_20230626174330_36.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] FANTASY BOYS - Gesture(판타지 보이즈 – 제스처) FanCam | Show! MusicCore | MBC230624방송]]></title>
             <link>https://tv.naver.com/v/37380716</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 20 Jun 2023 08:18:41 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230620_42/2iz6N_1687246887761g4KBf_JPEG/clip_20230620160326_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] TAEYONG - GWANDO(태용 – 관둬) Close-up Cam | Show! MusicCore | MBC230617방송]]></title>
-            <link>https://tv.naver.com/v/37187378</link>
-            <guid>https://tv.naver.com/v/37187378</guid>
-            <pubDate>Tue, 20 Jun 2023 08:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230620_101/ks3s1_1687246588407B5zyn_JPEG/clip_20230620160406_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CIX BX – Save me, Kill me(씨아이엑스 BX - 세이브 미, 킬 미) FanCam | Show! MusicCore | MBC230617방송]]></title>
-            <link>https://tv.naver.com/v/37187142</link>
-            <guid>https://tv.naver.com/v/37187142</guid>
-            <pubDate>Tue, 20 Jun 2023 08:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230620_196/Dtzoq_1687246289128RRcv4_JPEG/clip_20230620160540_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CIX BAE JINYOUNG – Save me, Kill me(씨아이엑스 배진영 - 세이브 미, 킬 미)FanCam|Show!MusicCore|MBC230617방]]></title>
-            <link>https://tv.naver.com/v/37186532</link>
-            <guid>https://tv.naver.com/v/37186532</guid>
-            <pubDate>Tue, 20 Jun 2023 08:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230620_69/4wnEL_1687245693961Uudid_JPEG/clip_20230620160536_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] ATEEZ SAN - BOUNCY(에이티즈 산 - 바운시) Close-up Cam | Show! MusicCore | MBC230617방송]]></title>
-            <link>https://tv.naver.com/v/37149134</link>
-            <guid>https://tv.naver.com/v/37149134</guid>
-            <pubDate>Mon, 19 Jun 2023 09:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230619_53/CiPhQ_1687164689985BMVn8_JPEG/clip_20230619173022_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
