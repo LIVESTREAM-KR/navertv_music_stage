@@ -4,9 +4,41 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 08:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 09:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] FANTASY BOYS HONG SUNGMIN - Gesture(판타지 보이즈 홍성민 - 제스처) Close-up Cam | Show! MusicCore | MBC]]></title>
+            <link>https://tv.naver.com/v/37427108</link>
+            <guid>https://tv.naver.com/v/37427108</guid>
+            <pubDate>Tue, 27 Jun 2023 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[22:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230627_182/gUF0P_16878549884678Yc4P_JPEG/clip_20230627165945_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] FANTASY BOYS YU JUNWON - Gesture(판타지 보이즈 유준원 - 제스처) Close-up Cam |Show!MusicCore|MBC230624방]]></title>
+            <link>https://tv.naver.com/v/37426679</link>
+            <guid>https://tv.naver.com/v/37426679</guid>
+            <pubDate>Tue, 27 Jun 2023 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230627_151/foghh_16878544485051nJJH_JPEG/clip_20230627165934_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] FANTASY BOYS HIKARU – Gesture(판타지 보이즈 히카루 - 제스처) FanCam | Show! MusicCore | MBC230624방송]]></title>
+            <link>https://tv.naver.com/v/37426425</link>
+            <guid>https://tv.naver.com/v/37426425</guid>
+            <pubDate>Tue, 27 Jun 2023 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230627_44/vbfZ0_1687854092937yS4aF_JPEG/clip_20230627165916_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] FANTASY BOYS HIKARI – Gesture(판타지 보이즈 히카리 - 제스처) FanCam | Show! MusicCore | MBC230624방송]]></title>
+            <link>https://tv.naver.com/v/37426423</link>
+            <guid>https://tv.naver.com/v/37426423</guid>
+            <pubDate>Tue, 27 Jun 2023 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230627_2/OzDZk_1687854091810MWz3N_JPEG/clip_20230627165910_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] NCT DREAM HAECHAN-Broken Melodies(엔시티 드림 해찬-브로큰 멜로디스)Close-up Cam|Show!MusicCore|MBC230624방]]></title>
             <link>https://tv.naver.com/v/37391671</link>
@@ -214,38 +246,6 @@
             <pubDate>Sun, 25 Jun 2023 10:15:34 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230625_273/UfTaK_1687685206485bIVeA_JPEG/clip_20230624182903_57.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KANG DANIEL - SOS(강다니엘 – 에스오에스) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230624방송]]></title>
-            <link>https://tv.naver.com/v/37353169</link>
-            <guid>https://tv.naver.com/v/37353169</guid>
-            <pubDate>Sun, 25 Jun 2023 10:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_131/8RbZ2_1687685205046EuO8B_JPEG/clip_20230624182847_56.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KIM JAEHWAN – Sleep(김재환 - 잠이나 잘래) FanCam | Show! MusicCore | MBC230624방송]]></title>
-            <link>https://tv.naver.com/v/37353168</link>
-            <guid>https://tv.naver.com/v/37353168</guid>
-            <pubDate>Sun, 25 Jun 2023 10:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_298/0z2qi_1687685203990g5Wb2_JPEG/clip_20230624182656_55.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KIM JAEHWAN - Sleep(김재환 – 잠이나 잘래) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230624방송]]></title>
-            <link>https://tv.naver.com/v/37353167</link>
-            <guid>https://tv.naver.com/v/37353167</guid>
-            <pubDate>Sun, 25 Jun 2023 10:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_137/zuutv_168768520347414UIf_JPEG/clip_20230624182648_54.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KIM JAEHWAN – 개이득(김재환 - 개이득) FanCam | Show! MusicCore | MBC230624방송]]></title>
-            <link>https://tv.naver.com/v/37353165</link>
-            <guid>https://tv.naver.com/v/37353165</guid>
-            <pubDate>Sun, 25 Jun 2023 10:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[4:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_100/Cgj2V_1687685202958PaM3q_JPEG/clip_20230624182441_53.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
