@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 04:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 05:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2032,6 +2032,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.575 - YENA(최예나), WEi(위아이), DKB(다크비), THE NEW SIX(TNX)(더뉴식스), LUN8( (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37526708</link>
+            <guid>https://tv.naver.com/v/37526708</guid>
+            <pubDate>Fri, 30 Jun 2023 05:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[53:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_48/TNNDf_1688087341017DuTdA_JPEG/1688086554815.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.574 - CIX(씨아이엑스), B.I(비아이), DKB(다크비), THE NEW SIX(TNX)(더뉴식 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/37289096</link>
             <guid>https://tv.naver.com/v/37289096</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
             <content:encoded><![CDATA[54:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230324_176/cTh8O_1679636773730hnp0S_JPEG/1679636146893.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.560 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34059452</link>
-            <guid>https://tv.naver.com/v/34059452</guid>
-            <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[52:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_176/HEvnR_1679011704751vmUCb_JPEG/1679010830414.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[플라워_애정표현 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
