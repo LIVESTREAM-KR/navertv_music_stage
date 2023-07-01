@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 09:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 10:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] SHINee KEY - HARD(샤이니 키 - 하드) FanCam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37570897</link>
+            <guid>https://tv.naver.com/v/37570897</guid>
+            <pubDate>Sat, 01 Jul 2023 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_240/TaBvq_1688206349023p0bUo_JPEG/clip_20230701185517_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] FANTASY BOYS HONG SUNGMIN - Gesture(판타지 보이즈 홍성민 - 제스처) Close-up Cam | Show! MusicCore | MBC (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sun, 25 Jun 2023 10:15:34 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230625_142/HhLBz_1687685207605UlsTb_JPEG/clip_20230624183157_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KANG DANIEL – SOS(강다니엘 - 에스오에스) FanCam | Show! MusicCore | MBC230624방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37353171</link>
-            <guid>https://tv.naver.com/v/37353171</guid>
-            <pubDate>Sun, 25 Jun 2023 10:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_273/UfTaK_1687685206485bIVeA_JPEG/clip_20230624182903_57.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM - Broken Melodies | SBS 230625 방송 (SBS 인기가요 ─ 네이버TV)]]></title>

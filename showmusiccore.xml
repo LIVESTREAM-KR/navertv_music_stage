@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 09:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 10:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] SHINee KEY - HARD(샤이니 키 - 하드) FanCam | Show! MusicCore | MBC230701방송]]></title>
+            <link>https://tv.naver.com/v/37570897</link>
+            <guid>https://tv.naver.com/v/37570897</guid>
+            <pubDate>Sat, 01 Jul 2023 10:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_240/TaBvq_1688206349023p0bUo_JPEG/clip_20230701185517_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] FANTASY BOYS HONG SUNGMIN - Gesture(판타지 보이즈 홍성민 - 제스처) Close-up Cam | Show! MusicCore | MBC]]></title>
             <link>https://tv.naver.com/v/37427108</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 25 Jun 2023 10:15:34 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230625_142/HhLBz_1687685207605UlsTb_JPEG/clip_20230624183157_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KANG DANIEL – SOS(강다니엘 - 에스오에스) FanCam | Show! MusicCore | MBC230624방송]]></title>
-            <link>https://tv.naver.com/v/37353171</link>
-            <guid>https://tv.naver.com/v/37353171</guid>
-            <pubDate>Sun, 25 Jun 2023 10:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_273/UfTaK_1687685206485bIVeA_JPEG/clip_20230624182903_57.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
