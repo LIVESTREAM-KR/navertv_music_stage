@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 07:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 08:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,54 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230626_219/ApBtq_1687776687564zhBXk_JPEG/clip_20230626185958_50.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SHINee(샤이니) - JUICE | SBS 230702 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37588841</link>
+            <guid>https://tv.naver.com/v/37588841</guid>
+            <pubDate>Sun, 02 Jul 2023 08:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230702_224/pv1o9_1688283688417Elqvw_JPEG/073eef84-20ed-49e4-9345-1a492345ccb9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SHINee(샤이니) - HARD | SBS 230702 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37588732</link>
+            <guid>https://tv.naver.com/v/37588732</guid>
+            <pubDate>Sun, 02 Jul 2023 08:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230702_47/PPG7F_16882833897004meFw_JPEG/b032db33-1ce6-4529-8fc6-323b75086e9b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TREASURE - MOVE(T5) | SBS 230702 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37588730</link>
+            <guid>https://tv.naver.com/v/37588730</guid>
+            <pubDate>Sun, 02 Jul 2023 08:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230702_52/PMDpT_16882833879613898o_JPEG/96b86608-4b30-44c1-9746-f02b1c106f82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 230702 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37588531</link>
+            <guid>https://tv.naver.com/v/37588531</guid>
+            <pubDate>Sun, 02 Jul 2023 08:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230702_201/zVr4N_1688282791194ALet9_JPEG/c61de44d-4bb2-4274-ae13-8c10b73ced2e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김성규 - Small Talk | SBS 230702 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37588419</link>
+            <guid>https://tv.naver.com/v/37588419</guid>
+            <pubDate>Sun, 02 Jul 2023 08:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230702_216/c35YL_1688282488207jK3Om_JPEG/14d00c8b-a2a0-45de-afd1-70fbaee655ea.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김재환 - 개이득(feat. BOBBY) | SBS 230702 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37588321</link>
+            <guid>https://tv.naver.com/v/37588321</guid>
+            <pubDate>Sun, 02 Jul 2023 08:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230702_65/iIBU9_1688282189546PiI53_JPEG/86cb567f-9341-4489-9cab-d2b46aa3e81c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[YENA(최예나) - Hate Rodrigo(feat. 우기((여자)아이들)) | SBS 230702 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/37588222</link>
             <guid>https://tv.naver.com/v/37588222</guid>
@@ -446,54 +494,6 @@
             <pubDate>Sun, 25 Jun 2023 08:18:53 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230625_153/mKq5P_1687677989371SDFx1_PNG/d78cde01-5c6b-4d6e-8bbb-13eac5b5b3f7.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LUN8(루네이트) - Wild Heart | SBS 230625 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37350032</link>
-            <guid>https://tv.naver.com/v/37350032</guid>
-            <pubDate>Sun, 25 Jun 2023 08:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_125/mbEIt_168767769245116xPH_PNG/3082d1c6-433b-4d52-9c97-9bfbd5c54eec.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[We;Na - QUEEN | SBS 230625 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37350030</link>
-            <guid>https://tv.naver.com/v/37350030</guid>
-            <pubDate>Sun, 25 Jun 2023 08:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_187/I7T59_1687677688075AEGEk_PNG/93421396-f489-4729-a06f-ba455d7235ee.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Lapillus(라필루스) - Who’s Next | SBS 230625 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37349900</link>
-            <guid>https://tv.naver.com/v/37349900</guid>
-            <pubDate>Sun, 25 Jun 2023 08:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_168/HhFql_1687677390226xXUnd_PNG/e7e4af4c-c884-4341-a112-8d0d407bd068.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2Z - Like A Movie | SBS 230625 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37349803</link>
-            <guid>https://tv.naver.com/v/37349803</guid>
-            <pubDate>Sun, 25 Jun 2023 07:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_240/B1AwC_168767715106436vPD_PNG/28e545b2-a3a1-4c41-af56-64cca81c599e.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 230618 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37112957</link>
-            <guid>https://tv.naver.com/v/37112957</guid>
-            <pubDate>Sun, 18 Jun 2023 07:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_223/dE1F4_1687070790692Hq7AF_JPEG/8fa5af6e-465e-45a4-81c7-dbbc6914c173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태용 - 샤랄라(SHALALA) | SBS 230618 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37112846</link>
-            <guid>https://tv.naver.com/v/37112846</guid>
-            <pubDate>Sun, 18 Jun 2023 07:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_49/Md2as_1687070491718ecCVW_JPEG/c3f293d3-0eca-4c34-a49e-5791787fe8dd.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
