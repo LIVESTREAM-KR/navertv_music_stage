@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 07:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 08:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,54 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] SHINee TAEMIN - HARD(샤이니 태민 - 하드) Close-up Cam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37621902</link>
+            <guid>https://tv.naver.com/v/37621902</guid>
+            <pubDate>Mon, 03 Jul 2023 08:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_261/TAqsb_1688371589943TK9RI_JPEG/clip_20230703162552_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] SHINee KEY - HARD(샤이니 키 - 하드) Close-up Cam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37621901</link>
+            <guid>https://tv.naver.com/v/37621901</guid>
+            <pubDate>Mon, 03 Jul 2023 08:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[40:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_158/Jddpe_168837158944085v2n_JPEG/clip_20230703162545_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] SHINee MINHO - HARD(샤이니 민호 - 하드) Close-up Cam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37621491</link>
+            <guid>https://tv.naver.com/v/37621491</guid>
+            <pubDate>Mon, 03 Jul 2023 08:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_151/1kiZj_1688371049453z7hLG_JPEG/clip_20230703162539_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] TREASURE DOYOUNG - MOVE (T5)(트레저 도영 - 무브 (T5)) Close-up Cam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37619844</link>
+            <guid>https://tv.naver.com/v/37619844</guid>
+            <pubDate>Mon, 03 Jul 2023 08:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[6:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_246/Lucis_1688368890984JcRuQ_JPEG/clip_20230703154244_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] TREASURE JIHOON - MOVE (T5)(트레저 지훈 - 무브 (T5)) Close-up Cam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37619843</link>
+            <guid>https://tv.naver.com/v/37619843</guid>
+            <pubDate>Mon, 03 Jul 2023 08:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_261/6JCDm_1688368888916aX1GJ_JPEG/clip_20230703154239_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] TREASURE JUNKYU - MOVE (T5)(트레저 준규 - 무브 (T5)) Close-up Cam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37619595</link>
+            <guid>https://tv.naver.com/v/37619595</guid>
+            <pubDate>Mon, 03 Jul 2023 08:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_139/bExcR_1688368589564zsSkD_JPEG/clip_20230703154223_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] TREASURE SO JUNG HWAN - MOVE (T5)(트레저 소정환 - 무브 (T5)) Close-up Cam|Show!MusicCore|MBC230701방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -206,54 +254,6 @@
             <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230701_48/QKoML_1688207189065ASF9P_JPEG/clip_20230701190151_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SHINee MINHO - HARD(샤이니 민호 - 하드) FanCam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37571128</link>
-            <guid>https://tv.naver.com/v/37571128</guid>
-            <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_233/OPuI7_168820689051535YYv_JPEG/clip_20230701185519_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SHINee – HARD(샤이니 - 하드) FanCam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37571126</link>
-            <guid>https://tv.naver.com/v/37571126</guid>
-            <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_256/EwOcO_1688206888652fPxml_JPEG/clip_20230701185505_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SHINee KEY - HARD(샤이니 키 - 하드) FanCam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37570897</link>
-            <guid>https://tv.naver.com/v/37570897</guid>
-            <pubDate>Sat, 01 Jul 2023 10:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_240/TaBvq_1688206349023p0bUo_JPEG/clip_20230701185517_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] FANTASY BOYS HONG SUNGMIN - Gesture(판타지 보이즈 홍성민 - 제스처) Close-up Cam | Show! MusicCore | MBC (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37427108</link>
-            <guid>https://tv.naver.com/v/37427108</guid>
-            <pubDate>Tue, 27 Jun 2023 09:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[22:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230627_182/gUF0P_16878549884678Yc4P_JPEG/clip_20230627165945_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] FANTASY BOYS YU JUNWON - Gesture(판타지 보이즈 유준원 - 제스처) Close-up Cam |Show!MusicCore|MBC230624방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37426679</link>
-            <guid>https://tv.naver.com/v/37426679</guid>
-            <pubDate>Tue, 27 Jun 2023 09:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230627_151/foghh_16878544485051nJJH_JPEG/clip_20230627165934_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS HIKARU – Gesture(판타지 보이즈 히카루 - 제스처) FanCam | Show! MusicCore | MBC230624방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37426425</link>
-            <guid>https://tv.naver.com/v/37426425</guid>
-            <pubDate>Tue, 27 Jun 2023 09:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230627_44/vbfZ0_1687854092937yS4aF_JPEG/clip_20230627165916_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHINee(샤이니) - JUICE | SBS 230702 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
