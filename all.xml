@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 05:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 06:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] FIREWORK처럼 터지는 7월 첫쨋주 쇼챔! 아싸 개이득 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37616671</link>
+            <guid>https://tv.naver.com/v/37616671</guid>
+            <pubDate>Mon, 03 Jul 2023 06:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_141/cfnjs_1688364691102LRb4o_JPEG/CA202307050007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예고] 쇼챔 에세이에서 들려주는 새로운 우리의 이야기 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/37378643</link>
             <guid>https://tv.naver.com/v/37378643</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 21 Jun 2023 13:18:05 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230621_119/BLugp_1687329388561UYDi1_JPEG/CA202306210031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] LUN8 JI EUNHO - Wild Heart (루네이트 지은호 - 와일드 하트) | Show Champion | EP.480 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37222406</link>
-            <guid>https://tv.naver.com/v/37222406</guid>
-            <pubDate>Wed, 21 Jun 2023 13:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_61/TRVfD_16873287933107QJfm_JPEG/CA202306210029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
