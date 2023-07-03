@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 09:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 10:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,78 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ATEEZ SAN - BOUNCY(에이티즈 산 - 바운시) Close-up Cam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37626668</link>
+            <guid>https://tv.naver.com/v/37626668</guid>
+            <pubDate>Mon, 03 Jul 2023 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[8:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_42/McoU5_1688378790338Lron1_JPEG/clip_20230703180818_33.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] YENA - Hate Rodrigo(최예나 – 헤이트 로드리고) Close-up Cam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37626503</link>
+            <guid>https://tv.naver.com/v/37626503</guid>
+            <pubDate>Mon, 03 Jul 2023 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_25/uMvkv_16883784893495HeVQ_JPEG/clip_20230703180628_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ATEEZ SEONGHWA - BOUNCY(에이티즈 성화 - 바운시) Close-up Cam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37626322</link>
+            <guid>https://tv.naver.com/v/37626322</guid>
+            <pubDate>Mon, 03 Jul 2023 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[22:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_281/Wp2G1_1688378188717PrvFh_JPEG/clip_20230703180809_31.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ATEEZ YUNHO - BOUNCY(에이티즈 윤호 - 바운시) Close-up Cam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37626168</link>
+            <guid>https://tv.naver.com/v/37626168</guid>
+            <pubDate>Mon, 03 Jul 2023 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_93/PHpAA_1688377888831H4GQ3_JPEG/clip_20230703180813_32.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ YEOSANG - BOUNCY(에이티즈 여상 - 바운시) FanCam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37625978</link>
+            <guid>https://tv.naver.com/v/37625978</guid>
+            <pubDate>Mon, 03 Jul 2023 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_11/HbyoF_1688377589884QPG1v_JPEG/clip_20230703180700_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ WOOYOUNG - BOUNCY(에이티즈 우영 - 바운시) FanCam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37625851</link>
+            <guid>https://tv.naver.com/v/37625851</guid>
+            <pubDate>Mon, 03 Jul 2023 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_280/JVvkh_1688377348137QHmHl_JPEG/clip_20230703180752_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ATEEZ HONGJOONG - BOUNCY(에이티즈 홍중 - 바운시) Close-up Cam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37625646</link>
+            <guid>https://tv.naver.com/v/37625646</guid>
+            <pubDate>Mon, 03 Jul 2023 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[40:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_219/Xr5xX_1688376988338yr5i0_JPEG/clip_20230703180804_30.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ JONGHO - BOUNCY(에이티즈 종호 - 바운시) FanCam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37625645</link>
+            <guid>https://tv.naver.com/v/37625645</guid>
+            <pubDate>Mon, 03 Jul 2023 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[40:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_5/WzS9X_1688376987832Vqqnt_JPEG/clip_20230703180759_29.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ATEEZ MINGI - BOUNCY(에이티즈 민기 - 바운시) FanCam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37625317</link>
+            <guid>https://tv.naver.com/v/37625317</guid>
+            <pubDate>Mon, 03 Jul 2023 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_218/X0iyp_1688376447937R3OR8_JPEG/clip_20230703180709_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] SHINee TAEMIN - HARD(샤이니 태민 - 하드) Close-up Cam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -182,78 +254,6 @@
             <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
             <content:encoded><![CDATA[3:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230701_144/jZC5h_1688207494748l1kGv_JPEG/clip_20230701191101_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KIM JAEHWAN - 개이득(김재환 – 개이득) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37571369</link>
-            <guid>https://tv.naver.com/v/37571369</guid>
-            <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_12/VUtHt_1688207493047xAY76_JPEG/clip_20230701190757_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] YENA - Hate Rodrigo(최예나 – 헤이트 로드리고) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230701방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37571368</link>
-            <guid>https://tv.naver.com/v/37571368</guid>
-            <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_151/o6ArT_1688207491440cIvdr_JPEG/clip_20230701190708_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Kim Sung Kyu – Small Talk(김성규 - 스몰 토크) FanCam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37571367</link>
-            <guid>https://tv.naver.com/v/37571367</guid>
-            <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[4:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_78/jUt1V_1688207490442gBruN_JPEG/clip_20230701190534_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] 8TURN – EXCEL(에잇턴 - 엑셀) FanCam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37571279</link>
-            <guid>https://tv.naver.com/v/37571279</guid>
-            <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_201/WjOM7_1688207250839un4NA_JPEG/clip_20230701191025_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] WEi YOO YONGHA - OVERDRIVE(위아이 유용하 - 질주) FanCam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37571278</link>
-            <guid>https://tv.naver.com/v/37571278</guid>
-            <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_150/HZ9la_16882072500068KBgG_JPEG/clip_20230701190158_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SHINee TAEMIN - HARD(샤이니 태민 - 하드) FanCam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37571277</link>
-            <guid>https://tv.naver.com/v/37571277</guid>
-            <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_122/Bn6Zv_1688207248700gEXgj_JPEG/clip_20230701185514_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ATEEZ – BOUNCY(에이티즈 - 바운시) FanCam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37571247</link>
-            <guid>https://tv.naver.com/v/37571247</guid>
-            <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_149/dzdnm_1688207191946Gv4WH_JPEG/clip_20230701190953_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] HanSeungWoo – Dive Into(한승우 - 다이브 인투) FanCam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37571246</link>
-            <guid>https://tv.naver.com/v/37571246</guid>
-            <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_75/tpmvO_1688207190566m51Yl_JPEG/clip_20230701190332_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] WEi – OVERDRIVE(위아이 - 질주) FanCam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37571245</link>
-            <guid>https://tv.naver.com/v/37571245</guid>
-            <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_48/QKoML_1688207189065ASF9P_JPEG/clip_20230701190151_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHINee(샤이니) - JUICE | SBS 230702 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
