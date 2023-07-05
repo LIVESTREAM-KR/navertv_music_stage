@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 10:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 11:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,62 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[COMEBACK] 김재환(KIM JAE HWAN) - 개이득 (feat.BOBBY) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37712533</link>
+            <guid>https://tv.naver.com/v/37712533</guid>
+            <pubDate>Wed, 05 Jul 2023 11:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_276/7WtIV_1688553092070oO0cE_JPEG/CA202307050097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 위아이(WEi) - OVERDRIVE(질주) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37712532</link>
+            <guid>https://tv.naver.com/v/37712532</guid>
+            <pubDate>Wed, 05 Jul 2023 11:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_93/6XOAs_1688553089576u0wL4_JPEG/CA202307050096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위아이(WEi) - Thriller (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37712531</link>
+            <guid>https://tv.naver.com/v/37712531</guid>
+            <pubDate>Wed, 05 Jul 2023 11:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_110/3mWjK_1688553088373ko6G7_JPEG/CA202307050095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 라필루스(Lapillus) - Who's Next (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37712376</link>
+            <guid>https://tv.naver.com/v/37712376</guid>
+            <pubDate>Wed, 05 Jul 2023 11:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_5/CkG6W_1688552788626G6bP6_JPEG/CA202307050092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[앤팀(&TEAM) - Scent of you (Korean ver.) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37712208</link>
+            <guid>https://tv.naver.com/v/37712208</guid>
+            <pubDate>Wed, 05 Jul 2023 11:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_112/eoBqN_16885524939298KTUL_JPEG/CA202307050093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! '김재환' 나!왔어✋🏻 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37712206</link>
+            <guid>https://tv.naver.com/v/37712206</guid>
+            <pubDate>Wed, 05 Jul 2023 11:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_114/XV1oO_1688552491881tKs2n_JPEG/CA202307050091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 에잇턴(8TURN) - WORLD + EXCEL (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37712203</link>
+            <guid>https://tv.naver.com/v/37712203</guid>
+            <pubDate>Wed, 05 Jul 2023 11:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_192/LsvXe_1688552488657GMPqL_JPEG/CA202307050090.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[앤팀(&TEAM) - FIREWORK (Korean ver.) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/37712048</link>
             <guid>https://tv.naver.com/v/37712048</guid>
@@ -1260,7 +1316,7 @@
             <link>https://tv.naver.com/v/37710857</link>
             <guid>https://tv.naver.com/v/37710857</guid>
             <pubDate>Wed, 05 Jul 2023 10:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230705_163/A2vx7_1688550150703k48Jf_JPEG/CA202307050086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1398,62 +1454,6 @@
             <pubDate>Wed, 21 Jun 2023 13:18:05 GMT</pubDate>
             <content:encoded><![CDATA[3:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230621_234/74BmX_1687336588567zl0C7_JPEG/CA202306210073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] NINE to SIX MINGYU - Nod (나인투식스 민규 - 끄덕) | Show Champion | EP.480 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37228093</link>
-            <guid>https://tv.naver.com/v/37228093</guid>
-            <pubDate>Wed, 21 Jun 2023 13:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_246/W3Is5_1687335990074BWmtV_JPEG/CA202306210072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] NINE to SIX - Nod (나인투식스 - 끄덕) l Show Champion l EP.480 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37227868</link>
-            <guid>https://tv.naver.com/v/37227868</guid>
-            <pubDate>Wed, 21 Jun 2023 13:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_269/o6Lcc_1687335688605mR0s3_JPEG/CA202306210071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] FANTASY BOYS Hong Sung Min - Gesture (판타지 보이즈 홍성민 - 제스처) | Show Champion | EP.480 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37227651</link>
-            <guid>https://tv.naver.com/v/37227651</guid>
-            <pubDate>Wed, 21 Jun 2023 13:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_111/AUzCt_1687335389606biXUs_JPEG/CA202306210055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] FANTASY BOYS YU JUNWON - Gesture (판타지 보이즈 유준원 - 제스처) | Show Champion | EP.480 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37227456</link>
-            <guid>https://tv.naver.com/v/37227456</guid>
-            <pubDate>Wed, 21 Jun 2023 13:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_274/O53Pp_1687335089104EjXoa_JPEG/CA202306210054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] FANTASY BOYS Oh Hyeon Tae - Gesture (판타지 보이즈 오현태 - 제스처) | Show Champion | EP.480 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37226759</link>
-            <guid>https://tv.naver.com/v/37226759</guid>
-            <pubDate>Wed, 21 Jun 2023 13:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_246/CUzDg_1687334248623ma9JX_JPEG/CA202306210052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] FANTASY BOYS Kim Gyu Rae - Gesture (판타지 보이즈 김규래 - 제스처) | Show Champion | EP.480 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37226488</link>
-            <guid>https://tv.naver.com/v/37226488</guid>
-            <pubDate>Wed, 21 Jun 2023 13:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_285/ByhaD_1687333887925628TG_JPEG/CA202306210050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] FANTASY BOYS - Gesture (판타지 보이즈 - 제스처) l Show Champion l EP.480 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37226239</link>
-            <guid>https://tv.naver.com/v/37226239</guid>
-            <pubDate>Wed, 21 Jun 2023 13:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_234/M2Rsv_1687333589314RUIKB_JPEG/CA202306210057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
