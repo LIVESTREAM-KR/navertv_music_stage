@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 07:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 08:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] tripleS +(KR)ystal Eyes - Cherry Talk (트리플에스 크리스탈 아이즈 - 체리 톡) | Show Champion | EP.482 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37714401</link>
+            <guid>https://tv.naver.com/v/37714401</guid>
+            <pubDate>Thu, 06 Jul 2023 08:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_252/a3v3V_1688556448422LkkO1_JPEG/CA202307050101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] &TEAM - Scent of you (Korean ver.) (앤팀 - 센트 오브 유) | Show Champion | EP.482 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37714381</link>
+            <guid>https://tv.naver.com/v/37714381</guid>
+            <pubDate>Thu, 06 Jul 2023 08:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[5:01:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_271/rnZso_1688556401228wp5eQ_JPEG/CA202307050100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] WEi - Thriller (위아이 - 스릴러) | Show Champion | EP.482 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37714029</link>
+            <guid>https://tv.naver.com/v/37714029</guid>
+            <pubDate>Thu, 06 Jul 2023 08:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_293/6ThnB_1688555789902syppr_JPEG/CA202307050099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔 원픽캠 4K] Lapillus CHANTY - Who's Next (라필루스 샨티 - 후즈 넥스트) | Show Champion | EP.482 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/37713852</link>
             <guid>https://tv.naver.com/v/37713852</guid>
@@ -1430,30 +1454,6 @@
             <pubDate>Wed, 05 Jul 2023 13:28:23 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230705_114/1vvBk_16885344890376hNEr_JPEG/CA202307050028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] 김재환(KIM JAE HWAN) - 개이득 (feat.BOBBY) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37712533</link>
-            <guid>https://tv.naver.com/v/37712533</guid>
-            <pubDate>Wed, 05 Jul 2023 11:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_276/7WtIV_1688553092070oO0cE_JPEG/CA202307050097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] 위아이(WEi) - OVERDRIVE(질주) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37712532</link>
-            <guid>https://tv.naver.com/v/37712532</guid>
-            <pubDate>Wed, 05 Jul 2023 11:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_93/6XOAs_1688553089576u0wL4_JPEG/CA202307050096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위아이(WEi) - Thriller (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37712531</link>
-            <guid>https://tv.naver.com/v/37712531</guid>
-            <pubDate>Wed, 05 Jul 2023 11:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_110/3mWjK_1688553088373ko6G7_JPEG/CA202307050095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
