@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 04:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 05:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2032,6 +2032,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.576 - YENA(최예나), WEi(위아이), UKISS(유키스), LUN8(루네이트), Lapillus(라필 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37744938</link>
+            <guid>https://tv.naver.com/v/37744938</guid>
+            <pubDate>Fri, 07 Jul 2023 05:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[48:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_71/cPmQO_1688627227386Nvr4y_JPEG/1688626442736.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.575 - YENA(최예나), WEi(위아이), DKB(다크비), THE NEW SIX(TNX)(더뉴식스), LUN8( (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/37526708</link>
             <guid>https://tv.naver.com/v/37526708</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
             <content:encoded><![CDATA[50:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_247/50eRD_1680235598128rmvUB_JPEG/1680235197534.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.561 – Nicole(니콜), TAN(티에이엔), KINGDOM(킹덤), JANG WOO HYUK(장우혁), Serri( (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34295980</link>
-            <guid>https://tv.naver.com/v/34295980</guid>
-            <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[54:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_176/cTh8O_1679636773730hnp0S_JPEG/1679636146893.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김경호밴드_금지된 사랑 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
