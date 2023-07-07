@@ -4,7 +4,7 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 15:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 16:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -164,7 +164,7 @@
             <link>https://tv.naver.com/v/37710819</link>
             <guid>https://tv.naver.com/v/37710819</guid>
             <pubDate>Wed, 05 Jul 2023 13:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230705_269/PAxN5_1688550087918Khypo_JPEG/CA202307050059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -204,7 +204,7 @@
             <link>https://tv.naver.com/v/37709427</link>
             <guid>https://tv.naver.com/v/37709427</guid>
             <pubDate>Wed, 05 Jul 2023 13:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:18:01]]></content:encoded>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230705_40/Obr6R_1688547990046hunRc_JPEG/CA202307050060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -212,7 +212,7 @@
             <link>https://tv.naver.com/v/37703531</link>
             <guid>https://tv.naver.com/v/37703531</guid>
             <pubDate>Wed, 05 Jul 2023 13:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:18:04]]></content:encoded>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230705_132/zXWoL_1688541089159snNs3_JPEG/CA202307050034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -228,7 +228,7 @@
             <link>https://tv.naver.com/v/37698740</link>
             <guid>https://tv.naver.com/v/37698740</guid>
             <pubDate>Wed, 05 Jul 2023 13:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[8:18]]></content:encoded>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230705_121/nap6g_1688535388249tdEGY_JPEG/CA202307050030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -236,7 +236,7 @@
             <link>https://tv.naver.com/v/37698345</link>
             <guid>https://tv.naver.com/v/37698345</guid>
             <pubDate>Wed, 05 Jul 2023 13:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[41:06]]></content:encoded>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230705_75/cvLM5_1688534849108sg8aL_JPEG/CA202307050033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -244,7 +244,7 @@
             <link>https://tv.naver.com/v/37698074</link>
             <guid>https://tv.naver.com/v/37698074</guid>
             <pubDate>Wed, 05 Jul 2023 13:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[13:00]]></content:encoded>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230705_160/2OzUQ_1688534493051uljxn_JPEG/CA202307050029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
