@@ -4,7 +4,7 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 08:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 09:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -148,7 +148,7 @@
             <link>https://tv.naver.com/v/37571887</link>
             <guid>https://tv.naver.com/v/37571887</guid>
             <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[41:14]]></content:encoded>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230701_230/Cmalv_16882090488659HiIH_JPEG/clip_20230701185940_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -228,7 +228,7 @@
             <link>https://tv.naver.com/v/37571483</link>
             <guid>https://tv.naver.com/v/37571483</guid>
             <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230701_118/HSe5V_168820779026295d0F_JPEG/clip_20230701190000_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
