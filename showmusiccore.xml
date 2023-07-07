@@ -4,7 +4,7 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 10:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 11:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/37626668</link>
             <guid>https://tv.naver.com/v/37626668</guid>
             <pubDate>Mon, 03 Jul 2023 10:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[8:35]]></content:encoded>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_42/McoU5_1688378790338Lron1_JPEG/clip_20230703180818_33.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://tv.naver.com/v/37626322</link>
             <guid>https://tv.naver.com/v/37626322</guid>
             <pubDate>Mon, 03 Jul 2023 10:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[22:08]]></content:encoded>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_281/Wp2G1_1688378188717PrvFh_JPEG/clip_20230703180809_31.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +60,7 @@
             <link>https://tv.naver.com/v/37625646</link>
             <guid>https://tv.naver.com/v/37625646</guid>
             <pubDate>Mon, 03 Jul 2023 10:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[40:59]]></content:encoded>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_219/Xr5xX_1688376988338yr5i0_JPEG/clip_20230703180804_30.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +172,7 @@
             <link>https://tv.naver.com/v/37571619</link>
             <guid>https://tv.naver.com/v/37571619</guid>
             <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[8:21]]></content:encoded>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230701_277/N6Sz4_1688208148995W7tjg_JPEG/clip_20230701185948_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
