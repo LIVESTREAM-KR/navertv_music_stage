@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 09:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 10:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2152,6 +2152,38 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_247/50eRD_1680235598128rmvUB_JPEG/1680235197534.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[노라조-일개미 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37783049</link>
+            <guid>https://tv.naver.com/v/37783049</guid>
+            <pubDate>Fri, 07 Jul 2023 10:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[4:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_94/l0CDL_1688710458707G7qHY_JPEG/424c0996-1c68-11ee-9b58-48df379cca40_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아프리카_나나나 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37783042</link>
+            <guid>https://tv.naver.com/v/37783042</guid>
+            <pubDate>Fri, 07 Jul 2023 10:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[5:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_217/g0TBQ_1688710454475Fwlq6_JPEG/78b2bc52-1c68-11ee-a275-48df37e2c202_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아프리카_나만의 그대 모습 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37783038</link>
+            <guid>https://tv.naver.com/v/37783038</guid>
+            <pubDate>Fri, 07 Jul 2023 10:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[4:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_275/2z2Aw_1688710448789PAxPK_JPEG/d2df4ce8-1c68-11ee-a275-48df37e2c202_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아프리카_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37783031</link>
+            <guid>https://tv.naver.com/v/37783031</guid>
+            <pubDate>Fri, 07 Jul 2023 10:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[13:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_65/Yzgts_1688710443765PQARk_JPEG/faa04dc7-1c68-11ee-a3b2-a0369ffd9ff0_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아프리카_Rock&Roll 타령 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/37783026</link>
             <guid>https://tv.naver.com/v/37783026</guid>
@@ -2358,38 +2390,6 @@
             <pubDate>Fri, 16 Jun 2023 09:15:32 GMT</pubDate>
             <content:encoded><![CDATA[4:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230616_296/mNKln_1686883335681aviJG_JPEG/2de97ade-0beb-11ee-a676-505dac8c385b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로맨틱펀치_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37054382</link>
-            <guid>https://tv.naver.com/v/37054382</guid>
-            <pubDate>Fri, 16 Jun 2023 09:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[6:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_132/eeFWZ_1686883328719LizQg_JPEG/5b3d53fd-0beb-11ee-88ac-80615f0bcf54_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로맨틱펀지_주문 (MIROTIC) (원곡 동방신기) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37054365</link>
-            <guid>https://tv.naver.com/v/37054365</guid>
-            <pubDate>Fri, 16 Jun 2023 09:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[5:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_208/ZQ1qG_1686883313281BcL4g_JPEG/98255e87-0beb-11ee-837b-505dac8c3721_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크랙샷_달의 몰락(원곡 김현철) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36804786</link>
-            <guid>https://tv.naver.com/v/36804786</guid>
-            <pubDate>Fri, 09 Jun 2023 10:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[5:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_202/0Nzn3_1686273333741GodD6_JPEG/f36e7e53-05b8-11ee-9971-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크랙샷_Follow Me (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36804783</link>
-            <guid>https://tv.naver.com/v/36804783</guid>
-            <pubDate>Fri, 09 Jun 2023 10:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[7:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_282/jeVof_1686273327556Dpfc0_JPEG/2313e975-05b9-11ee-9971-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
