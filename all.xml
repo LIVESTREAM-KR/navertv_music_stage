@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 01:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 02:58:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[7월 1주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.482 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37714033</link>
+            <guid>https://tv.naver.com/v/37714033</guid>
+            <pubDate>Fri, 07 Jul 2023 02:57:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_159/SzmC9_1688555791736IIsym_JPEG/CA202307050102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] tripleS +(KR)ystal Eyes - Cherry Talk (트리플에스 크리스탈 아이즈 - 체리 톡) | Show Champion | EP.482 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/37714401</link>
             <guid>https://tv.naver.com/v/37714401</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 05 Jul 2023 13:28:23 GMT</pubDate>
             <content:encoded><![CDATA[13:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230705_160/2OzUQ_1688534493051uljxn_JPEG/CA202307050029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] 8TURN - WORLD + EXCEL (에잇턴 - 월드 + 엑셀) l Show Champion l EP.482 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37698067</link>
-            <guid>https://tv.naver.com/v/37698067</guid>
-            <pubDate>Wed, 05 Jul 2023 13:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_114/1vvBk_16885344890376hNEr_JPEG/CA202307050028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
