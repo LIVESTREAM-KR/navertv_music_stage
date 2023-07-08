@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 07:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 08:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] SHINee – HARD(샤이니 - 하드) 1위 직캠 FanCam | Show! MusicCore | MBC230708방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37816260</link>
+            <guid>https://tv.naver.com/v/37816260</guid>
+            <pubDate>Sat, 08 Jul 2023 08:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[5:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_15/1SWKy_168880418735715yQn_JPEG/clip_20230708165355_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] ATEEZ SAN - BOUNCY(에이티즈 산 - 바운시) Close-up Cam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
             <content:encoded><![CDATA[3:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230701_26/3tnWT_1688207789273eLg0n_JPEG/clip_20230701185944_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] tripleS +(KR)ystal Eyes - Touch(트리플에스 크리스탈 아이즈 – 터치) FanCam | Show! MusicCore | MBC230701방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37571372</link>
-            <guid>https://tv.naver.com/v/37571372</guid>
-            <pubDate>Sat, 01 Jul 2023 11:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_144/jZC5h_1688207494748l1kGv_JPEG/clip_20230701191101_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHINee(샤이니) - JUICE | SBS 230702 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
