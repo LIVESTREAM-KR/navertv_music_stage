@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 12:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 13:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] Kim Sung Kyu - Small Talk(김성규 – 스몰 토크) FanCam (Horizontal Ver.) | Show!MusicCore|MBC230708방]]></title>
+            <link>https://tv.naver.com/v/37822513</link>
+            <guid>https://tv.naver.com/v/37822513</guid>
+            <pubDate>Sat, 08 Jul 2023 13:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_134/xRc5a_1688820088003rkLcu_JPEG/clip_20230708194020_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Kim Sung Kyu – Small Talk(김성규 - 스몰 토크) FanCam | Show! MusicCore | MBC230708방송]]></title>
+            <link>https://tv.naver.com/v/37822367</link>
+            <guid>https://tv.naver.com/v/37822367</guid>
+            <pubDate>Sat, 08 Jul 2023 13:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_150/vIHRy_1688819790445QSUyX_JPEG/clip_20230708194025_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] tripleS +(KR)ystal Eyes - Touch(트리플에스 크리스탈 아이즈 – 터치) FanCam | Show! MusicCore | MBC230708방송]]></title>
+            <link>https://tv.naver.com/v/37822219</link>
+            <guid>https://tv.naver.com/v/37822219</guid>
+            <pubDate>Sat, 08 Jul 2023 13:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_264/6SyoV_1688819488713dPRGi_JPEG/clip_20230708194248_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] 8TURN – EXCEL(에잇턴 - 엑셀) FanCam | Show! MusicCore | MBC230708방송]]></title>
             <link>https://tv.naver.com/v/37822091</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 08 Jul 2023 11:11:47 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230708_196/OWNM9_1688813488527YMBGW_JPEG/clip_20230708190748_85.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TEEN TOP – HWEEK(틴탑 - 휙) FanCam | Show! MusicCore | MBC230708방송]]></title>
-            <link>https://tv.naver.com/v/37819659</link>
-            <guid>https://tv.naver.com/v/37819659</guid>
-            <pubDate>Sat, 08 Jul 2023 11:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_276/DPhAJ_1688812948659DWaw2_JPEG/clip_20230708190703_81.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TEEN TOP CHUNJI - HWEEK(틴탑 천지 - 휙) FanCam | Show! MusicCore | MBC230708방송]]></title>
-            <link>https://tv.naver.com/v/37819642</link>
-            <guid>https://tv.naver.com/v/37819642</guid>
-            <pubDate>Sat, 08 Jul 2023 11:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_48/8fMcK_1688812889247JVYej_JPEG/clip_20230708190714_82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SHINee MINHO - HARD(샤이니 민호 - 하드) FanCam | Show! MusicCore | MBC230708방송]]></title>
-            <link>https://tv.naver.com/v/37819532</link>
-            <guid>https://tv.naver.com/v/37819532</guid>
-            <pubDate>Sat, 08 Jul 2023 11:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_224/OIVnm_1688812588535zuIwA_JPEG/clip_20230708190448_79.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
