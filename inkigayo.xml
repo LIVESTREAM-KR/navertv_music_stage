@@ -4,9 +4,57 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 07:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 08:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SHINee(샤이니) - HARD | SBS 230709 방송]]></title>
+            <link>https://tv.naver.com/v/37838361</link>
+            <guid>https://tv.naver.com/v/37838361</guid>
+            <pubDate>Sun, 09 Jul 2023 08:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_95/wnZrb_1688888188519Wrvvz_JPEG/7b42049a-9fb4-4169-8ed4-dd160eaa3298.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TEEN TOP - 휙(HWEEK) | SBS 230709 방송]]></title>
+            <link>https://tv.naver.com/v/37838056</link>
+            <guid>https://tv.naver.com/v/37838056</guid>
+            <pubDate>Sun, 09 Jul 2023 08:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_41/LpknI_1688887595062fAECz_JPEG/0d59ef8b-c2b6-4c4d-88eb-caa57df40d0b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김성규 - Small Talk | SBS 230709 방송]]></title>
+            <link>https://tv.naver.com/v/37838052</link>
+            <guid>https://tv.naver.com/v/37838052</guid>
+            <pubDate>Sun, 09 Jul 2023 08:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_94/iWpaP_1688888193155O4ya8_JPEG/63e036e3-d398-4092-b4c2-9f99452060ae.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김재환 - 개이득(feat. BOBBY) | SBS 230709 방송]]></title>
+            <link>https://tv.naver.com/v/37837936</link>
+            <guid>https://tv.naver.com/v/37837936</guid>
+            <pubDate>Sun, 09 Jul 2023 08:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_216/oH1nD_1688887289410R8BXk_JPEG/03537934-27f9-47b5-b90a-5292c635377f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TREASURE - MOVE(T5) | SBS 230709 방송]]></title>
+            <link>https://tv.naver.com/v/37837935</link>
+            <guid>https://tv.naver.com/v/37837935</guid>
+            <pubDate>Sun, 09 Jul 2023 08:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_5/FinUS_1688887287455jR3Rz_JPEG/127d3785-19a2-4c7a-9711-40ab31e6df4c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수안(SWAN) - Twenty | SBS 230709 방송]]></title>
+            <link>https://tv.naver.com/v/37837807</link>
+            <guid>https://tv.naver.com/v/37837807</guid>
+            <pubDate>Sun, 09 Jul 2023 08:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_248/wVNwe_1688886989724VXFQ3_JPEG/5422ceca-5637-4d4a-bbd1-ad181716da22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위아이(WEi) - 질주(OVERDRIVE) | SBS 230709 방송]]></title>
             <link>https://tv.naver.com/v/37837716</link>
@@ -198,54 +246,6 @@
             <pubDate>Sun, 02 Jul 2023 07:13:28 GMT</pubDate>
             <content:encoded><![CDATA[2:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230702_60/5pAMa_1688280151201O1zY6_JPEG/660ea31c-db4d-4d60-9dbc-3833cda2b24e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8TURN(에잇턴) - EXCEL | SBS 230702 방송]]></title>
-            <link>https://tv.naver.com/v/37587548</link>
-            <guid>https://tv.naver.com/v/37587548</guid>
-            <pubDate>Sun, 02 Jul 2023 07:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230702_121/y0GKJ_1688280087705uVfUD_JPEG/b34af1a5-9fb3-462b-9d65-03119c7b1fcd.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[+(KR)ystal Eyes - Touch | SBS 230702 방송]]></title>
-            <link>https://tv.naver.com/v/37587448</link>
-            <guid>https://tv.naver.com/v/37587448</guid>
-            <pubDate>Sun, 02 Jul 2023 07:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230702_267/Sipnm_1688279795204R7fsX_JPEG/46876071-49d5-4e2d-bfdd-75a0149a92bf.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LUN8(루네이트) - Wild Heart | SBS 230702 방송]]></title>
-            <link>https://tv.naver.com/v/37587444</link>
-            <guid>https://tv.naver.com/v/37587444</guid>
-            <pubDate>Sun, 02 Jul 2023 07:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230702_212/eDRsZ_1688279791659bF4pC_JPEG/670cef11-f075-4e63-8eef-ddcd6617b448.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM - Broken Melodies | SBS 230625 방송]]></title>
-            <link>https://tv.naver.com/v/37351489</link>
-            <guid>https://tv.naver.com/v/37351489</guid>
-            <pubDate>Sun, 25 Jun 2023 09:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[4:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_227/htTiS_1687681289927c2Wxc_PNG/0e6dd387-da54-465e-a51c-b18a4e26fc02.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 230625 방송]]></title>
-            <link>https://tv.naver.com/v/37351218</link>
-            <guid>https://tv.naver.com/v/37351218</guid>
-            <pubDate>Sun, 25 Jun 2023 08:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_18/PwYZd_1687680749554XliyW_PNG/c2480892-e3a4-4195-89a4-2a7f319e02da.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[강다니엘 - SOS | SBS 230625 방송]]></title>
-            <link>https://tv.naver.com/v/37351087</link>
-            <guid>https://tv.naver.com/v/37351087</guid>
-            <pubDate>Sun, 25 Jun 2023 08:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_109/3erFa_1687680394036wRiEM_PNG/1b0aad15-b971-4f35-8c61-1fc99a1e92cd.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
