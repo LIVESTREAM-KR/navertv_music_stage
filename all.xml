@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 07:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 08:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] TEEN TOP NIEL - HWEEK(틴탑 니엘 - 휙) Close-up Cam | Show! MusicCore | MBC230708방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37873317</link>
+            <guid>https://tv.naver.com/v/37873317</guid>
+            <pubDate>Mon, 10 Jul 2023 08:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_282/JbW9Z_1688976750992UPExy_JPEG/clip_20230710165017_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] SHINee TAEMIN - HARD(샤이니 태민 - 하드) Close-up Cam | Show! MusicCore | MBC230708방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37872251</link>
+            <guid>https://tv.naver.com/v/37872251</guid>
+            <pubDate>Mon, 10 Jul 2023 08:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_88/OErpi_1688975489604tcHMe_JPEG/clip_20230710162749_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] KISS OF LIFE NATTY - Shhh(키스오브라이프 나띠 - 쉿) Close-up Cam | Show! MusicCore | MBC230708방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 08 Jul 2023 11:11:47 GMT</pubDate>
             <content:encoded><![CDATA[4:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230708_288/M0KW7_1688813851305wlBPf_JPEG/clip_20230708193221_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] WEi – OVERDRIVE(위아이 - 질주) FanCam | Show! MusicCore | MBC230708방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37819958</link>
-            <guid>https://tv.naver.com/v/37819958</guid>
-            <pubDate>Sat, 08 Jul 2023 11:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_262/5ti7n_1688813849500t6HyW_JPEG/clip_20230708192634_104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TEEN TOP RICKY - HWEEK(틴탑 리키 - 휙) FanCam | Show! MusicCore | MBC230708방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37819938</link>
-            <guid>https://tv.naver.com/v/37819938</guid>
-            <pubDate>Sat, 08 Jul 2023 11:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_119/1ygS2_1688813789132I9s3p_JPEG/clip_20230708190738_84.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHINee(샤이니) - HARD | SBS 230709 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
