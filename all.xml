@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 04:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 05:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 쉿.. 모두 쇼챔피언에 집중!😎 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37863988</link>
+            <guid>https://tv.naver.com/v/37863988</guid>
+            <pubDate>Mon, 10 Jul 2023 05:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_228/d09AK_1688964988994hVAt4_JPEG/CA202307120007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[7월 1주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.482 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/37714033</link>
             <guid>https://tv.naver.com/v/37714033</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 05 Jul 2023 13:28:23 GMT</pubDate>
             <content:encoded><![CDATA[3:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230705_75/cvLM5_1688534849108sg8aL_JPEG/CA202307050033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] tripleS +(KR)ystal Eyes - Touch (트리플에스 크리스탈 아이즈 - 터치) l Show Champion l EP.482 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37698074</link>
-            <guid>https://tv.naver.com/v/37698074</guid>
-            <pubDate>Wed, 05 Jul 2023 13:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_160/2OzUQ_1688534493051uljxn_JPEG/CA202307050029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
