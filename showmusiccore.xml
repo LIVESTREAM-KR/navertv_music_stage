@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 09:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 10:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] TREASURE (T5) SO JUNG HWAN - MOVE(트레저 (T5) 소정환 - 무브) Close-up Cam | Show! MusicCore | MBC23]]></title>
+            <link>https://tv.naver.com/v/37876397</link>
+            <guid>https://tv.naver.com/v/37876397</guid>
+            <pubDate>Mon, 10 Jul 2023 10:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_66/zMdTy_16889811958806AD7Q_JPEG/clip_20230710175323_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] TREASURE (T5) DOYOUNG - MOVE(트레저 (T5) 도영 - 무브) Close-up Cam | Show! MusicCore | MBC230708방송]]></title>
+            <link>https://tv.naver.com/v/37876392</link>
+            <guid>https://tv.naver.com/v/37876392</guid>
+            <pubDate>Mon, 10 Jul 2023 10:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_189/8h0vY_1688981191698S1JVB_JPEG/clip_20230710174741_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] TREASURE (T5) JIHOON - MOVE(트레저 (T5) 지훈 - 무브) Close-up Cam | Show! MusicCore | MBC230708방송]]></title>
+            <link>https://tv.naver.com/v/37876241</link>
+            <guid>https://tv.naver.com/v/37876241</guid>
+            <pubDate>Mon, 10 Jul 2023 10:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_266/pKfLF_16889808895610MFj6_JPEG/clip_20230710174716_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] TREASURE (T5) YOON JAE HYUK - MOVE(트레저 (T5) 윤재혁 - 무브)Close-up Cam|Show!MusicCore|MBC230708방]]></title>
             <link>https://tv.naver.com/v/37876077</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 08 Jul 2023 11:11:47 GMT</pubDate>
             <content:encoded><![CDATA[3:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230708_73/k867e_16888146900156wYIO_JPEG/clip_20230708192317_97.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TEEN TOP NIEL - HWEEK(틴탑 니엘 - 휙) FanCam | Show! MusicCore | MBC230708방송]]></title>
-            <link>https://tv.naver.com/v/37820319</link>
-            <guid>https://tv.naver.com/v/37820319</guid>
-            <pubDate>Sat, 08 Jul 2023 11:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_212/5dyQm_1688814688776PsPM6_JPEG/clip_20230708190729_83.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SHINee TAEMIN - HARD(샤이니 태민 - 하드) FanCam | Show! MusicCore | MBC230708방송]]></title>
-            <link>https://tv.naver.com/v/37820197</link>
-            <guid>https://tv.naver.com/v/37820197</guid>
-            <pubDate>Sat, 08 Jul 2023 11:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_266/Ne3qm_1688814389275En77k_JPEG/clip_20230708190452_80.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] WEi JANG DAEHYEON - OVERDRIVE(위아이 장대현 - 질주) FanCam | Show! MusicCore | MBC230708방송]]></title>
-            <link>https://tv.naver.com/v/37820058</link>
-            <guid>https://tv.naver.com/v/37820058</guid>
-            <pubDate>Sat, 08 Jul 2023 11:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_87/cYRRP_16888140889962bgeG_JPEG/clip_20230708192649_106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
