@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 05:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 06:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] KISS OF LIFE NATTY - Shhh(키스오브라이프 나띠 - 쉿) Close-up Cam | Show! MusicCore | MBC230708방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37866763</link>
+            <guid>https://tv.naver.com/v/37866763</guid>
+            <pubDate>Mon, 10 Jul 2023 06:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_294/geQCx_1688968886884P0CMn_JPEG/clip_20230710143914_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] Kim Sung Kyu - Small Talk(김성규 – 스몰 토크) FanCam (Horizontal Ver.) | Show!MusicCore|MBC230708방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 08 Jul 2023 11:11:47 GMT</pubDate>
             <content:encoded><![CDATA[3:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230708_119/1ygS2_1688813789132I9s3p_JPEG/clip_20230708190738_84.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TEEN TOP CHANGJO - HWEEK(틴탑 창조 - 휙) FanCam | Show! MusicCore | MBC230708방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37819831</link>
-            <guid>https://tv.naver.com/v/37819831</guid>
-            <pubDate>Sat, 08 Jul 2023 11:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_196/OWNM9_1688813488527YMBGW_JPEG/clip_20230708190748_85.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHINee(샤이니) - HARD | SBS 230709 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
