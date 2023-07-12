@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 10:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 11:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[엔딩원샷] 위아이 Car 드라이빙🚗💨 WEi 엔딩요정 주인공은 과연 누구? (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37964734</link>
+            <guid>https://tv.naver.com/v/37964734</guid>
+            <pubDate>Wed, 12 Jul 2023 11:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[4:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_300/uEpaI_1689157648027DFa2e_JPEG/CA202307120085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엔딩원샷] 위아이(WEi) - 질주 (OVERDRIVE) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37964715</link>
+            <guid>https://tv.naver.com/v/37964715</guid>
+            <pubDate>Wed, 12 Jul 2023 11:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_113/ZV75o_1689157593126LMT6J_JPEG/CA202307120086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[최초 공개] 위아이(WEi) - 하루 끝에 (End of The Day) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/37964421</link>
             <guid>https://tv.naver.com/v/37964421</guid>
@@ -1248,6 +1264,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_188/UjwDU_1689156388997Ah8RL_JPEG/CA202307120081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[HOT DEBUT] 키스 오브 라이프(KISS OF LIFE) - 쉿 (Shhh) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37964050</link>
+            <guid>https://tv.naver.com/v/37964050</guid>
+            <pubDate>Wed, 12 Jul 2023 10:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_126/ReDTa_1689156090601V3qpf_JPEG/CA202307120076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[라필루스(Lapillus) - Who's Next (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/37964055</link>
             <guid>https://tv.naver.com/v/37964055</guid>
@@ -1262,14 +1286,6 @@
             <pubDate>Wed, 12 Jul 2023 10:17:18 GMT</pubDate>
             <content:encoded><![CDATA[3:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_180/6uEqi_1689156092306srqy0_JPEG/CA202307120079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HOT DEBUT] 키스 오브 라이프(KISS OF LIFE) - 쉿 (Shhh) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37964050</link>
-            <guid>https://tv.naver.com/v/37964050</guid>
-            <pubDate>Wed, 12 Jul 2023 10:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_126/ReDTa_1689156090601V3qpf_JPEG/CA202307120076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남동현(Nam Dong Hyun) - 해적이 되고 싶었던 소년 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
@@ -1310,14 +1326,6 @@
             <pubDate>Wed, 12 Jul 2023 10:17:18 GMT</pubDate>
             <content:encoded><![CDATA[3:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_282/8xf9K_1689154288739k4xUH_JPEG/CA202307120070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김소연(Kim So Yeon) - 또또 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37963085</link>
-            <guid>https://tv.naver.com/v/37963085</guid>
-            <pubDate>Wed, 12 Jul 2023 10:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_191/Kt9lA_168915405696332DLM_JPEG/CA202307120068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해시태그(Hash Tag) - DIAMOND (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 05 Jul 2023 13:28:23 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230705_207/uQC5y_1688551950196EGgvO_JPEG/CA202307050071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Lapillus SEOWON - Who's Next (라필루스 서원 - 후즈 넥스트) | Show Champion | EP.482 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37711711</link>
-            <guid>https://tv.naver.com/v/37711711</guid>
-            <pubDate>Wed, 05 Jul 2023 13:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_184/JZyAK_1688551589886QhlaW_JPEG/CA202307050072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
