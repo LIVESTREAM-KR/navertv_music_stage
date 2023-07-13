@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 07:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 08:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] WEi - End of The Day (위아이 - 하루 끝에) | Show Champion | EP.483 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37970045</link>
+            <guid>https://tv.naver.com/v/37970045</guid>
+            <pubDate>Thu, 13 Jul 2023 08:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_72/r5d2d_16891662877572gAIl_JPEG/CA202307120092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] SWAN - Be my everything (수안 - 나를 비추면) | Show Champion | EP.483 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37967477</link>
+            <guid>https://tv.naver.com/v/37967477</guid>
+            <pubDate>Thu, 13 Jul 2023 08:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_294/mS3yp_1689162689088F0gEv_JPEG/CA202307120090.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] KISS OF LIFE - Bye My Neverland (키스 오브 라이프 - 안녕,네버랜드) | Show Champion | EP.483 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/37967102</link>
+            <guid>https://tv.naver.com/v/37967102</guid>
+            <pubDate>Thu, 13 Jul 2023 08:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_100/6A4Nh_1689162088327tKgfU_JPEG/CA202307120089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] Queenz Eye HANNAH - UN-NORMAL (퀸즈아이 해나 - 언노멀) | Show Champion | EP.483 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/37964714</link>
             <guid>https://tv.naver.com/v/37964714</guid>
@@ -1430,30 +1454,6 @@
             <pubDate>Wed, 12 Jul 2023 13:26:06 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_269/rf13q_1689138089191v9igQ_JPEG/CA202307120023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엔딩원샷] 위아이 Car 드라이빙🚗💨 WEi 엔딩요정 주인공은 과연 누구? (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37964734</link>
-            <guid>https://tv.naver.com/v/37964734</guid>
-            <pubDate>Wed, 12 Jul 2023 11:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[4:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_300/uEpaI_1689157648027DFa2e_JPEG/CA202307120085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엔딩원샷] 위아이(WEi) - 질주 (OVERDRIVE) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37964715</link>
-            <guid>https://tv.naver.com/v/37964715</guid>
-            <pubDate>Wed, 12 Jul 2023 11:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_113/ZV75o_1689157593126LMT6J_JPEG/CA202307120086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최초 공개] 위아이(WEi) - 하루 끝에 (End of The Day) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37964421</link>
-            <guid>https://tv.naver.com/v/37964421</guid>
-            <pubDate>Wed, 12 Jul 2023 10:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_65/XdhrZ_1689156987757E1QTQ_JPEG/CA202307120084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
