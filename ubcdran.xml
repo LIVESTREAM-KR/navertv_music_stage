@@ -4,9 +4,33 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 09:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 10:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전인권_사랑한 후에]]></title>
+            <link>https://tv.naver.com/v/38040604</link>
+            <guid>https://tv.naver.com/v/38040604</guid>
+            <pubDate>Fri, 14 Jul 2023 10:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[6:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_104/BkGPi_1689314553059EFPJ1_JPEG/f70fcc5b-21ec-11ee-ac75-48df379ccacc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전인권_Sailing]]></title>
+            <link>https://tv.naver.com/v/38040599</link>
+            <guid>https://tv.naver.com/v/38040599</guid>
+            <pubDate>Fri, 14 Jul 2023 10:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[4:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_17/Mf2Rp_1689314548714yUvGm_JPEG/48f2045f-21ed-11ee-97c6-505dac8c385b_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전인권_걱정 말아요 그대]]></title>
+            <link>https://tv.naver.com/v/38040593</link>
+            <guid>https://tv.naver.com/v/38040593</guid>
+            <pubDate>Fri, 14 Jul 2023 10:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[5:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_74/TLbys_1689314543771rOXom_JPEG/8f1b7184-21ed-11ee-aeb5-d4f5ef58ac88_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전인권_Wishing Well]]></title>
             <link>https://tv.naver.com/v/38040592</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 24 Jun 2023 16:20:22 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230623_272/ehXFx_16874883007232PTjz_JPEG/e2506105-116d-11ee-9d52-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지우_인터뷰]]></title>
-            <link>https://tv.naver.com/v/37293433</link>
-            <guid>https://tv.naver.com/v/37293433</guid>
-            <pubDate>Sat, 24 Jun 2023 16:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[8:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230623_121/juiAu_1687488292437F4u9U_JPEG/01909066-116e-11ee-8f8b-80615f0bcbf0_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지우_발걸음]]></title>
-            <link>https://tv.naver.com/v/37293429</link>
-            <guid>https://tv.naver.com/v/37293429</guid>
-            <pubDate>Sat, 24 Jun 2023 16:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230623_276/facYe_1687488286771KdjUP_JPEG/6c847a40-116e-11ee-8790-a0369ffb3274_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오곤&무성_울산 관람차]]></title>
-            <link>https://tv.naver.com/v/37054422</link>
-            <guid>https://tv.naver.com/v/37054422</guid>
-            <pubDate>Fri, 16 Jun 2023 10:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_257/2rTm3_16868833727665JjkI_JPEG/3cf4e83e-0bea-11ee-9d52-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
