@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 07:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 08:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] Lapillus - Marionette (라필루스 - 마리오네뜨) | Show Champion | EP.483]]></title>
+            <link>https://tv.naver.com/v/38037167</link>
+            <guid>https://tv.naver.com/v/38037167</guid>
+            <pubDate>Fri, 14 Jul 2023 08:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_74/H0qoo_16893105888903XUMQ_JPEG/CA202307120094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[7월 2주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.483]]></title>
             <link>https://tv.naver.com/v/37966152</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Jul 2023 13:26:06 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_90/8NFYI_1689138691120ORPcd_JPEG/CA202307120022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] KISS OF LIFE BELLE - Shhh (키스 오브 라이프 벨 - 쉿) | Show Champion | EP.483]]></title>
-            <link>https://tv.naver.com/v/37951165</link>
-            <guid>https://tv.naver.com/v/37951165</guid>
-            <pubDate>Wed, 12 Jul 2023 13:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_188/2PAWL_1689138688191kb3IT_JPEG/CA202307120024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
