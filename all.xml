@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 03:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 05:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2032,6 +2032,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.577 - SWAN(수안), 8TURN(에잇턴), KISS OF LIFE(키스오브라이프), LUN8(루네이트) (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38004185</link>
+            <guid>https://tv.naver.com/v/38004185</guid>
+            <pubDate>Fri, 14 Jul 2023 05:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[55:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_200/s21e8_16892363086793vMCl_JPEG/1689235629217.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.576 - YENA(최예나), WEi(위아이), UKISS(유키스), LUN8(루네이트), Lapillus(라필 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/37744938</link>
             <guid>https://tv.naver.com/v/37744938</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
             <content:encoded><![CDATA[57:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230407_53/neMVk_1680831511686321ez_JPEG/1680830681116.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.562 – Billlie(빌리), KINGDOM(킹덤), TAN(티에이엔), CSR(첫사랑), JANG WOOHYUK(장 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/34508146</link>
-            <guid>https://tv.naver.com/v/34508146</guid>
-            <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[50:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_247/50eRD_1680235598128rmvUB_JPEG/1680235197534.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노라조-일개미 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
