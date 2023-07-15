@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 11:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 12:28:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,94 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Sandara Park - T MAP (산다라박 – 티 맵) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38079742</link>
+            <guid>https://tv.naver.com/v/38079742</guid>
+            <pubDate>Sat, 15 Jul 2023 12:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_210/KMn2u_16894224896074EWnO_JPEG/clip_20230715184519_38.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KISS OF LIFE NATTY - Shhh(키스오브라이프 나띠 - 쉿) FanCam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38079741</link>
+            <guid>https://tv.naver.com/v/38079741</guid>
+            <pubDate>Sat, 15 Jul 2023 12:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_182/ORnmK_1689422488435hXIQy_JPEG/clip_20230715184841_43.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Sandara Park – FESTIVAL (산다라박 - 페스티벌) FanCam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38079685</link>
+            <guid>https://tv.naver.com/v/38079685</guid>
+            <pubDate>Sat, 15 Jul 2023 12:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_112/6sy3I_1689422247821EpOIa_JPEG/clip_20230715184406_37.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Sandara Park - FESTIVAL (산다라박 – 페스티벌) FanCam (Horizontal Ver.) | Show! MusicCore|MBC230715방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38079662</link>
+            <guid>https://tv.naver.com/v/38079662</guid>
+            <pubDate>Sat, 15 Jul 2023 12:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_150/WzY0Q_1689422192090Xx3yE_JPEG/clip_20230715184321_36.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ZEROBASEONE HAN YU JIN - In Bloom(제로베이스원 한유진 - 인 블룸) FanCam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38079660</link>
+            <guid>https://tv.naver.com/v/38079660</guid>
+            <pubDate>Sat, 15 Jul 2023 12:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_151/fhD94_1689422190948GeKiN_JPEG/clip_20230715184022_33.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ZEROBASEONE PARK GUN WOOK - In Bloom(제로베이스원 박건욱 - 인 블룸) FanCam | Show!MusicCore|MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38079658</link>
+            <guid>https://tv.naver.com/v/38079658</guid>
+            <pubDate>Sat, 15 Jul 2023 12:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_281/sOivI_1689422189390OkJ70_JPEG/clip_20230715183943_32.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ZEROBASEONE Zhang Hao - In Bloom(제로베이스원 장하오 - 인 블룸) FanCam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38079657</link>
+            <guid>https://tv.naver.com/v/38079657</guid>
+            <pubDate>Sat, 15 Jul 2023 12:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_272/A24zZ_16894221882055AtbU_JPEG/clip_20230715183533_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ZEROBASEONE KIM JI WOONG - In Bloom(제로베이스원 김지웅 - 인 블룸) FanCam | Show! MusicCore |MBC230715방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38079104</link>
+            <guid>https://tv.naver.com/v/38079104</guid>
+            <pubDate>Sat, 15 Jul 2023 12:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_166/Wvn0c_1689420687557XW6ht_JPEG/clip_20230715183458_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ZEROBASEONE KIM TAE RAE - In Bloom(제로베이스원 김태래 - 인 블룸) FanCam | Show! MusicCore | MBC230715방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38078975</link>
+            <guid>https://tv.naver.com/v/38078975</guid>
+            <pubDate>Sat, 15 Jul 2023 12:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_155/ktfDz_16894203888785J4wy_JPEG/clip_20230715183738_29.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ZEROBASEONE SEOK MATTHEW - In Bloom(제로베이스원 석매튜 - 인 블룸) FanCam | Show! MusicCore |MBC230715방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38078884</link>
+            <guid>https://tv.naver.com/v/38078884</guid>
+            <pubDate>Sat, 15 Jul 2023 12:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_175/utyw7_1689420087780SPCDm_JPEG/clip_20230715183656_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ZEROBASEONE KIM GYU VIN - In Bloom(제로베이스원 김규빈 - 인 블룸) FanCam | Show! MusicCore | MBC230715방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38078712</link>
+            <guid>https://tv.naver.com/v/38078712</guid>
+            <pubDate>Sat, 15 Jul 2023 12:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_180/kRYEm_1689419550090yNEf0_JPEG/clip_20230715183853_31.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] ZEROBASEONE RICKY - In Bloom(제로베이스원 리키 - 인 블룸) FanCam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -166,94 +254,6 @@
             <pubDate>Sat, 15 Jul 2023 10:15:11 GMT</pubDate>
             <content:encoded><![CDATA[3:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230715_232/wkW10_1689415594171SHQ9a_JPEG/clip_20230715184524_39.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KIM JAEHWAN – For Couples Who Just Met (김재환 - 시작되는 연인들을 위해)FanCam|Show!MusicCore|MBC230715방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38077362</link>
-            <guid>https://tv.naver.com/v/38077362</guid>
-            <pubDate>Sat, 15 Jul 2023 10:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_61/B5rUi_1689415592288UVuhN_JPEG/clip_20230715184203_34.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NMIXX - Roller Coaster(엔믹스 – 롤러 코스터) FanCam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38077361</link>
-            <guid>https://tv.naver.com/v/38077361</guid>
-            <pubDate>Sat, 15 Jul 2023 10:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_211/JPBnf_1689415589783DzRlI_JPEG/clip_20230715182951_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] EXO – Cream Soda(엑소 - 크림 소다) FanCam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38077359</link>
-            <guid>https://tv.naver.com/v/38077359</guid>
-            <pubDate>Sat, 15 Jul 2023 10:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_284/NM8Xw_1689415587591mdvh3_JPEG/clip_20230715182002_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] EXO CHANYEOL - Cream Soda(엑소 찬열 - 크림 소다) FanCam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38077168</link>
-            <guid>https://tv.naver.com/v/38077168</guid>
-            <pubDate>Sat, 15 Jul 2023 10:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_226/cpWVx_1689415049113wkaGD_JPEG/clip_20230715182128_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NMIXX BAE – Roller Coaster(엔믹스 배이 - 롤러 코스터) FanCam |Show! MusicCore|MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38077141</link>
-            <guid>https://tv.naver.com/v/38077141</guid>
-            <pubDate>Sat, 15 Jul 2023 10:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_197/cNXoe_16894149940954ATb8_JPEG/clip_20230715183238_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NMIXX KYUJIN – Roller Coaster(엔믹스 규진 - 롤러 코스터) FanCam | Show! MusicCore |MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38077140</link>
-            <guid>https://tv.naver.com/v/38077140</guid>
-            <pubDate>Sat, 15 Jul 2023 10:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_62/zBNRL_1689414993037BGstF_JPEG/clip_20230715183209_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NMIXX JIWOO – Roller Coaster(엔믹스 지우 - 롤러 코스터) FanCam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38077139</link>
-            <guid>https://tv.naver.com/v/38077139</guid>
-            <pubDate>Sat, 15 Jul 2023 10:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_244/4l2Vx_1689414991674FH2uQ_JPEG/clip_20230715183138_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NMIXX HAEWON – Roller Coaster(엔믹스 해원 - 롤러 코스터) FanCam | Show! MusicCore |MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38077138</link>
-            <guid>https://tv.naver.com/v/38077138</guid>
-            <pubDate>Sat, 15 Jul 2023 10:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_1/ooyh9_1689414990526qmlwN_JPEG/clip_20230715183032_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] EXO CHEN - Cream Soda(엑소 첸 - 크림 소다) FanCam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38077136</link>
-            <guid>https://tv.naver.com/v/38077136</guid>
-            <pubDate>Sat, 15 Jul 2023 10:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_119/mRp0L_16894149892830VXSU_JPEG/clip_20230715182412_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NMIXX LILY – Roller Coaster(엔믹스 릴리 - 롤러 코스터) FanCam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38077015</link>
-            <guid>https://tv.naver.com/v/38077015</guid>
-            <pubDate>Sat, 15 Jul 2023 10:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_10/dvhCu_1689414689107WSCGJ_JPEG/clip_20230715183311_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NMIXX SULLYOON – Roller Coaster(엔믹스 설윤 - 롤러 코스터) FanCam |Show! MusicCore|MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38077013</link>
-            <guid>https://tv.naver.com/v/38077013</guid>
-            <pubDate>Sat, 15 Jul 2023 10:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_51/Gb2Lj_1689414687747qERH5_JPEG/clip_20230715183106_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHINee(샤이니) - HARD | SBS 230709 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
