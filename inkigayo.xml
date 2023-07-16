@@ -4,9 +4,25 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 06:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 07:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ODD EYE CIRCLE - Air Force On | SBS 230716 방송]]></title>
+            <link>https://tv.naver.com/v/38094608</link>
+            <guid>https://tv.naver.com/v/38094608</guid>
+            <pubDate>Sun, 16 Jul 2023 07:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_93/o6EYl_1689491548945C35ly_JPEG/ba10a0b2-cd49-4fae-930d-02be794725d5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LUN8(루네이트) - Wild Heart | SBS 230716 방송]]></title>
+            <link>https://tv.naver.com/v/38094431</link>
+            <guid>https://tv.naver.com/v/38094431</guid>
+            <pubDate>Sun, 16 Jul 2023 07:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_71/bsZd1_1689491193587TIPXY_JPEG/be9e3a5a-1889-463c-ba73-fcc4a6a36517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SHINee(샤이니) - HARD | SBS 230709 방송]]></title>
             <link>https://tv.naver.com/v/37838361</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 02 Jul 2023 07:13:28 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230702_246/fWzys_1688280689805SYVPa_JPEG/98ea9853-6b8f-478c-98ac-7eb607d30825.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lapillus(라필루스) - Who’s Next | SBS 230702 방송]]></title>
-            <link>https://tv.naver.com/v/37587759</link>
-            <guid>https://tv.naver.com/v/37587759</guid>
-            <pubDate>Sun, 02 Jul 2023 07:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230702_62/bEeZB_1688280688319rh1b8_JPEG/63b6445d-c788-42ae-a24c-f02b7857ea98.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THE NEW SIX - Kick It 4 Now | SBS 230702 방송]]></title>
-            <link>https://tv.naver.com/v/37587567</link>
-            <guid>https://tv.naver.com/v/37587567</guid>
-            <pubDate>Sun, 02 Jul 2023 07:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230702_60/5pAMa_1688280151201O1zY6_JPEG/660ea31c-db4d-4d60-9dbc-3833cda2b24e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
