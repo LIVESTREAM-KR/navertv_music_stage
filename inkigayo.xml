@@ -4,7 +4,7 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 08:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 09:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://tv.naver.com/v/38096017</guid>
             <pubDate>Sun, 16 Jul 2023 08:17:25 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_274/iskdq_1689494790358RTmmv_JPEG/b59cbfbb-8f0a-4a85-bb32-5a8f3737e1c8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_18/uxfgt_1689495987687ltEq5_JPEG/6d03372f-0754-452d-b198-f9a351344e57.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NMIXX - Party O'Clock | SBS 230716 방송]]></title>
