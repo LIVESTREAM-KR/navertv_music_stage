@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 06:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 07:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 수요일에 피어날 찬란한 시작, 쇼챔이 함께 하겠는거야아 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38122865</link>
+            <guid>https://tv.naver.com/v/38122865</guid>
+            <pubDate>Mon, 17 Jul 2023 07:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230717_204/QMS66_1689576088729FOdS9_JPEG/CA202307190008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] Lapillus - Marionette (라필루스 - 마리오네뜨) | Show Champion | EP.483 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/38037167</link>
             <guid>https://tv.naver.com/v/38037167</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 12 Jul 2023 13:26:06 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_211/uHias_1689139290455m8a8E_JPEG/CA202307120026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] KISS OF LIFE - Shhh (키스 오브 라이프 - 쉿) l Show Champion l EP.483 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37951169</link>
-            <guid>https://tv.naver.com/v/37951169</guid>
-            <pubDate>Wed, 12 Jul 2023 13:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_90/8NFYI_1689138691120ORPcd_JPEG/CA202307120022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
