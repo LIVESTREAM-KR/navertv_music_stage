@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 08:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 09:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] EXO SEHUN - Cream Soda(엑소 세훈 - 크림 소다) Close-up Cam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38128920</link>
+            <guid>https://tv.naver.com/v/38128920</guid>
+            <pubDate>Mon, 17 Jul 2023 09:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230717_111/QySo3_1689584793402AU6E7_JPEG/clip_20230717173528_34.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NMIXX SULLYOON - Party O’Clock(엔믹스 설윤 - 파티 어 클락) Close-up Cam | Show! MusicCore |MBC230715방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38128737</link>
+            <guid>https://tv.naver.com/v/38128737</guid>
+            <pubDate>Mon, 17 Jul 2023 09:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230717_300/1InsD_1689584489825LQQkv_JPEG/clip_20230717173619_36.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NMIXX HAEWON - Party O’Clock(엔믹스 해원 - 파티 어 클락) Close-up Cam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38128593</link>
+            <guid>https://tv.naver.com/v/38128593</guid>
+            <pubDate>Mon, 17 Jul 2023 09:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230717_160/kCIUo_1689584248195Bi4wW_JPEG/clip_20230717173621_37.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] Sandara Park - T MAP (산다라박 – 티 맵) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Sat, 15 Jul 2023 10:15:11 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230715_53/HqLnD_1689415888170Q3gK3_JPEG/clip_20230715184610_40.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ODD EYE CIRCLE - Air Force One(오드 아이 써클 – 에어 포스 원) FanCam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38077366</link>
-            <guid>https://tv.naver.com/v/38077366</guid>
-            <pubDate>Sat, 15 Jul 2023 10:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_171/dA2Z1_16894155966101N9jS_JPEG/clip_20230715184924_44.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Lapillus - Marionette(라필루스 – 마리오네뜨) FanCam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38077364</link>
-            <guid>https://tv.naver.com/v/38077364</guid>
-            <pubDate>Sat, 15 Jul 2023 10:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_132/oIa2w_16894155952191iFwp_JPEG/clip_20230715184700_41.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Sandara Park – T MAP (산다라박 - 티 맵) FanCam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38077363</link>
-            <guid>https://tv.naver.com/v/38077363</guid>
-            <pubDate>Sat, 15 Jul 2023 10:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_232/wkW10_1689415594171SHQ9a_JPEG/clip_20230715184524_39.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EXO - Cream Soda | SBS 230716 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
