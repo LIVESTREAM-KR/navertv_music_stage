@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 08:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 09:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] Sandara Park - FESTIVAL(산다라박 - 페스티벌) Close-up Cam | Show! MusicCore | MBC230715방송]]></title>
+            <link>https://tv.naver.com/v/38169774</link>
+            <guid>https://tv.naver.com/v/38169774</guid>
+            <pubDate>Tue, 18 Jul 2023 09:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230718_217/UdkYV_1689669688873euKTo_JPEG/clip_20230718172200_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NMIXX SULLYOON - Roller Coaster(엔믹스 설윤 - 롤러 코스터) Close-up Cam | Show! MusicCore |MBC230715방]]></title>
+            <link>https://tv.naver.com/v/38169107</link>
+            <guid>https://tv.naver.com/v/38169107</guid>
+            <pubDate>Tue, 18 Jul 2023 09:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230718_53/yfpzx_16896688484824eHRq_JPEG/clip_20230718171100_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NMIXX JIWOO - Roller Coaster(엔믹스 지우 - 롤러 코스터) Close-up Cam | Show! MusicCore | MBC230715방송]]></title>
+            <link>https://tv.naver.com/v/38130166</link>
+            <guid>https://tv.naver.com/v/38130166</guid>
+            <pubDate>Tue, 18 Jul 2023 09:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230717_204/aJLd9_1689586589774IaQEX_JPEG/clip_20230717175643_40.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] ZEROBASEONE Zhang Hao - In Bloom(제로베이스원 장하오 - 인 블룸) Close-up Cam |Show!MusicCore|MBC2307]]></title>
             <link>https://tv.naver.com/v/38129953</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 15 Jul 2023 11:11:53 GMT</pubDate>
             <content:encoded><![CDATA[3:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230715_115/mrX8R_1689416847991aRqsj_JPEG/clip_20230715184743_42.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NMIXX LILY – Party O’Clock(엔믹스 릴리 - 파티 어 클락) FanCam | Show! MusicCore | MBC230715방송]]></title>
-            <link>https://tv.naver.com/v/38077767</link>
-            <guid>https://tv.naver.com/v/38077767</guid>
-            <pubDate>Sat, 15 Jul 2023 11:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_72/HPFak_1689416788324B8VUv_JPEG/clip_20230715182912_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] EXO BAEKHYUN - Cream Soda(엑소 백현 - 크림 소다) FanCam | Show! MusicCore | MBC230715방송]]></title>
-            <link>https://tv.naver.com/v/38077664</link>
-            <guid>https://tv.naver.com/v/38077664</guid>
-            <pubDate>Sat, 15 Jul 2023 11:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_229/Zuft3_1689416488955Az0rI_JPEG/clip_20230715182234_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] EXO SEHUN - Cream Soda(엑소 세훈 - 크림 소다) FanCam | Show! MusicCore | MBC230715방송]]></title>
-            <link>https://tv.naver.com/v/38077571</link>
-            <guid>https://tv.naver.com/v/38077571</guid>
-            <pubDate>Sat, 15 Jul 2023 11:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_11/UMjxH_1689416188774FqEjd_JPEG/clip_20230715182306_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
