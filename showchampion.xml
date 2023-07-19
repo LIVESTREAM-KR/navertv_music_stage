@@ -4,9 +4,49 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 10:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 11:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔 1위] 7월 3주 챔피언송 ＜ZEROBASEONE - In Bloom＞ 앵콜 Full ver. l Show Champion l EP.484]]></title>
+            <link>https://tv.naver.com/v/38214199</link>
+            <guid>https://tv.naver.com/v/38214199</guid>
+            <pubDate>Wed, 19 Jul 2023 11:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[4:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_252/pCNAQ_1689764794662B89Qi_JPEG/CA202307190108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔믹스(NMIXX) - Roller Coaster]]></title>
+            <link>https://tv.naver.com/v/38212931</link>
+            <guid>https://tv.naver.com/v/38212931</guid>
+            <pubDate>Wed, 19 Jul 2023 11:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_208/Xadk9_16897624550707WYFC_JPEG/CA202307190104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 오드아이써클(ODD EYE CIRCLE) - Air Force One]]></title>
+            <link>https://tv.naver.com/v/38212927</link>
+            <guid>https://tv.naver.com/v/38212927</guid>
+            <pubDate>Wed, 19 Jul 2023 11:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_278/UFwGz_1689762451183ijRvc_JPEG/CA202307190100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK 엔믹스(NMIXX) - Party O’Clock]]></title>
+            <link>https://tv.naver.com/v/38212726</link>
+            <guid>https://tv.naver.com/v/38212726</guid>
+            <pubDate>Wed, 19 Jul 2023 11:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_178/mbv0b_1689762091373dyfzv_JPEG/CA202307190105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수안(SWAN) - Twenty (Prod. 정키)]]></title>
+            <link>https://tv.naver.com/v/38212722</link>
+            <guid>https://tv.naver.com/v/38212722</guid>
+            <pubDate>Wed, 19 Jul 2023 11:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_13/RyMnB_1689762089125ouKwh_JPEG/CA202307190101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HOT DEBUT] 제로베이스원(ZEROBASEONE) - In Bloom]]></title>
             <link>https://tv.naver.com/v/38212397</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 12 Jul 2023 13:26:06 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_236/EAFmB_1689154887899ghPAd_JPEG/CA202307120059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] WEi KANG SEOKHWA - OVERDRIVE (위아이 강석화 - 질주) | Show Champion | EP.483]]></title>
-            <link>https://tv.naver.com/v/37963370</link>
-            <guid>https://tv.naver.com/v/37963370</guid>
-            <pubDate>Wed, 12 Jul 2023 13:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_256/JFBsr_1689154588624MVRJr_JPEG/CA202307120057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] WEi - OVERDRIVE (위아이 - 질주) l Show Champion l EP.483]]></title>
-            <link>https://tv.naver.com/v/37963072</link>
-            <guid>https://tv.naver.com/v/37963072</guid>
-            <pubDate>Wed, 12 Jul 2023 13:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_187/pyMWu_1689154049442qdwwN_JPEG/CA202307120063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] WEi KIM DONGHAN - OVERDRIVE (위아이 김동한 - 질주) | Show Champion | EP.483]]></title>
-            <link>https://tv.naver.com/v/37962859</link>
-            <guid>https://tv.naver.com/v/37962859</guid>
-            <pubDate>Wed, 12 Jul 2023 13:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_220/h3Kjl_1689153688295GhGhl_JPEG/CA202307120064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] WEi JANG DAEHYEON - OVERDRIVE (위아이 장대현 - 질주) | Show Champion | EP.483]]></title>
-            <link>https://tv.naver.com/v/37962562</link>
-            <guid>https://tv.naver.com/v/37962562</guid>
-            <pubDate>Wed, 12 Jul 2023 13:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_47/GwfaH_1689153147755Hzzhz_JPEG/CA202307120062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] WEi YOO YONGHA - OVERDRIVE (위아이 유용하 - 질주) | Show Champion | EP.483]]></title>
-            <link>https://tv.naver.com/v/37962357</link>
-            <guid>https://tv.naver.com/v/37962357</guid>
-            <pubDate>Wed, 12 Jul 2023 13:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_37/pYRt6_1689152789084MY2Ns_JPEG/CA202307120061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
