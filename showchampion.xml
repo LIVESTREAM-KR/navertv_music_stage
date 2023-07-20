@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 07:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 08:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] ODD EYE CIRCLE - Je Ne Sais Quoi (오드아이써클 - 주 느 세 콰) | Show Champion | EP.484]]></title>
+            <link>https://tv.naver.com/v/38214671</link>
+            <guid>https://tv.naver.com/v/38214671</guid>
+            <pubDate>Thu, 20 Jul 2023 08:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_228/0vh7d_1689765689204YXATT_JPEG/CA202307190106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] ZEROBASEONE PARK GUNWOOK (제로베이스원 박건욱) - New Kidz on the Block | Show Champion | EP.484]]></title>
             <link>https://tv.naver.com/v/38214670</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Jul 2023 13:19:37 GMT</pubDate>
             <content:encoded><![CDATA[3:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230719_102/LN3jg_1689752550372WsWKi_JPEG/CA202307190043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ZEROBASEONE ZHANG HAO - In Bloom (제로베이스원 장하오 - 인 블룸) | Show Champion | EP.484]]></title>
-            <link>https://tv.naver.com/v/38205470</link>
-            <guid>https://tv.naver.com/v/38205470</guid>
-            <pubDate>Wed, 19 Jul 2023 13:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_211/8h3wn_1689752188102JudJ6_JPEG/CA202307190041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
