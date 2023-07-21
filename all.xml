@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 08:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 09:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2152,6 +2152,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230414_168/NxcPC_1681439314074yF1Yi_JPEG/1681438876114.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[V.O.S_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38271281</link>
+            <guid>https://tv.naver.com/v/38271281</guid>
+            <pubDate>Fri, 21 Jul 2023 09:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[9:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_17/d3jlH_1689905095683yCA0b_JPEG/90a94b3d-2768-11ee-9178-505dacfba98a_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[V.O.S_큰일이다 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38271280</link>
+            <guid>https://tv.naver.com/v/38271280</guid>
+            <pubDate>Fri, 21 Jul 2023 09:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_19/vnKq2_1689905090117k2fzm_JPEG/0f6264f9-2769-11ee-89eb-d4f5ef5a9532_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[울산시립무용단_부채춤 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38271275</link>
+            <guid>https://tv.naver.com/v/38271275</guid>
+            <pubDate>Fri, 21 Jul 2023 09:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[5:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_114/0uWql_16899050838837kJyl_JPEG/33f4bade-2769-11ee-89eb-d4f5ef5a9532_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전인권_사랑한 후에 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/38040604</link>
             <guid>https://tv.naver.com/v/38040604</guid>
@@ -2366,30 +2390,6 @@
             <pubDate>Sat, 24 Jun 2023 17:14:19 GMT</pubDate>
             <content:encoded><![CDATA[3:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230623_170/0mUZP_1687488315920Oj88n_JPEG/3be3db31-116d-11ee-a241-48df3770386e_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플라워_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37293451</link>
-            <guid>https://tv.naver.com/v/37293451</guid>
-            <pubDate>Sat, 24 Jun 2023 16:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[7:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230623_136/MZl1B_1687488311232QpeMi_JPEG/5a8a893a-116d-11ee-a241-48df3770386e_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플라워_Endless (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37293446</link>
-            <guid>https://tv.naver.com/v/37293446</guid>
-            <pubDate>Sat, 24 Jun 2023 16:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230623_230/Qw3kb_1687488306319WooNX_JPEG/ac897189-116d-11ee-ad6d-505dacfbaa5c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지우_Romance (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37293441</link>
-            <guid>https://tv.naver.com/v/37293441</guid>
-            <pubDate>Sat, 24 Jun 2023 16:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230623_272/ehXFx_16874883007232PTjz_JPEG/e2506105-116d-11ee-9d52-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
