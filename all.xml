@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 12:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 13:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,54 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ZEROBASEONE Zhang Hao - and I(제로베이스원 장하오 - 우주먼지) Close-up Cam |Show!MusicCore|MBC230722방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38316704</link>
+            <guid>https://tv.naver.com/v/38316704</guid>
+            <pubDate>Sat, 22 Jul 2023 13:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_113/B8WSM_16900302915013fEJG_JPEG/clip_20230722195439_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ZEROBASEONE SUNG HAN BIN - and I(제로베이스원 성한빈 - 우주먼지)Close-upCam|Show!MusicCore|MBC230722방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38316703</link>
+            <guid>https://tv.naver.com/v/38316703</guid>
+            <pubDate>Sat, 22 Jul 2023 13:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[5:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_282/neLbW_1690030289288aMMbz_JPEG/clip_20230722195427_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ICHILLIN’ - KICK-START(아이칠린 – 킥스타트) FanCam | Show! MusicCore | MBC230722방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38316414</link>
+            <guid>https://tv.naver.com/v/38316414</guid>
+            <pubDate>Sat, 22 Jul 2023 13:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_66/46kan_1690029689053as4fS_JPEG/clip_20230722194947_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ZEROBASEONE SEOK MATTHEW - and I(제로베이스원 석매튜 - 우주먼지) FanCam | Show! MusicCore | MBC230722방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38316258</link>
+            <guid>https://tv.naver.com/v/38316258</guid>
+            <pubDate>Sat, 22 Jul 2023 13:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_153/kD7pM_1690029389968HVItd_JPEG/clip_20230722195153_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ZEROBASEONE – and I(제로베이스원 - 우주먼지) FanCam | Show! MusicCore | MBC230722방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38316124</link>
+            <guid>https://tv.naver.com/v/38316124</guid>
+            <pubDate>Sat, 22 Jul 2023 13:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_148/1NdeH_1690029088693vl65z_JPEG/clip_20230722195100_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ZEROBASEONE KIM JI WOONG - and I(제로베이스원 김지웅 - 우주먼지) FanCam | Show! MusicCore | MBC230722방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38315948</link>
+            <guid>https://tv.naver.com/v/38315948</guid>
+            <pubDate>Sat, 22 Jul 2023 13:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_172/vjKbX_1690028791487vXm0j_JPEG/clip_20230722195141_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] MIRAE - JUMP!(미래소년 – 점프!) FanCam | Show! MusicCore | MBC230722방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -206,54 +254,6 @@
             <pubDate>Sat, 22 Jul 2023 11:11:42 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230722_27/wc5gv_1690021288078BW6Tx_JPEG/clip_20230722184318_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM HAECHAN – ISTJ(엔시티 드림 해찬 - 아이에스티제이) FanCam | Show! MusicCore | MBC230722방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38312828</link>
-            <guid>https://tv.naver.com/v/38312828</guid>
-            <pubDate>Sat, 22 Jul 2023 10:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_174/p7r8p_1690020751052wg6m0_JPEG/clip_20230722184305_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM JISUNG – ISTJ(엔시티 드림 지성 - 아이에스티제이) FanCam | Show! MusicCore | MBC230722방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38312689</link>
-            <guid>https://tv.naver.com/v/38312689</guid>
-            <pubDate>Sat, 22 Jul 2023 10:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_169/QN6oK_16900203917314zYeb_JPEG/clip_20230722184338_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM JAEMIN – ISTJ(엔시티 드림 재민 - 아이에스티제이) FanCam | Show! MusicCore | MBC230722방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38312688</link>
-            <guid>https://tv.naver.com/v/38312688</guid>
-            <pubDate>Sat, 22 Jul 2023 10:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_70/gLeCp_16900203905685WWqh_JPEG/clip_20230722184310_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] Sandara Park - FESTIVAL(산다라박 - 페스티벌) Close-up Cam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38169774</link>
-            <guid>https://tv.naver.com/v/38169774</guid>
-            <pubDate>Tue, 18 Jul 2023 09:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230718_217/UdkYV_1689669688873euKTo_JPEG/clip_20230718172200_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] NMIXX SULLYOON - Roller Coaster(엔믹스 설윤 - 롤러 코스터) Close-up Cam | Show! MusicCore |MBC230715방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38169107</link>
-            <guid>https://tv.naver.com/v/38169107</guid>
-            <pubDate>Tue, 18 Jul 2023 09:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230718_53/yfpzx_16896688484824eHRq_JPEG/clip_20230718171100_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] NMIXX JIWOO - Roller Coaster(엔믹스 지우 - 롤러 코스터) Close-up Cam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38130166</link>
-            <guid>https://tv.naver.com/v/38130166</guid>
-            <pubDate>Tue, 18 Jul 2023 09:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230717_204/aJLd9_1689586589774IaQEX_JPEG/clip_20230717175643_40.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EXO - Cream Soda | SBS 230716 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
