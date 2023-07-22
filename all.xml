@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 09:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 10:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT DREAM HAECHAN – ISTJ(엔시티 드림 해찬 - 아이에스티제이) FanCam | Show! MusicCore | MBC230722방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38312828</link>
+            <guid>https://tv.naver.com/v/38312828</guid>
+            <pubDate>Sat, 22 Jul 2023 10:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_174/p7r8p_1690020751052wg6m0_JPEG/clip_20230722184305_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT DREAM JISUNG – ISTJ(엔시티 드림 지성 - 아이에스티제이) FanCam | Show! MusicCore | MBC230722방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38312689</link>
+            <guid>https://tv.naver.com/v/38312689</guid>
+            <pubDate>Sat, 22 Jul 2023 10:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_169/QN6oK_16900203917314zYeb_JPEG/clip_20230722184338_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT DREAM JAEMIN – ISTJ(엔시티 드림 재민 - 아이에스티제이) FanCam | Show! MusicCore | MBC230722방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38312688</link>
+            <guid>https://tv.naver.com/v/38312688</guid>
+            <pubDate>Sat, 22 Jul 2023 10:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_70/gLeCp_16900203905685WWqh_JPEG/clip_20230722184310_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] Sandara Park - FESTIVAL(산다라박 - 페스티벌) Close-up Cam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Sat, 15 Jul 2023 11:11:53 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230715_242/0C2CL_1689417687561fLA4P_JPEG/clip_20230715182543_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NMIXX BAE – Party O’Clock(엔믹스 배이 - 파티 어 클락) FanCam |Show! MusicCore|MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38078001</link>
-            <guid>https://tv.naver.com/v/38078001</guid>
-            <pubDate>Sat, 15 Jul 2023 11:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_64/OLCLp_1689417390417M7EHx_JPEG/clip_20230715182823_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NMIXX JIWOO – Party O’Clock(엔믹스 지우 - 파티 어 클락) FanCam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38078000</link>
-            <guid>https://tv.naver.com/v/38078000</guid>
-            <pubDate>Sat, 15 Jul 2023 11:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_80/XKdsp_1689417389158BUpgI_JPEG/clip_20230715182713_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KISS OF LIFE – Shhh(키스오브라이프 - 쉿) FanCam | Show! MusicCore | MBC230715방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38077798</link>
-            <guid>https://tv.naver.com/v/38077798</guid>
-            <pubDate>Sat, 15 Jul 2023 11:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_115/mrX8R_1689416847991aRqsj_JPEG/clip_20230715184743_42.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EXO - Cream Soda | SBS 230716 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
