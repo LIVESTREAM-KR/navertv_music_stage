@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 06:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 07:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230722_27/wc5gv_1690021288078BW6Tx_JPEG/clip_20230722184318_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[황민우 - 오빠(OPPA) | SBS 230723 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38329030</link>
+            <guid>https://tv.naver.com/v/38329030</guid>
+            <pubDate>Sun, 23 Jul 2023 07:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_265/wODCf_1690096351714Lb9GA_JPEG/53d7a797-adf8-4c0c-9bc8-de265028ab92.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MC지후X운학 - Hype boy | SBS 230723 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38328903</link>
+            <guid>https://tv.naver.com/v/38328903</guid>
+            <pubDate>Sun, 23 Jul 2023 07:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_161/nrIGO_1690095991913unqEC_JPEG/d75681fc-3634-4a41-adda-5eda45f49154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤수현 - 남자들은 날 가만 안나둬 | SBS 230723 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38328763</link>
+            <guid>https://tv.naver.com/v/38328763</guid>
+            <pubDate>Sun, 23 Jul 2023 07:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_156/NFVXT_169009569104837Nl8_JPEG/0bd0b577-127c-4cad-a4e1-9976a7406f8c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[EXO - Cream Soda | SBS 230716 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/38096244</link>
             <guid>https://tv.naver.com/v/38096244</guid>
@@ -470,30 +494,6 @@
             <pubDate>Sun, 09 Jul 2023 07:13:55 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230709_121/EBMZw_1688885491602YYa5o_JPEG/e99757f6-57ce-49b0-b0d2-82a8a84ee53d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[+(KR)ystal Eyes - Touch | SBS 230709 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37836933</link>
-            <guid>https://tv.naver.com/v/37836933</guid>
-            <pubDate>Sun, 09 Jul 2023 07:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_42/4F1Mb_1688884952467OcAFJ_JPEG/e8e1688c-a8a3-42e9-aa30-b482b5b4eff5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LUN8(루네이트) - Wild Heart | SBS 230709 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37836930</link>
-            <guid>https://tv.naver.com/v/37836930</guid>
-            <pubDate>Sun, 09 Jul 2023 07:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_127/xxqti_16888849507741VWhj_JPEG/a0adfb54-7dd8-4be6-9b3a-9b71a8b2becb.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KISS OF LIFE - 쉿(Shhh) | SBS 230709 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37836927</link>
-            <guid>https://tv.naver.com/v/37836927</guid>
-            <pubDate>Sun, 09 Jul 2023 07:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_211/XwekS_1688884949024JxllN_JPEG/d77a0371-39a8-47af-8f5c-8fba799027b3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
