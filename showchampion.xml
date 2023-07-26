@@ -4,9 +4,33 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 10:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 11:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔 에세이] 후이(HUI(PENTAGON)) - You Are]]></title>
+            <link>https://tv.naver.com/v/38440683</link>
+            <guid>https://tv.naver.com/v/38440683</guid>
+            <pubDate>Wed, 26 Jul 2023 11:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[11:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_51/cQj9e_1690368388973KYmVT_JPEG/CA202307260108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엔딩원샷] 제로베이스원(ZEROBASEONE) - In Bloom]]></title>
+            <link>https://tv.naver.com/v/38440240</link>
+            <guid>https://tv.naver.com/v/38440240</guid>
+            <pubDate>Wed, 26 Jul 2023 11:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_11/4qxUa_16903674876520V5q8_JPEG/CA202307260107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔믹스(NMIXX) - Party O’Clock]]></title>
+            <link>https://tv.naver.com/v/38439972</link>
+            <guid>https://tv.naver.com/v/38439972</guid>
+            <pubDate>Wed, 26 Jul 2023 11:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_22/Oejma_16903668993350Vg7V_JPEG/CA202307260109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[최초 공개] 키스 오브 라이프(KISS OF LIFE) - Countdown (BELLE Solo)]]></title>
             <link>https://tv.naver.com/v/38439716</link>
@@ -36,7 +60,7 @@
             <link>https://tv.naver.com/v/38439543</link>
             <guid>https://tv.naver.com/v/38439543</guid>
             <pubDate>Wed, 26 Jul 2023 10:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_222/7PHfF_1690365997905x6Pvk_JPEG/CA202307260103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 19 Jul 2023 13:19:37 GMT</pubDate>
             <content:encoded><![CDATA[3:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230719_150/4o0En_1689760287550Q7EMv_JPEG/CA202307190064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] NMIXX BAE - Roller Coaster (엔믹스 배이 - 롤러 코스터) | Show Champion | EP.484]]></title>
-            <link>https://tv.naver.com/v/38211485</link>
-            <guid>https://tv.naver.com/v/38211485</guid>
-            <pubDate>Wed, 19 Jul 2023 13:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_66/nxm7v_1689759688211kNDxQ_JPEG/CA202307190065.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ZEROBASEONE - New Kidz on the Block (제로베이스원 - 뉴 키즈 온 더 블럭) l Show Champion l EP.484]]></title>
-            <link>https://tv.naver.com/v/38211335</link>
-            <guid>https://tv.naver.com/v/38211335</guid>
-            <pubDate>Wed, 19 Jul 2023 13:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_95/CR11x_1689759388180YgejJ_JPEG/CA202307190049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) - New Kidz on the Block | Show Champion | EP.484]]></title>
-            <link>https://tv.naver.com/v/38210997</link>
-            <guid>https://tv.naver.com/v/38210997</guid>
-            <pubDate>Wed, 19 Jul 2023 13:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_207/rjOah_1689758790118GAnFX_JPEG/CA202307190062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
