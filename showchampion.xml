@@ -4,9 +4,25 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 13:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 14:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[COMEBACK] 미래소년(MIRAE) - JUMP!]]></title>
+            <link>https://tv.naver.com/v/38447909</link>
+            <guid>https://tv.naver.com/v/38447909</guid>
+            <pubDate>Wed, 26 Jul 2023 14:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_247/yckpz_1690380753123OYoud_JPEG/CA202307260099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미래소년(MIRAE) - GIRL]]></title>
+            <link>https://tv.naver.com/v/38447864</link>
+            <guid>https://tv.naver.com/v/38447864</guid>
+            <pubDate>Wed, 26 Jul 2023 14:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_191/RbMCk_1690380695027MvVON_JPEG/CA202307260095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔 원픽캠 4K] ZEROBASEONE ZHANG HAO - and I (제로베이스원 장하오 - 우주먼지) | Show Champion | EP.485]]></title>
             <link>https://tv.naver.com/v/38440542</link>
@@ -80,7 +96,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_295/tS4nO_1690365449351IynLH_JPEG/CA202307260079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔 원픽캠 4K] ZEROBASEONE SEOK MATTHEW - And I (제로베이스원 석매튜 - 우주먼지) | Show Champion | EP.485]]></title>
+            <title><![CDATA[[쇼챔 원픽캠 4K] ZEROBASEONE SEOK MATTHEW - and I (제로베이스원 석매튜 - 우주먼지) | Show Champion | EP.485]]></title>
             <link>https://tv.naver.com/v/38439080</link>
             <guid>https://tv.naver.com/v/38439080</guid>
             <pubDate>Wed, 26 Jul 2023 13:17:59 GMT</pubDate>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 26 Jul 2023 13:17:59 GMT</pubDate>
             <content:encoded><![CDATA[4:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_298/8DQwu_16903572927427dHgU_JPEG/CA202307260053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ZEROBASEONE PARK GUNWOOK - In Bloom (제로베이스원 박건욱 - 인 블룸) | Show Champion | EP.485]]></title>
-            <link>https://tv.naver.com/v/38433579</link>
-            <guid>https://tv.naver.com/v/38433579</guid>
-            <pubDate>Wed, 26 Jul 2023 13:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_38/Vkfd3_1690356989782s3JXf_JPEG/CA202307260043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ZEROBASEONE HAN YUJIN - In Bloom (제로베이스원 한유진 - 인 블룸) | Show Champion | EP.485]]></title>
-            <link>https://tv.naver.com/v/38432902</link>
-            <guid>https://tv.naver.com/v/38432902</guid>
-            <pubDate>Wed, 26 Jul 2023 13:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_252/F58Fu_1690356092744fikmr_JPEG/CA202307260047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
