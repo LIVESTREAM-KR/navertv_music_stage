@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 09:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 10:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2152,6 +2152,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230421_110/Gy4IV_1682050232397Ed1SB_JPEG/1682050071270.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[소찬휘_현명한 선택 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38472321</link>
+            <guid>https://tv.naver.com/v/38472321</guid>
+            <pubDate>Fri, 28 Jul 2023 10:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_96/lj6gN_1690443894676GvVEx_JPEG/8125403c-2c4d-11ee-8ba9-d4f5ef5906a4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소찬휘_Tears (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38472319</link>
+            <guid>https://tv.naver.com/v/38472319</guid>
+            <pubDate>Fri, 28 Jul 2023 10:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_49/1qnv9_1690443891065Di2rG_JPEG/ac07cc40-2c4d-11ee-8bd9-505dac8c3607_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소찬휘_보고싶다(원곡 김범수) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38472316</link>
+            <guid>https://tv.naver.com/v/38472316</guid>
+            <pubDate>Fri, 28 Jul 2023 10:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_41/wP1Os_1690443886556xSNpN_JPEG/d6138027-2c4d-11ee-9b44-a0369ffdab64_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소찬휘_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38472313</link>
+            <guid>https://tv.naver.com/v/38472313</guid>
+            <pubDate>Fri, 28 Jul 2023 10:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[6:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_52/dfC7I_1690443881446oF95M_JPEG/0f0e71fd-2c4e-11ee-8bd9-505dac8c3607_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소찬휘_Come On (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38472310</link>
+            <guid>https://tv.naver.com/v/38472310</guid>
+            <pubDate>Fri, 28 Jul 2023 10:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_220/iTVlb_1690443875427SFbzn_JPEG/716f8891-2c4e-11ee-8f45-80615f0c465c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김현정_ 멍 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/38472305</link>
             <guid>https://tv.naver.com/v/38472305</guid>
@@ -2350,46 +2390,6 @@
             <pubDate>Fri, 07 Jul 2023 09:16:45 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230707_232/Lum93_1688710419635qeHzu_JPEG/b10c21d2-1c69-11ee-aabc-d4f5ef5906a4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[써니_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37783010</link>
-            <guid>https://tv.naver.com/v/37783010</guid>
-            <pubDate>Fri, 07 Jul 2023 09:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[9:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_139/LrXGi_1688710409244nPX4b_JPEG/e0b5361f-1c69-11ee-97c1-505dac8c38f5_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[써니_똑바로 바라봐 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37783002</link>
-            <guid>https://tv.naver.com/v/37783002</guid>
-            <pubDate>Fri, 07 Jul 2023 09:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_112/ZZjqH_1688710399837Ea6jp_JPEG/63e929bb-1c6a-11ee-a211-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호밴드_금지된 사랑 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37503277</link>
-            <guid>https://tv.naver.com/v/37503277</guid>
-            <pubDate>Fri, 30 Jun 2023 10:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[5:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230629_128/1Brgy_1688023369912eLJ1o_JPEG/654d075c-1647-11ee-bf11-b4055da5489b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호밴드_Rock'n roll (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37503273</link>
-            <guid>https://tv.naver.com/v/37503273</guid>
-            <pubDate>Fri, 30 Jun 2023 10:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230629_190/z8UXT_1688023365387o928h_JPEG/f7efacb9-1648-11ee-bb6e-505dac8c35ff_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호밴드_보여줄게 (원곡 에일리) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37503269</link>
-            <guid>https://tv.naver.com/v/37503269</guid>
-            <pubDate>Fri, 30 Jun 2023 10:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[4:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230629_219/MoIe9_1688023360997xM7BF_JPEG/1db1a921-1649-11ee-9ab8-48df3772577a_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
