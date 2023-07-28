@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 06:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 07:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[STAGE MIX🪄] TREASURE – MOVE (T5)(트레저 - 무브 (T5)) | Show! Music Core (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38398088</link>
+            <guid>https://tv.naver.com/v/38398088</guid>
+            <pubDate>Fri, 28 Jul 2023 07:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230725_43/lMg9d_1690274189546ntO0G_JPEG/clip_20230725171441_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] NMIXX KYUJIN - Party O’Clock(엔믹스 규진 - 파티 어 클락) Close-up Cam | Show! MusicCore | MBC230722방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 22 Jul 2023 12:24:16 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230722_290/1HWjn_1690025790712UUcAK_JPEG/clip_20230722190324_45.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NMIXX BAE – Roller Coaster(엔믹스 배이 - 롤러 코스터) FanCam |Show! MusicCore|MBC230722방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38314605</link>
-            <guid>https://tv.naver.com/v/38314605</guid>
-            <pubDate>Sat, 22 Jul 2023 12:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_21/E7pSR_1690025489967YAfmL_JPEG/clip_20230722190308_43.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM - ISTJ | SBS 230723 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
