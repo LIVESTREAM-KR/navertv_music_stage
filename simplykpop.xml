@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 04:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 05:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Simply K Pop CON TOUR] EP.579 - MIRAE(미래소년), HORI7ON(호라이즌), KISS OF LIFE(키스오브라이프), ICHILL]]></title>
+            <link>https://tv.naver.com/v/38492019</link>
+            <guid>https://tv.naver.com/v/38492019</guid>
+            <pubDate>Fri, 28 Jul 2023 05:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[51:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_193/7hcck_1690502721868xPho0_JPEG/1690502251587.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.578 - ILY:1(아일리원) , Lapillus(라필루스), 8TURN(에잇턴), LUN8(루네이트)]]></title>
             <link>https://tv.naver.com/v/38268293</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
             <content:encoded><![CDATA[51:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230421_110/Gy4IV_1682050232397Ed1SB_JPEG/1682050071270.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.564 – Billlie(빌리), DreamNote(드림노트), KINGDOM(킹덤), CRAXY(크랙시), CSR(첫]]></title>
-            <link>https://tv.naver.com/v/34945933</link>
-            <guid>https://tv.naver.com/v/34945933</guid>
-            <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[51:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230414_168/NxcPC_1681439314074yF1Yi_JPEG/1681438876114.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
