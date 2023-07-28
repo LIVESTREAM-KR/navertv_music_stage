@@ -4,9 +4,41 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 08:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 09:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김현정_ 멍]]></title>
+            <link>https://tv.naver.com/v/38472305</link>
+            <guid>https://tv.naver.com/v/38472305</guid>
+            <pubDate>Fri, 28 Jul 2023 09:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_219/W3mbL_16904438698010ONus_JPEG/926ca994-2c4e-11ee-8382-505dacfbaa5c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현정_ 되돌아온 이별]]></title>
+            <link>https://tv.naver.com/v/38472296</link>
+            <guid>https://tv.naver.com/v/38472296</guid>
+            <pubDate>Fri, 28 Jul 2023 09:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_248/om2Ks_1690443857231vou6m_JPEG/c270889f-2c4e-11ee-8f91-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현정_ 인터뷰]]></title>
+            <link>https://tv.naver.com/v/38472292</link>
+            <guid>https://tv.naver.com/v/38472292</guid>
+            <pubDate>Fri, 28 Jul 2023 09:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[5:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_202/ebcWC_1690443849121SxME2_JPEG/f52ca8cd-2c4e-11ee-8bd9-505dac8c3607_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현정_ 그녀와의 이별]]></title>
+            <link>https://tv.naver.com/v/38472287</link>
+            <guid>https://tv.naver.com/v/38472287</guid>
+            <pubDate>Fri, 28 Jul 2023 09:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_106/FzS9M_169044384101345tGx_JPEG/41b567eb-2c4f-11ee-8f45-80615f0c465c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[V.O.S_Beautiful life]]></title>
             <link>https://tv.naver.com/v/38271296</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 30 Jun 2023 10:17:11 GMT</pubDate>
             <content:encoded><![CDATA[4:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230629_219/MoIe9_1688023360997xM7BF_JPEG/1db1a921-1649-11ee-9ab8-48df3772577a_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호밴드_나를 슬프게 하는 사람들]]></title>
-            <link>https://tv.naver.com/v/37503264</link>
-            <guid>https://tv.naver.com/v/37503264</guid>
-            <pubDate>Fri, 30 Jun 2023 10:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[4:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230629_145/9miyf_16880233562507BYCw_JPEG/599f4db4-1649-11ee-88f2-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호밴드_나의 사랑 천상에서도]]></title>
-            <link>https://tv.naver.com/v/37503260</link>
-            <guid>https://tv.naver.com/v/37503260</guid>
-            <pubDate>Fri, 30 Jun 2023 09:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[4:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230629_246/PLD2W_1688023352366ouFAN_JPEG/81b5c174-1649-11ee-a676-505dac8c385b_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호밴드_인터뷰]]></title>
-            <link>https://tv.naver.com/v/37503256</link>
-            <guid>https://tv.naver.com/v/37503256</guid>
-            <pubDate>Fri, 30 Jun 2023 09:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[8:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230629_59/vCJfo_16880233483791WAll_JPEG/bb446816-1649-11ee-84f4-505dacfba98a_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호밴드_Rock the night]]></title>
-            <link>https://tv.naver.com/v/37503252</link>
-            <guid>https://tv.naver.com/v/37503252</guid>
-            <pubDate>Fri, 30 Jun 2023 09:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[4:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230629_5/DBNel_1688023343882Ljham_JPEG/1ed80b22-164a-11ee-b270-a0369ffdad70_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
