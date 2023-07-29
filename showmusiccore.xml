@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 08:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 09:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] NCT DREAM – ISTJ(엔시티 드림 - 아이에스티제이) 1위 직캠 FanCam | Show! MusicCore | MBC230729방송]]></title>
+            <link>https://tv.naver.com/v/38531096</link>
+            <guid>https://tv.naver.com/v/38531096</guid>
+            <pubDate>Sat, 29 Jul 2023 09:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[5:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230729_46/2bQXK_1690619250002I9oon_JPEG/clip_20230729170701_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[STAGE MIX🪄] TREASURE – MOVE (T5)(트레저 - 무브 (T5)) | Show! Music Core]]></title>
             <link>https://tv.naver.com/v/38398088</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 22 Jul 2023 12:24:16 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230722_210/uWo4T_16900260904049gLF9_JPEG/clip_20230722190240_40.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NMIXX KYUJIN – Roller Coaster(엔믹스 규진 - 롤러 코스터) FanCam | Show! MusicCore |MBC230722방송]]></title>
-            <link>https://tv.naver.com/v/38314716</link>
-            <guid>https://tv.naver.com/v/38314716</guid>
-            <pubDate>Sat, 22 Jul 2023 12:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_290/1HWjn_1690025790712UUcAK_JPEG/clip_20230722190324_45.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
