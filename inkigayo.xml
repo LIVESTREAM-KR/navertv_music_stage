@@ -4,9 +4,113 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 07:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 08:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오마이걸 - Celebrate | SBS 230730 방송]]></title>
+            <link>https://tv.naver.com/v/38549909</link>
+            <guid>https://tv.naver.com/v/38549909</guid>
+            <pubDate>Sun, 30 Jul 2023 08:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_199/R4h3w_16907046906546jBPa_JPEG/599e73eb-f721-4ec1-b75f-3b98fc0157cb.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DREAM - ISTJ | SBS 230730 방송]]></title>
+            <link>https://tv.naver.com/v/38549907</link>
+            <guid>https://tv.naver.com/v/38549907</guid>
+            <pubDate>Sun, 30 Jul 2023 08:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_113/TLhe1_1690704688713APKQW_JPEG/2a565f74-a85f-4f34-9793-b3b9b4b8064e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스(NewJeans) - ETA | SBS 230730 방송]]></title>
+            <link>https://tv.naver.com/v/38549775</link>
+            <guid>https://tv.naver.com/v/38549775</guid>
+            <pubDate>Sun, 30 Jul 2023 08:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_147/AJWCC_1690704391243g7I6O_JPEG/b2645f89-5312-4b9c-891d-dfc8d960641c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NMIXX - Party O'Clock | SBS 230730 방송]]></title>
+            <link>https://tv.naver.com/v/38549423</link>
+            <guid>https://tv.naver.com/v/38549423</guid>
+            <pubDate>Sun, 30 Jul 2023 08:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_73/I0Bhl_1690703492299IScCL_JPEG/2afdb2e8-87ad-4500-8ae7-e208b91963d7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소유(SOYOU) - ALOHA(feat. 보라)  | SBS 230730 방송]]></title>
+            <link>https://tv.naver.com/v/38549421</link>
+            <guid>https://tv.naver.com/v/38549421</guid>
+            <pubDate>Sun, 30 Jul 2023 08:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_159/09oyp_16907034901588GdHg_JPEG/238bcebb-68da-4101-9f36-fc3784caab7f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ZEROBASEONE - In Bloom | SBS 230730 방송]]></title>
+            <link>https://tv.naver.com/v/38549220</link>
+            <guid>https://tv.naver.com/v/38549220</guid>
+            <pubDate>Sun, 30 Jul 2023 08:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_67/pi8b6_1690702952112XfdoU_JPEG/ed140192-73ad-4c17-b02a-1723d6ac494e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미래소년(MIRAE) - JUMP! | SBS 230730 방송]]></title>
+            <link>https://tv.naver.com/v/38549189</link>
+            <guid>https://tv.naver.com/v/38549189</guid>
+            <pubDate>Sun, 30 Jul 2023 08:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_73/oeAhW_1690702888496e4gCp_JPEG/8dd757a3-05d4-4aa3-bc28-3b71718546f4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ICHILLIN’(아이칠린) - KICK-START | SBS 230730 방송]]></title>
+            <link>https://tv.naver.com/v/38549088</link>
+            <guid>https://tv.naver.com/v/38549088</guid>
+            <pubDate>Sun, 30 Jul 2023 08:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_54/ZwecJ_1690702590660z2aMN_JPEG/f3c970fa-9f8b-484b-961c-7fa6b2a7721f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BOY STORY - Z.I.P(Zero Is the only Passion)Eng Ver. | SBS 230730 방송]]></title>
+            <link>https://tv.naver.com/v/38548958</link>
+            <guid>https://tv.naver.com/v/38548958</guid>
+            <pubDate>Sun, 30 Jul 2023 08:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_69/uUogb_16907022879580UmYg_JPEG/cc80d30d-6020-491d-a745-e13b0a1a385f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[XG - GRL GVNG | SBS 230730 방송]]></title>
+            <link>https://tv.naver.com/v/38548842</link>
+            <guid>https://tv.naver.com/v/38548842</guid>
+            <pubDate>Sun, 30 Jul 2023 08:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_42/pafJ3_1690701992157iV3OA_JPEG/e26978b8-2eea-4504-8e9a-39264d4f42a4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아일리원(ILY:1) - MY COLOR | SBS 230730 방송]]></title>
+            <link>https://tv.naver.com/v/38548730</link>
+            <guid>https://tv.naver.com/v/38548730</guid>
+            <pubDate>Sun, 30 Jul 2023 08:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_223/YPwTo_1690701691291J6yga_JPEG/f6454a09-5fa7-4aa6-907d-ffbcdcd747dc.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HORI7ON(호라이즌) - SIX7EEN | SBS 230730 방송]]></title>
+            <link>https://tv.naver.com/v/38548728</link>
+            <guid>https://tv.naver.com/v/38548728</guid>
+            <pubDate>Sun, 30 Jul 2023 08:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_100/XYKuL_1690701688936CNk7K_JPEG/f1937d6c-bf11-4f4c-9279-9b9e8e91ec2b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISS OF LIFE - 쉿(Shhh)  | SBS 230730 방송]]></title>
+            <link>https://tv.naver.com/v/38548598</link>
+            <guid>https://tv.naver.com/v/38548598</guid>
+            <pubDate>Sun, 30 Jul 2023 08:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_220/7dvuN_1690701389904FwnYm_JPEG/860d493e-5b4d-40c8-8944-57588beda42e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT DREAM - ISTJ | SBS 230723 방송]]></title>
             <link>https://tv.naver.com/v/38330169</link>
@@ -142,110 +246,6 @@
             <pubDate>Sun, 16 Jul 2023 08:17:25 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230716_272/8ljGt_1689495089936qJMJP_JPEG/e2111d71-6eca-4703-bacb-3de255d1be1b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스(NewJeans) - New Jeans | SBS 230716 방송]]></title>
-            <link>https://tv.naver.com/v/38096017</link>
-            <guid>https://tv.naver.com/v/38096017</guid>
-            <pubDate>Sun, 16 Jul 2023 08:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_18/uxfgt_1689495987687ltEq5_JPEG/6d03372f-0754-452d-b198-f9a351344e57.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NMIXX - Party O'Clock | SBS 230716 방송]]></title>
-            <link>https://tv.naver.com/v/38095919</link>
-            <guid>https://tv.naver.com/v/38095919</guid>
-            <pubDate>Sun, 16 Jul 2023 08:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_178/gh1Bf_1689494489176n2ItL_JPEG/e16abaca-f342-4f06-8360-e45f39da2afe.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NMIXX - Roller Coaster | SBS 230716 방송]]></title>
-            <link>https://tv.naver.com/v/38095626</link>
-            <guid>https://tv.naver.com/v/38095626</guid>
-            <pubDate>Sun, 16 Jul 2023 08:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[2:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_216/QFXgM_1689493890445lyxwY_JPEG/66c2384c-3269-4921-8182-00d7759bda81.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산다라박 - FESTIVAL | SBS 230716 방송]]></title>
-            <link>https://tv.naver.com/v/38095622</link>
-            <guid>https://tv.naver.com/v/38095622</guid>
-            <pubDate>Sun, 16 Jul 2023 08:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_74/HtwQ4_168949388863878cVF_JPEG/d39a23e7-8fae-4143-82b4-4006794d1831.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE - MOVE(T5) | SBS 230716 방송]]></title>
-            <link>https://tv.naver.com/v/38095478</link>
-            <guid>https://tv.naver.com/v/38095478</guid>
-            <pubDate>Sun, 16 Jul 2023 08:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_202/Z9MF0_1689493589628XyiUE_JPEG/f360f8b8-7e36-4c61-97c8-a57e7745f468.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코요태 - 바람 | SBS 230716 방송]]></title>
-            <link>https://tv.naver.com/v/38095355</link>
-            <guid>https://tv.naver.com/v/38095355</guid>
-            <pubDate>Sun, 16 Jul 2023 08:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_35/iexG6_16894932888604bEJQ_JPEG/0b96e800-496b-4f5c-9073-26431cc1f3bf.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lapillus(라필루스) - Marionette | SBS 230716 방송]]></title>
-            <link>https://tv.naver.com/v/38095223</link>
-            <guid>https://tv.naver.com/v/38095223</guid>
-            <pubDate>Sun, 16 Jul 2023 08:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_224/WaVau_1689492988423MvtQb_JPEG/e494e78c-392d-49bc-8da2-5bd038cf57df.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ZEROBASEONE - In Bloom | SBS 230716 방송]]></title>
-            <link>https://tv.naver.com/v/38095005</link>
-            <guid>https://tv.naver.com/v/38095005</guid>
-            <pubDate>Sun, 16 Jul 2023 08:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_229/QhzVe_1689492449747VcodX_JPEG/35e7cf6f-a47c-4eef-8751-9661248dcf55.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수안(SWAN) - Twenty | SBS 230716 방송]]></title>
-            <link>https://tv.naver.com/v/38095004</link>
-            <guid>https://tv.naver.com/v/38095004</guid>
-            <pubDate>Sun, 16 Jul 2023 08:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_156/nvzhu_16894924477647gNT7_JPEG/fcc07dd9-c89e-438e-a55d-118b626dad5b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Queenz Eye - UN-NORMAL | SBS 230716 방송]]></title>
-            <link>https://tv.naver.com/v/38094978</link>
-            <guid>https://tv.naver.com/v/38094978</guid>
-            <pubDate>Sun, 16 Jul 2023 08:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_173/OimDb_1689492388080qAlte_JPEG/042e6e5c-7005-40c9-8e65-768ceb3130a9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8TURN(에잇턴) - EXCEL  | SBS 230716 방송]]></title>
-            <link>https://tv.naver.com/v/38094859</link>
-            <guid>https://tv.naver.com/v/38094859</guid>
-            <pubDate>Sun, 16 Jul 2023 08:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_141/COjwt_16894920885297RbUJ_JPEG/bd272ee7-775f-43f2-9780-f8a93bd46a33.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KISS OF LIFE - 쉿(Shhh) | SBS 230716 방송]]></title>
-            <link>https://tv.naver.com/v/38094719</link>
-            <guid>https://tv.naver.com/v/38094719</guid>
-            <pubDate>Sun, 16 Jul 2023 08:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_190/VX1hI_1689491789565fEAnr_JPEG/c3569c51-c068-4f23-b0e9-fa6a0368797c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ODD EYE CIRCLE - Air Force On | SBS 230716 방송]]></title>
-            <link>https://tv.naver.com/v/38094608</link>
-            <guid>https://tv.naver.com/v/38094608</guid>
-            <pubDate>Sun, 16 Jul 2023 07:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_93/o6EYl_1689491548945C35ly_JPEG/ba10a0b2-cd49-4fae-930d-02be794725d5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
