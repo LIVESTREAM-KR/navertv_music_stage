@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 09:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 10:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,94 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[COMEBACK] 오마이걸(OH MY GIRL) - 여름이 들려 (Summer Comes) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38659464</link>
+            <guid>https://tv.naver.com/v/38659464</guid>
+            <pubDate>Wed, 02 Aug 2023 10:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_291/KQLdO_1690971149336a8a0e_JPEG/CA202308020082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오마이걸(OH MY GIRL) - Celebrate (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38659433</link>
+            <guid>https://tv.naver.com/v/38659433</guid>
+            <pubDate>Wed, 02 Aug 2023 10:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_139/2unHV_1690971089276uUftJ_JPEG/CA202308020081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미래소년(MIRAE) - JUMP! (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38659015</link>
+            <guid>https://tv.naver.com/v/38659015</guid>
+            <pubDate>Wed, 02 Aug 2023 10:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_238/Qga54_1690970250369yana6_JPEG/CA202308020079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT DEBUT] 보이스토리(BOY STORY) - Z.I.P (Zero Is the only Passion) Eng Ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38658982</link>
+            <guid>https://tv.naver.com/v/38658982</guid>
+            <pubDate>Wed, 02 Aug 2023 10:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_131/kw9jh_1690970190688CrCy8_JPEG/CA202308020075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이칠린(ICHILLIN’) - KICK-START (킥스타트) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38658806</link>
+            <guid>https://tv.naver.com/v/38658806</guid>
+            <pubDate>Wed, 02 Aug 2023 10:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_96/l6B8H_1690969892080hCFEH_JPEG/CA202308020077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키스 오브 라이프(KISS OF LIFE) - Sugarcoat (NATTY Solo) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38658804</link>
+            <guid>https://tv.naver.com/v/38658804</guid>
+            <pubDate>Wed, 02 Aug 2023 10:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_259/f6CDh_1690969890344bJoRo_JPEG/CA202308020076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! '소유' 나!왔어✋🏻 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38658467</link>
+            <guid>https://tv.naver.com/v/38658467</guid>
+            <pubDate>Wed, 02 Aug 2023 10:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_258/PdEa4_1690969351894zOqD7_JPEG/CA202308020078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT DEBUT] 호라이즌(HORI7ON) - SIX7EEN (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38658414</link>
+            <guid>https://tv.naver.com/v/38658414</guid>
+            <pubDate>Wed, 02 Aug 2023 10:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_206/hbsxy_1690969289142OOaqt_JPEG/CA202308020065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! '오마이걸' 나!왔어✋🏻 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38658230</link>
+            <guid>https://tv.naver.com/v/38658230</guid>
+            <pubDate>Wed, 02 Aug 2023 10:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_211/fA73Z_1690969008633i8V0c_JPEG/CA202308020072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT DEBUT] 세븐어스(SEVENUS) - Wonder Land (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38658225</link>
+            <guid>https://tv.naver.com/v/38658225</guid>
+            <pubDate>Wed, 02 Aug 2023 10:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_136/Zg4dT_1690969003749CkGog_JPEG/CA202308020069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세러데이(SATURDAY) - 있을게 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38657614</link>
+            <guid>https://tv.naver.com/v/38657614</guid>
+            <pubDate>Wed, 02 Aug 2023 10:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_25/x0ZGS_1690968093944L68p8_JPEG/CA202308020060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예고] ‘앙탈즈’ 쇼챔피언 일일PD로 등장ㄷㄷ 완전 레전드야~ (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/38576293</link>
             <guid>https://tv.naver.com/v/38576293</guid>
@@ -1366,94 +1454,6 @@
             <pubDate>Wed, 26 Jul 2023 13:17:59 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_152/veQNJ_1690364190788ap21H_JPEG/CA202307260069.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] NMIXX HAEWON - Party O'Clock (엔믹스 해원 - 파티어클락) | Show Champion | EP.485 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38438459</link>
-            <guid>https://tv.naver.com/v/38438459</guid>
-            <pubDate>Wed, 26 Jul 2023 13:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_292/Hw03r_1690363888080sjTqX_JPEG/CA202307260068.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] NMIXX - Party O'Clock (엔믹스 - 파티어클락) l Show Champion l EP.485 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38438096</link>
-            <guid>https://tv.naver.com/v/38438096</guid>
-            <pubDate>Wed, 26 Jul 2023 13:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_54/7FJuU_16903632900191n3YF_JPEG/CA202307260071.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] MIRAE JANG YU BIN - JUMP! (미래소년 장유빈 - 점프!) | Show Champion | EP.485 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38438094</link>
-            <guid>https://tv.naver.com/v/38438094</guid>
-            <pubDate>Wed, 26 Jul 2023 13:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_239/dLYsA_16903632887653tozM_JPEG/CA202307260067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] MIRAE KHAEL - JUMP! (미래소년 카엘 - 점프!) | Show Champion | EP.485 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38437810</link>
-            <guid>https://tv.naver.com/v/38437810</guid>
-            <pubDate>Wed, 26 Jul 2023 13:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_275/lUxFp_1690362750861cdXVh_JPEG/CA202307260070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] NMIXX BAE - Party O'Clock (엔믹스 배이 - 파티어클락) | Show Champion | EP.485 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38437592</link>
-            <guid>https://tv.naver.com/v/38437592</guid>
-            <pubDate>Wed, 26 Jul 2023 13:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_266/DpsdW_1690362392425LPkr1_JPEG/CA202307260065.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] MIRAE - JUMP! (미래소년 - 점프!) l Show Champion l EP.485 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38437591</link>
-            <guid>https://tv.naver.com/v/38437591</guid>
-            <pubDate>Wed, 26 Jul 2023 13:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_253/zXcjl_1690362390568dIgdF_JPEG/CA202307260072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] NMIXX KYUJIN - Party O'Clock (엔믹스 규진 - 파티어클락) | Show Champion | EP.485 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38437042</link>
-            <guid>https://tv.naver.com/v/38437042</guid>
-            <pubDate>Wed, 26 Jul 2023 13:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_117/GQHgv_16903614913323RBNO_JPEG/CA202307260063.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] NMIXX LILY - Party O'Clock (엔믹스 릴리 - 파티어클락) | Show Champion | EP.485 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38436826</link>
-            <guid>https://tv.naver.com/v/38436826</guid>
-            <pubDate>Wed, 26 Jul 2023 13:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_99/V7jRm_1690361191379DSiAU_JPEG/CA202307260064.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] MIRAE SON DONG PYO - JUMP! (미래소년 손동표 - 점프!) | Show Champion | EP.485 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38436598</link>
-            <guid>https://tv.naver.com/v/38436598</guid>
-            <pubDate>Wed, 26 Jul 2023 13:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_29/Wryd9_16903608907173Ob9O_JPEG/CA202307260062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ZEROBASEONE KIM JIWOONG - In Bloom (제로베이스원 김지웅 - 인 블룸) | Show Champion | EP.485 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38435233</link>
-            <guid>https://tv.naver.com/v/38435233</guid>
-            <pubDate>Wed, 26 Jul 2023 13:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_125/36yEs_16903591507641vgzc_JPEG/CA202307260055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ZEROBASEONE KIM TAERAE - In Bloom (제로베이스원 김태래 - 인 블룸) | Show Champion | EP.485 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38434978</link>
-            <guid>https://tv.naver.com/v/38434978</guid>
-            <pubDate>Wed, 26 Jul 2023 13:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_188/Odozz_1690358791198QeWbu_JPEG/CA202307260056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
