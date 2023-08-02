@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 11:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 12:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1228,7 +1228,7 @@
             <link>https://tv.naver.com/v/38659881</link>
             <guid>https://tv.naver.com/v/38659881</guid>
             <pubDate>Wed, 02 Aug 2023 11:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230802_123/C69v4_1690971990477GKepG_JPEG/CA202308020084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
