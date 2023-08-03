@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 07:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 08:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] SEVENUS - Wonder Land (세븐어스 - 원더랜드) | Show Champion | EP.486 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38661828</link>
+            <guid>https://tv.naver.com/v/38661828</guid>
+            <pubDate>Thu, 03 Aug 2023 08:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_39/gZamh_1690976190440DjcLm_JPEG/CA202308020087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] MIRAE - JUMP! (미래소년 - 점프!) | Show Champion | EP.486 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38661553</link>
+            <guid>https://tv.naver.com/v/38661553</guid>
+            <pubDate>Thu, 03 Aug 2023 08:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_126/k1Gtc_1690975649546k68Pq_JPEG/CA202308020086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] SOYOU - Drivin' Me (소유 - 드라이빙 미) | Show Champion | EP.486 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38661401</link>
+            <guid>https://tv.naver.com/v/38661401</guid>
+            <pubDate>Thu, 03 Aug 2023 08:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_275/1TPor_1690975287333Mwcpz_JPEG/CA202308020088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] BOY STORY(보이스토리) - Z.I.P (Zero Is the only Passion) Eng Ver. | Show Champion | EP.486 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/38660646</link>
             <guid>https://tv.naver.com/v/38660646</guid>
@@ -1430,30 +1454,6 @@
             <pubDate>Wed, 02 Aug 2023 13:17:34 GMT</pubDate>
             <content:encoded><![CDATA[3:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230802_157/uYVIt_1690954048779K8PyY_JPEG/CA202308020032.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] KISS OF LIFE (키스오브라이프) - Sugarcoat (NATTY Solo) | Show Champion | EP.486 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38645435</link>
-            <guid>https://tv.naver.com/v/38645435</guid>
-            <pubDate>Wed, 02 Aug 2023 13:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_246/0wy9v_1690953688785JqDDM_JPEG/CA202308020031.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 에세이] 후이(HUI(PENTAGON)) - Like This (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38660206</link>
-            <guid>https://tv.naver.com/v/38660206</guid>
-            <pubDate>Wed, 02 Aug 2023 11:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[12:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_68/wEVId_16909725917883xFLL_JPEG/CA202308020080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] 소유(SOYOU) - ALOHA (Feat. 보라) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38659881</link>
-            <guid>https://tv.naver.com/v/38659881</guid>
-            <pubDate>Wed, 02 Aug 2023 11:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_123/C69v4_1690971990477GKepG_JPEG/CA202308020084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
