@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 01:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 02:34:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[8월 1주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.486 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38675378</link>
+            <guid>https://tv.naver.com/v/38675378</guid>
+            <pubDate>Fri, 04 Aug 2023 02:33:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230803_292/9SN67_1691023289311aCOEW_JPEG/CA202308020089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] SEVENUS - Wonder Land (세븐어스 - 원더랜드) | Show Champion | EP.486 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/38661828</link>
             <guid>https://tv.naver.com/v/38661828</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 02 Aug 2023 13:17:34 GMT</pubDate>
             <content:encoded><![CDATA[3:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230802_110/pUucd_1690954590852nn3XU_JPEG/CA202308020033.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] KISS OF LIFE (키스오브라이프) - Sugarcoat (NATTY Solo) | Show Champion | EP.486 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38645718</link>
-            <guid>https://tv.naver.com/v/38645718</guid>
-            <pubDate>Wed, 02 Aug 2023 13:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_157/uYVIt_1690954048779K8PyY_JPEG/CA202308020032.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
