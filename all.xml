@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 09:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 10:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2176,6 +2176,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230804_176/BsmO5_16911256485340MfMI_JPEG/734b1eb5-3271-11ee-8891-80615f0bce16_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[딕펑스_My Precious (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38721678</link>
+            <guid>https://tv.naver.com/v/38721678</guid>
+            <pubDate>Fri, 04 Aug 2023 10:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_6/9T4bz_16911256451882s00R_JPEG/470afe4a-3271-11ee-b864-505dac8c37f3_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딕펑스_아무튼 치얼스 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38721674</link>
+            <guid>https://tv.naver.com/v/38721674</guid>
+            <pubDate>Fri, 04 Aug 2023 10:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_28/q5xja_1691125637388TAgw2_JPEG/b75941be-3270-11ee-8224-a0369ffac2a8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딕펑스_VIVA청춘 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38721668</link>
+            <guid>https://tv.naver.com/v/38721668</guid>
+            <pubDate>Fri, 04 Aug 2023 10:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_250/BNgnM_1691125632470qr5qF_JPEG/5a14e9f5-3270-11ee-8fa1-48df37ae3dc4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딕펑스_좋다 좋아 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38721666</link>
+            <guid>https://tv.naver.com/v/38721666</guid>
+            <pubDate>Fri, 04 Aug 2023 10:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_94/sO0rN_1691125628396WNR8o_JPEG/36866f53-3270-11ee-9c90-d4f5ef58ad5e_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딕펑스_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38721675</link>
+            <guid>https://tv.naver.com/v/38721675</guid>
+            <pubDate>Fri, 04 Aug 2023 10:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[8:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_269/yEdVV_1691125641091ByKYd_JPEG/e2dfd5e0-3270-11ee-b928-a0369ffdb5e4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소찬휘_현명한 선택 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/38472321</link>
             <guid>https://tv.naver.com/v/38472321</guid>
@@ -2350,46 +2390,6 @@
             <pubDate>Fri, 14 Jul 2023 09:16:51 GMT</pubDate>
             <content:encoded><![CDATA[4:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230714_114/fRcDt_1689314531204u1dqT_JPEG/2a275e5d-21ee-11ee-9ba4-a0369ffb3258_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전인권_그것만이 내 세상 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38040576</link>
-            <guid>https://tv.naver.com/v/38040576</guid>
-            <pubDate>Fri, 14 Jul 2023 09:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[6:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_70/GdlMa_16893145273084jM0l_JPEG/6990e39c-21ee-11ee-968b-80615f0bccec_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전인권_Imagine (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38040569</link>
-            <guid>https://tv.naver.com/v/38040569</guid>
-            <pubDate>Fri, 14 Jul 2023 09:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_165/I1K8O_1689314521622xMBto_JPEG/b31d5175-21ee-11ee-9416-48df379cca40_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노라조-일개미 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37783049</link>
-            <guid>https://tv.naver.com/v/37783049</guid>
-            <pubDate>Fri, 07 Jul 2023 10:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[4:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_94/l0CDL_1688710458707G7qHY_JPEG/424c0996-1c68-11ee-9b58-48df379cca40_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아프리카_나나나 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37783042</link>
-            <guid>https://tv.naver.com/v/37783042</guid>
-            <pubDate>Fri, 07 Jul 2023 10:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[5:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_217/g0TBQ_1688710454475Fwlq6_JPEG/78b2bc52-1c68-11ee-a275-48df37e2c202_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아프리카_나만의 그대 모습 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37783038</link>
-            <guid>https://tv.naver.com/v/37783038</guid>
-            <pubDate>Fri, 07 Jul 2023 10:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[4:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_275/2z2Aw_1688710448789PAxPK_JPEG/d2df4ce8-1c68-11ee-a275-48df37e2c202_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
