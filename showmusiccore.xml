@@ -4,9 +4,49 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Aug 2023 11:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 12:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] TREASURE YOSHI - BONA BONA(트레저 요시 - 보나 보나) Close-up Cam | Show! MusicCore | MBC230805방송]]></title>
+            <link>https://tv.naver.com/v/38758535</link>
+            <guid>https://tv.naver.com/v/38758535</guid>
+            <pubDate>Sat, 05 Aug 2023 12:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[4:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230805_200/wxkFn_1691235391519u3MKT_JPEG/clip_20230805184712_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TREASURE HARUTO - BONA BONA(트레저 하루토 - 보나 보나) FanCam | Show! MusicCore | MBC230805방송]]></title>
+            <link>https://tv.naver.com/v/38758435</link>
+            <guid>https://tv.naver.com/v/38758435</guid>
+            <pubDate>Sat, 05 Aug 2023 12:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230805_194/HOx3a_1691235089277bsamF_JPEG/clip_20230805184605_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] TREASURE ASAHI - BONA BONA(트레저 아사히 - 보나 보나) Close-up Cam | Show! MusicCore | MBC230805방송]]></title>
+            <link>https://tv.naver.com/v/38758321</link>
+            <guid>https://tv.naver.com/v/38758321</guid>
+            <pubDate>Sat, 05 Aug 2023 12:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230805_179/Ojeoe_1691234791558MLe2h_JPEG/clip_20230805184721_29.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TREASURE DOYOUNG - BONA BONA(트레저 도영 - 보나 보나) FanCam | Show! MusicCore | MBC230805방송]]></title>
+            <link>https://tv.naver.com/v/38758203</link>
+            <guid>https://tv.naver.com/v/38758203</guid>
+            <pubDate>Sat, 05 Aug 2023 12:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230805_256/wHX13_1691234488343aomUH_JPEG/clip_20230805184557_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TREASURE YOON JAE HYUK - BONA BONA(트레저 윤재혁 - 보나 보나) FanCam | Show! MusicCore | MBC230805방송]]></title>
+            <link>https://tv.naver.com/v/38758012</link>
+            <guid>https://tv.naver.com/v/38758012</guid>
+            <pubDate>Sat, 05 Aug 2023 12:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230805_194/jnYRZ_1691233889408wQc3C_JPEG/clip_20230805184544_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] TREASURE CHOI HYUN SUK - BONA BONA(트레저 최현석 - 보나 보나) FanCam | Show! MusicCore | MBC230805방송]]></title>
             <link>https://tv.naver.com/v/38757898</link>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 01 Aug 2023 02:35:46 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230801_6/qXLd9_1690854392727bSzDq_JPEG/clip_20230801101126_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM JISUNG – ISTJ(엔시티 드림 지성 - 아이에스티제이) FanCam | Show! MusicCore | MBC230729방송]]></title>
-            <link>https://tv.naver.com/v/38600948</link>
-            <guid>https://tv.naver.com/v/38600948</guid>
-            <pubDate>Tue, 01 Aug 2023 02:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_200/Z4GFf_1690854391490jHa6q_JPEG/clip_20230801101123_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM JENO – ISTJ(엔시티 드림 제노 - 아이에스티제이) FanCam | Show! MusicCore | MBC230729방송]]></title>
-            <link>https://tv.naver.com/v/38600947</link>
-            <guid>https://tv.naver.com/v/38600947</guid>
-            <pubDate>Tue, 01 Aug 2023 02:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_6/Ei07q_16908543903547bNxT_JPEG/clip_20230801101121_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM CHENLE – ISTJ(엔시티 드림 천러 - 아이에스티제이) FanCam | Show! MusicCore | MBC230729방송]]></title>
-            <link>https://tv.naver.com/v/38600762</link>
-            <guid>https://tv.naver.com/v/38600762</guid>
-            <pubDate>Tue, 01 Aug 2023 02:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_107/CrXTq_1690854090328VtRga_JPEG/clip_20230801101125_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] NCT DREAM RENJUN - ISTJ(엔시티 드림 런쥔 - 아이에스티제이) Close-up Cam | Show! MusicCore | MBC230729방송]]></title>
-            <link>https://tv.naver.com/v/38600603</link>
-            <guid>https://tv.naver.com/v/38600603</guid>
-            <pubDate>Tue, 01 Aug 2023 02:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_223/lra22_1690853794062SUp7P_JPEG/clip_20230801101151_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT DREAM JAEMIN – ISTJ(엔시티 드림 재민 - 아이에스티제이) FanCam | Show! MusicCore | MBC230729방송]]></title>
-            <link>https://tv.naver.com/v/38600602</link>
-            <guid>https://tv.naver.com/v/38600602</guid>
-            <pubDate>Tue, 01 Aug 2023 02:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_142/K7cVE_1690853792547PXusS_JPEG/clip_20230801101120_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
