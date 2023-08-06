@@ -4,9 +4,49 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 08:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2023 09:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[INFINITE - New Emotions | SBS 230806 방송]]></title>
+            <link>https://tv.naver.com/v/38776533</link>
+            <guid>https://tv.naver.com/v/38776533</guid>
+            <pubDate>Sun, 06 Aug 2023 09:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230806_93/4smL1_1691311591587ONP3k_JPEG/2ab36b97-7993-42fe-8b8b-28a87a1924a5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셔누X형원 - Love Me A Little | SBS 230806 방송]]></title>
+            <link>https://tv.naver.com/v/38776532</link>
+            <guid>https://tv.naver.com/v/38776532</guid>
+            <pubDate>Sun, 06 Aug 2023 09:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230806_252/dsd1G_1691311589726wFLTB_JPEG/d37d16ac-0d8e-4cbe-8e08-d3e618a8b541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오마이걸 - 여름이 들려(Summer Comes) | SBS 230806 방송]]></title>
+            <link>https://tv.naver.com/v/38776254</link>
+            <guid>https://tv.naver.com/v/38776254</guid>
+            <pubDate>Sun, 06 Aug 2023 09:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230806_231/vc6KL_1691310997269r0MSg_JPEG/348eeb62-4cc4-4c2a-a986-cb4b7923234c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ITZY - CAKE | SBS 230806 방송]]></title>
+            <link>https://tv.naver.com/v/38776125</link>
+            <guid>https://tv.naver.com/v/38776125</guid>
+            <pubDate>Sun, 06 Aug 2023 09:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230806_289/EpzMk_1691310692676F0GYl_JPEG/e777ca4f-7ec0-41e4-b1b3-3ccff9dff06e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마마무+ - 댕댕(dangdang) | SBS 230806 방송]]></title>
+            <link>https://tv.naver.com/v/38775966</link>
+            <guid>https://tv.naver.com/v/38775966</guid>
+            <pubDate>Sun, 06 Aug 2023 09:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230806_185/KOT1M_1691310389170jwidc_JPEG/4f6c528f-9a2f-43e4-b9c8-00254689aa94.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소유(SOYOU) - ALOHA(feat. 보라) | SBS 230806 방송]]></title>
             <link>https://tv.naver.com/v/38775563</link>
@@ -206,46 +246,6 @@
             <pubDate>Sun, 30 Jul 2023 08:15:09 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230730_82/bJPxo_1690706190336nJCo8_JPEG/4475917b-8fcb-4c06-91e6-8259df080722.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KISS OF LIFE - 쉿(Shhh)  | SBS 230730 방송]]></title>
-            <link>https://tv.naver.com/v/38548598</link>
-            <guid>https://tv.naver.com/v/38548598</guid>
-            <pubDate>Sun, 30 Jul 2023 08:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_220/7dvuN_1690701389904FwnYm_JPEG/860d493e-5b4d-40c8-8944-57588beda42e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM - ISTJ | SBS 230723 방송]]></title>
-            <link>https://tv.naver.com/v/38330169</link>
-            <guid>https://tv.naver.com/v/38330169</guid>
-            <pubDate>Sun, 23 Jul 2023 08:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_116/iCxNK_1690099590646jhvGB_JPEG/3908a2a5-d9f2-40af-9696-4edcaa105f88.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스(NewJeans) - Cool With You | SBS 230723 방송]]></title>
-            <link>https://tv.naver.com/v/38330083</link>
-            <guid>https://tv.naver.com/v/38330083</guid>
-            <pubDate>Sun, 23 Jul 2023 08:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_204/CqQHd_16900992934374G9MM_JPEG/3b580066-6911-4c43-8377-a4caaa0cb465.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스(NewJeans) - ETA | SBS 230723 방송]]></title>
-            <link>https://tv.naver.com/v/38329996</link>
-            <guid>https://tv.naver.com/v/38329996</guid>
-            <pubDate>Sun, 23 Jul 2023 08:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_185/ZVuuC_1690099050645B8NAV_JPEG/34298542-7b48-45c1-b788-a9357488311f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NMIXX - Party O'Clock | SBS 230723 방송]]></title>
-            <link>https://tv.naver.com/v/38329900</link>
-            <guid>https://tv.naver.com/v/38329900</guid>
-            <pubDate>Sun, 23 Jul 2023 08:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_210/g3wHL_1690115250052B9sXD_JPEG/0673c060-43a9-425c-b440-9a0b270bdffc.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
