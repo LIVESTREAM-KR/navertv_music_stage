@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 07:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 08:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ITZY YEJI - CAKE(있지 예지 - 케이크) Close-up Cam | Show! MusicCore | MBC230805방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38805803</link>
+            <guid>https://tv.naver.com/v/38805803</guid>
+            <pubDate>Mon, 07 Aug 2023 08:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230807_32/4L6nS_16913931891782b7oh_JPEG/clip_20230807160237_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ITZY RYUJIN - CAKE(있지 류진 - 케이크) Close-up Cam | Show! MusicCore | MBC230805방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38805589</link>
+            <guid>https://tv.naver.com/v/38805589</guid>
+            <pubDate>Mon, 07 Aug 2023 08:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230807_165/KWXFn_1691392893303M9Vwx_JPEG/clip_20230807160255_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] INFINITE NAM WOO HYUN - New Emotions(인피니트 남우현 -뉴 이모션스) Close-up Cam | Show! MusicCore | MBC (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 05 Aug 2023 12:23:23 GMT</pubDate>
             <content:encoded><![CDATA[4:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230805_179/Ojeoe_1691234791558MLe2h_JPEG/clip_20230805184721_29.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TREASURE DOYOUNG - BONA BONA(트레저 도영 - 보나 보나) FanCam | Show! MusicCore | MBC230805방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38758203</link>
-            <guid>https://tv.naver.com/v/38758203</guid>
-            <pubDate>Sat, 05 Aug 2023 12:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230805_256/wHX13_1691234488343aomUH_JPEG/clip_20230805184557_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TREASURE YOON JAE HYUK - BONA BONA(트레저 윤재혁 - 보나 보나) FanCam | Show! MusicCore | MBC230805방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38758012</link>
-            <guid>https://tv.naver.com/v/38758012</guid>
-            <pubDate>Sat, 05 Aug 2023 12:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230805_194/jnYRZ_1691233889408wQc3C_JPEG/clip_20230805184544_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY - None of My Business | SBS 230806 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
