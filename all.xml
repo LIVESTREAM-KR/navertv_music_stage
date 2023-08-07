@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 05:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 06:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] INFINITE NAM WOO HYUN - New Emotions(인피니트 남우현 -뉴 이모션스) Close-up Cam | Show! MusicCore | MBC (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38801584</link>
+            <guid>https://tv.naver.com/v/38801584</guid>
+            <pubDate>Mon, 07 Aug 2023 06:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230807_134/xGPrE_16913869519929BrY0_JPEG/clip_20230807141100_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] INFINITE L - New Emotions(인피니트 엘 - 뉴 이모션스) Close-up Cam | Show! MusicCore | MBC230805방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38801549</link>
+            <guid>https://tv.naver.com/v/38801549</guid>
+            <pubDate>Mon, 07 Aug 2023 06:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230807_254/Gisug_1691386889034vhDWa_JPEG/clip_20230807141052_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] OH MY GIRL - Summer Comes(오마이걸 – 여름이 들려) FanCam | Show! MusicCore | MBC230805방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 05 Aug 2023 12:23:23 GMT</pubDate>
             <content:encoded><![CDATA[4:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230805_194/jnYRZ_1691233889408wQc3C_JPEG/clip_20230805184544_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TREASURE CHOI HYUN SUK - BONA BONA(트레저 최현석 - 보나 보나) FanCam | Show! MusicCore | MBC230805방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38757898</link>
-            <guid>https://tv.naver.com/v/38757898</guid>
-            <pubDate>Sat, 05 Aug 2023 11:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230805_133/a93OW_1691233590526YDL4g_JPEG/clip_20230805184532_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TREASURE SO JUNG HWAN - BONA BONA(트레저 소정환 - 보나 보나) FanCam | Show! MusicCore | MBC230805방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38757822</link>
-            <guid>https://tv.naver.com/v/38757822</guid>
-            <pubDate>Sat, 05 Aug 2023 11:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230805_119/ApWQQ_1691233289851Goozj_JPEG/clip_20230805184613_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY - None of My Business | SBS 230806 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
