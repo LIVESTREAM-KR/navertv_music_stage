@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 08:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 09:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ITZY YUNA - None of My Buisness(있지 유나 - 논 오브 마이 비즈니스) Close-upCam|Show!MusicCore|MBC230805방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38808145</link>
+            <guid>https://tv.naver.com/v/38808145</guid>
+            <pubDate>Mon, 07 Aug 2023 09:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230807_32/iwk7C_1691396490193CPg41_JPEG/clip_20230807165510_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] ITZY YEJI - CAKE(있지 예지 - 케이크) Close-up Cam | Show! MusicCore | MBC230805방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 05 Aug 2023 12:23:23 GMT</pubDate>
             <content:encoded><![CDATA[4:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230805_194/HOx3a_1691235089277bsamF_JPEG/clip_20230805184605_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] TREASURE ASAHI - BONA BONA(트레저 아사히 - 보나 보나) Close-up Cam | Show! MusicCore | MBC230805방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38758321</link>
-            <guid>https://tv.naver.com/v/38758321</guid>
-            <pubDate>Sat, 05 Aug 2023 12:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230805_179/Ojeoe_1691234791558MLe2h_JPEG/clip_20230805184721_29.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY - None of My Business | SBS 230806 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 화려한 Flash 아래 신나는 쇼챔! 이번 주도 ONE MORE TIME (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38808151</link>
+            <guid>https://tv.naver.com/v/38808151</guid>
+            <pubDate>Mon, 07 Aug 2023 09:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230807_132/aY9Fq_1691396495055GhfHx_JPEG/CA202308090004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[8월 1주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.486 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/38675378</link>
             <guid>https://tv.naver.com/v/38675378</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 02 Aug 2023 13:17:34 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230802_109/3IyjZ_16909585521329e0sI_JPEG/CA202308020035.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 원픽캠 4K] KISS OF LIFE (키스오브라이프) - Sugarcoat (NATTY Solo) | Show Champion | EP.486 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38646212</link>
-            <guid>https://tv.naver.com/v/38646212</guid>
-            <pubDate>Wed, 02 Aug 2023 13:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_110/pUucd_1690954590852nn3XU_JPEG/CA202308020033.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>

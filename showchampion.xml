@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 08:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 09:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 화려한 Flash 아래 신나는 쇼챔! 이번 주도 ONE MORE TIME]]></title>
+            <link>https://tv.naver.com/v/38808151</link>
+            <guid>https://tv.naver.com/v/38808151</guid>
+            <pubDate>Mon, 07 Aug 2023 09:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230807_132/aY9Fq_1691396495055GhfHx_JPEG/CA202308090004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[8월 1주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.486]]></title>
             <link>https://tv.naver.com/v/38675378</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 02 Aug 2023 13:17:34 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230802_109/3IyjZ_16909585521329e0sI_JPEG/CA202308020035.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 원픽캠 4K] KISS OF LIFE (키스오브라이프) - Sugarcoat (NATTY Solo) | Show Champion | EP.486]]></title>
-            <link>https://tv.naver.com/v/38646212</link>
-            <guid>https://tv.naver.com/v/38646212</guid>
-            <pubDate>Wed, 02 Aug 2023 13:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_110/pUucd_1690954590852nn3XU_JPEG/CA202308020033.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
