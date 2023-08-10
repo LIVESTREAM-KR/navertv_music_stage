@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 07:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 08:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] The Wind - Summer vacation (더윈드 - 여름방학) | Show Champion | EP.487 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38890830</link>
+            <guid>https://tv.naver.com/v/38890830</guid>
+            <pubDate>Thu, 10 Aug 2023 08:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_282/CfWt4_16915794908755oGT4_JPEG/CA202308090088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] HORI7ON - SIX7EEN (호라이즌 - 식스틴) | Show Champion | EP.487 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38890643</link>
+            <guid>https://tv.naver.com/v/38890643</guid>
+            <pubDate>Thu, 10 Aug 2023 08:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_123/Wr1rF_1691579192233baNy7_JPEG/CA202308090086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] xikers - Koong (싸이커스 - 쿵) | Show Champion | EP.487 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38890466</link>
+            <guid>https://tv.naver.com/v/38890466</guid>
+            <pubDate>Thu, 10 Aug 2023 08:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_189/DIQjr_1691578888914V3TwR_JPEG/CA202308090087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] TAN SUNGHYUK - HEARTBEAT (티에이엔 성혁 - 하트비트) | Show Champion | EP.487 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/38885901</link>
             <guid>https://tv.naver.com/v/38885901</guid>
@@ -1430,30 +1454,6 @@
             <pubDate>Wed, 09 Aug 2023 13:19:08 GMT</pubDate>
             <content:encoded><![CDATA[3:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_185/kjx28_1691549190003vXy7S_JPEG/CA202308090028.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] xikers - DO or DIE (싸이커스 - 두 오어 다이) l Show Champion l EP.487 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38868727</link>
-            <guid>https://tv.naver.com/v/38868727</guid>
-            <pubDate>Wed, 09 Aug 2023 13:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_59/9t9pP_1691548952947SCOs8_JPEG/CA202308090026.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 에세이] ＜최초공개＞ 후이 & 우석(HUI&WOOSEOK(PENTAGON)) - OASIS (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38889713</link>
-            <guid>https://tv.naver.com/v/38889713</guid>
-            <pubDate>Wed, 09 Aug 2023 11:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[8:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_168/c4KjJ_1691577689159QbqFV_JPEG/CA202308090084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] 권은비(KWON EUNBI) - The Flash (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38888644</link>
-            <guid>https://tv.naver.com/v/38888644</guid>
-            <pubDate>Wed, 09 Aug 2023 10:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_212/Z3xOI_1691575952913dcLTI_JPEG/CA202308090083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
