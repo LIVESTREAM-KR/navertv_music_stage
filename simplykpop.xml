@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 04:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 05:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] EP.581 MIRAE(미래소년),  KISS OF LIFE(키스오브라이프),  HORI7ON, ARTBEAT v, Yoon Seob]]></title>
+            <link>https://tv.naver.com/v/38926594</link>
+            <guid>https://tv.naver.com/v/38926594</guid>
+            <pubDate>Fri, 11 Aug 2023 05:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[49:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_269/40cja_16916544545534RV2B_JPEG/1691653657212.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Simply K Pop CON TOUR] EP.580 - MIRAE(미래소년), HORI7ON(호라이즌), KISS OF LIFE(키스오브라이프), ICHILL]]></title>
             <link>https://tv.naver.com/v/38689397</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
             <content:encoded><![CDATA[55:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230504_153/mR0yh_1683188972201eBFqh_JPEG/1683188283463.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.566 - ALICE(앨리스), YEEUN(예은), The Abbagirls(아바걸스), TEMPEST(템페스트), GI]]></title>
-            <link>https://tv.naver.com/v/35407034</link>
-            <guid>https://tv.naver.com/v/35407034</guid>
-            <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[54:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230428_52/wuOfz_1682646143841ggsOK_JPEG/1682644985759.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
