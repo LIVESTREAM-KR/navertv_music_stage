@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 04:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 05:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2032,6 +2032,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] EP.582 KISS OF LIFE(키스오브라이프),  YGIG, ARTBEAT v(아트비트브이), ILY:1(아일 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39161402</link>
+            <guid>https://tv.naver.com/v/39161402</guid>
+            <pubDate>Fri, 18 Aug 2023 05:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[51:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_87/Fv1fU_1692258073214TwUp8_JPEG/1692257413924.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] EP.581 MIRAE(미래소년),  KISS OF LIFE(키스오브라이프),  HORI7ON, ARTBEAT v, Yoon Seob (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/38926594</link>
             <guid>https://tv.naver.com/v/38926594</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Fri, 12 May 2023 05:14:20 GMT</pubDate>
             <content:encoded><![CDATA[51:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230511_201/WJoAK_1683795242927lpYvx_JPEG/1683794773913.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.567 - DRIPPIN(드리핀), EPEX(이펙스), TEMPEST(템페스트), ALICE(앨리스) (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35606419</link>
-            <guid>https://tv.naver.com/v/35606419</guid>
-            <pubDate>Mon, 08 May 2023 14:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[55:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_153/mR0yh_1683188972201eBFqh_JPEG/1683188283463.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[육중완밴드_퇴근하겠습니다 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
