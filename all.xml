@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 09:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 10:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2176,6 +2176,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_64/HUXeM_16923344364588GHWp_JPEG/72bb7f99-3d81-11ee-bae1-505dac8c38f5_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[짙은_Feel Alright (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39196895</link>
+            <guid>https://tv.naver.com/v/39196895</guid>
+            <pubDate>Fri, 18 Aug 2023 10:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_250/BGhAB_1692334430935e7p8W_JPEG/5e332714-3d81-11ee-b7d3-a0369ffac6ac_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[짙은_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39196891</link>
+            <guid>https://tv.naver.com/v/39196891</guid>
+            <pubDate>Fri, 18 Aug 2023 10:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[9:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_197/4RP8O_1692334425587uDpHI_JPEG/1611e1c5-3d81-11ee-9a63-a0369ffdb4b0_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[짙은_여름밤 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39196888</link>
+            <guid>https://tv.naver.com/v/39196888</guid>
+            <pubDate>Fri, 18 Aug 2023 10:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_32/a6w14_1692334420125qjBQP_JPEG/fb5eb477-3d80-11ee-9125-d4f5ef590144_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[짙은_잘 지내자, 우리 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39196879</link>
+            <guid>https://tv.naver.com/v/39196879</guid>
+            <pubDate>Fri, 18 Aug 2023 10:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_52/9VXRZ_1692334413593BJF1Q_JPEG/dbb8bee6-3d80-11ee-bae1-505dac8c38f5_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[짙은_백야 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39196874</link>
+            <guid>https://tv.naver.com/v/39196874</guid>
+            <pubDate>Fri, 18 Aug 2023 10:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[5:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_283/9Urp6_16923344060839AjtY_JPEG/bb03ca2f-3d80-11ee-9deb-a0369ffdb398_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[육중완밴드_퇴근하겠습니다 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/38956483</link>
             <guid>https://tv.naver.com/v/38956483</guid>
@@ -2350,46 +2390,6 @@
             <pubDate>Fri, 28 Jul 2023 10:15:20 GMT</pubDate>
             <content:encoded><![CDATA[3:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230727_220/iTVlb_1690443875427SFbzn_JPEG/716f8891-2c4e-11ee-8f45-80615f0c465c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현정_ 멍 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38472305</link>
-            <guid>https://tv.naver.com/v/38472305</guid>
-            <pubDate>Fri, 28 Jul 2023 09:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_219/W3mbL_16904438698010ONus_JPEG/926ca994-2c4e-11ee-8382-505dacfbaa5c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현정_ 되돌아온 이별 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38472296</link>
-            <guid>https://tv.naver.com/v/38472296</guid>
-            <pubDate>Fri, 28 Jul 2023 09:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_248/om2Ks_1690443857231vou6m_JPEG/c270889f-2c4e-11ee-8f91-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현정_ 인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38472292</link>
-            <guid>https://tv.naver.com/v/38472292</guid>
-            <pubDate>Fri, 28 Jul 2023 09:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[5:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_202/ebcWC_1690443849121SxME2_JPEG/f52ca8cd-2c4e-11ee-8bd9-505dac8c3607_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현정_ 그녀와의 이별 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38472287</link>
-            <guid>https://tv.naver.com/v/38472287</guid>
-            <pubDate>Fri, 28 Jul 2023 09:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_106/FzS9M_169044384101345tGx_JPEG/41b567eb-2c4f-11ee-8f45-80615f0c465c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[V.O.S_Beautiful life (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38271296</link>
-            <guid>https://tv.naver.com/v/38271296</guid>
-            <pubDate>Fri, 21 Jul 2023 10:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_179/Bsqdj_1689905122307yIuq6_JPEG/e88be13b-2767-11ee-b5ae-a0369ff85ee0_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
