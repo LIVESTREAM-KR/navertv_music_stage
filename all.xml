@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 08:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 09:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2152,6 +2152,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230511_201/WJoAK_1683795242927lpYvx_JPEG/1683794773913.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유별_모르는 편이 나을텐데요 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39196917</link>
+            <guid>https://tv.naver.com/v/39196917</guid>
+            <pubDate>Fri, 18 Aug 2023 09:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_181/KNHMU_1692334453340BaDfG_JPEG/bd83a20c-3d81-11ee-85bd-a0369ffdab2c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유별_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39196904</link>
+            <guid>https://tv.naver.com/v/39196904</guid>
+            <pubDate>Fri, 18 Aug 2023 09:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[9:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_189/PINQc_1692334445050zfBuh_JPEG/8957c48b-3d81-11ee-bd18-a0369ffab468_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유별_책갈피 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39196900</link>
+            <guid>https://tv.naver.com/v/39196900</guid>
+            <pubDate>Fri, 18 Aug 2023 09:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_64/HUXeM_16923344364588GHWp_JPEG/72bb7f99-3d81-11ee-bae1-505dac8c38f5_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[육중완밴드_퇴근하겠습니다 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/38956483</link>
             <guid>https://tv.naver.com/v/38956483</guid>
@@ -2366,30 +2390,6 @@
             <pubDate>Fri, 21 Jul 2023 10:15:59 GMT</pubDate>
             <content:encoded><![CDATA[3:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230721_179/Bsqdj_1689905122307yIuq6_JPEG/e88be13b-2767-11ee-b5ae-a0369ff85ee0_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[V.O.S_안녕이라고 말하지마 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38271289</link>
-            <guid>https://tv.naver.com/v/38271289</guid>
-            <pubDate>Fri, 21 Jul 2023 10:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_116/oWsVd_1689905109040v2arC_JPEG/10537127-2768-11ee-ab5a-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[V.O.S_다시 만날까 봐 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38271286</link>
-            <guid>https://tv.naver.com/v/38271286</guid>
-            <pubDate>Fri, 21 Jul 2023 10:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_87/tCHU2_168990510523251Ggg_JPEG/44de1107-2768-11ee-a107-a0369ffddda8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[V.O.S _ Hit Song Medley (눈을 보고 말해요+ 매일매일+보고 싶은 날엔) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38271284</link>
-            <guid>https://tv.naver.com/v/38271284</guid>
-            <pubDate>Fri, 21 Jul 2023 10:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_121/eTYiT_16899051003705H84u_JPEG/644e0220-2768-11ee-b7d3-a0369ffac6ac_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
