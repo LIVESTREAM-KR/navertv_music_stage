@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 08:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 09:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230805_194/HOx3a_1691235089277bsamF_JPEG/clip_20230805184605_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유노윤호(U-KNOW) - Vuja De | SBS 230820 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39257806</link>
+            <guid>https://tv.naver.com/v/39257806</guid>
+            <pubDate>Sun, 20 Aug 2023 09:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_259/YOcbT_16925206078064rNcs_JPEG/3fc23104-d7d0-47fc-95c5-99eb79650620.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유노윤호(U-KNOW) - Spotlight | SBS 230820 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39257646</link>
+            <guid>https://tv.naver.com/v/39257646</guid>
+            <pubDate>Sun, 20 Aug 2023 09:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_285/JB5FB_1692520289354nmUoS_JPEG/4d6c6528-7aa7-48db-9c0b-bb469b49902d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지효(TWICE) - Killin’ Me Good | SBS 230820 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39257549</link>
+            <guid>https://tv.naver.com/v/39257549</guid>
+            <pubDate>Sun, 20 Aug 2023 09:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_133/Q9RNG_1692520053854GaF9q_JPEG/90dadfe7-1409-40bd-be53-312dce00124d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지효(TWICE) - Closer | SBS 230820 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39257383</link>
+            <guid>https://tv.naver.com/v/39257383</guid>
+            <pubDate>Sun, 20 Aug 2023 09:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_283/zOeLr_16925196903884zaCW_JPEG/4b6b9525-10f6-4647-8806-592e560eb955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전소미 - Fast Forward | SBS 230820 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39257381</link>
+            <guid>https://tv.naver.com/v/39257381</guid>
+            <pubDate>Sun, 20 Aug 2023 09:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_282/Q1kJu_1692520603357Q2NGu_JPEG/b60a0800-4d4d-4d74-9d8d-d9761eccea53.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더보이즈(THE BOYZ) - LIP GLOSS  | SBS 230820 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/39257135</link>
             <guid>https://tv.naver.com/v/39257135</guid>
@@ -320,12 +360,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230820_219/AcILu_1692517289741JUmBv_JPEG/04155cae-325f-4d89-872a-a2611794a7be.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[프림로즈 - LAAFFY TAFFY | SBS 230820 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <title><![CDATA[프림로즈 - LAFFY TAFFY | SBS 230820 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/39256268</link>
             <guid>https://tv.naver.com/v/39256268</guid>
             <pubDate>Sun, 20 Aug 2023 08:14:53 GMT</pubDate>
             <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_160/o7ED3_1692516990619t7DCn_JPEG/4b892590-481f-4bc8-b034-c5d849c39828.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_75/iRySr_1692520604869CHvqQ_JPEG/604b99b3-9fdf-43dd-baec-20d0e2f81413.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BXB(비엑스비) - Planet | SBS 230820 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -454,46 +494,6 @@
             <pubDate>Sun, 13 Aug 2023 08:14:27 GMT</pubDate>
             <content:encoded><![CDATA[3:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230813_297/6rr90_1691913091375QzMR9_JPEG/12c28783-7c56-4e7b-996f-c85a7f632ed0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[n.SSign(엔싸인) - Higher | SBS 230813 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39019736</link>
-            <guid>https://tv.naver.com/v/39019736</guid>
-            <pubDate>Sun, 13 Aug 2023 08:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_240/kvr3w_1691912549923bGSCs_JPEG/3b247460-bad3-4d27-9334-3aba7e6026fa.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더윈드(The Wind) - WE GO | SBS 230813 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39019572</link>
-            <guid>https://tv.naver.com/v/39019572</guid>
-            <pubDate>Sun, 13 Aug 2023 08:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_41/ZzkKg_1691912190488MMRti_JPEG/17fa8780-c6af-4f02-b900-9f30cd14b29f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐어스(SEVENUS) - Wonder Land | SBS 230813 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39019262</link>
-            <guid>https://tv.naver.com/v/39019262</guid>
-            <pubDate>Sun, 13 Aug 2023 08:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_27/kdFB0_16919184892564mMVq_JPEG/48b42b4a-ccf5-4172-b270-7673f7eba6e6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAN - Heartbeat | SBS 230813 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39019261</link>
-            <guid>https://tv.naver.com/v/39019261</guid>
-            <pubDate>Sun, 13 Aug 2023 08:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_146/xmYPB_1691911592443y6NwQ_JPEG/a5b9d678-910e-474d-b82a-d1fd6b38f83d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TMC(티엠씨) - Color | SBS 230813 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39018874</link>
-            <guid>https://tv.naver.com/v/39018874</guid>
-            <pubDate>Sun, 13 Aug 2023 08:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_143/pzT6k_1691910690359q8ya2_JPEG/58e539a8-c06c-477c-9fc8-c542d182fe2b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
