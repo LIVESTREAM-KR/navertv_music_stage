@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 19:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 20:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[STAGE MIX🪄] SHOWNU X HYUNGWON – Love Me A Little(셔누X형원 - 러브 미 어 리틀) | Show! Music Core (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39287435</link>
-            <guid>https://tv.naver.com/v/39287435</guid>
-            <pubDate>Fri, 25 Aug 2023 07:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230821_33/WHqYf_1692598353532kGIAN_JPEG/clip_20230821145719_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] ITZY YUNA - None of My Buisness(있지 유나 - 논 오브 마이 비즈니스) Close-upCam|Show!MusicCore|MBC230805방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -254,6 +246,14 @@
             <pubDate>Sat, 05 Aug 2023 12:23:23 GMT</pubDate>
             <content:encoded><![CDATA[4:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230805_200/wxkFn_1691235391519u3MKT_JPEG/clip_20230805184712_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TREASURE HARUTO - BONA BONA(트레저 하루토 - 보나 보나) FanCam | Show! MusicCore | MBC230805방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/38758435</link>
+            <guid>https://tv.naver.com/v/38758435</guid>
+            <pubDate>Fri, 25 Aug 2023 20:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230805_194/HOx3a_1691235089277bsamF_JPEG/clip_20230805184605_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유노윤호(U-KNOW) - Vuja De | SBS 230820 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
