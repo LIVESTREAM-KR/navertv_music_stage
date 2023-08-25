@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 04:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 05:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2032,6 +2032,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] EP.583 DKB(다크비),  SEVENUS(세븐어스), n.SSign(엔싸인), bbongsa, tripleS LOVElution (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39416122</link>
+            <guid>https://tv.naver.com/v/39416122</guid>
+            <pubDate>Fri, 25 Aug 2023 05:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[55:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230824_259/nqZnS_1692860876762bqnk3_JPEG/1692860423946.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] EP.582 KISS OF LIFE(키스오브라이프),  YGIG, ARTBEAT v(아트비트브이), ILY:1(아일 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/39161402</link>
             <guid>https://tv.naver.com/v/39161402</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Fri, 19 May 2023 06:19:32 GMT</pubDate>
             <content:encoded><![CDATA[53:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230519_24/JXn0Y_1684473318126ARmCP_JPEG/1684472350531.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.568 - EPEX(이펙스), DRIPPIN(드리핀), TEMPEST(템페스트), ALICE(앨리스) (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/35829564</link>
-            <guid>https://tv.naver.com/v/35829564</guid>
-            <pubDate>Fri, 12 May 2023 05:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[51:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_201/WJoAK_1683795242927lpYvx_JPEG/1683794773913.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유별_모르는 편이 나을텐데요 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
