@@ -4,7 +4,7 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 11:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 12:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230826_115/KrYUh_16930446902108UVXk_JPEG/clip_20230826182452_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] BABYZOO – Fast Forward(베이비주 - 패스트 포워드) FanCam | Show! MusicCore | MBC230826방송]]></title>
+            <link>https://tv.naver.com/v/39495664</link>
+            <guid>https://tv.naver.com/v/39495664</guid>
+            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_116/Xqy3C_1693044398607Qqr2Y_JPEG/clip_20230826182907_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] xikers - HOMEBOY(싸이커스 – 홈보이) FanCam | Show! MusicCore | MBC230826방송]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
             <content:encoded><![CDATA[4:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230826_13/hpI4A_1693044400093RWOVA_JPEG/clip_20230826182930_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] BABYZOO – Fast Forward(베이비주 - 패스트 포워드) FanCam | Show! MusicCore | MBC230826방송]]></title>
-            <link>https://tv.naver.com/v/39495664</link>
-            <guid>https://tv.naver.com/v/39495664</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_116/Xqy3C_1693044398607Qqr2Y_JPEG/clip_20230826182907_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] JEON SOMI - Fast Forward(전소미 – 패스트 포워드) FanCam (Horizontal Ver.) |Show!MusicCore|MBC230826방]]></title>
