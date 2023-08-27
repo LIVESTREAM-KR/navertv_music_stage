@@ -4,9 +4,121 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Aug 2023 07:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 08:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유노윤호(U-KNOW) - Vuja De | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39516122</link>
+            <guid>https://tv.naver.com/v/39516122</guid>
+            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_93/lZI3m_1693123893020HaaWd_JPEG/fd91b4cd-8d51-4241-ad28-d3fbd693211e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AKMU - Love Lee | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39516004</link>
+            <guid>https://tv.naver.com/v/39516004</guid>
+            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_153/L6i7b_16931235939657RFFc_JPEG/0709c15a-068a-4ecb-8742-7ba0329ff92c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[효연(HYO) - Picture | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39515862</link>
+            <guid>https://tv.naver.com/v/39515862</guid>
+            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_251/jJ2fS_1693123595843zDbuJ_JPEG/1855ba0f-0d72-4cc8-b494-086bc60fd5d4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지효(TWICE) - Killin’ Me Good | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39515765</link>
+            <guid>https://tv.naver.com/v/39515765</guid>
+            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_264/Z49No_1693123597057HABmc_JPEG/1a503020-01c3-4608-810e-0a341a12d579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전소미 - Fast Forward | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39515742</link>
+            <guid>https://tv.naver.com/v/39515742</guid>
+            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_37/MiyKP_1693123598530gFjs0_JPEG/ad33a412-83b5-43ff-854b-8aa64522ee44.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[THE BOYZ Special Unit - Passion Fruit | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39515627</link>
+            <guid>https://tv.naver.com/v/39515627</guid>
+            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_150/13oy6_1693122692232zdrJ7_JPEG/0bda83d2-e1ba-4610-ab8c-106ab9eda11f.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ITZY(있지) - CAKE | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39515440</link>
+            <guid>https://tv.naver.com/v/39515440</guid>
+            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_167/qH2SS_16931236172966jy4j_JPEG/821ba844-6424-46a9-8804-666abcab2604.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스(NewJeans) - ASAP | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39515439</link>
+            <guid>https://tv.naver.com/v/39515439</guid>
+            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_33/8xCoL_1693122154044C1eW3_JPEG/d904143f-87a5-4e78-91f9-4397de4fcda9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TREASURE(트레저) - BONA BONA | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39515413</link>
+            <guid>https://tv.naver.com/v/39515413</guid>
+            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_277/IIK0V_1693122089268rNczN_JPEG/2a1719c3-835f-4397-b25d-1039c87cc12d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STAYC(스테이씨) - Bubble | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39515294</link>
+            <guid>https://tv.naver.com/v/39515294</guid>
+            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_74/4EhlA_1693121792308dkNk8_JPEG/ae6f4249-dec0-415d-945b-58fdb985c39d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RIIZE(라이즈) - Memories | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39515092</link>
+            <guid>https://tv.naver.com/v/39515092</guid>
+            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_286/fXfU8_1693121250048RvFq8_JPEG/fc39b0ac-5fa5-41ed-ae77-49fbc6b4a394.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RIIZE(라이즈) - Siren | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39515071</link>
+            <guid>https://tv.naver.com/v/39515071</guid>
+            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_182/pEOVS_1693121192155K5vXw_JPEG/91ffce48-1bcb-4496-bb34-3ab56274c33c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EVERGLOW(에버글로우) - SLAY | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39515070</link>
+            <guid>https://tv.naver.com/v/39515070</guid>
+            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_294/6miAu_1693121190636r4VLA_JPEG/5e0affd4-7b97-478a-905a-fbbf8a1dc9c2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SECRET NUMBER(시크릿넘버) - STARLIGHT | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39514828</link>
+            <guid>https://tv.naver.com/v/39514828</guid>
+            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_144/IgcC3_1693120590738E2BTp_JPEG/0ecb814e-ec5e-4461-b7c9-a45a6cc4280d.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[XG(엑스지) - NEW DANCE | SBS 230827 방송]]></title>
             <link>https://tv.naver.com/v/39514711</link>
@@ -134,118 +246,6 @@
             <pubDate>Sun, 20 Aug 2023 08:14:53 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230820_165/rNgLv_1692517353428GApCx_JPEG/8616b2f8-5f5a-4e53-a5ac-ea4c04155588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더윈드(The Wind) - WE GO | SBS 230820 방송]]></title>
-            <link>https://tv.naver.com/v/39256405</link>
-            <guid>https://tv.naver.com/v/39256405</guid>
-            <pubDate>Sun, 20 Aug 2023 08:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_219/AcILu_1692517289741JUmBv_JPEG/04155cae-325f-4d89-872a-a2611794a7be.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프림로즈 - LAFFY TAFFY | SBS 230820 방송]]></title>
-            <link>https://tv.naver.com/v/39256268</link>
-            <guid>https://tv.naver.com/v/39256268</guid>
-            <pubDate>Sun, 20 Aug 2023 08:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_75/iRySr_1692520604869CHvqQ_JPEG/604b99b3-9fdf-43dd-baec-20d0e2f81413.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BXB(비엑스비) - Planet | SBS 230820 방송]]></title>
-            <link>https://tv.naver.com/v/39256145</link>
-            <guid>https://tv.naver.com/v/39256145</guid>
-            <pubDate>Sun, 20 Aug 2023 08:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_83/8Hdsv_1692516687719tm4UR_JPEG/558a82a5-ccaf-4355-a021-038220d21dfc.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tripleS LOVElution - Girls' Capitalism | SBS 230820 방송]]></title>
-            <link>https://tv.naver.com/v/39255900</link>
-            <guid>https://tv.naver.com/v/39255900</guid>
-            <pubDate>Sun, 20 Aug 2023 08:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_59/4pZXL_1692516093575yHuz7_JPEG/c8d3b1cf-5504-45ef-9696-3e5d9920c913.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐어스(SEVENUS) - Wonder Land | SBS 230820 방송]]></title>
-            <link>https://tv.naver.com/v/39255898</link>
-            <guid>https://tv.naver.com/v/39255898</guid>
-            <pubDate>Sun, 20 Aug 2023 08:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_113/QMBUD_1692516091560SrPH4_JPEG/8906bc97-22c5-447d-ad51-d1ca8da25791.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[XEED - BLUE | SBS 230820 방송]]></title>
-            <link>https://tv.naver.com/v/39255631</link>
-            <guid>https://tv.naver.com/v/39255631</guid>
-            <pubDate>Sun, 20 Aug 2023 08:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_95/GPtI9_1692515551369GgQmC_JPEG/bdb1a56f-83a5-4e1f-8dc5-b52407623354.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전소미 - Fast Forward | SBS 230813 방송]]></title>
-            <link>https://tv.naver.com/v/39022193</link>
-            <guid>https://tv.naver.com/v/39022193</guid>
-            <pubDate>Sun, 13 Aug 2023 09:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_124/Kj2mi_1691916995130nvwMP_JPEG/2ed40e7e-b7d4-460c-9eb5-4ce274f718e0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM - Yogurt Shake | SBS 230813 방송]]></title>
-            <link>https://tv.naver.com/v/39022019</link>
-            <guid>https://tv.naver.com/v/39022019</guid>
-            <pubDate>Sun, 13 Aug 2023 09:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_1/anWhR_1691916695584WmQ0W_JPEG/e33cbbc0-815d-45f4-b80a-bfe3821a1aa4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더보이즈(THE BOYZ) - LIP GLOSS | SBS 230813 방송]]></title>
-            <link>https://tv.naver.com/v/39021848</link>
-            <guid>https://tv.naver.com/v/39021848</guid>
-            <pubDate>Sun, 13 Aug 2023 09:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_293/IEtgF_1691916395544vyQf3_JPEG/4c024da2-f8c0-4e89-8ee0-703c970768b0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY - CAKE | SBS 230813 방송]]></title>
-            <link>https://tv.naver.com/v/39021665</link>
-            <guid>https://tv.naver.com/v/39021665</guid>
-            <pubDate>Sun, 13 Aug 2023 09:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_182/3V80m_16919160892994bTW2_JPEG/63e6cfc5-2c76-43a2-af93-538965689c8c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE(트레저) - BONA BONA | SBS 230813 방송]]></title>
-            <link>https://tv.naver.com/v/39021500</link>
-            <guid>https://tv.naver.com/v/39021500</guid>
-            <pubDate>Sun, 13 Aug 2023 09:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_109/A9n7H_1691915789566TKloE_JPEG/dad57a05-4f1d-4386-8def-9ca979987f49.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조유리 - TAXI | SBS 230813 방송]]></title>
-            <link>https://tv.naver.com/v/39021339</link>
-            <guid>https://tv.naver.com/v/39021339</guid>
-            <pubDate>Sun, 13 Aug 2023 09:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_154/UKVOH_1691915487888WRnHt_JPEG/b08a9aad-b9e3-49a3-8965-2a8497b091ca.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권은비 - The Flash | SBS 230813 방송]]></title>
-            <link>https://tv.naver.com/v/39021127</link>
-            <guid>https://tv.naver.com/v/39021127</guid>
-            <pubDate>Sun, 13 Aug 2023 09:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_242/q5XqX_1691915192916VR9SN_JPEG/b148fe3a-4381-408d-85e0-652ad2ddbbd4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스(NewJeans) - Cool With You | SBS 230813 방송]]></title>
-            <link>https://tv.naver.com/v/39020923</link>
-            <guid>https://tv.naver.com/v/39020923</guid>
-            <pubDate>Sun, 13 Aug 2023 09:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_108/7zLf9_1691914888560mH6MV_JPEG/17232180-369c-49b1-b595-1945dbace833.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
