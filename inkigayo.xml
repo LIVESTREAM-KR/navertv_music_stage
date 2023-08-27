@@ -4,9 +4,41 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Aug 2023 06:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 07:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[XG(엑스지) - NEW DANCE | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39514711</link>
+            <guid>https://tv.naver.com/v/39514711</guid>
+            <pubDate>Sun, 27 Aug 2023 07:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_180/gUL2L_1693120293339uzGPh_JPEG/6f834c84-53c1-4815-8ad8-fde20672e4e7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[xikers(싸이커스) - HOMEBOY | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39514708</link>
+            <guid>https://tv.naver.com/v/39514708</guid>
+            <pubDate>Sun, 27 Aug 2023 07:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_32/NYdHJ_1693120289574qUd0F_JPEG/b307fa28-12d2-4072-b057-4fece91ba2ac.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TIOT(티아이오티) - 백전무패 (百戰無敗) | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39514586</link>
+            <guid>https://tv.naver.com/v/39514586</guid>
+            <pubDate>Sun, 27 Aug 2023 07:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_212/N90LH_16931199904822kopE_JPEG/74f2377f-ab4f-4857-a956-5a8ec642c980.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[n.SSign(엔싸인) - 웜홀 (Wormhole: New Track) | SBS 230827 방송]]></title>
+            <link>https://tv.naver.com/v/39514450</link>
+            <guid>https://tv.naver.com/v/39514450</guid>
+            <pubDate>Sun, 27 Aug 2023 07:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_278/2rYbE_16931196893089tXXg_JPEG/43e67401-d861-4115-accb-dd5ea4684126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유노윤호(U-KNOW) - Vuja De | SBS 230820 방송]]></title>
             <link>https://tv.naver.com/v/39257806</link>
@@ -214,38 +246,6 @@
             <pubDate>Sun, 13 Aug 2023 09:12:06 GMT</pubDate>
             <content:encoded><![CDATA[2:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230813_108/7zLf9_1691914888560mH6MV_JPEG/17232180-369c-49b1-b595-1945dbace833.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브브걸 - ONE MORE TIME | SBS 230813 방송]]></title>
-            <link>https://tv.naver.com/v/39020624</link>
-            <guid>https://tv.naver.com/v/39020624</guid>
-            <pubDate>Sun, 13 Aug 2023 08:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_49/wfGBN_1691914350918CkdLv_JPEG/50e39957-3623-41e0-b41b-edb689780f66.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[xikers - DO or DIE | SBS 230813 방송]]></title>
-            <link>https://tv.naver.com/v/39020431</link>
-            <guid>https://tv.naver.com/v/39020431</guid>
-            <pubDate>Sun, 13 Aug 2023 08:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_272/Ny9an_1691913989932pFCeL_JPEG/8e61cae3-f64b-4359-8e2a-3c10ba5602fc.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나인아이(NINE.i) - Turn it off | SBS 230813 방송]]></title>
-            <link>https://tv.naver.com/v/39020144</link>
-            <guid>https://tv.naver.com/v/39020144</guid>
-            <pubDate>Sun, 13 Aug 2023 08:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_33/sgfW2_1691913390594zTJ0z_JPEG/956535d2-eb6d-4a2d-a2c7-f4183418c4c3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[n.SSign(엔싸인) - 웜홀(Wormhole: New Track) | SBS 230813 방송]]></title>
-            <link>https://tv.naver.com/v/39019988</link>
-            <guid>https://tv.naver.com/v/39019988</guid>
-            <pubDate>Sun, 13 Aug 2023 08:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_297/6rr90_1691913091375QzMR9_JPEG/12c28783-7c56-4e7b-996f-c85a7f632ed0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
