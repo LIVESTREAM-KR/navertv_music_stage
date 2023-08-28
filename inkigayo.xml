@@ -4,7 +4,7 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 04:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 05:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://tv.naver.com/v/39515765</guid>
             <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_264/Z49No_1693123597057HABmc_JPEG/1a503020-01c3-4608-810e-0a341a12d579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_10/cwutj_1693197393136NHMcU_JPEG/20dff2c8-0cfa-4818-b9da-f05cb87848f8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전소미 - Fast Forward | SBS 230827 방송]]></title>
@@ -45,7 +45,7 @@
             <guid>https://tv.naver.com/v/39515742</guid>
             <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
             <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_37/MiyKP_1693123598530gFjs0_JPEG/ad33a412-83b5-43ff-854b-8aa64522ee44.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_15/udVY0_1693197391443uvDv0_JPEG/2213b521-a63f-4263-919c-47e181f0473c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THE BOYZ Special Unit - Passion Fruit | SBS 230827 방송]]></title>
