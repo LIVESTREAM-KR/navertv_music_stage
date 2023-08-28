@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 06:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 07:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] Bubble! Bubble! 우리 마음을 터지게 만드는 PERFORMER들이 찾아왔다! (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39547602</link>
+            <guid>https://tv.naver.com/v/39547602</guid>
+            <pubDate>Mon, 28 Aug 2023 07:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_205/ul1mJ_1693204593337eBl4f_JPEG/CA202308300002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예고] 청춘을 위해 쇼챔이 준비한 특별한 편지! 받아주실 거죠? (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/39048414</link>
             <guid>https://tv.naver.com/v/39048414</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 09 Aug 2023 13:19:08 GMT</pubDate>
             <content:encoded><![CDATA[3:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_27/cmvcd_1691550752788NNvQC_JPEG/CA202308090029.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] xikers JINSIK - DO or DIE (싸이커스 진식 - 두 오어 다이) | Show Champion | EP.487 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38869505</link>
-            <guid>https://tv.naver.com/v/38869505</guid>
-            <pubDate>Wed, 09 Aug 2023 13:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_17/nnUB0_1691550391499bfli4_JPEG/CA202308090030.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
