@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 08:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 09:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,62 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ Q - Passion Fruit(더보이즈 큐 - 패션프루트) FanCam | Show! MusicCore | MBC230826방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39556002</link>
+            <guid>https://tv.naver.com/v/39556002</guid>
+            <pubDate>Mon, 28 Aug 2023 09:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_66/AhqF1_1693213290137vI8EQ_JPEG/clip_20230828172906_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] THE BOYZ YOUNGHOON - Passion Fruit(더보이즈 영훈 - 패션프루트) FanCam | Show! MusicCore | MBC230826방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39556001</link>
+            <guid>https://tv.naver.com/v/39556001</guid>
+            <pubDate>Mon, 28 Aug 2023 09:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_10/KAulS_1693213288848Wc22D_JPEG/clip_20230828172904_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] THE BOYZ JUYEON - Passion Fruit(더보이즈 주연 - 패션프루트) Close-up Cam | Show! MusicCore |MBC230826방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39555760</link>
+            <guid>https://tv.naver.com/v/39555760</guid>
+            <pubDate>Mon, 28 Aug 2023 09:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[4:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_21/ORuks_1693212993613HNTYO_JPEG/clip_20230828172935_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] THE BOYZ SUNWOO - Passion Fruit(더보이즈 선우 - 패션프루트) Close-up Cam | Show! MusicCore |MBC230826방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39555293</link>
+            <guid>https://tv.naver.com/v/39555293</guid>
+            <pubDate>Mon, 28 Aug 2023 09:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_145/eaN8P_1693212390806qyk86_JPEG/clip_20230828172908_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] JEON SOMI - Fast Forward(전소미 - 패스트 포워드) Close-up Cam | Show! MusicCore | MBC230826방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39555292</link>
+            <guid>https://tv.naver.com/v/39555292</guid>
+            <pubDate>Mon, 28 Aug 2023 09:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_159/ZFWul_1693212388900LnO6x_JPEG/clip_20230828171912_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] THE BOYZ HYUNJAE - Passion Fruit(더보이즈 현재 - 패션프루트) Close-up Cam | Show! MusicCore|MBC230826방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39555108</link>
+            <guid>https://tv.naver.com/v/39555108</guid>
+            <pubDate>Mon, 28 Aug 2023 09:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_12/L9fyc_1693212151557u9zsT_JPEG/clip_20230828172925_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] JIHYO - Killin’ Me Good(지효 - 킬링 미 굿) Close-up Cam | Show! MusicCore | MBC230826방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39554798</link>
+            <guid>https://tv.naver.com/v/39554798</guid>
+            <pubDate>Mon, 28 Aug 2023 09:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_75/akSRl_1693211799862A4ghT_JPEG/clip_20230828171853_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] ITZY RYUJIN – CAKE(있지 류진 - 케이크) FanCam | Show! MusicCore | MBC230826방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -198,62 +254,6 @@
             <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230826_224/b1Esg_1693043848403U9JAo_JPEG/clip_20230826182505_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] n.SSign – Wormhole : New Track(엔싸인 - 웜홀) FanCam | Show! MusicCore | MBC230826방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39495423</link>
-            <guid>https://tv.naver.com/v/39495423</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[4:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_52/uOjAS_1693043793859ffi5x_JPEG/clip_20230826182921_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] STAYC Seeun - Bubble(스테이씨 세은 - 버블) FanCam | Show! MusicCore | MBC230826방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39495422</link>
-            <guid>https://tv.naver.com/v/39495422</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_207/HIY3J_1693043792614MbaOP_JPEG/clip_20230826182756_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] STAYC ISA - Bubble(스테이씨 아이사 - 버블) FanCam | Show! MusicCore | MBC230826방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39495421</link>
-            <guid>https://tv.naver.com/v/39495421</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_133/JSkLw_1693043791342Cza6T_JPEG/clip_20230826182701_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] JIHYO – Closer(지효 - 클로저) FanCam | Show! MusicCore | MBC230826방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39495420</link>
-            <guid>https://tv.naver.com/v/39495420</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_68/pnHoC_1693043790093dTUdy_JPEG/clip_20230826182620_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] STAYC Yoon - Bubble(스테이씨 윤 - 버블) FanCam | Show! MusicCore | MBC230826방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39495296</link>
-            <guid>https://tv.naver.com/v/39495296</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_297/A95ER_1693043492447B6jid_JPEG/clip_20230826182702_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] AKMU LEE CHANHYUK - Love Lee(악뮤 이찬혁 - 러브 리) FanCam | Show! MusicCore | MBC230826방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39495295</link>
-            <guid>https://tv.naver.com/v/39495295</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_180/Cp5RQ_1693043491220DNNXt_JPEG/clip_20230826182640_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] AKMU – Love Lee(악뮤 - 러브 리) FanCam | Show! MusicCore | MBC230826방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39495293</link>
-            <guid>https://tv.naver.com/v/39495293</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_110/Cjly8_1693043489196nV9nl_JPEG/clip_20230826182630_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유노윤호(U-KNOW) - Vuja De | SBS 230827 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
