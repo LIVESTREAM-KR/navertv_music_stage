@@ -4,9 +4,65 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 00:59:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 01:51:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] xikers JINSIK – HOMEBOY(싸이커스 진식 - 홈보이) FanCam | Show! MusicCore | MBC230826방송]]></title>
+            <link>https://tv.naver.com/v/39581154</link>
+            <guid>https://tv.naver.com/v/39581154</guid>
+            <pubDate>Tue, 29 Aug 2023 01:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_171/ibYLj_1693273592615Jf19c_JPEG/clip_20230829100517_66.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] xikers JUNMIN – HOMEBOY(싸이커스 준민 - 홈보이) FanCam | Show! MusicCore | MBC230826방송]]></title>
+            <link>https://tv.naver.com/v/39581153</link>
+            <guid>https://tv.naver.com/v/39581153</guid>
+            <pubDate>Tue, 29 Aug 2023 01:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_30/Ea8gc_1693273591221Us5tI_JPEG/clip_20230829100516_65.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] STACY ISA - Bubble(스테이씨 아이사 - 버블) Close-up Cam | Show! MusicCore | MBC230826방송]]></title>
+            <link>https://tv.naver.com/v/39580757</link>
+            <guid>https://tv.naver.com/v/39580757</guid>
+            <pubDate>Tue, 29 Aug 2023 01:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_92/7iYff_1693273006963H1wUD_JPEG/clip_20230829100731_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] xikers MINJAE - HOMEBOY(싸이커스 민재 - 홈보이) Close-up Cam | Show! MusicCore | MBC230826방송]]></title>
+            <link>https://tv.naver.com/v/39580755</link>
+            <guid>https://tv.naver.com/v/39580755</guid>
+            <pubDate>Tue, 29 Aug 2023 01:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_48/iq3pE_1693273005189tIfLd_JPEG/clip_20230829100531_68.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] STACY Yoon - Bubble(스테이씨 윤 - 버블) Close-up Cam | Show! MusicCore | MBC230826방송]]></title>
+            <link>https://tv.naver.com/v/39580549</link>
+            <guid>https://tv.naver.com/v/39580549</guid>
+            <pubDate>Tue, 29 Aug 2023 01:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_178/CiizH_1693272693039v5XBk_JPEG/clip_20230829100730_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] JIHYO - Closer(지효 - 클로저) Close-up Cam | Show! MusicCore | MBC230826방송]]></title>
+            <link>https://tv.naver.com/v/39580545</link>
+            <guid>https://tv.naver.com/v/39580545</guid>
+            <pubDate>Tue, 29 Aug 2023 01:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_76/OIzh6_16932726910465pzR9_JPEG/clip_20230829100638_71.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] xikers YUJUN – HOMEBOY(싸이커스 유준 - 홈보이) FanCam | Show! MusicCore | MBC230826방송]]></title>
+            <link>https://tv.naver.com/v/39580544</link>
+            <guid>https://tv.naver.com/v/39580544</guid>
+            <pubDate>Tue, 29 Aug 2023 01:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_54/SoZr6_1693272689752TIvzb_JPEG/clip_20230829100514_64.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] THE BOYZ Q - Passion Fruit(더보이즈 큐 - 패션프루트) FanCam | Show! MusicCore | MBC230826방송]]></title>
             <link>https://tv.naver.com/v/39556002</link>
@@ -190,62 +246,6 @@
             <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
             <content:encoded><![CDATA[3:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230826_4/7FFuy_1693044095255PGBu3_JPEG/clip_20230826182657_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] STAYC – Bubble(스테이씨 - 버블) FanCam | Show! MusicCore | MBC230826방송]]></title>
-            <link>https://tv.naver.com/v/39495551</link>
-            <guid>https://tv.naver.com/v/39495551</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_147/Kzqih_1693044093659gQUsO_JPEG/clip_20230826182650_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] AKMU LEE SUHYUN - Love Lee(악뮤 이수현 - 러브 리) FanCam | Show! MusicCore | MBC230826방송]]></title>
-            <link>https://tv.naver.com/v/39495550</link>
-            <guid>https://tv.naver.com/v/39495550</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_9/TtOnn_16930440923722SebF_JPEG/clip_20230826182637_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] HYO - Picture(효연 – 픽처) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230826방송]]></title>
-            <link>https://tv.naver.com/v/39495546</link>
-            <guid>https://tv.naver.com/v/39495546</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_233/EnyEQ_1693044089985Cjavz_JPEG/clip_20230826182524_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] JEON SOMI – Fast Forward(전소미 - 패스트 포워드) FanCam | Show! MusicCore | MBC230826방송]]></title>
-            <link>https://tv.naver.com/v/39495452</link>
-            <guid>https://tv.naver.com/v/39495452</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_2/pqacw_1693043852357U2fHg_JPEG/clip_20230826182905_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] STAYC J - Bubble(스테이씨 재이 - 버블) FanCam | Show! MusicCore | MBC230826방송]]></title>
-            <link>https://tv.naver.com/v/39495451</link>
-            <guid>https://tv.naver.com/v/39495451</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_172/LrcdC_1693043851230oLqqL_JPEG/clip_20230826182703_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] STAYC Sieun - Bubble(스테이씨 시은 - 버블) FanCam | Show! MusicCore | MBC230826방송]]></title>
-            <link>https://tv.naver.com/v/39495450</link>
-            <guid>https://tv.naver.com/v/39495450</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_9/OgPt4_1693043849898sDa4Y_JPEG/clip_20230826182659_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] U-KNOW - Wannabe(유노윤호 – 워너비) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230826방송]]></title>
-            <link>https://tv.naver.com/v/39495448</link>
-            <guid>https://tv.naver.com/v/39495448</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_224/b1Esg_1693043848403U9JAo_JPEG/clip_20230826182505_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
