@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 10:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 11:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[COMEBACK] 예린(YERIN) - 밤밤밤(Bambambam) l 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39650907</link>
+            <guid>https://tv.naver.com/v/39650907</guid>
+            <pubDate>Wed, 30 Aug 2023 11:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_193/d5owF_16933908910761gQhA_JPEG/CA202308300082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 에버글로우(EVERGLOW) - SLAY l 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39650694</link>
+            <guid>https://tv.naver.com/v/39650694</guid>
+            <pubDate>Wed, 30 Aug 2023 11:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_265/c0fnO_1693390591992uzcmg_JPEG/CA202308300081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 스테이씨(STAYC) - Bubble l 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39650692</link>
+            <guid>https://tv.naver.com/v/39650692</guid>
+            <pubDate>Wed, 30 Aug 2023 11:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_50/g4gQk_1693390590160x4xGG_JPEG/CA202308300080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[COMEBACK] 배너(VANNER) - PERFORMER l 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/39650290</link>
             <guid>https://tv.naver.com/v/39650290</guid>
@@ -1430,30 +1454,6 @@
             <pubDate>Wed, 09 Aug 2023 13:19:08 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_148/NVsO4_1691567488968EqUXa_JPEG/CA202308090050.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] BBGIRLS EUNJI - ONE MORE TIME (브브걸 은지 - 원 모어 타임) | Show Champion | EP.487 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38881535</link>
-            <guid>https://tv.naver.com/v/38881535</guid>
-            <pubDate>Wed, 09 Aug 2023 13:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_166/mxz4I_1691566950477yXx4R_JPEG/CA202308090049.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] BBGIRLS YOUJOUNG - ONE MORE TIME (브브걸 유정 - 원 모어 타임) | Show Champion | EP.487 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38881143</link>
-            <guid>https://tv.naver.com/v/38881143</guid>
-            <pubDate>Wed, 09 Aug 2023 13:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_232/tbEgU_1691566589758xsCtp_JPEG/CA202308090048.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] BBGIRLS MINYOUNG - ONE MORE TIME (브브걸 민영 - 원 모어 타임) | Show Champion | EP.487 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38880663</link>
-            <guid>https://tv.naver.com/v/38880663</guid>
-            <pubDate>Wed, 09 Aug 2023 13:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_230/aCqdA_1691566049857iLPmU_JPEG/CA202308090047.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
