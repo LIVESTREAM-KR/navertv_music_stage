@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 23:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 00:58:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,7 +1216,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] tripleS LOVElution Park SoHyun(박소현) - Girls’ Capitalism | Show Champion | EP.489 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <title><![CDATA[[엔딩원샷] 비행기 기장으로 변신✈‍ xikers 엔딩요정 주인공은 과연 누구? l 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39668418</link>
+            <guid>https://tv.naver.com/v/39668418</guid>
+            <pubDate>Thu, 31 Aug 2023 00:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230831_234/ZB20B_1693440690945BpwgK_JPEG/CA202308300090.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] tripleS LOVElution Park SoHyun(박소현) - Girls’ Capitalism | Show Champion | EP.489 | 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/39649969</link>
             <guid>https://tv.naver.com/v/39649969</guid>
             <pubDate>Wed, 30 Aug 2023 13:17:28 GMT</pubDate>
@@ -1224,7 +1232,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230830_156/5xnEo_1693389448689ay7Lc_JPEG/CA202308300054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] tripleS LOVElution Xinyu(신위) - Girls’ Capitalism | Show Champion | EP.489 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <title><![CDATA[[쇼챔직캠 4K] tripleS LOVElution Xinyu(신위) - Girls’ Capitalism | Show Champion | EP.489 | 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/39649788</link>
             <guid>https://tv.naver.com/v/39649788</guid>
             <pubDate>Wed, 30 Aug 2023 13:17:28 GMT</pubDate>
@@ -1240,7 +1248,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230830_164/h9wFa_16933885518557uWzp_JPEG/CA202308300053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] tripleS LOVElution(트리플에스 러블루션) - Girls’ Capitalism | Show Champion | EP.489 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <title><![CDATA[[쇼챔직캠 4K] tripleS LOVElution(트리플에스 러블루션) - Girls’ Capitalism | Show Champion | EP.489 | 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/39649204</link>
             <guid>https://tv.naver.com/v/39649204</guid>
             <pubDate>Wed, 30 Aug 2023 13:17:28 GMT</pubDate>
@@ -1248,7 +1256,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230830_164/5ttjZ_1693388191296XAbuj_JPEG/CA202308300051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠 4K] tripleS LOVElution Gong YuBin(공유빈) - Girls’ Capitalism | Show Champion | EP.489 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <title><![CDATA[[쇼챔직캠 4K] tripleS LOVElution Gong YuBin(공유빈) - Girls’ Capitalism | Show Champion | EP.489 | 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/39648957</link>
             <guid>https://tv.naver.com/v/39648957</guid>
             <pubDate>Wed, 30 Aug 2023 13:17:28 GMT</pubDate>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 30 Aug 2023 13:17:28 GMT</pubDate>
             <content:encoded><![CDATA[4:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230830_163/uAFT2_1693373249467ISeoL_JPEG/CA202308300024.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] EVERGLOW SIHYEON - SLAY (에버글로우 시현 - 슬레이) | Show Champion | EP.489 l 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39636072</link>
-            <guid>https://tv.naver.com/v/39636072</guid>
-            <pubDate>Wed, 30 Aug 2023 13:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_211/ttrED_1693372888787V1DwV_JPEG/CA202308300025.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
