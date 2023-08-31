@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 07:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 08:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] SECRET NUMBER - STARLIGHT (시크릿넘버 - 스타라이트) | Show Champion | EP.489 | 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39654071</link>
+            <guid>https://tv.naver.com/v/39654071</guid>
+            <pubDate>Thu, 31 Aug 2023 08:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_297/VLgmE_1693395391293agXg4_JPEG/CA202308300085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] XG - NEW DANCE (엑스지 - 뉴 댄스) | Show Champion | EP.489 | 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39654330</link>
+            <guid>https://tv.naver.com/v/39654330</guid>
+            <pubDate>Thu, 31 Aug 2023 08:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_238/rquqn_1693395750163CXuLS_JPEG/CA202308300088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] YERIN - Bambambam (예린 - 밤밤밤) | Show Champion | EP.489 | 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39654074</link>
+            <guid>https://tv.naver.com/v/39654074</guid>
+            <pubDate>Thu, 31 Aug 2023 08:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_208/DrnT6_1693395393712C4ame_JPEG/CA202308300087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] ARTBEAT v - DUBI DUBI (아트비트 브이 - 두비두비) | Show Champion | EP.489 | 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39653560</link>
+            <guid>https://tv.naver.com/v/39653560</guid>
+            <pubDate>Thu, 31 Aug 2023 08:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_82/q45Ln_16933947907547PKwm_JPEG/CA202308300086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] LE'V - A.I.BAE (레비 - 에이아이베) | Show Champion | EP.489 | 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39653309</link>
+            <guid>https://tv.naver.com/v/39653309</guid>
+            <pubDate>Thu, 31 Aug 2023 08:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_62/z54YL_1693394488806Fqlcc_JPEG/CA202308300084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[엔딩원샷] 비행기 기장으로 변신✈‍ xikers 엔딩요정 주인공은 과연 누구? l 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/39668418</link>
             <guid>https://tv.naver.com/v/39668418</guid>
@@ -1414,46 +1454,6 @@
             <pubDate>Wed, 30 Aug 2023 13:17:28 GMT</pubDate>
             <content:encoded><![CDATA[4:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230830_53/5s0PY_1693375589249vUeoL_JPEG/CA202308300028.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TIOT KUM JUNHYEON - Unbeatable (티아이오티 금준현 - 백전무패) l Show Champion | EP.489 l 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39637763</link>
-            <guid>https://tv.naver.com/v/39637763</guid>
-            <pubDate>Wed, 30 Aug 2023 13:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_27/njuTq_16933750498890dsQg_JPEG/CA202308300032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] TIOT - Unbeatable (티아이오티 - 백전무패) l Show Champion l EP.489 l 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39637464</link>
-            <guid>https://tv.naver.com/v/39637464</guid>
-            <pubDate>Wed, 30 Aug 2023 13:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_110/IYGRR_1693374688309Xckv8_JPEG/CA202308300031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] EVERGLOW ONDA - SLAY (에버글로우 온다 - 슬레이) | Show Champion | EP.489 l 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39637042</link>
-            <guid>https://tv.naver.com/v/39637042</guid>
-            <pubDate>Wed, 30 Aug 2023 13:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_44/eutb7_1693374155730p9U5s_JPEG/CA202308300027.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] EVERGLOW AISHA - SLAY (에버글로우 아샤 - 슬레이) | Show Champion | EP.489 l 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39636745</link>
-            <guid>https://tv.naver.com/v/39636745</guid>
-            <pubDate>Wed, 30 Aug 2023 13:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_226/JzovY_1693373789840ifsN3_JPEG/CA202308300026.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] EVERGLOW MIA - SLAY (에버글로우 미아 - 슬레이) | Show Champion | EP.489 l 230830 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39636345</link>
-            <guid>https://tv.naver.com/v/39636345</guid>
-            <pubDate>Wed, 30 Aug 2023 13:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_163/uAFT2_1693373249467ISeoL_JPEG/CA202308300024.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
