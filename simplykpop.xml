@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 04:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 05:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] EP.584 SECRET NUMBER(시크릿넘버), DKB(다크비), n.SSign(엔싸인), tripleS LOVElution]]></title>
+            <link>https://tv.naver.com/v/39692858</link>
+            <guid>https://tv.naver.com/v/39692858</guid>
+            <pubDate>Fri, 01 Sep 2023 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[55:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230831_245/29hVG_16934718453317A0Do_JPEG/1693471403491.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] EP.583 DKB(다크비),  SEVENUS(세븐어스), n.SSign(엔싸인), bbongsa, tripleS LOVElution]]></title>
             <link>https://tv.naver.com/v/39416122</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 26 May 2023 05:14:11 GMT</pubDate>
             <content:encoded><![CDATA[47:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230526_39/KodYl_1685059748372d4Csm_JPEG/1685059242349.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.569 - ONEUS(원어스), SECRET NUMBER(시크릿넘버), EPEX(이펙스), ATBO(에이티비오]]></title>
-            <link>https://tv.naver.com/v/36095011</link>
-            <guid>https://tv.naver.com/v/36095011</guid>
-            <pubDate>Fri, 19 May 2023 06:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[53:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_24/JXn0Y_1684473318126ARmCP_JPEG/1684472350531.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
