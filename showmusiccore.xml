@@ -4,9 +4,41 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 08:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 09:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] NCT U MARK – Baggy Jeans(엔시티 유 마크 - 배기 진스) FanCam | Show! MusicCore | MBC230902방송]]></title>
+            <link>https://tv.naver.com/v/39766691</link>
+            <guid>https://tv.naver.com/v/39766691</guid>
+            <pubDate>Sat, 02 Sep 2023 09:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230902_5/DQT22_1693645590848Ya8gK_JPEG/clip_20230902173835_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼! 음악중심, 예능연구소, 엔시티 유, 마크, MARK, NCT U, 배기 진스, Baggy Jeans, 엔시티 유 직캠, 배기 진스 직캠, 마크 직캠, NCT U Fancam]]></title>
+            <link>https://tv.naver.com/v/39766690</link>
+            <guid>https://tv.naver.com/v/39766690</guid>
+            <pubDate>Sat, 02 Sep 2023 09:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230902_114/L1i8M_169364558982257PS8_JPEG/clip_20230902173759_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT U JAEHYUN – Baggy Jeans(엔시티 유 재현 - 배기 진스) FanCam | Show! MusicCore | MBC230902방송]]></title>
+            <link>https://tv.naver.com/v/39766507</link>
+            <guid>https://tv.naver.com/v/39766507</guid>
+            <pubDate>Sat, 02 Sep 2023 09:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230902_90/eKwtU_16936450503386lquA_JPEG/clip_20230902173828_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT U - Baggy Jeans(엔시티 유 – 배기 진스) FanCam | Show! MusicCore | MBC230902방송]]></title>
+            <link>https://tv.naver.com/v/39766506</link>
+            <guid>https://tv.naver.com/v/39766506</guid>
+            <pubDate>Sat, 02 Sep 2023 09:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[4:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230902_186/YCfEF_1693645048202dkX4V_JPEG/clip_20230902173753_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] xikers JINSIK – HOMEBOY(싸이커스 진식 - 홈보이) FanCam | Show! MusicCore | MBC230826방송]]></title>
             <link>https://tv.naver.com/v/39581154</link>
@@ -214,38 +246,6 @@
             <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230826_274/HVwqU_16930443956222NdKj_JPEG/clip_20230826182822_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] JIHYO – Killin' Me Good(지효 - 킬링 미 굿) FanCam | Show! MusicCore | MBC230826방송]]></title>
-            <link>https://tv.naver.com/v/39495661</link>
-            <guid>https://tv.naver.com/v/39495661</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_131/o8ZcA_1693044394437mEmme_JPEG/clip_20230826182604_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] HYO – Picture(효연 - 픽처) FanCam | Show! MusicCore | MBC230826방송]]></title>
-            <link>https://tv.naver.com/v/39495660</link>
-            <guid>https://tv.naver.com/v/39495660</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_124/tWtIf_1693044393143QEQLO_JPEG/clip_20230826182533_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] LEE CHANWON – TwistGoGo(이찬원 - 트위스트고고) FanCam | Show! MusicCore | MBC230826방송]]></title>
-            <link>https://tv.naver.com/v/39495553</link>
-            <guid>https://tv.naver.com/v/39495553</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_52/9xsZc_1693044096611s7uJL_JPEG/clip_20230826182826_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] STAYC Sumin - Bubble(스테이씨 수민 - 버블) FanCam | Show! MusicCore | MBC230826방송]]></title>
-            <link>https://tv.naver.com/v/39495552</link>
-            <guid>https://tv.naver.com/v/39495552</guid>
-            <pubDate>Sat, 26 Aug 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_4/7FFuy_1693044095255PGBu3_JPEG/clip_20230826182657_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
