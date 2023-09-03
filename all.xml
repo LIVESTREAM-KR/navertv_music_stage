@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 06:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 07:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230902_90/eKwtU_16936450503386lquA_JPEG/clip_20230902173828_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[VANNER(배너) - PERFORMER | SBS 230903 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39788751</link>
+            <guid>https://tv.naver.com/v/39788751</guid>
+            <pubDate>Sun, 03 Sep 2023 07:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230903_40/2azAE_1693725089568JJrbI_JPEG/da703680-32b2-428f-a9b4-365b83b157b0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LIMELIGHT(라임라잇) - MADELEINE | SBS 230903 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39788584</link>
+            <guid>https://tv.naver.com/v/39788584</guid>
+            <pubDate>Sun, 03 Sep 2023 07:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230903_289/KSos4_1693724791084lSfxw_JPEG/6d85e7fa-33b3-4685-9898-9ecea3f09c90.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프림로즈 - LAFFY TAFFY | SBS 230903 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39788337</link>
+            <guid>https://tv.naver.com/v/39788337</guid>
+            <pubDate>Sun, 03 Sep 2023 07:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230903_12/H4HR2_1693724251138RrVlw_JPEG/40c94260-0978-43da-99d2-a0f57092f44a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유노윤호(U-KNOW) - Vuja De | SBS 230827 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/39516122</link>
             <guid>https://tv.naver.com/v/39516122</guid>
@@ -470,30 +494,6 @@
             <pubDate>Sun, 20 Aug 2023 08:14:53 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230820_258/irdDC_1692518488769TR37M_JPEG/e9cf402a-6d69-46b8-b5ca-489ebfb60964.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다크비(DKB) - 말했잖아 | SBS 230820 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39256771</link>
-            <guid>https://tv.naver.com/v/39256771</guid>
-            <pubDate>Sun, 20 Aug 2023 08:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_228/E78Fp_1692518248627GLK0F_JPEG/1c2cb91e-f092-400d-ae93-a96e3cf3e659.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[n.SSign(엔싸인) - 웜홀(Wormhole: New Track) | SBS 230820 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39256529</link>
-            <guid>https://tv.naver.com/v/39256529</guid>
-            <pubDate>Sun, 20 Aug 2023 08:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_122/p208u_1692517591739Aj3Gz_JPEG/fcf6eeb1-c7d4-41f5-b805-7f5e4a6cc798.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아일리원(ILY:1) - MY COLOR | SBS 230820 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/39256436</link>
-            <guid>https://tv.naver.com/v/39256436</guid>
-            <pubDate>Sun, 20 Aug 2023 08:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_165/rNgLv_1692517353428GApCx_JPEG/8616b2f8-5f5a-4e53-a5ac-ea4c04155588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
