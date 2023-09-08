@@ -4,9 +4,33 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 08:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 09:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이키즈_남자를 몰라]]></title>
+            <link>https://tv.naver.com/v/40008824</link>
+            <guid>https://tv.naver.com/v/40008824</guid>
+            <pubDate>Fri, 08 Sep 2023 09:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_147/vB8B9_1694139379608sbdp7_JPEG/5d10a80d-4deb-11ee-8fa1-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이키즈_사건의 지평선]]></title>
+            <link>https://tv.naver.com/v/40008822</link>
+            <guid>https://tv.naver.com/v/40008822</guid>
+            <pubDate>Fri, 08 Sep 2023 09:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[4:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_86/h3laP_1694139376048085Nv_JPEG/4089a62a-4deb-11ee-9125-d4f5ef590144_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노라조_카레]]></title>
+            <link>https://tv.naver.com/v/40008819</link>
+            <guid>https://tv.naver.com/v/40008819</guid>
+            <pubDate>Fri, 08 Sep 2023 09:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_243/LO6hf_1694139371571FuzvI_JPEG/2ee77d20-4deb-11ee-9125-d4f5ef590144_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케이시_늦은 밤 헤어지긴 너무 아쉬워]]></title>
             <link>https://tv.naver.com/v/39693330</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 11 Aug 2023 10:15:41 GMT</pubDate>
             <content:encoded><![CDATA[2:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230811_169/hpQ1p_16917240548396Twm5_JPEG/c97a1f21-37eb-11ee-9b44-a0369ffdab64_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[육중완밴드_나는 물려받을 것이 없다네]]></title>
-            <link>https://tv.naver.com/v/38956475</link>
-            <guid>https://tv.naver.com/v/38956475</guid>
-            <pubDate>Fri, 11 Aug 2023 10:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[4:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_235/EAuTi_16917240512003VWOl_JPEG/e0fc57d0-37eb-11ee-a107-a0369ffddda8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[육중완밴드_인터뷰]]></title>
-            <link>https://tv.naver.com/v/38956473</link>
-            <guid>https://tv.naver.com/v/38956473</guid>
-            <pubDate>Fri, 11 Aug 2023 10:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[9:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_276/7hP93_1691724047555KctMq_JPEG/12cf7802-37ec-11ee-9125-d4f5ef590144_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[육중완밴드_내 스타일 아냐]]></title>
-            <link>https://tv.naver.com/v/38956472</link>
-            <guid>https://tv.naver.com/v/38956472</guid>
-            <pubDate>Fri, 11 Aug 2023 10:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[4:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_62/4Tj45_1691724043820P0FAe_JPEG/8c6b8441-37ec-11ee-aeb5-d4f5ef58ac88_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
