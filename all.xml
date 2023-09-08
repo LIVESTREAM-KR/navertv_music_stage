@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 04:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 05:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2032,6 +2032,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] EP.585 - YERIN(예린), EVERGLOW(에버글로우), JAECHAN(재찬), XODIAC(소디엑), LE'V, TIO (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/39982515</link>
+            <guid>https://tv.naver.com/v/39982515</guid>
+            <pubDate>Fri, 08 Sep 2023 05:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[53:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230907_11/Hoxhn_1694075555884x1zUB_JPEG/1694074920579.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] EP.584 SECRET NUMBER(시크릿넘버), DKB(다크비), n.SSign(엔싸인), tripleS LOVElution (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/39692858</link>
             <guid>https://tv.naver.com/v/39692858</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
             <content:encoded><![CDATA[54:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230601_152/ZkUNR_1685605805025rxznQ_JPEG/1685605017069.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.570 -Dreamcatcher(드림캐쳐), KARD(카드), EPEX(이펙스), ATBO(에이티비오) (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36331960</link>
-            <guid>https://tv.naver.com/v/36331960</guid>
-            <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[47:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_39/KodYl_1685059748372d4Csm_JPEG/1685059242349.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케이시_늦은 밤 헤어지긴 너무 아쉬워 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
