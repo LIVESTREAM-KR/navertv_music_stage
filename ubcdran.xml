@@ -4,7 +4,7 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 09:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 10:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,54 @@
             <pubDate>Fri, 08 Sep 2023 09:14:12 GMT</pubDate>
             <content:encoded><![CDATA[2:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230908_243/LO6hf_1694139371571FuzvI_JPEG/2ee77d20-4deb-11ee-9125-d4f5ef590144_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노라조_인터뷰]]></title>
+            <link>https://tv.naver.com/v/40008816</link>
+            <guid>https://tv.naver.com/v/40008816</guid>
+            <pubDate>Fri, 08 Sep 2023 10:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[10:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_295/Rz1Ro_1694139366507EvFO5_JPEG/e97acfd2-4dea-11ee-95cd-a0369ffbf8a4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노라조_사이다]]></title>
+            <link>https://tv.naver.com/v/40008811</link>
+            <guid>https://tv.naver.com/v/40008811</guid>
+            <pubDate>Fri, 08 Sep 2023 10:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_115/w8DO9_1694139357561C06aC_JPEG/d2b0289c-4dea-11ee-8224-a0369ffac2a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노라조_슈퍼맨]]></title>
+            <link>https://tv.naver.com/v/40008798</link>
+            <guid>https://tv.naver.com/v/40008798</guid>
+            <pubDate>Fri, 08 Sep 2023 10:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_16/m6qRv_16941393488199WODN_JPEG/beb1239f-4dea-11ee-85bd-a0369ffdab2c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노라조_고등어]]></title>
+            <link>https://tv.naver.com/v/40008796</link>
+            <guid>https://tv.naver.com/v/40008796</guid>
+            <pubDate>Fri, 08 Sep 2023 10:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_150/TzD0a_16941393435694lupO_JPEG/ac389848-4dea-11ee-8fa1-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노라조_일개미]]></title>
+            <link>https://tv.naver.com/v/40008788</link>
+            <guid>https://tv.naver.com/v/40008788</guid>
+            <pubDate>Fri, 08 Sep 2023 10:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_164/G5eIB_1694139339253Chhvh_JPEG/8f3030d1-4dea-11ee-b928-a0369ffdb5e4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노라조_형]]></title>
+            <link>https://tv.naver.com/v/40008785</link>
+            <guid>https://tv.naver.com/v/40008785</guid>
+            <pubDate>Fri, 08 Sep 2023 10:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[4:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_212/wxLS3_1694139333806897wi_JPEG/72f8d4f1-4dea-11ee-8224-a0369ffac2a8_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케이시_늦은 밤 헤어지긴 너무 아쉬워]]></title>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 18 Aug 2023 10:15:28 GMT</pubDate>
             <content:encoded><![CDATA[3:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_250/BGhAB_1692334430935e7p8W_JPEG/5e332714-3d81-11ee-b7d3-a0369ffac6ac_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짙은_인터뷰]]></title>
-            <link>https://tv.naver.com/v/39196891</link>
-            <guid>https://tv.naver.com/v/39196891</guid>
-            <pubDate>Fri, 18 Aug 2023 10:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[9:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_197/4RP8O_1692334425587uDpHI_JPEG/1611e1c5-3d81-11ee-9a63-a0369ffdb4b0_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짙은_여름밤]]></title>
-            <link>https://tv.naver.com/v/39196888</link>
-            <guid>https://tv.naver.com/v/39196888</guid>
-            <pubDate>Fri, 18 Aug 2023 10:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_32/a6w14_1692334420125qjBQP_JPEG/fb5eb477-3d80-11ee-9125-d4f5ef590144_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짙은_잘 지내자, 우리]]></title>
-            <link>https://tv.naver.com/v/39196879</link>
-            <guid>https://tv.naver.com/v/39196879</guid>
-            <pubDate>Fri, 18 Aug 2023 10:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[4:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_52/9VXRZ_1692334413593BJF1Q_JPEG/dbb8bee6-3d80-11ee-bae1-505dac8c38f5_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짙은_백야]]></title>
-            <link>https://tv.naver.com/v/39196874</link>
-            <guid>https://tv.naver.com/v/39196874</guid>
-            <pubDate>Fri, 18 Aug 2023 10:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[5:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_283/9Urp6_16923344060839AjtY_JPEG/bb03ca2f-3d80-11ee-9deb-a0369ffdb398_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[육중완밴드_퇴근하겠습니다]]></title>
-            <link>https://tv.naver.com/v/38956483</link>
-            <guid>https://tv.naver.com/v/38956483</guid>
-            <pubDate>Fri, 11 Aug 2023 10:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_112/DmU3B_1691724059186ttVYd_JPEG/9f21d20b-37eb-11ee-9125-d4f5ef590144_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[육중완밴드_서핑 위드 마이러브]]></title>
-            <link>https://tv.naver.com/v/38956479</link>
-            <guid>https://tv.naver.com/v/38956479</guid>
-            <pubDate>Fri, 11 Aug 2023 10:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_169/hpQ1p_16917240548396Twm5_JPEG/c97a1f21-37eb-11ee-9b44-a0369ffdab64_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
