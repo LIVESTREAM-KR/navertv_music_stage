@@ -4,9 +4,193 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 11:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 12:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] JEONG DONG WON – MONOLOGUE(정동원 - 독백) FanCam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40061695</link>
+            <guid>https://tv.naver.com/v/40061695</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[4:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_291/DJEAu_1694260591260DDRJG_JPEG/clip_20230909185035_98.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TIOT - Unbeatable(티아이오티 – 백전무패) FanCam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40061545</link>
+            <guid>https://tv.naver.com/v/40061545</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_265/JzwKn_1694260288560CBnDm_JPEG/clip_20230909185249_101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TIOT KUM JUNHYEON – Unbeatable(티아이오티 금준현 - 백전무패) FanCam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40061431</link>
+            <guid>https://tv.naver.com/v/40061431</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_35/0oTsA_1694259990667Vs4CW_JPEG/clip_20230909185318_102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] PURPLE KISS Yuki - 7HEAVEN(퍼플키스 유키 - 세븐헤븐) FanCam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40061328</link>
+            <guid>https://tv.naver.com/v/40061328</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_47/wuEBl_169425975272232HgX_JPEG/clip_20230909184644_92.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] JEONG DONG WON - MONOLOGUE(정동원 – 독백) FanCam (Horizontal Ver.) | Show! MusicCore |MBC230909방]]></title>
+            <link>https://tv.naver.com/v/40061298</link>
+            <guid>https://tv.naver.com/v/40061298</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[4:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_113/NB6ot_16942596901326Sptl_JPEG/clip_20230909185002_97.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] HWASA – I Love My Body(화사 - 아이 러브 마이 바디) FanCam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40061165</link>
+            <guid>https://tv.naver.com/v/40061165</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_39/aZgsc_1694259395624Mw0Xk_JPEG/clip_20230909185206_100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] HWASA - I Love My Body(화사 – 아이 러브 마이 바디) FanCam (Horizontal Ver.)|Show!MusicCore|MBC230909방]]></title>
+            <link>https://tv.naver.com/v/40061163</link>
+            <guid>https://tv.naver.com/v/40061163</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_130/HRvcY_1694259393972rzJwa_JPEG/clip_20230909185138_99.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Rocket Punch YEONHEE - BOOM(로켓펀치 연희 - 붐) FanCam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40061161</link>
+            <guid>https://tv.naver.com/v/40061161</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_296/w6Xhl_1694259392051QLSy7_JPEG/clip_20230909184854_95.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] PURPLE KISS NA GO EUN - 7HEAVEN(퍼플키스 나고은 - 세븐헤븐) FanCam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40061158</link>
+            <guid>https://tv.naver.com/v/40061158</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_65/Rj9Yz_1694259390840lxT59_JPEG/clip_20230909184710_93.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Rocket Punch – BOOM(로켓펀치 - 붐) FanCam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40060915</link>
+            <guid>https://tv.naver.com/v/40060915</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_259/bzg1r_1694258850731M8pfo_JPEG/clip_20230909184755_94.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Rocket Punch Juri - BOOM(로켓펀치 쥬리 - 붐) FanCam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40060887</link>
+            <guid>https://tv.naver.com/v/40060887</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_123/lthbc_1694258792308AhmTd_JPEG/clip_20230909184857_96.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KIM SEJEONG – Top or Cliff(김세정 - 탑 오어 클리프) FanCam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40060886</link>
+            <guid>https://tv.naver.com/v/40060886</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_37/neRVJ_1694258790931F8yeV_JPEG/clip_20230909184038_84.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] xikers - HOMEBOY(싸이커스 – 홈보이) FanCam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40060795</link>
+            <guid>https://tv.naver.com/v/40060795</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_10/x14Ms_16942584937488RC88_JPEG/clip_20230909185400_103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] LEE CHAE YEON – LET’S DANCE(이채연 - 레츠 댄스) FanCam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40060794</link>
+            <guid>https://tv.naver.com/v/40060794</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_284/gtwCh_1694258492655qAxP9_JPEG/clip_20230909184445_90.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KIM SEJEONG - Voyage(김세정 – 항해) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40060793</link>
+            <guid>https://tv.naver.com/v/40060793</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_113/fvdgF_1694258490913Nsglf_JPEG/clip_20230909184120_85.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT U TEN – Baggy Jeans(엔시티 유 텐 - 배기 진스) FanCam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40060792</link>
+            <guid>https://tv.naver.com/v/40060792</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_165/vXNU6_1694258489719Jj7JN_JPEG/clip_20230909183825_81.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] PURPLE KISS – 7HEAVEN(퍼플키스 - 세븐헤븐) FanCam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40060676</link>
+            <guid>https://tv.naver.com/v/40060676</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_188/skJwp_1694258192276VYxHg_JPEG/clip_20230909184604_91.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] LEE CHAE YEON - LET’S DANCE(이채연 – 레츠 댄스) FanCam (Horizontal Ver.)|Show!MusicCore|MBC230909방]]></title>
+            <link>https://tv.naver.com/v/40060585</link>
+            <guid>https://tv.naver.com/v/40060585</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_115/t8FbT_1694257951668qOllI_JPEG/clip_20230909184416_89.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KIM SEJEONG – Voyage(김세정 - 항해) FanCam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40060584</link>
+            <guid>https://tv.naver.com/v/40060584</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_176/SkSBH_1694257950652Kri7f_JPEG/clip_20230909184146_86.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Young K – nothing but(영케이 - 이것밖에는 없다) FanCam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40060569</link>
+            <guid>https://tv.naver.com/v/40060569</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_15/zxPhL_1694257893766Et1AO_JPEG/clip_20230909184320_88.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Young K - nothing but(영케이 – 이것밖에는 없다) FanCam (Horizontal Ver.) | Show! MusicCore|MBC230909방]]></title>
+            <link>https://tv.naver.com/v/40060568</link>
+            <guid>https://tv.naver.com/v/40060568</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_260/R5a5l_16942578925193cftA_JPEG/clip_20230909184245_87.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KIM SEJEONG - Top or Cliff(김세정–탑 오어 클리프) FanCam (Horizontal Ver.)|Show!MusicCore|MBC230909방]]></title>
+            <link>https://tv.naver.com/v/40060567</link>
+            <guid>https://tv.naver.com/v/40060567</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_26/Ts479_1694257890825W8z0p_JPEG/clip_20230909184011_83.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NCT U MARK – Baggy Jeans(엔시티 유 마크 - 배기 진스) FanCam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40060566</link>
+            <guid>https://tv.naver.com/v/40060566</guid>
+            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[4:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_293/i5Xf6_1694257889796pOHWJ_JPEG/clip_20230909183854_82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] NCT U DOYOUNG – Baggy Jeans(엔시티 유 도영 - 배기 진스) FanCam | Show! MusicCore | MBC230909방송]]></title>
             <link>https://tv.naver.com/v/40060439</link>
@@ -62,190 +246,6 @@
             <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
             <content:encoded><![CDATA[4:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230909_300/pWMFe_1694257057125MiLML_JPEG/clip_20230909183638_77.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE ANTON – Get A Guitar(라이즈 앤톤 - 겟 어 기타) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060239</link>
-            <guid>https://tv.naver.com/v/40060239</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[5:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_240/4sCjM_16942570562134KqHJ_JPEG/clip_20230909183418_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE SEUNGHAN – Get A Guitar(라이즈 승한 - 겟 어 기타) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060238</link>
-            <guid>https://tv.naver.com/v/40060238</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_299/LlvxU_1694257054962GLpi2_JPEG/clip_20230909183314_71.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE ANTON – Siren(라이즈 앤톤 - 사이렌) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060237</link>
-            <guid>https://tv.naver.com/v/40060237</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_262/wXoa2_1694257053974lgozu_JPEG/clip_20230909183055_68.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE SOHEE – Siren(라이즈 소희 - 사이렌) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060236</link>
-            <guid>https://tv.naver.com/v/40060236</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_10/rkfaW_16942570529178Fcbh_JPEG/clip_20230909183044_63.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE EUNSEOK – Memories(라이즈 은석 - 메모리즈) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060235</link>
-            <guid>https://tv.naver.com/v/40060235</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_79/CoGDK_1694257051368n2H96_JPEG/clip_20230909182947_60.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE WONBIN – Memories(라이즈 원빈 - 메모리즈) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060233</link>
-            <guid>https://tv.naver.com/v/40060233</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_195/xy4JZ_1694257050150umgTp_JPEG/clip_20230909182945_59.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE SUNGCHAN – Get A Guitar(라이즈 성찬 - 겟 어 기타) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060205</link>
-            <guid>https://tv.naver.com/v/40060205</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_287/CtKcq_1694256995271XE1C1_JPEG/clip_20230909183248_70.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE - Get A Guitar(라이즈 – 겟 어 기타) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060204</link>
-            <guid>https://tv.naver.com/v/40060204</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_266/dX1XU_1694256993424cFKnx_JPEG/clip_20230909183206_69.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE - Siren(라이즈 – 사이렌) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060203</link>
-            <guid>https://tv.naver.com/v/40060203</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_134/wDI4M_1694256991347RRURw_JPEG/clip_20230909183039_61.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE SOHEE – Memories(라이즈 소희 - 메모리즈) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060201</link>
-            <guid>https://tv.naver.com/v/40060201</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_278/hZrIc_16942569901178DEHi_JPEG/clip_20230909182934_55.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE WONBIN – Siren(라이즈 원빈 - 사이렌) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060106</link>
-            <guid>https://tv.naver.com/v/40060106</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_133/hZlrq_1694256690849IGc4G_JPEG/clip_20230909183052_66.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE SHOTARO – Memories(라이즈 쇼타로 - 메모리즈) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060105</link>
-            <guid>https://tv.naver.com/v/40060105</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_263/cvINI_1694256689724V2yGL_JPEG/clip_20230909182936_56.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE SUNGCHAN – Memories(라이즈 성찬 - 메모리즈) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060104</link>
-            <guid>https://tv.naver.com/v/40060104</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_31/bak7r_1694256688253FQouz_JPEG/clip_20230909182932_54.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE ANTON – Memories(라이즈 앤톤 - 메모리즈) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060004</link>
-            <guid>https://tv.naver.com/v/40060004</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_141/va61D_1694256391103UAArG_JPEG/clip_20230909182944_58.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE SEUNGHAN – Memories(라이즈 승한 - 메모리즈) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060003</link>
-            <guid>https://tv.naver.com/v/40060003</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_77/qMAlX_1694256390009SBiX1_JPEG/clip_20230909182942_57.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE WONBIN – Get A Guitar(라이즈 원빈 - 겟 어 기타) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40059886</link>
-            <guid>https://tv.naver.com/v/40059886</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_45/tvu8v_1694256093688CpP5s_JPEG/clip_20230909183345_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE EUNSEOK – Siren(라이즈 은석 - 사이렌) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40059885</link>
-            <guid>https://tv.naver.com/v/40059885</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_140/6n3vU_1694256092223fqvU3_JPEG/clip_20230909183053_67.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE SHOTARO – Siren(라이즈 쇼타로 - 사이렌) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40059884</link>
-            <guid>https://tv.naver.com/v/40059884</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_39/XRSy0_1694256090993pwEUG_JPEG/clip_20230909183046_64.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE SUNGCHAN – Siren(라이즈 성찬 - 사이렌) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40059883</link>
-            <guid>https://tv.naver.com/v/40059883</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_214/KnKJn_1694256089634nUh6b_JPEG/clip_20230909183043_62.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE SEUNGHAN – Siren(라이즈 승한 - 사이렌) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40059742</link>
-            <guid>https://tv.naver.com/v/40059742</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_232/fjr7s_1694255790297oDuUh_JPEG/clip_20230909183047_65.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE - Memories(라이즈 – 메모리즈) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40058584</link>
-            <guid>https://tv.naver.com/v/40058584</guid>
-            <pubDate>Sat, 09 Sep 2023 10:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_252/i9keY_1694252794273OEiyc_JPEG/clip_20230909182815_53.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] PLAVE Eunho - The 6th Summer(플레이브 은호 - 여섯 번째 여름) Close-up Cam | Show! MusicCore |MBC230826방]]></title>
-            <link>https://tv.naver.com/v/39962416</link>
-            <guid>https://tv.naver.com/v/39962416</guid>
-            <pubDate>Thu, 07 Sep 2023 03:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230907_260/UTMeX_1694053291629MRrvl_JPEG/clip_20230907105353_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] PLAVE Noah - The 6th Summer(플레이브 노아 - 여섯 번째 여름) Close-up Cam | Show! MusicCore | MBC230826방]]></title>
-            <link>https://tv.naver.com/v/39962414</link>
-            <guid>https://tv.naver.com/v/39962414</guid>
-            <pubDate>Thu, 07 Sep 2023 03:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230907_298/47tOi_1694053290000Iji3H_JPEG/clip_20230907105348_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
