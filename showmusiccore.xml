@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 02:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 03:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] RIIZE WONBIN - Siren(라이즈 원빈 - 사이렌) Close-up Cam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40061432</link>
+            <guid>https://tv.naver.com/v/40061432</guid>
+            <pubDate>Sun, 10 Sep 2023 03:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_206/c96GT_1694259991662IwPC8_JPEG/clip_20230909185721_106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] RIIZE ANTON - Memories(라이즈 앤톤 - 메모리즈) Close-up Cam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40061550</link>
+            <guid>https://tv.naver.com/v/40061550</guid>
+            <pubDate>Sun, 10 Sep 2023 03:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_23/ePI5i_1694260292497M9zRr_JPEG/clip_20230909185602_105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] RIIZE SUNGCHAN - Memories(라이즈 성찬 - 메모리즈) Close-up Cam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40061547</link>
+            <guid>https://tv.naver.com/v/40061547</guid>
+            <pubDate>Sun, 10 Sep 2023 03:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_197/7IdEE_1694260290331JxiyD_JPEG/clip_20230909185529_104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] JEONG DONG WON – MONOLOGUE(정동원 - 독백) FanCam | Show! MusicCore | MBC230909방송]]></title>
             <link>https://tv.naver.com/v/40061695</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
             <content:encoded><![CDATA[3:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230909_81/JYXPZ_1694257292530AMe6f_JPEG/clip_20230909183758_80.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE EUNSEOK – Get A Guitar(라이즈 은석 - 겟 어 기타) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060327</link>
-            <guid>https://tv.naver.com/v/40060327</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_17/VicNX_1694257291379fKsa1_JPEG/clip_20230909183558_76.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE SOHEE – Get A Guitar(라이즈 소희 - 겟 어 기타) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060326</link>
-            <guid>https://tv.naver.com/v/40060326</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_47/lrg8i_1694257289949sCfO4_JPEG/clip_20230909183448_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT U - Baggy Jeans(엔시티 유 – 배기 진스) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060240</link>
-            <guid>https://tv.naver.com/v/40060240</guid>
-            <pubDate>Sat, 09 Sep 2023 11:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_300/pWMFe_1694257057125MiLML_JPEG/clip_20230909183638_77.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
