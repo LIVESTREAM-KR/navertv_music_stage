@@ -4,9 +4,57 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 06:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 07:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퍼플키스 (PURPLE KISS) - 7HEAVEN | SBS 230910 방송]]></title>
+            <link>https://tv.naver.com/v/40078242</link>
+            <guid>https://tv.naver.com/v/40078242</guid>
+            <pubDate>Sun, 10 Sep 2023 07:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230910_132/2rOZ9_1694329891345eXvQ9_JPEG/c3a66f69-d3bc-4dea-a313-ffd2dbb80d9a.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로켓펀치 (Rocket Punch) - BOOM | SBS 230910 방송]]></title>
+            <link>https://tv.naver.com/v/40078240</link>
+            <guid>https://tv.naver.com/v/40078240</guid>
+            <pubDate>Sun, 10 Sep 2023 07:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230910_152/2oUZW_1694329889008p8N5D_PNG/e87cc1a1-aadd-4c9f-916c-c6fd9e1d9d50.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[VANNER (배너) - PERFORMER | SBS 230910 방송]]></title>
+            <link>https://tv.naver.com/v/40077795</link>
+            <guid>https://tv.naver.com/v/40077795</guid>
+            <pubDate>Sun, 10 Sep 2023 07:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230910_287/mtr9Q_1694329048806lKJyr_PNG/d99303b2-c37e-4135-abe2-719506a452a1.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[TRENDZ (트렌드지) - MY WAY | SBS 230910 방송]]></title>
+            <link>https://tv.naver.com/v/40077572</link>
+            <guid>https://tv.naver.com/v/40077572</guid>
+            <pubDate>Sun, 10 Sep 2023 07:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230910_14/VQO9S_1694328690451P1oDJ_PNG/ebb6227e-ebeb-4709-91a2-8c31aa799968.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[xikers (싸이커스) - HOMEBOY | SBS 230910 방송]]></title>
+            <link>https://tv.naver.com/v/40077285</link>
+            <guid>https://tv.naver.com/v/40077285</guid>
+            <pubDate>Sun, 10 Sep 2023 07:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230910_256/wwoY6_1694328150903y9lly_PNG/a34208ef-f046-4570-bdff-85276ae21a90.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[cignature (시그니처) - 안녕, 인사해(Smooth Sailing) | SBS 230910 방송]]></title>
+            <link>https://tv.naver.com/v/40077246</link>
+            <guid>https://tv.naver.com/v/40077246</guid>
+            <pubDate>Sun, 10 Sep 2023 07:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230910_245/NZrr2_1694328089303NRw0B_PNG/aaec29b5-3ed5-45e4-b49a-6d3b03aa52d8.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NCT U - Baggy Jeans | SBS 230903 방송]]></title>
             <link>https://tv.naver.com/v/39790455</link>
@@ -198,54 +246,6 @@
             <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
             <content:encoded><![CDATA[3:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230827_260/vSvZU_1693124498687EfBGo_JPEG/34ce77e4-6f61-40bd-bef0-2c3f9a993f08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스(NewJeans) - ASAP | SBS 230827 방송]]></title>
-            <link>https://tv.naver.com/v/39515439</link>
-            <guid>https://tv.naver.com/v/39515439</guid>
-            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_127/F2KYP_1693125397175N1WPd_JPEG/bdb070e6-81a4-4b11-92c5-93a73a73d600.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE(트레저) - BONA BONA | SBS 230827 방송]]></title>
-            <link>https://tv.naver.com/v/39515413</link>
-            <guid>https://tv.naver.com/v/39515413</guid>
-            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_285/mRBcm_16931244946217RPtu_JPEG/245d8cff-b90b-491c-ba5e-75a462b0aaf3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STAYC(스테이씨) - Bubble | SBS 230827 방송]]></title>
-            <link>https://tv.naver.com/v/39515294</link>
-            <guid>https://tv.naver.com/v/39515294</guid>
-            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_153/95KY6_1693125394299YqNFh_JPEG/2f829a6e-6f7e-46cf-a966-58d8c05a378b.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RIIZE(라이즈) - Memories | SBS 230827 방송]]></title>
-            <link>https://tv.naver.com/v/39515092</link>
-            <guid>https://tv.naver.com/v/39515092</guid>
-            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_286/fXfU8_1693121250048RvFq8_JPEG/fc39b0ac-5fa5-41ed-ae77-49fbc6b4a394.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RIIZE(라이즈) - Siren | SBS 230827 방송]]></title>
-            <link>https://tv.naver.com/v/39515071</link>
-            <guid>https://tv.naver.com/v/39515071</guid>
-            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_182/pEOVS_1693121192155K5vXw_JPEG/91ffce48-1bcb-4496-bb34-3ab56274c33c.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EVERGLOW(에버글로우) - SLAY | SBS 230827 방송]]></title>
-            <link>https://tv.naver.com/v/39515070</link>
-            <guid>https://tv.naver.com/v/39515070</guid>
-            <pubDate>Sun, 27 Aug 2023 08:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_59/J37lm_1693270289694GRWkT_JPEG/c7dcd1f6-9eb7-483b-9066-c41f53fc0802.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
