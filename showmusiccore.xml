@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 08:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 09:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] Young K - nothing but(영케이 - 이것밖에는 없다) Close-up Cam | Show! MusicCore | MBC230909방송]]></title>
+            <link>https://tv.naver.com/v/40121778</link>
+            <guid>https://tv.naver.com/v/40121778</guid>
+            <pubDate>Mon, 11 Sep 2023 09:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_206/0qCom_1694420789722HUzsU_JPEG/clip_20230911164708_84.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] RIIZE ANTON - Get A Guitar(라이즈 앤톤 - 겟 어 기타) Close-up Cam | Show! MusicCore | MBC230909방송]]></title>
             <link>https://tv.naver.com/v/40121230</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
             <content:encoded><![CDATA[3:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230909_176/SkSBH_1694257950652Kri7f_JPEG/clip_20230909184146_86.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Young K – nothing but(영케이 - 이것밖에는 없다) FanCam | Show! MusicCore | MBC230909방송]]></title>
-            <link>https://tv.naver.com/v/40060569</link>
-            <guid>https://tv.naver.com/v/40060569</guid>
-            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_15/zxPhL_1694257893766Et1AO_JPEG/clip_20230909184320_88.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
