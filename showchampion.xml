@@ -4,9 +4,41 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 10:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 11:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔 1위] 9월 2주 챔피언송 ＜BOYNEXTDOOR - 뭣 같아＞ 앵콜 Full ver. l Show Champion l EP.491 l 230913]]></title>
+            <link>https://tv.naver.com/v/40224519</link>
+            <guid>https://tv.naver.com/v/40224519</guid>
+            <pubDate>Wed, 13 Sep 2023 11:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_1/oaQbB_1694603194029IXykN_JPEG/CA202309130088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 김세정(KIM SEJEONG) - Top or Cliff l 230913]]></title>
+            <link>https://tv.naver.com/v/40222681</link>
+            <guid>https://tv.naver.com/v/40222681</guid>
+            <pubDate>Wed, 13 Sep 2023 11:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_162/oX57u_1694600489465qjIY4_JPEG/CA202309130086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김세정(KIM SEJEONG) - 항해 l 230913]]></title>
+            <link>https://tv.naver.com/v/40222484</link>
+            <guid>https://tv.naver.com/v/40222484</guid>
+            <pubDate>Wed, 13 Sep 2023 11:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_183/xTf1o_1694600193358F0KaV_JPEG/CA202309130085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 이채연(LEE CHAE YEON) - LET’S DANCE l 230913]]></title>
+            <link>https://tv.naver.com/v/40222483</link>
+            <guid>https://tv.naver.com/v/40222483</guid>
+            <pubDate>Wed, 13 Sep 2023 11:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_282/6mc3H_1694600191574hEGUO_JPEG/CA202309130084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[COMEBACK] 보이넥스트도어(BOYNEXTDOOR) - 뭣 같아 l 230913]]></title>
             <link>https://tv.naver.com/v/40222330</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 30 Aug 2023 13:17:28 GMT</pubDate>
             <content:encoded><![CDATA[3:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230830_164/h9wFa_16933885518557uWzp_JPEG/CA202308300053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] tripleS LOVElution(트리플에스 러블루션) - Girls’ Capitalism | Show Champion | EP.489 | 230830]]></title>
-            <link>https://tv.naver.com/v/39649204</link>
-            <guid>https://tv.naver.com/v/39649204</guid>
-            <pubDate>Wed, 30 Aug 2023 13:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_164/5ttjZ_1693388191296XAbuj_JPEG/CA202308300051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] tripleS LOVElution Gong YuBin(공유빈) - Girls’ Capitalism | Show Champion | EP.489 | 230830]]></title>
-            <link>https://tv.naver.com/v/39648957</link>
-            <guid>https://tv.naver.com/v/39648957</guid>
-            <pubDate>Wed, 30 Aug 2023 13:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_167/wS3Dg_1693387888297U6EGL_JPEG/CA202308300052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] STAYC SIEUN - Bubble (스테이씨 시은 - 버블) | Show Champion | EP.489 l 230830]]></title>
-            <link>https://tv.naver.com/v/39648727</link>
-            <guid>https://tv.naver.com/v/39648727</guid>
-            <pubDate>Wed, 30 Aug 2023 13:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_96/9L829_1693387591532bLfkh_JPEG/CA202308300050.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] VANNER GON - PERFORMER (배너 곤 - 퍼포머) | Show Champion | EP.489 l 230830]]></title>
-            <link>https://tv.naver.com/v/39648308</link>
-            <guid>https://tv.naver.com/v/39648308</guid>
-            <pubDate>Wed, 30 Aug 2023 13:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_289/OAW64_1693386989702JtzXi_JPEG/CA202308300049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
