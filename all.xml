@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 04:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 05:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2032,6 +2032,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] EP.586 - JAECHAN(재찬), XODIAC(소디엑), LE'V(레비), cignature(시그니처), TIOT(티아 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/40262418</link>
+            <guid>https://tv.naver.com/v/40262418</guid>
+            <pubDate>Fri, 15 Sep 2023 05:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[51:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230914_137/li92G_1694676262693mIuzt_JPEG/1694676020775.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] EP.585 - YERIN(예린), EVERGLOW(에버글로우), JAECHAN(재찬), XODIAC(소디엑), LE'V, TIO (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/39982515</link>
             <guid>https://tv.naver.com/v/39982515</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
             <content:encoded><![CDATA[55:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230608_243/cFKZ2_1686214052965Uqy3H_JPEG/1686213440647.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.571 -AB6IX(에이비식스),Dreamcatcher(드림캐쳐),KARD(카드), NINE to SIX (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36543371</link>
-            <guid>https://tv.naver.com/v/36543371</guid>
-            <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[54:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_152/ZkUNR_1685605805025rxznQ_JPEG/1685605017069.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이키즈_남자를 몰라 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
