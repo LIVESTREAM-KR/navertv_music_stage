@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 06:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 07:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[STAGE MIX🪄] STAYC – Bubble(스테이씨 - 버블) | Show! Music Core (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/40118461</link>
+            <guid>https://tv.naver.com/v/40118461</guid>
+            <pubDate>Fri, 15 Sep 2023 07:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_155/knqlr_1694417488203I1SJk_JPEG/clip_20230911161340_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] NCT U DOYOUNG - Baggy Jeans(엔시티 유 도영 - 배기 진스) Close-up Cam | Show! MusicCore | MBC230909방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
             <content:encoded><![CDATA[3:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230909_113/fvdgF_1694258490913Nsglf_JPEG/clip_20230909184120_85.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT U TEN – Baggy Jeans(엔시티 유 텐 - 배기 진스) FanCam | Show! MusicCore | MBC230909방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40060792</link>
-            <guid>https://tv.naver.com/v/40060792</guid>
-            <pubDate>Sat, 09 Sep 2023 12:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_165/vXNU6_1694258489719Jj7JN_JPEG/clip_20230909183825_81.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[V - Slow Dancing | SBS 230910 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
