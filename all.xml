@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 01:53:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 02:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[9월 2주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (woo!ah! 나나, Billlie 츠키) | Show Champion | EP.491 | 230913 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/40242076</link>
+            <guid>https://tv.naver.com/v/40242076</guid>
+            <pubDate>Fri, 15 Sep 2023 02:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230914_154/YTkm9_16946514901968OAM8_JPEG/CA202309130089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] H1-KEY - Time to Shine (하이키 - 불빛을 꺼뜨리지 마) | Show Champion | EP.491 | 230913 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/40258628</link>
             <guid>https://tv.naver.com/v/40258628</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 13 Sep 2023 13:18:36 GMT</pubDate>
             <content:encoded><![CDATA[3:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230913_10/yHDGY_1694588249320rBVi0_JPEG/CA202309130037.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] KIM SEJEONG - Top or Cliff (김세정 - 탑 오어 클리프) l Show Champion l EP.491 | 230913 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40212104</link>
-            <guid>https://tv.naver.com/v/40212104</guid>
-            <pubDate>Wed, 13 Sep 2023 13:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_78/pxcrJ_16945881907693KhjM_JPEG/CA202309130036.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
