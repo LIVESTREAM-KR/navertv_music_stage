@@ -4,9 +4,49 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 06:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 07:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EL7Z UP (엘즈업) - CHEEKY | SBS 230917 방송]]></title>
+            <link>https://tv.naver.com/v/40366833</link>
+            <guid>https://tv.naver.com/v/40366833</guid>
+            <pubDate>Sun, 17 Sep 2023 07:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230917_130/Ou7fX_1694934690490zTf4b_PNG/bc68e82c-870e-4f40-882b-aad48ca47640.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[BLACKSWAN - Cat & Mouse | SBS 230917 방송]]></title>
+            <link>https://tv.naver.com/v/40366832</link>
+            <guid>https://tv.naver.com/v/40366832</guid>
+            <pubDate>Sun, 17 Sep 2023 07:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230917_215/8pwe2_1694934688266xJsBL_PNG/c586a1ab-b960-4aa5-9bd6-ced2ad1569ae.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[FANTASY BOYS - One Shot | SBS 230917 방송]]></title>
+            <link>https://tv.naver.com/v/40366668</link>
+            <guid>https://tv.naver.com/v/40366668</guid>
+            <pubDate>Sun, 17 Sep 2023 07:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230917_143/m6ZBR_1694934391102paObh_PNG/8832f3a3-9373-43b6-90ff-1cd20c7e46ef.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[POW - Favorite | SBS 230917 방송]]></title>
+            <link>https://tv.naver.com/v/40366347</link>
+            <guid>https://tv.naver.com/v/40366347</guid>
+            <pubDate>Sun, 17 Sep 2023 07:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230917_89/Vuuwf_1694933790083KJtGl_PNG/6b18712e-a241-4673-b676-04ada036891d.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[X:IN - SYNCHRONIZE | SBS 230917 방송]]></title>
+            <link>https://tv.naver.com/v/40366191</link>
+            <guid>https://tv.naver.com/v/40366191</guid>
+            <pubDate>Sun, 17 Sep 2023 07:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230917_212/8j9JA_169493349245875hmq_PNG/05fc9043-7803-4a74-859d-f891e1d0d7d3.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[V - Slow Dancing | SBS 230910 방송]]></title>
             <link>https://tv.naver.com/v/40083172</link>
@@ -206,46 +246,6 @@
             <pubDate>Sun, 03 Sep 2023 08:15:08 GMT</pubDate>
             <content:encoded><![CDATA[3:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230903_54/ROpDa_1693726890643HbJuV_JPEG/9f956b62-40db-4945-850d-54008212e34e.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[H1-KEY (하이키) - SEOUL (Such a Beautiful City) | SBS 230903 방송]]></title>
-            <link>https://tv.naver.com/v/39789521</link>
-            <guid>https://tv.naver.com/v/39789521</guid>
-            <pubDate>Sun, 03 Sep 2023 08:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230903_280/dZRS1_16937265956817zz1C_JPEG/df2a69fe-318a-4750-8b7d-a90bf3a3e697.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EVERGLOW(에버글로우) - SLAY | SBS 230903 방송]]></title>
-            <link>https://tv.naver.com/v/39789329</link>
-            <guid>https://tv.naver.com/v/39789329</guid>
-            <pubDate>Sun, 03 Sep 2023 08:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230903_34/K2wso_1693726288791Px7nV_JPEG/0f41bee4-4d35-4491-a593-1f81aa2c3684.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이찬원 - 트위스트고고 | SBS 230903 방송]]></title>
-            <link>https://tv.naver.com/v/39789203</link>
-            <guid>https://tv.naver.com/v/39789203</guid>
-            <pubDate>Sun, 03 Sep 2023 08:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230903_235/fEKgi_1693725989749RxQpj_JPEG/b98c1df6-9d0d-421d-8f57-95fd7e173669.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tripleS LOVElution - Girls' Capitalism | SBS 230903 방송]]></title>
-            <link>https://tv.naver.com/v/39789065</link>
-            <guid>https://tv.naver.com/v/39789065</guid>
-            <pubDate>Sun, 03 Sep 2023 08:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230903_276/ZAPff_1693725693149zEzDK_JPEG/049e520d-f833-45cb-9f81-031deea98080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[cignature(시그니처) - 안녕, 인사해(Smooth Sailing) | SBS 230903 방송]]></title>
-            <link>https://tv.naver.com/v/39789061</link>
-            <guid>https://tv.naver.com/v/39789061</guid>
-            <pubDate>Sun, 03 Sep 2023 08:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230903_75/WUAv5_16937256895589oJcG_JPEG/264ba5c3-d219-4659-bcf9-29b2e86c74d1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
