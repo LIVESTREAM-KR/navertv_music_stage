@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 07:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 08:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 🙋: 🎸🧩🧡📻🚪 주문되나요? 쇼챔: 당연히 줄 수 있지]]></title>
+            <link>https://tv.naver.com/v/40405287</link>
+            <guid>https://tv.naver.com/v/40405287</guid>
+            <pubDate>Mon, 18 Sep 2023 08:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_286/7pAIw_1695021691018fDgFs_JPEG/CA202309200001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[9월 2주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (woo!ah! 나나, Billlie 츠키) | Show Champion | EP.491 | 230913]]></title>
             <link>https://tv.naver.com/v/40242076</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Sep 2023 13:18:36 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230913_141/rK0Ic_1694589688759Is9Sw_JPEG/CA202309130038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] KIM SEJEONG - Top or Cliff (김세정 - 탑 오어 클리프) l Show Champion l EP.491 | 230913]]></title>
-            <link>https://tv.naver.com/v/40212161</link>
-            <guid>https://tv.naver.com/v/40212161</guid>
-            <pubDate>Wed, 13 Sep 2023 13:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_10/yHDGY_1694588249320rBVi0_JPEG/CA202309130037.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
