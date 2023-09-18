@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 09:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 10:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] CRAVITY MINHEE - Ready or Not(크래비티 민희 - 레디 오어 낫) Close-up Cam | Show! MusicCore |MBC230916방]]></title>
+            <link>https://tv.naver.com/v/40411423</link>
+            <guid>https://tv.naver.com/v/40411423</guid>
+            <pubDate>Mon, 18 Sep 2023 10:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_111/Zwi8Y_1695029191434t03tp_JPEG/clip_20230918175415_53.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] KEY - Good & Great(키 - 굿 앤 그레이트) Close-up Cam | Show! MusicCore | MBC230916방송]]></title>
             <link>https://tv.naver.com/v/40404346</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Sep 2023 13:13:36 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230916_290/l8vMX_1694867193131XPGyc_JPEG/clip_20230916210037_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] HWASA - I Love My Body(화사 – 아이 러브 마이 바디) FanCam (Horizontal Ver.)|Show!MusicCore|MBC230916방]]></title>
-            <link>https://tv.naver.com/v/40349317</link>
-            <guid>https://tv.naver.com/v/40349317</guid>
-            <pubDate>Sat, 16 Sep 2023 13:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_243/jhbul_1694867198712HkpGn_JPEG/clip_20230916210559_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
