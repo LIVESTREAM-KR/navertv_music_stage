@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 05:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 06:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] Young K - nothing but(영케이 - 이것밖에는 없다) Close-up Cam | Show! MusicCore | MBC230916방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/40449653</link>
+            <guid>https://tv.naver.com/v/40449653</guid>
+            <pubDate>Tue, 19 Sep 2023 06:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[5:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230919_193/zlYbQ_1695100889863FhrKl_JPEG/clip_20230919133620_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] RIIZE SEUNGHAN - Get A Guitar(라이즈 승한 - 겟 어 기타) Close-up Cam | Show! MusicCore | MBC230916방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 16 Sep 2023 13:13:36 GMT</pubDate>
             <content:encoded><![CDATA[2:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230916_8/Z6IPH_1694867792514RSuGp_JPEG/clip_20230916210635_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Hur Young Ji – L.O.V.E(허영지 - 엘오브이이) FanCam | Show! MusicCore | MBC230916방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40349475</link>
-            <guid>https://tv.naver.com/v/40349475</guid>
-            <pubDate>Sat, 16 Sep 2023 13:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_193/2OZtL_16948674943885b8vS_JPEG/clip_20230916210434_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[키 (KEY) - CoolAs | SBS 230917 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
