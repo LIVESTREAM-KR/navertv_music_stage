@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 10:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 11:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이채연(LEE CHAE YEON) - LET’S DANCE l 230920 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/40516449</link>
+            <guid>https://tv.naver.com/v/40516449</guid>
+            <pubDate>Wed, 20 Sep 2023 11:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_77/PJ2Ei_1695205594613l1obx_JPEG/CA202309200101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보이넥스트도어(BOYNEXTDOOR) - 뭣 같아 l 230920 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/40516211</link>
+            <guid>https://tv.naver.com/v/40516211</guid>
+            <pubDate>Wed, 20 Sep 2023 11:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_88/wEbvF_1695205289788YzpqR_JPEG/CA202309200100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT DEBUT] 라이즈(RIIZE) - Get A Guitar l 230920 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/40515964</link>
+            <guid>https://tv.naver.com/v/40515964</guid>
+            <pubDate>Wed, 20 Sep 2023 11:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_44/hxr24_1695204992279wDFxm_JPEG/CA202309200099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[SOLO HOT DEBUT] 허영지(HUR YOUNGJI) - L.O.V.E l 230920 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/40515776</link>
             <guid>https://tv.naver.com/v/40515776</guid>
@@ -1316,7 +1340,7 @@
             <link>https://tv.naver.com/v/40513788</link>
             <guid>https://tv.naver.com/v/40513788</guid>
             <pubDate>Wed, 20 Sep 2023 10:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230920_192/Ye90D_1695202289426DptCw_JPEG/CA202309200072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1430,30 +1454,6 @@
             <pubDate>Wed, 13 Sep 2023 13:18:36 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230913_245/YZpa4_1694595450737rO9yI_JPEG/CA202309130057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 원픽캠 4K] BOYNEXTDOOR SUNGHO - Crying (보이넥스트도어 성호 - 크라잉) | Show Champion | EP.491 l 230913 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40218758</link>
-            <guid>https://tv.naver.com/v/40218758</guid>
-            <pubDate>Wed, 13 Sep 2023 13:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_124/yDGl7_1694595095221Iuakj_JPEG/CA202309130052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] BOYNEXTDOOR LEEHAN - Crying (보이넥스트도어 이한 - 크라잉) | Show Champion | EP.491 l 230913 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40218755</link>
-            <guid>https://tv.naver.com/v/40218755</guid>
-            <pubDate>Wed, 13 Sep 2023 13:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_32/MH7ef_1694595093949LB2jx_JPEG/CA202309130054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] BOYNEXTDOOR WOONHAK - Crying (보이넥스트도어 운학 - 크라잉) | Show Champion | EP.491 l 230913 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40218752</link>
-            <guid>https://tv.naver.com/v/40218752</guid>
-            <pubDate>Wed, 13 Sep 2023 13:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_137/07oDK_1694595092547phCuP_JPEG/CA202309130053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
