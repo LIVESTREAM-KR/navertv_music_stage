@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 04:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 05:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2032,6 +2032,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] EP.587 - HUR YOUNG JI, TEMPEST, EL7Z UP, JAECHAN, PURPLE KISS, Rocket Punch (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/40585268</link>
+            <guid>https://tv.naver.com/v/40585268</guid>
+            <pubDate>Fri, 22 Sep 2023 05:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[55:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_108/ddzcD_1695344202955BXJRS_JPEG/1695344094969.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] EP.586 - JAECHAN(재찬), XODIAC(소디엑), LE'V(레비), cignature(시그니처), TIOT(티아 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/40262418</link>
             <guid>https://tv.naver.com/v/40262418</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
             <content:encoded><![CDATA[54:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230616_183/rnPQb_1686879779202hLpAm_JPEG/1686879284034.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.572 - KARD, SECRET NUMBER(시크릿넘버), NINE to SIX(나인투식스), YOUNITE(유나이 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/36782943</link>
-            <guid>https://tv.naver.com/v/36782943</guid>
-            <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[55:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_243/cFKZ2_1686214052965Uqy3H_JPEG/1686213440647.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포르테나_Nacht und Träume (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
