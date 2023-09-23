@@ -4,9 +4,225 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 09:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 10:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] TEMPEST HWARANG – Vroom Vroom(템페스트 화랑 - 브룸 브룸) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638517</link>
+            <guid>https://tv.naver.com/v/40638517</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_131/1bafQ_1695463954173EwBzy_JPEG/clip_20230923184732_59.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TEMPEST HYUK – Vroom Vroom(템페스트 혁 - 브룸 브룸) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638515</link>
+            <guid>https://tv.naver.com/v/40638515</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_243/dn3E0_1695463952697d9W27_JPEG/clip_20230923184730_58.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] EVNNE Park JiHoo – TROUBLE(이븐 박지후 - 트러블) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638513</link>
+            <guid>https://tv.naver.com/v/40638513</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_173/kCTKs_1695463951351lOqhS_JPEG/clip_20230923183528_34.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TEMPEST EUNCHAN – Vroom Vroom(템페스트 은찬 - 브룸 브룸) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638489</link>
+            <guid>https://tv.naver.com/v/40638489</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_198/ANgXS_1695463892015zjTg0_JPEG/clip_20230923184714_56.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CRAVITY MINHEE – Ready or Not(크래비티 민희 - 레디 오어 낫) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638488</link>
+            <guid>https://tv.naver.com/v/40638488</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_40/xfN1Z_1695463890844iGldO_JPEG/clip_20230923184359_54.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] mimiirose – Flirting(미미로즈 - 플러팅) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638351</link>
+            <guid>https://tv.naver.com/v/40638351</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_83/z5iCq_169546360025535Ovh_JPEG/clip_20230923185357_68.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] EL7Z UP – CHEEKY(엘즈업 - 치키) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638350</link>
+            <guid>https://tv.naver.com/v/40638350</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_203/5dd6T_1695463598646aJfF3_JPEG/clip_20230923185319_67.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] RIIZE - Get A Guitar(라이즈 – 겟 어 기타) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638348</link>
+            <guid>https://tv.naver.com/v/40638348</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_137/FVc8B_1695463596932uLmSg_JPEG/clip_20230923185145_65.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TEMPEST HANBIN – Vroom Vroom(템페스트 한빈 - 브룸 브룸) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638344</link>
+            <guid>https://tv.naver.com/v/40638344</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_194/qUCe3_1695463594321fL73V_JPEG/clip_20230923184717_57.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CRAVITY HYEONGJUN – Ready or Not(크래비티 형준 - 레디 오어 낫) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638341</link>
+            <guid>https://tv.naver.com/v/40638341</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_81/wr2Xm_1695463593292J4U2x_JPEG/clip_20230923184358_53.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VCHA Kaylee – Y.O.Universe(VCHA 케일리 - Y.O.Universe) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638339</link>
+            <guid>https://tv.naver.com/v/40638339</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_81/gKEx3_169546359231110Oci_JPEG/clip_20230923184017_48.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VCHA Lexi – Y.O.Universe(VCHA 렉시 - Y.O.Universe) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638338</link>
+            <guid>https://tv.naver.com/v/40638338</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_180/jBKA6_1695463591018h0xKs_JPEG/clip_20230923184011_44.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CRAVITY - Ready or Not(크래비티 – 레디 오어 낫) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638204</link>
+            <guid>https://tv.naver.com/v/40638204</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_142/Reltg_1695463291225sfdE6_JPEG/clip_20230923184353_50.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VCHA - Y.O.Universe FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638202</link>
+            <guid>https://tv.naver.com/v/40638202</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_3/sAXtI_1695463289587AJYio_JPEG/clip_20230923183646_40.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] CRAVITY JUNGMO – Ready or Not(크래비티 정모 - 레디 오어 낫) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638110</link>
+            <guid>https://tv.naver.com/v/40638110</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_44/qNRrp_1695463057199CDXRl_JPEG/clip_20230923184356_52.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VCHA Kendall – Y.O.Universe(VCHA 켄달 - Y.O.Universe) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638109</link>
+            <guid>https://tv.naver.com/v/40638109</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_237/P9QtP_1695463055851LYeSs_JPEG/clip_20230923184018_49.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VCHA Savanna – Y.O.Universe(VCHA 사바나 - Y.O.Universe) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638108</link>
+            <guid>https://tv.naver.com/v/40638108</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_272/ltjAG_169546305462444Uc3_JPEG/clip_20230923184015_47.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VCHA Camila – Y.O.Universe(VCHA 카밀라 - Y.O.Universe) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638107</link>
+            <guid>https://tv.naver.com/v/40638107</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_66/ohqoA_1695463053103nq0ku_JPEG/clip_20230923184014_46.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VCHA KG – Y.O.Universe(VCHA 케이지 - Y.O.Universe) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638106</link>
+            <guid>https://tv.naver.com/v/40638106</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_54/z3GVh_1695463051878TCfSu_JPEG/clip_20230923184012_45.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] EVNNE Ji YunSeo – TROUBLE(이븐 지윤서 - 트러블) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638104</link>
+            <guid>https://tv.naver.com/v/40638104</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_237/Q0Wcj_1695463050394IIyfJ_JPEG/clip_20230923183535_38.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] EVNNE Park HanBin – TROUBLE(이븐 박한빈 - 트러블) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638102</link>
+            <guid>https://tv.naver.com/v/40638102</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_259/zQerl_1695463049053oAWA2_JPEG/clip_20230923183530_35.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] EVNNE KEITA – TROUBLE(이븐 케이타 - 트러블) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638083</link>
+            <guid>https://tv.naver.com/v/40638083</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_150/iZ9tK_1695462993067pHsmw_JPEG/clip_20230923183537_39.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] EVNNE Yoo SeungEon – TROUBLE(이븐 유승언 - 트러블) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40638082</link>
+            <guid>https://tv.naver.com/v/40638082</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_73/gEf9o_1695462991803AUXYm_JPEG/clip_20230923183532_36.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] EVNNE Lee JeongHyeon – TROUBLE(이븐 이정현 - 트러블) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40637971</link>
+            <guid>https://tv.naver.com/v/40637971</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_173/S5nAE_1695462691901DVVjw_JPEG/clip_20230923183533_37.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] EVNNE - TROUBLE(이븐 – 트러블) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40637970</link>
+            <guid>https://tv.naver.com/v/40637970</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_95/nhkPP_1695462690497mYVN4_JPEG/clip_20230923183513_32.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KEY – Good & Great(키 - 굿 앤 그레이트) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40637521</link>
+            <guid>https://tv.naver.com/v/40637521</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_116/PwWPv_1695461489712jlb86_JPEG/clip_20230923181629_31.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KEY - Good & Great(키 – 굿 앤 그레이트) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40637519</link>
+            <guid>https://tv.naver.com/v/40637519</guid>
+            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_16/1QgEc_1695461488044xH9UB_JPEG/clip_20230923181540_30.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] Young K - nothing but(영케이 - 이것밖에는 없다) Close-up Cam | Show! MusicCore | MBC230916방송]]></title>
             <link>https://tv.naver.com/v/40449653</link>
@@ -30,222 +246,6 @@
             <pubDate>Tue, 19 Sep 2023 03:14:12 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230919_145/ltBwm_1695091893535bQoKc_JPEG/clip_20230919112813_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] RIIZE SOHEE - Get A Guitar(라이즈 소희 - 겟 어 기타) Close-up Cam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40441596</link>
-            <guid>https://tv.naver.com/v/40441596</guid>
-            <pubDate>Tue, 19 Sep 2023 03:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230919_274/O1u7U_1695091891686kFydp_JPEG/clip_20230919112812_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] RIIZE WONBIN - Get A Guitar(라이즈 원빈 - 겟 어 기타) Close-up Cam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40441320</link>
-            <guid>https://tv.naver.com/v/40441320</guid>
-            <pubDate>Tue, 19 Sep 2023 03:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230919_91/4FL58_1695091589914y5m8q_JPEG/clip_20230919112815_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] CRAVITY MINHEE - Ready or Not(크래비티 민희 - 레디 오어 낫) Close-up Cam | Show! MusicCore |MBC230916방]]></title>
-            <link>https://tv.naver.com/v/40411423</link>
-            <guid>https://tv.naver.com/v/40411423</guid>
-            <pubDate>Mon, 18 Sep 2023 10:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_111/Zwi8Y_1695029191434t03tp_JPEG/clip_20230918175415_53.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] KEY - Good & Great(키 - 굿 앤 그레이트) Close-up Cam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40404346</link>
-            <guid>https://tv.naver.com/v/40404346</guid>
-            <pubDate>Mon, 18 Sep 2023 07:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_174/q5beY_16950207926733CyKO_JPEG/clip_20230918153108_49.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS HIKARU – One Shot(판타지 보이즈 히카루 - 원샷) FanCam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40403030</link>
-            <guid>https://tv.naver.com/v/40403030</guid>
-            <pubDate>Mon, 18 Sep 2023 07:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_167/FSZGS_1695019290307OnHjd_JPEG/clip_20230918150402_41.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS LINGQI – One Shot(판타지 보이즈 링치 - 원샷) FanCam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40403027</link>
-            <guid>https://tv.naver.com/v/40403027</guid>
-            <pubDate>Mon, 18 Sep 2023 07:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_159/tuLQi_1695019289192hmR8s_JPEG/clip_20230918150354_40.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] FANTASY BOYS LEE HANBIN - One Shot(판타지 보이즈 이한빈 - 원샷) Close-up Cam|Show!MusicCore|MBC230916방]]></title>
-            <link>https://tv.naver.com/v/40402683</link>
-            <guid>https://tv.naver.com/v/40402683</guid>
-            <pubDate>Mon, 18 Sep 2023 07:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_101/QERjX_1695018991675buIak_JPEG/clip_20230918150500_47.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS KANG MINSEO – One Shot(판타지 보이즈 강민서 - 원샷) FanCam | Show! MusicCore | MBC230916방]]></title>
-            <link>https://tv.naver.com/v/40402681</link>
-            <guid>https://tv.naver.com/v/40402681</guid>
-            <pubDate>Mon, 18 Sep 2023 07:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_250/aGKr6_1695018990536gxFkk_JPEG/clip_20230918150344_39.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS K-SOUL – One Shot(판타지 보이즈 소울 - 원샷) FanCam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40402679</link>
-            <guid>https://tv.naver.com/v/40402679</guid>
-            <pubDate>Mon, 18 Sep 2023 07:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_203/hsjxZ_1695018989296w1ilQ_JPEG/clip_20230918150337_38.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] FANTASY BOYS HIKARI - One Shot(판타지 보이즈 히카리 - 원샷) Close-up Cam | Show! MusicCore |MBC230916방]]></title>
-            <link>https://tv.naver.com/v/40402342</link>
-            <guid>https://tv.naver.com/v/40402342</guid>
-            <pubDate>Mon, 18 Sep 2023 07:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_18/Ui8Jw_169501869089518t9s_JPEG/clip_20230918150509_48.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS KAEDAN – One Shot(판타지 보이즈 케이단 - 원샷) FanCam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40402341</link>
-            <guid>https://tv.naver.com/v/40402341</guid>
-            <pubDate>Mon, 18 Sep 2023 07:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_117/9fzwn_1695018689808sEKCF_JPEG/clip_20230918150449_46.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS OH HYEONTAE – One Shot(판타지 보이즈 오현태 - 원샷) FanCam | Show! MusicCore | MBC230916방]]></title>
-            <link>https://tv.naver.com/v/40402338</link>
-            <guid>https://tv.naver.com/v/40402338</guid>
-            <pubDate>Mon, 18 Sep 2023 07:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_28/rkPRt_1695018688512nW6uG_JPEG/clip_20230918150432_44.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS HONG SUNGMIN – One Shot(판타지 보이즈 홍성민 - 원샷) FanCam | Show! MusicCore |MBC230916방]]></title>
-            <link>https://tv.naver.com/v/40402103</link>
-            <guid>https://tv.naver.com/v/40402103</guid>
-            <pubDate>Mon, 18 Sep 2023 07:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_280/nvB5B_16950184506920Cynr_JPEG/clip_20230918150422_43.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS KIM GYURAE – One Shot(판타지 보이즈 김규래 - 원샷) FanCam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40402046</link>
-            <guid>https://tv.naver.com/v/40402046</guid>
-            <pubDate>Mon, 18 Sep 2023 07:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_35/2UnNG_1695018391216C11tQ_JPEG/clip_20230918150439_45.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS KIM WOOSEOK – One Shot(판타지 보이즈 김우석 - 원샷) FanCam | Show! MusicCore | MBC230916방]]></title>
-            <link>https://tv.naver.com/v/40401727</link>
-            <guid>https://tv.naver.com/v/40401727</guid>
-            <pubDate>Mon, 18 Sep 2023 07:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_158/WQkav_169501808860780b3X_JPEG/clip_20230918150415_42.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE WONBIN – Get A Guitar(라이즈 원빈 - 겟 어 기타) FanCam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40387973</link>
-            <guid>https://tv.naver.com/v/40387973</guid>
-            <pubDate>Mon, 18 Sep 2023 01:50:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_280/f5vB1_1694999189831SSg7u_JPEG/clip_20230916183307_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TIOT - Unbeatable(티아이오티 – 백전무패) FanCam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40350094</link>
-            <guid>https://tv.naver.com/v/40350094</guid>
-            <pubDate>Sat, 16 Sep 2023 13:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_90/04w7F_1694868690884INS7V_JPEG/clip_20230916211036_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] EL7Z UP NANA - CHEEKY(엘즈업 나나 - 치키) FanCam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40350093</link>
-            <guid>https://tv.naver.com/v/40350093</guid>
-            <pubDate>Sat, 16 Sep 2023 13:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_6/AMApV_1694868689752pN5rt_JPEG/clip_20230916210931_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] PURPLE KISS – 7HEAVEN(퍼플키스 - 세븐헤븐) FanCam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40349824</link>
-            <guid>https://tv.naver.com/v/40349824</guid>
-            <pubDate>Sat, 16 Sep 2023 13:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_227/6xAz8_16948681562333Tnpc_JPEG/clip_20230916211307_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Rocket Punch – BOOM(로켓펀치 - 붐) FanCam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40349823</link>
-            <guid>https://tv.naver.com/v/40349823</guid>
-            <pubDate>Sat, 16 Sep 2023 13:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_136/rIv4u_1694868154790N4S3j_JPEG/clip_20230916211302_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TIOT KUM JUNHYEON – Unbeatable(티아이오티 금준현 - 백전무패) FanCam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40349822</link>
-            <guid>https://tv.naver.com/v/40349822</guid>
-            <pubDate>Sat, 16 Sep 2023 13:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_150/YVjlb_1694868153391VmKVy_JPEG/clip_20230916211109_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Young K – nothing but(영케이 - 이것밖에는 없다) FanCam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40349781</link>
-            <guid>https://tv.naver.com/v/40349781</guid>
-            <pubDate>Sat, 16 Sep 2023 13:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[5:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_136/7OPyC_1694868089101EAR5P_JPEG/clip_20230916205845_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] EL7Z UP YEONHEE - CHEEKY(엘즈업 연희 - 치키) FanCam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40349620</link>
-            <guid>https://tv.naver.com/v/40349620</guid>
-            <pubDate>Sat, 16 Sep 2023 13:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_14/XoeEW_1694867796425vNLfN_JPEG/clip_20230916210925_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] LEE CHAE YEON – LET’S DANCE(이채연 - 레츠 댄스) FanCam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40349619</link>
-            <guid>https://tv.naver.com/v/40349619</guid>
-            <pubDate>Sat, 16 Sep 2023 13:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_1/Oy6wi_1694867795240BnzdN_JPEG/clip_20230916210744_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] LEE CHAE YEON - LET’S DANCE(이채연 – 레츠 댄스) FanCam (Horizontal Ver.)|Show!MusicCore|MBC230916방]]></title>
-            <link>https://tv.naver.com/v/40349618</link>
-            <guid>https://tv.naver.com/v/40349618</guid>
-            <pubDate>Sat, 16 Sep 2023 13:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_29/iQlCZ_1694867793408tPnCy_JPEG/clip_20230916210739_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] HWASA – I Love My Body(화사 - 아이 러브 마이 바디) FanCam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40349616</link>
-            <guid>https://tv.naver.com/v/40349616</guid>
-            <pubDate>Sat, 16 Sep 2023 13:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_8/Z6IPH_1694867792514RSuGp_JPEG/clip_20230916210635_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] POW YORCH - Favorite(파우 요치 - 페이보릿) FanCam | Show! MusicCore | MBC230916방송]]></title>
-            <link>https://tv.naver.com/v/40349615</link>
-            <guid>https://tv.naver.com/v/40349615</guid>
-            <pubDate>Sat, 16 Sep 2023 13:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_4/oY73T_1694867791206roq5A_JPEG/clip_20230916210047_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
