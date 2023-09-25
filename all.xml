@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 06:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 07:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] EVNNE Lee JeongHyeon - TROUBLE(이븐 이정현 - 트러블) Close-up Cam | Show! MusicCore | MBC230923방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/40693713</link>
+            <guid>https://tv.naver.com/v/40693713</guid>
+            <pubDate>Mon, 25 Sep 2023 07:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_144/1LMls_1695625889214SNFfl_JPEG/clip_20230925155236_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] EVNNE Yoo SeungEon - TROUBLE(이븐 유승언 - 트러블) Close-up Cam | Show! MusicCore | MBC230923방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/40693422</link>
+            <guid>https://tv.naver.com/v/40693422</guid>
+            <pubDate>Mon, 25 Sep 2023 07:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_104/NbQsb_1695625592109i6Ouo_JPEG/clip_20230925155234_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] EL7Z UP NANA - CHEEKY(엘즈업 나나 - 치키) Close-up Cam | Show! MusicCore | MBC230923방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/40691942</link>
+            <guid>https://tv.naver.com/v/40691942</guid>
+            <pubDate>Mon, 25 Sep 2023 07:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_239/MUEro_1695623797050G8Pcx_JPEG/clip_20230925152639_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] FANTASY BOYS - New Tomorrow(판타지 보이즈 – 뉴 투모로우) FanCam | Show! MusicCore | MBC230923방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
             <content:encoded><![CDATA[3:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230923_259/zQerl_1695463049053oAWA2_JPEG/clip_20230923183530_35.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] EVNNE KEITA – TROUBLE(이븐 케이타 - 트러블) FanCam | Show! MusicCore | MBC230923방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40638083</link>
-            <guid>https://tv.naver.com/v/40638083</guid>
-            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_150/iZ9tK_1695462993067pHsmw_JPEG/clip_20230923183537_39.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] EVNNE Yoo SeungEon – TROUBLE(이븐 유승언 - 트러블) FanCam | Show! MusicCore | MBC230923방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40638082</link>
-            <guid>https://tv.naver.com/v/40638082</guid>
-            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_73/gEf9o_1695462991803AUXYm_JPEG/clip_20230923183532_36.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] EVNNE Lee JeongHyeon – TROUBLE(이븐 이정현 - 트러블) FanCam | Show! MusicCore | MBC230923방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40637971</link>
-            <guid>https://tv.naver.com/v/40637971</guid>
-            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_173/S5nAE_1695462691901DVVjw_JPEG/clip_20230923183533_37.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[키 (KEY) - CoolAs | SBS 230917 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
