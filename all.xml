@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 09:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 10:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] RIIZE SUNGCHAN - Get A Guitar(라이즈 성찬 - 겟 어 기타) Close-up Cam | Show! MusicCore | MBC230923방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/40700156</link>
+            <guid>https://tv.naver.com/v/40700156</guid>
+            <pubDate>Mon, 25 Sep 2023 10:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_156/Aho4D_16956336912775XFOx_JPEG/clip_20230925175907_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] RIIZE SHOTARO – Get A Guitar(라이즈 쇼타로 - 겟 어 기타) FanCam | Show! MusicCore | MBC230923방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/40700153</link>
+            <guid>https://tv.naver.com/v/40700153</guid>
+            <pubDate>Mon, 25 Sep 2023 10:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_38/4o8Ic_1695633690123rPRYA_JPEG/clip_20230925175901_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] RIIZE WONBIN - Get A Guitar(라이즈 원빈 - 겟 어 기타) Close-up Cam | Show! MusicCore | MBC230923방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230923_198/ANgXS_1695463892015zjTg0_JPEG/clip_20230923184714_56.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CRAVITY MINHEE – Ready or Not(크래비티 민희 - 레디 오어 낫) FanCam | Show! MusicCore | MBC230923방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40638488</link>
-            <guid>https://tv.naver.com/v/40638488</guid>
-            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_40/xfN1Z_1695463890844iGldO_JPEG/clip_20230923184359_54.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VCHA Kaylee – Y.O.Universe(VCHA 케일리 - Y.O.Universe) FanCam | Show! MusicCore | MBC230923방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40638339</link>
-            <guid>https://tv.naver.com/v/40638339</guid>
-            <pubDate>Sat, 23 Sep 2023 10:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_81/gKEx3_169546359231110Oci_JPEG/clip_20230923184017_48.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[키 (KEY) - CoolAs | SBS 230917 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
