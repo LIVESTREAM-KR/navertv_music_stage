@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 01:53:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 02:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] FANTASY BOYS KIM WOOSEOK – One Shot(판타지 보이즈 김우석 - 원샷) FanCam | Show! MusicCore | MBC230923방]]></title>
+            <link>https://tv.naver.com/v/40724412</link>
+            <guid>https://tv.naver.com/v/40724412</guid>
+            <pubDate>Tue, 26 Sep 2023 02:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[4:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_72/OF7cC_1695693992314AexeT_JPEG/clip_20230926101941_30.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] FANTASY BOYS K-SOUL – One Shot(판타지 보이즈 소울 - 원샷) FanCam | Show! MusicCore | MBC230923방송]]></title>
+            <link>https://tv.naver.com/v/40724051</link>
+            <guid>https://tv.naver.com/v/40724051</guid>
+            <pubDate>Tue, 26 Sep 2023 02:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_147/IK7FF_1695693450166lobfa_JPEG/clip_20230926101943_31.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] FANTASY BOYS HONG SUNGMIN – One Shot(판타지 보이즈 홍성민 - 원샷) FanCam | Show! MusicCore |MBC230923방]]></title>
+            <link>https://tv.naver.com/v/40724021</link>
+            <guid>https://tv.naver.com/v/40724021</guid>
+            <pubDate>Tue, 26 Sep 2023 02:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_247/mwTc8_1695693392286u87Vk_JPEG/clip_20230926101949_36.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] FANTASY BOYS OH HYEONTAE – One Shot(판타지 보이즈 오현태 - 원샷) FanCam | Show! MusicCore | MBC230923방]]></title>
             <link>https://tv.naver.com/v/40723852</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 25 Sep 2023 07:13:04 GMT</pubDate>
             <content:encoded><![CDATA[3:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230925_104/NbQsb_1695625592109i6Ouo_JPEG/clip_20230925155234_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] EL7Z UP NANA - CHEEKY(엘즈업 나나 - 치키) Close-up Cam | Show! MusicCore | MBC230923방송]]></title>
-            <link>https://tv.naver.com/v/40691942</link>
-            <guid>https://tv.naver.com/v/40691942</guid>
-            <pubDate>Mon, 25 Sep 2023 07:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_239/MUEro_1695623797050G8Pcx_JPEG/clip_20230925152639_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS - New Tomorrow(판타지 보이즈 – 뉴 투모로우) FanCam | Show! MusicCore | MBC230923방송]]></title>
-            <link>https://tv.naver.com/v/40638838</link>
-            <guid>https://tv.naver.com/v/40638838</guid>
-            <pubDate>Sat, 23 Sep 2023 11:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[5:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_136/12rnS_1695464849344OMS0b_JPEG/clip_20230923184822_60.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TEMPEST - Vroom Vroom(템페스트 – 브룸 브룸) FanCam | Show! MusicCore | MBC230923방송]]></title>
-            <link>https://tv.naver.com/v/40638723</link>
-            <guid>https://tv.naver.com/v/40638723</guid>
-            <pubDate>Sat, 23 Sep 2023 11:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_110/hmYMn_1695464489584N7I2V_JPEG/clip_20230923184713_55.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
