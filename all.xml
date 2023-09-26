@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 02:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 03:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] POW YORCH - Favorite(파우 요치 - 페이보릿) Close-up Cam | Show! MusicCore | MBC230923방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/40726391</link>
+            <guid>https://tv.naver.com/v/40726391</guid>
+            <pubDate>Tue, 26 Sep 2023 03:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_151/hN17Z_1695696689102QmCMB_JPEG/clip_20230926113131_44.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] FANTASY BOYS KIM WOOSEOK – One Shot(판타지 보이즈 김우석 - 원샷) FanCam | Show! MusicCore | MBC230923방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Mon, 25 Sep 2023 07:13:04 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230925_144/1LMls_1695625889214SNFfl_JPEG/clip_20230925155236_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] EVNNE Yoo SeungEon - TROUBLE(이븐 유승언 - 트러블) Close-up Cam | Show! MusicCore | MBC230923방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40693422</link>
-            <guid>https://tv.naver.com/v/40693422</guid>
-            <pubDate>Mon, 25 Sep 2023 07:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_104/NbQsb_1695625592109i6Ouo_JPEG/clip_20230925155234_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[키 (KEY) - CoolAs | SBS 230917 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
