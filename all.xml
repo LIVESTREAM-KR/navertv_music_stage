@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 11:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 12:27:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔 1위] 9월 4주 챔피언송 ＜TEMPEST - Vroom Vroom＞ 앵콜 Full ver. l Show Champion l EP.493 l 230927 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/40792115</link>
+            <guid>https://tv.naver.com/v/40792115</guid>
+            <pubDate>Wed, 27 Sep 2023 12:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[4:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_81/oCm0e_1695814593203FboLd_JPEG/CA202309270100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[최초 공개] 원어스(ONEUS) - Baila Conmigo l 230927 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/40789977</link>
             <guid>https://tv.naver.com/v/40789977</guid>
@@ -1252,7 +1260,7 @@
             <link>https://tv.naver.com/v/40789713</link>
             <guid>https://tv.naver.com/v/40789713</guid>
             <pubDate>Wed, 27 Sep 2023 10:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[9:34]]></content:encoded>
+            <content:encoded><![CDATA[9:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230927_252/uHYGh_16958094935236ybSK_JPEG/CA202309270084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 20 Sep 2023 13:18:03 GMT</pubDate>
             <content:encoded><![CDATA[3:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230920_136/2VgEp_1695199288987aT4nq_JPEG/CA202309200062.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Hur Young Ji- L.O.V.E (허영지 - 엘오브이이) | Show Champion | EP.492 | 230920 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40510835</link>
-            <guid>https://tv.naver.com/v/40510835</guid>
-            <pubDate>Wed, 20 Sep 2023 13:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_182/0Y4ha_1695198990793N156s_JPEG/CA202309200061.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
