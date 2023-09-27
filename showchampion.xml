@@ -4,9 +4,33 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 10:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 11:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[최초 공개] 원어스(ONEUS) - Baila Conmigo l 230927]]></title>
+            <link>https://tv.naver.com/v/40789977</link>
+            <guid>https://tv.naver.com/v/40789977</guid>
+            <pubDate>Wed, 27 Sep 2023 11:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_224/vWbjH_169581009449016x8g_JPEG/CA202309270093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최초 공개] 원어스(ONEUS) - Simulation l 230927]]></title>
+            <link>https://tv.naver.com/v/40789826</link>
+            <guid>https://tv.naver.com/v/40789826</guid>
+            <pubDate>Wed, 27 Sep 2023 11:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_11/qix69_16958097936693sqeq_JPEG/CA202309270092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 템페스트(TEMPEST) - Vroom Vroom l 230927]]></title>
+            <link>https://tv.naver.com/v/40789824</link>
+            <guid>https://tv.naver.com/v/40789824</guid>
+            <pubDate>Wed, 27 Sep 2023 11:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_105/CvT11_1695809790959rDmAE_JPEG/CA202309270090.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[최초 공개] 빌리(Billlie) - BYOB (bring your own best friend) l 230927]]></title>
             <link>https://tv.naver.com/v/40789735</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 20 Sep 2023 13:18:03 GMT</pubDate>
             <content:encoded><![CDATA[3:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230920_182/0Y4ha_1695198990793N156s_JPEG/CA202309200061.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] EL7Z UP Kei - CHEEKY (엘즈업 케이 - 치키) | Show Champion | EP.492 l 230920]]></title>
-            <link>https://tv.naver.com/v/40510543</link>
-            <guid>https://tv.naver.com/v/40510543</guid>
-            <pubDate>Wed, 20 Sep 2023 13:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_231/gpG3r_1695198691811SyHVt_JPEG/CA202309200060.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] EL7Z UP - CHEEKY (엘즈업 - 치키) l Show Champion l EP.492 l 230920]]></title>
-            <link>https://tv.naver.com/v/40510541</link>
-            <guid>https://tv.naver.com/v/40510541</guid>
-            <pubDate>Wed, 20 Sep 2023 13:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_12/ZGira_169519868972327et8_JPEG/CA202309200052.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 원픽캠 4K] EL7Z UP NANA - CHEEKY (엘즈업 나나 - 치키) | Show Champion | EP.492 l 230920]]></title>
-            <link>https://tv.naver.com/v/40510215</link>
-            <guid>https://tv.naver.com/v/40510215</guid>
-            <pubDate>Wed, 20 Sep 2023 13:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_21/9Sfqp_1695198392535rjr6e_JPEG/CA202309200059.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
