@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 06:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 07:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 기다리고 있었습니다. 쇼챔표 ‘가을 페스티벌’ 제대로 모시겠습니다!!🙇🏻‍]]></title>
+            <link>https://tv.naver.com/v/40892643</link>
+            <guid>https://tv.naver.com/v/40892643</guid>
+            <pubDate>Mon, 02 Oct 2023 07:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231002_15/sCxPf_1696228290190efNgJ_JPEG/CA202310040002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[9월 4주차 쇼챔피언 🍩MC 나나츠키민서🌙 모음.zip (woo!ah! 나나&민서, Billlie 츠키) | Show Champion | EP.493 | 230927]]></title>
             <link>https://tv.naver.com/v/40791728</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Sep 2023 13:18:09 GMT</pubDate>
             <content:encoded><![CDATA[2:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230927_178/wY0av_1695798690017iMznz_JPEG/CA202309270042.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] THE NEW SIX (TNX) - My Bias (더 뉴 식스 - 최애) | Show Champion | EP.493 | 230927]]></title>
-            <link>https://tv.naver.com/v/40778282</link>
-            <guid>https://tv.naver.com/v/40778282</guid>
-            <pubDate>Wed, 27 Sep 2023 13:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_51/uVNVm_1695793353569NC3lm_JPEG/CA202309270041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
