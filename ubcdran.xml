@@ -4,7 +4,7 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 18:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 19:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,54 @@
             <pubDate>Sat, 07 Oct 2023 18:18:01 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231005_245/kZISA_1696494195942vGFvt_JPEG/32b357d3-6358-11ee-8b25-a0369ffab040_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딕펑스_썬글라스]]></title>
+            <link>https://tv.naver.com/v/41011004</link>
+            <guid>https://tv.naver.com/v/41011004</guid>
+            <pubDate>Sat, 07 Oct 2023 19:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_85/6EUWs_1696494089967PTv9E_JPEG/163acdd6-6350-11ee-ba6d-80615f0bcdae_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소찬휘_뱅뱅뱅(원곡 빅뱅]]></title>
+            <link>https://tv.naver.com/v/41010994</link>
+            <guid>https://tv.naver.com/v/41010994</guid>
+            <pubDate>Sat, 07 Oct 2023 19:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_115/h7xaB_169649408298228fo6_JPEG/26617a8b-6350-11ee-9416-48df379cca40_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현정_혼자한 사랑]]></title>
+            <link>https://tv.naver.com/v/41010988</link>
+            <guid>https://tv.naver.com/v/41010988</guid>
+            <pubDate>Sat, 07 Oct 2023 19:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_112/K0M38_1696494076579HiMSf_JPEG/3d85665c-6350-11ee-968b-80615f0bccec_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전인권밴드_세계로 가는 기차]]></title>
+            <link>https://tv.naver.com/v/41010981</link>
+            <guid>https://tv.naver.com/v/41010981</guid>
+            <pubDate>Sat, 07 Oct 2023 19:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[6:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_163/NOmTo_1696494070970mHaSi_JPEG/540c7591-6350-11ee-968b-80615f0bccec_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아프리카_내가 가진 건]]></title>
+            <link>https://tv.naver.com/v/41010972</link>
+            <guid>https://tv.naver.com/v/41010972</guid>
+            <pubDate>Sat, 07 Oct 2023 19:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_181/afZR6_1696494063451vJSQp_JPEG/7a914c3c-6350-11ee-b893-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아프리카_일어나(원곡 김광석]]></title>
+            <link>https://tv.naver.com/v/41010966</link>
+            <guid>https://tv.naver.com/v/41010966</guid>
+            <pubDate>Sat, 07 Oct 2023 19:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_196/D9x03_1696494056399Y5Aqa_JPEG/956b6141-6350-11ee-968b-80615f0bccec_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[써니_한 여름밤의 꿈(원곡 권성연)]]></title>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 08 Sep 2023 10:15:38 GMT</pubDate>
             <content:encoded><![CDATA[10:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230908_295/Rz1Ro_1694139366507EvFO5_JPEG/e97acfd2-4dea-11ee-95cd-a0369ffbf8a4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노라조_사이다]]></title>
-            <link>https://tv.naver.com/v/40008811</link>
-            <guid>https://tv.naver.com/v/40008811</guid>
-            <pubDate>Fri, 08 Sep 2023 10:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_115/w8DO9_1694139357561C06aC_JPEG/d2b0289c-4dea-11ee-8224-a0369ffac2a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노라조_슈퍼맨]]></title>
-            <link>https://tv.naver.com/v/40008798</link>
-            <guid>https://tv.naver.com/v/40008798</guid>
-            <pubDate>Fri, 08 Sep 2023 10:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_16/m6qRv_16941393488199WODN_JPEG/beb1239f-4dea-11ee-85bd-a0369ffdab2c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노라조_고등어]]></title>
-            <link>https://tv.naver.com/v/40008796</link>
-            <guid>https://tv.naver.com/v/40008796</guid>
-            <pubDate>Fri, 08 Sep 2023 10:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_150/TzD0a_16941393435694lupO_JPEG/ac389848-4dea-11ee-8fa1-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노라조_일개미]]></title>
-            <link>https://tv.naver.com/v/40008788</link>
-            <guid>https://tv.naver.com/v/40008788</guid>
-            <pubDate>Fri, 08 Sep 2023 10:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_164/G5eIB_1694139339253Chhvh_JPEG/8f3030d1-4dea-11ee-b928-a0369ffdb5e4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노라조_형]]></title>
-            <link>https://tv.naver.com/v/40008785</link>
-            <guid>https://tv.naver.com/v/40008785</guid>
-            <pubDate>Fri, 08 Sep 2023 10:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_212/wxLS3_1694139333806897wi_JPEG/72f8d4f1-4dea-11ee-8224-a0369ffac2a8_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케이시_늦은 밤 헤어지긴 너무 아쉬워]]></title>
-            <link>https://tv.naver.com/v/39693330</link>
-            <guid>https://tv.naver.com/v/39693330</guid>
-            <pubDate>Fri, 01 Sep 2023 09:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230831_288/YC7Fg_1693472435921MkzSf_JPEG/a63dd901-47ce-11ee-a314-48df37e2c3ac_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
