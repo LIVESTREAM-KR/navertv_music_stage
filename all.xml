@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 05:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 06:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 읏추읏추 벌써 10월! 가을엔 FULL METAL JACKET을 걸쳐~ (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41140108</link>
+            <guid>https://tv.naver.com/v/41140108</guid>
+            <pubDate>Mon, 09 Oct 2023 06:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231009_262/0VnDK_1696830989571gFMON_JPEG/CA202310110004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예고] 기다리고 있었습니다. 쇼챔표 ‘가을 페스티벌’ 제대로 모시겠습니다!!🙇🏻‍ (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/40892643</link>
             <guid>https://tv.naver.com/v/40892643</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 27 Sep 2023 13:18:09 GMT</pubDate>
             <content:encoded><![CDATA[3:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230927_242/AC7bp_1695798750469Bfny7_JPEG/CA202309270043.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Billlie SHEON(션) - BYOB (bring your own best friend) | Show Champion | EP.493 | 230927 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40782586</link>
-            <guid>https://tv.naver.com/v/40782586</guid>
-            <pubDate>Wed, 27 Sep 2023 13:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_178/wY0av_1695798690017iMznz_JPEG/CA202309270042.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
