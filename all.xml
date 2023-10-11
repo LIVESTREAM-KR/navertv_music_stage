@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 10:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 11:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔 에세이] 더뉴식스(THE NEW SIX(TNX)) - Beatbox (원곡 : NCT DREAM) l 231011 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41244042</link>
+            <guid>https://tv.naver.com/v/41244042</guid>
+            <pubDate>Wed, 11 Oct 2023 11:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[10:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_139/qbTX7_16970208884729L5cz_JPEG/CA202310110090.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원어스(ONEUS) - Baila Conmigo l 231011 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41243386</link>
+            <guid>https://tv.naver.com/v/41243386</guid>
+            <pubDate>Wed, 11 Oct 2023 11:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_53/afr7E_1697019993733jUH7V_JPEG/CA202310110091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[COMEBACK] 이펙스(EPEX) - FULL METAL JACKET l 231011 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/41242534</link>
             <guid>https://tv.naver.com/v/41242534</guid>
@@ -1438,22 +1454,6 @@
             <pubDate>Wed, 27 Sep 2023 13:18:09 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230927_284/VAVl8_1695809191530UA8Hh_JPEG/CA202309270077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] EVNNE PARK JI HOO - TROUBLE (이븐 박지후 - 트러블) | Show Champion | EP.493 | 230927 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40789305</link>
-            <guid>https://tv.naver.com/v/40789305</guid>
-            <pubDate>Wed, 27 Sep 2023 13:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_193/rpBTJ_1695808651144zJcoX_JPEG/CA202309270074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] EVNNE PARK HAN BIN - TROUBLE (이븐 박한빈 - 트러블) | Show Champion | EP.493 | 230927 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40789279</link>
-            <guid>https://tv.naver.com/v/40789279</guid>
-            <pubDate>Wed, 27 Sep 2023 13:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_283/OXXAU_1695808592915yaYnf_JPEG/CA202309270075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
