@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 07:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 08:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] ONEUS - Baila Conmigo (원어스 - 바일라 꼰미고) l Show Champion l EP.495 l 231011 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41246406</link>
+            <guid>https://tv.naver.com/v/41246406</guid>
+            <pubDate>Thu, 12 Oct 2023 08:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_188/Br56s_1697023591417pI8Ho_JPEG/CA202310110094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] EPEX - Surrender (이펙스 - 서렌더) l Show Champion l EP.495 l 231011 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41246164</link>
+            <guid>https://tv.naver.com/v/41246164</guid>
+            <pubDate>Thu, 12 Oct 2023 08:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_89/ecycB_1697023291312HafK2_JPEG/CA202310110093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] XG COCONA - PUPPET SHOW (엑스지 코코나 - 퍼펫 쇼) | Show Champion | EP.495 l 231011 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/41241964</link>
             <guid>https://tv.naver.com/v/41241964</guid>
@@ -1438,22 +1454,6 @@
             <pubDate>Wed, 11 Oct 2023 13:19:08 GMT</pubDate>
             <content:encoded><![CDATA[4:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231011_257/OuGQ2_1696993598046CEmP5_JPEG/CA202310110035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] EVNNE JI YUN SEO - TROUBLE (이븐 지윤서 - 트러블) | Show Champion | EP.495 | 231011 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41221002</link>
-            <guid>https://tv.naver.com/v/41221002</guid>
-            <pubDate>Wed, 11 Oct 2023 13:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[4:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_114/KT7RS_1696993596635D4UEv_JPEG/CA202310110034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] EVNNE LEE JEONG HYEON - TROUBLE (이븐 이정현 - 트러블) | Show Champion | EP.495 | 231011 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41220999</link>
-            <guid>https://tv.naver.com/v/41220999</guid>
-            <pubDate>Wed, 11 Oct 2023 13:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[4:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_206/ZqKrN_16969935951902xKqN_JPEG/CA202310110033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
