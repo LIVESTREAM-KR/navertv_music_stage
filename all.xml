@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 01:58:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 02:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[10월 2주차 쇼챔피언 🍩MC 나나츠키LEW🌙 모음.zip (우아! 나나, 빌리 츠키, 템페스트 LEW) | Show Champion | EP.495 | 231011 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41246167</link>
+            <guid>https://tv.naver.com/v/41246167</guid>
+            <pubDate>Fri, 13 Oct 2023 02:25:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_58/A1nr0_1697023293489vS3zx_JPEG/CA202310110095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] ONEUS - Baila Conmigo (원어스 - 바일라 꼰미고) l Show Champion l EP.495 l 231011 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/41246406</link>
             <guid>https://tv.naver.com/v/41246406</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 11 Oct 2023 13:19:08 GMT</pubDate>
             <content:encoded><![CDATA[3:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231011_11/d9JEV_1697000249526LCKn0_JPEG/CA202310110038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] EVNNE KEITA - TROUBLE (이븐 케이타 - 트러블) | Show Champion | EP.495 | 231011 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41221005</link>
-            <guid>https://tv.naver.com/v/41221005</guid>
-            <pubDate>Wed, 11 Oct 2023 13:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[4:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_257/OuGQ2_1696993598046CEmP5_JPEG/CA202310110035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
