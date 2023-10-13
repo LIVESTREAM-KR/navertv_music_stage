@@ -4,9 +4,25 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 08:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 09:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산시립합창단_Funiculi Funicula(푸니쿨리 푸니쿨라)]]></title>
+            <link>https://tv.naver.com/v/41328427</link>
+            <guid>https://tv.naver.com/v/41328427</guid>
+            <pubDate>Fri, 13 Oct 2023 09:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231013_202/5zegz_1697170036002Rj5Pz_JPEG/0788861f-6972-11ee-8fa1-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조성모_너의 곁으로]]></title>
+            <link>https://tv.naver.com/v/41328424</link>
+            <guid>https://tv.naver.com/v/41328424</guid>
+            <pubDate>Fri, 13 Oct 2023 09:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231013_139/Vaclb_1697170030966PFWfT_JPEG/18ac30be-6972-11ee-9244-a0369ffde9a8_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김경록_Beautiful life]]></title>
             <link>https://tv.naver.com/v/41011125</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 08 Sep 2023 09:14:12 GMT</pubDate>
             <content:encoded><![CDATA[4:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230908_86/h3laP_1694139376048085Nv_JPEG/4089a62a-4deb-11ee-9125-d4f5ef590144_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노라조_카레]]></title>
-            <link>https://tv.naver.com/v/40008819</link>
-            <guid>https://tv.naver.com/v/40008819</guid>
-            <pubDate>Fri, 08 Sep 2023 09:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_243/LO6hf_1694139371571FuzvI_JPEG/2ee77d20-4deb-11ee-9125-d4f5ef590144_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노라조_인터뷰]]></title>
-            <link>https://tv.naver.com/v/40008816</link>
-            <guid>https://tv.naver.com/v/40008816</guid>
-            <pubDate>Fri, 08 Sep 2023 10:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[10:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_295/Rz1Ro_1694139366507EvFO5_JPEG/e97acfd2-4dea-11ee-95cd-a0369ffbf8a4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
