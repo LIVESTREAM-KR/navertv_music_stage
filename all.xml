@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 14:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 15:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -388,8 +388,8 @@
             <link>https://tv.naver.com/v/41399716</link>
             <guid>https://tv.naver.com/v/41399716</guid>
             <pubDate>Sun, 15 Oct 2023 07:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231015_210/Pgy9O_169737879076244unP_PNG/5f1805ab-3a17-4ac3-bfda-683a24e65c9d.png?type=f194_109_blend" length="0" type="image/png"/>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231015_239/zGwz8_1697379390680UCB79_PNG/e133fa05-71d7-4e66-a1a7-0a96ee2b33d8.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[EVNNE - TROUBLE | SBS 231015 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
