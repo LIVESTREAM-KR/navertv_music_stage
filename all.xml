@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 01:01:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 01:56:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 한 팀도 빠짐없이 영롱...✨ 이번주 쇼챔 라인업 못 참고 보여드립니다 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41422930</link>
+            <guid>https://tv.naver.com/v/41422930</guid>
+            <pubDate>Mon, 16 Oct 2023 01:56:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231016_83/fZvEF_1697419297888akVac_JPEG/CA202310180002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[10월 2주차 쇼챔피언 🍩MC 나나츠키LEW🌙 모음.zip (우아! 나나, 빌리 츠키, 템페스트 LEW) | Show Champion | EP.495 | 231011 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/41246167</link>
             <guid>https://tv.naver.com/v/41246167</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 11 Oct 2023 13:19:08 GMT</pubDate>
             <content:encoded><![CDATA[3:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231011_196/hjx8L_1697000489026swim5_JPEG/CA202310110039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] EPEX - FULL METAL JACKET (이펙스 - 풀 메탈 자켓) | Show Champion | EP.495 | 231011 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41226146</link>
-            <guid>https://tv.naver.com/v/41226146</guid>
-            <pubDate>Wed, 11 Oct 2023 13:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_11/d9JEV_1697000249526LCKn0_JPEG/CA202310110038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
