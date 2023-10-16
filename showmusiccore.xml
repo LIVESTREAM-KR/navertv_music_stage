@@ -4,9 +4,41 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 09:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 10:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE LIZ - Baddie(아이브 리즈 - 배디) Close-up Cam | Show! MusicCore | MBC231014방송]]></title>
+            <link>https://tv.naver.com/v/41447429</link>
+            <guid>https://tv.naver.com/v/41447429</guid>
+            <pubDate>Mon, 16 Oct 2023 10:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231016_110/Fyohi_1697448096339rL6Xv_JPEG/clip_20231016175612_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE JANG WONYOUNG - Baddie(아이브 장원영 - 배디) Close-up Cam | Show! MusicCore | MBC231014방송]]></title>
+            <link>https://tv.naver.com/v/41447425</link>
+            <guid>https://tv.naver.com/v/41447425</guid>
+            <pubDate>Mon, 16 Oct 2023 10:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231016_148/AHafC_1697448094450xfUsN_JPEG/clip_20231016175605_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE GAEUL - Baddie(아이브 가을 - 배디) Close-up Cam | Show! MusicCore | MBC231014방송]]></title>
+            <link>https://tv.naver.com/v/41447422</link>
+            <guid>https://tv.naver.com/v/41447422</guid>
+            <pubDate>Mon, 16 Oct 2023 10:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231016_267/vGdYb_1697448092094oYehb_JPEG/clip_20231016175558_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE AN YUJIN - Baddie(아이브 안유진 - 배디) Close-up Cam | Show! MusicCore | MBC231014방송]]></title>
+            <link>https://tv.naver.com/v/41447419</link>
+            <guid>https://tv.naver.com/v/41447419</guid>
+            <pubDate>Mon, 16 Oct 2023 10:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231016_186/vQ8BE_1697448090130sApwQ_JPEG/clip_20231016175525_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] NCT 127 MARK - Fact Check(엔시티 일이칠 마크 - 불가사의; 不可思議) Close-up Cam | Show!MusicCore|MBC231014방]]></title>
             <link>https://tv.naver.com/v/41442792</link>
@@ -214,38 +246,6 @@
             <pubDate>Sat, 14 Oct 2023 13:14:08 GMT</pubDate>
             <content:encoded><![CDATA[3:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231014_6/Uvo7s_1697287895439yGja7_JPEG/clip_20231014212432_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Lim Young-woong - 모래 알갱이(임영웅 – 모래 알갱이) FanCam (Horizontal Ver.) | Show! MusicCore | MBC2310]]></title>
-            <link>https://tv.naver.com/v/41382257</link>
-            <guid>https://tv.naver.com/v/41382257</guid>
-            <pubDate>Sat, 14 Oct 2023 13:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231014_18/9ggIZ_1697287893912Nxzmc_JPEG/clip_20231014212418_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE AN YUJIN – Baddie(아이브 안유진 - 배디) FanCam | Show! MusicCore | MBC231014방송]]></title>
-            <link>https://tv.naver.com/v/41382251</link>
-            <guid>https://tv.naver.com/v/41382251</guid>
-            <pubDate>Sat, 14 Oct 2023 13:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231014_207/JKyw0_1697287889590WmSUW_JPEG/clip_20231014210559_62.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Lim Young-woong - Do or Die(임영웅 – 두 오어 다이) FanCam (Horizontal Ver.) | Show! MusicCore | MBC]]></title>
-            <link>https://tv.naver.com/v/41382089</link>
-            <guid>https://tv.naver.com/v/41382089</guid>
-            <pubDate>Sat, 14 Oct 2023 13:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231014_179/UK9nh_16972875935060HpgF_JPEG/clip_20231014212341_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE LEESEO – Baddie(아이브 이서 - 배디) FanCam | Show! MusicCore | MBC231014방송]]></title>
-            <link>https://tv.naver.com/v/41382085</link>
-            <guid>https://tv.naver.com/v/41382085</guid>
-            <pubDate>Sat, 14 Oct 2023 13:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231014_12/EkjR0_1697287592497FcBBM_JPEG/clip_20231014210630_67.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
