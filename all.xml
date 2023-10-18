@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 10:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 11:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,38 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔 에세이] 더뉴식스(THE NEW SIX(TNX)) - Slingshot l 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41556106</link>
+            <guid>https://tv.naver.com/v/41556106</guid>
+            <pubDate>Wed, 18 Oct 2023 11:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[10:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_240/m9auk_1697625090837etX7e_JPEG/CA202310180074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 온앤오프(ONF) - 바람이 분다 (Love Effect) l 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41555949</link>
+            <guid>https://tv.naver.com/v/41555949</guid>
+            <pubDate>Wed, 18 Oct 2023 11:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_294/uK5Un_1697624850096noOEp_JPEG/CA202310180078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원어스(ONEUS) - Baila Conmigo l 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41555658</link>
+            <guid>https://tv.naver.com/v/41555658</guid>
+            <pubDate>Wed, 18 Oct 2023 11:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_220/7niG4_16976244903557zXbf_JPEG/CA202310180077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 라잇썸(LIGHTSUM) - Honey or Spice l 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41555657</link>
+            <guid>https://tv.naver.com/v/41555657</guid>
+            <pubDate>Wed, 18 Oct 2023 11:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_12/PGKmP_16976244887766fKXY_JPEG/CA202310180076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이펙스(EPEX) - FULL METAL JACKET l 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/41555223</link>
             <guid>https://tv.naver.com/v/41555223</guid>
@@ -1422,38 +1454,6 @@
             <pubDate>Wed, 11 Oct 2023 13:19:08 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231011_285/WY2Tv_1697015550320uV66l_JPEG/CA202310110064.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Kep1er CHAEHYUN - Galileo (케플러 김채현 - 갈릴레오) | Show Champion | EP.495 | 231011 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41240218</link>
-            <guid>https://tv.naver.com/v/41240218</guid>
-            <pubDate>Wed, 11 Oct 2023 13:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_28/kvfLH_16970154903854W0Mo_JPEG/CA202310110063.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Kep1er - Galileo (케플러 - 갈릴레오) | Show Champion | EP.495 | 231011 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41239991</link>
-            <guid>https://tv.naver.com/v/41239991</guid>
-            <pubDate>Wed, 11 Oct 2023 13:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_115/xuXyN_1697015197115SKJgK_JPEG/CA202310110068.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Kep1er HIKARU - Galileo (케플러 히카루 - 갈릴레오) | Show Champion | EP.495 | 231011 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41239989</link>
-            <guid>https://tv.naver.com/v/41239989</guid>
-            <pubDate>Wed, 11 Oct 2023 13:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_299/atmZs_16970151944992heqo_JPEG/CA202310110067.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Kep1er HUENING BAHIYYIH - Galileo (케플러 휴닝바히에 - 갈릴레오) | Show Champion | EP.495 | 231011 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41239988</link>
-            <guid>https://tv.naver.com/v/41239988</guid>
-            <pubDate>Wed, 11 Oct 2023 13:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_228/Inhbh_1697015193240Iq1Il_JPEG/CA202310110066.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
