@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 07:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 08:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔직캠 4K] ONEUS - Baila Conmigo (원어스 - 바일라 꼰미고) | Show Champion | EP.496 | 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41588840</link>
+            <guid>https://tv.naver.com/v/41588840</guid>
+            <pubDate>Thu, 19 Oct 2023 08:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_44/ifitF_1697691091455NklYi_JPEG/CA202310180085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] EVNNE - Role Model (이븐 - 롤 모델) l Show Champion l EP.496 l 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41587042</link>
+            <guid>https://tv.naver.com/v/41587042</guid>
+            <pubDate>Thu, 19 Oct 2023 08:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_25/bfPkA_1697688753267mx1HL_JPEG/CA202310180084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] n.SSign - SPICE (엔싸인 - 스파이스) l Show Champion l EP.496 l 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41587040</link>
+            <guid>https://tv.naver.com/v/41587040</guid>
+            <pubDate>Thu, 19 Oct 2023 08:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_138/cUZWP_1697688751587X8It4_JPEG/CA202310180083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] Kep1er - Galileo (케플러 - 갈릴레오) l Show Champion l EP.496 l 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41578637</link>
+            <guid>https://tv.naver.com/v/41578637</guid>
+            <pubDate>Thu, 19 Oct 2023 08:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_98/wbQFk_1697677952620Fmsdu_JPEG/CA202310180082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] Loossemble - Sensitive (루셈블 - 센서티브) l Show Champion l EP.496 l 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41578459</link>
+            <guid>https://tv.naver.com/v/41578459</guid>
+            <pubDate>Thu, 19 Oct 2023 08:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_31/mO2GL_1697677592677AfLjc_JPEG/CA202310180081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] ONF U - Love Effect (온앤오프 유 - 바람이 분다) | Show Champion | EP.496 | 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/41553150</link>
             <guid>https://tv.naver.com/v/41553150</guid>
@@ -1414,46 +1454,6 @@
             <pubDate>Wed, 18 Oct 2023 13:18:55 GMT</pubDate>
             <content:encoded><![CDATA[2:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231018_11/fgbhF_1697601391384gseBE_JPEG/CA202310180021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] THE NEW SIX(TNX) HWI - Slingshot (더 뉴 식스 은휘 - 슬링샷) | Show Champion | EP.496 | 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41534786</link>
-            <guid>https://tv.naver.com/v/41534786</guid>
-            <pubDate>Wed, 18 Oct 2023 13:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_171/JWXEc_1697601389912ApNt0_JPEG/CA202310180020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] THE NEW SIX(TNX) TAEHUN - Slingshot (더 뉴 식스 최태훈 - 슬링샷) | Show Champion | EP.496 | 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41534582</link>
-            <guid>https://tv.naver.com/v/41534582</guid>
-            <pubDate>Wed, 18 Oct 2023 13:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_107/Ahey8_1697601094802XnGpu_JPEG/CA202310180022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] THE NEW SIX(TNX) KYUNGJUN - Slingshot (더 뉴 식스 우경준 -슬링샷) | Show Champion | EP.496 | 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41534580</link>
-            <guid>https://tv.naver.com/v/41534580</guid>
-            <pubDate>Wed, 18 Oct 2023 13:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_257/BlGsF_1697601093159Lvi9G_JPEG/CA202310180019.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] THE NEW SIX(TNX) SUNGJUN - Slingshot (더 뉴 식스 오성준 - 슬링샷) | Show Champion | EP.496 | 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41534579</link>
-            <guid>https://tv.naver.com/v/41534579</guid>
-            <pubDate>Wed, 18 Oct 2023 13:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_76/N089Y_1697601091842FxWY5_JPEG/CA202310180018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] THE NEW SIX(TNX) - Slingshot (더 뉴 식스 - 슬링샷) | Show Champion | EP.496 | 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41534577</link>
-            <guid>https://tv.naver.com/v/41534577</guid>
-            <pubDate>Wed, 18 Oct 2023 13:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_242/jhCeo_1697601089604nPabH_JPEG/CA202310180017.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
