@@ -4,7 +4,7 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 09:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 10:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,62 @@
             <pubDate>Fri, 20 Oct 2023 09:14:54 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231019_72/6c6eD_1697703594542bSUw4_JPEG/4847f737-6e57-11ee-aeb5-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코요태_인터뷰]]></title>
+            <link>https://tv.naver.com/v/41601831</link>
+            <guid>https://tv.naver.com/v/41601831</guid>
+            <pubDate>Fri, 20 Oct 2023 10:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[12:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_72/CLCn4_1697703590260apDon_JPEG/e1c34e90-6e56-11ee-a314-48df37e2c3ac_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코요태_만남]]></title>
+            <link>https://tv.naver.com/v/41601825</link>
+            <guid>https://tv.naver.com/v/41601825</guid>
+            <pubDate>Fri, 20 Oct 2023 10:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_200/qXBon_1697703584246LxCcm_JPEG/ccbb8c50-6e56-11ee-a314-48df37e2c3ac_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코요태_비몽]]></title>
+            <link>https://tv.naver.com/v/41601820</link>
+            <guid>https://tv.naver.com/v/41601820</guid>
+            <pubDate>Fri, 20 Oct 2023 10:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_149/klj8K_1697703578102mPXhg_JPEG/b859ce99-6e56-11ee-9178-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코요태_순정]]></title>
+            <link>https://tv.naver.com/v/41601815</link>
+            <guid>https://tv.naver.com/v/41601815</guid>
+            <pubDate>Fri, 20 Oct 2023 10:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_286/61nfw_1697703572400PM57g_JPEG/8b6a0d20-6e56-11ee-968b-80615f0bccec_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요아리_빛그림]]></title>
+            <link>https://tv.naver.com/v/41601810</link>
+            <guid>https://tv.naver.com/v/41601810</guid>
+            <pubDate>Fri, 20 Oct 2023 10:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[4:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_60/iaZMq_1697703566172EjugY_JPEG/708e49ca-6e56-11ee-8891-80615f0bce16_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[육중완밴드_바나나 먹고싶다]]></title>
+            <link>https://tv.naver.com/v/41601805</link>
+            <guid>https://tv.naver.com/v/41601805</guid>
+            <pubDate>Fri, 20 Oct 2023 10:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_200/AHWEN_1697703561895pGNDo_JPEG/5a7e8d53-6e56-11ee-9125-d4f5ef590144_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[육중완밴드_오빠라고 불러다오]]></title>
+            <link>https://tv.naver.com/v/41601796</link>
+            <guid>https://tv.naver.com/v/41601796</guid>
+            <pubDate>Fri, 20 Oct 2023 10:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[5:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_128/dPNTX_16977035552689a2fp_JPEG/3aa83974-6e56-11ee-92d9-80615f0c46b2_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빅마마_아무렇지 않은 척]]></title>
@@ -190,62 +246,6 @@
             <pubDate>Fri, 22 Sep 2023 09:14:30 GMT</pubDate>
             <content:encoded><![CDATA[5:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230922_56/WPXOz_1695344828220TYDFX_JPEG/276fde78-58e2-11ee-bd08-505dac8c3639_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르테나_Buona fortuna]]></title>
-            <link>https://tv.naver.com/v/40585640</link>
-            <guid>https://tv.naver.com/v/40585640</guid>
-            <pubDate>Fri, 22 Sep 2023 09:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[6:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_229/Gwcmk_16953448227764c2Xz_JPEG/0506aa2c-58e2-11ee-b5ae-a0369ff85ee0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르테나_Neapolis]]></title>
-            <link>https://tv.naver.com/v/40585634</link>
-            <guid>https://tv.naver.com/v/40585634</guid>
-            <pubDate>Fri, 22 Sep 2023 09:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_153/t1a1O_1695344818183xCT4E_JPEG/ea61fc75-58e1-11ee-9125-d4f5ef590144_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정동하_Fighter]]></title>
-            <link>https://tv.naver.com/v/40585630</link>
-            <guid>https://tv.naver.com/v/40585630</guid>
-            <pubDate>Fri, 22 Sep 2023 09:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_200/KgLqJ_1695344814350fYsRm_JPEG/d8e05438-58e1-11ee-9178-505dacfba98a_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정동하_인터뷰]]></title>
-            <link>https://tv.naver.com/v/40585627</link>
-            <guid>https://tv.naver.com/v/40585627</guid>
-            <pubDate>Fri, 22 Sep 2023 10:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[8:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_213/XfiVI_1695344811000HA6Bd_JPEG/a6583b87-58e1-11ee-8bd9-505dac8c3607_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정동하_여자는 말 못하고, 남자는 모르는 것들]]></title>
-            <link>https://tv.naver.com/v/40585625</link>
-            <guid>https://tv.naver.com/v/40585625</guid>
-            <pubDate>Fri, 22 Sep 2023 10:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_59/o5JDQ_1695344807489CCTxj_JPEG/8c09c3c2-58e1-11ee-9416-48df379cca40_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정동하_님아(원곡 펄 시스터즈)]]></title>
-            <link>https://tv.naver.com/v/40585620</link>
-            <guid>https://tv.naver.com/v/40585620</guid>
-            <pubDate>Fri, 22 Sep 2023 10:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_71/woVxL_1695344798735megok_JPEG/739eb2c6-58e1-11ee-8fa1-48df37ae3dc4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정동하_추억은 만남보다 이별에 남아]]></title>
-            <link>https://tv.naver.com/v/40585617</link>
-            <guid>https://tv.naver.com/v/40585617</guid>
-            <pubDate>Fri, 22 Sep 2023 10:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_34/VOfgw_1695344795187ebEg0_JPEG/5a661821-58e1-11ee-8fa1-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
