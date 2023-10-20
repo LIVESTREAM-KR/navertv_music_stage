@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 01:54:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 02:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10월 3주차 쇼챔피언 🍩MC 나나츠키최태훈🌙 모음.zip (우아! 나나, 빌리 츠키, 더뉴식스 최태훈) | Show Champion | EP.496 | 231018]]></title>
+            <link>https://tv.naver.com/v/41557530</link>
+            <guid>https://tv.naver.com/v/41557530</guid>
+            <pubDate>Fri, 20 Oct 2023 02:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[4:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_242/QQ6Se_1697627198004ll59Q_JPEG/CA202310180080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] ONEUS - Baila Conmigo (원어스 - 바일라 꼰미고) | Show Champion | EP.496 | 231018]]></title>
             <link>https://tv.naver.com/v/41588840</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 18 Oct 2023 13:18:55 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231018_138/1TtHu_1697607392165RoO2O_JPEG/CA202310180025.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] THE NEW SIX(TNX) HYUNSOO - Slingshot (더 뉴 식스 장현수 - 슬링샷) | Show Champion | EP.496 | 231018]]></title>
-            <link>https://tv.naver.com/v/41534787</link>
-            <guid>https://tv.naver.com/v/41534787</guid>
-            <pubDate>Wed, 18 Oct 2023 13:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_11/fgbhF_1697601391384gseBE_JPEG/CA202310180021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
