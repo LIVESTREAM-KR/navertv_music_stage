@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 06:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 07:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,54 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231021_174/7YbBO_1697887889691Xpxgd_JPEG/clip_20231021195801_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[n.SSign(엔싸인) - SPICE | SBS 231022 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41713641</link>
+            <guid>https://tv.naver.com/v/41713641</guid>
+            <pubDate>Sun, 22 Oct 2023 07:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_120/S5h2B_1697958690882WAdIL_PNG/b69b57ab-b12b-4e49-9a5d-447fef280ae8.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[백아(Baek A) - 미완성(SEMO) | SBS 231022 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41713393</link>
+            <guid>https://tv.naver.com/v/41713393</guid>
+            <pubDate>Sun, 22 Oct 2023 07:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_218/gOwuz_1697958089637OB6r4_PNG/bf143f4c-d103-420b-8fa4-cb7bc6d25349.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[EVNNE(이븐) - Role Model | SBS 231022 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41713299</link>
+            <guid>https://tv.naver.com/v/41713299</guid>
+            <pubDate>Sun, 22 Oct 2023 07:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_38/S8P0i_16979578523186gLP9_PNG/3d804a8c-7b25-431a-a13f-09989ca05646.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[INI - HANA_花 | SBS 231022 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41713268</link>
+            <guid>https://tv.naver.com/v/41713268</guid>
+            <pubDate>Sun, 22 Oct 2023 07:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_8/Bp6wF_1697957791922pJUdi_PNG/0f45a3ab-91dd-472c-b168-b3470b0db512.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[영파씨(YOUNG POSSE) - MACARONI CHEESE | SBS 231022 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41713139</link>
+            <guid>https://tv.naver.com/v/41713139</guid>
+            <pubDate>Sun, 22 Oct 2023 07:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_217/oJY69_16979574935612Qn9G_PNG/82eb2436-6547-4e81-a7dc-6c52ffb92084.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[82MAJOR - FIRST CLASS | SBS 231022 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41713137</link>
+            <guid>https://tv.naver.com/v/41713137</guid>
+            <pubDate>Sun, 22 Oct 2023 07:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_141/pXtee_1697957491269YhODs_PNG/deec23d5-b76d-41f3-b766-3c0c066ce0a0.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 - Fact Check (불가사의; 不可思議) | SBS 231015 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/41401232</link>
             <guid>https://tv.naver.com/v/41401232</guid>
@@ -446,54 +494,6 @@
             <pubDate>Sun, 17 Sep 2023 08:14:47 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230917_24/L0Ure_1694937089866PiWG5_PNG/7339296f-65bd-4bae-b4e5-c5f4b9fd0a31.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이채연 - LET'S DANCE | SBS 230917 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40367899</link>
-            <guid>https://tv.naver.com/v/40367899</guid>
-            <pubDate>Sun, 17 Sep 2023 08:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230917_110/Ywn3l_16949367923639ffET_PNG/ef623338-e603-41a3-aed0-51cc5c648d64.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Young K (DAY6) - 이것밖에는 없다 | SBS 230917 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40367724</link>
-            <guid>https://tv.naver.com/v/40367724</guid>
-            <pubDate>Sun, 17 Sep 2023 08:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230917_244/jTlBJ_1694936493147Iir8e_PNG/016b917a-91c6-45ce-8480-b7d1c05f5e40.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BOYNEXTDOOR - 뭣 같아 | SBS 230917 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40367723</link>
-            <guid>https://tv.naver.com/v/40367723</guid>
-            <pubDate>Sun, 17 Sep 2023 08:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230917_195/IVBt2_1694936490770imRbT_PNG/8d8c7d90-24fe-46db-91b6-8c308739079b.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[H1-KEY(하이키) - 불빛을 꺼뜨리지 마 (Time to Shine) | SBS 230917 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40367572</link>
-            <guid>https://tv.naver.com/v/40367572</guid>
-            <pubDate>Sun, 17 Sep 2023 08:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230917_47/gSU3g_1694936191626DscRC_PNG/c5cdb20b-9e49-485b-86cd-c6a3a30c764a.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로켓펀치 (Rocket Punch) - BOOM | SBS 230917 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40367410</link>
-            <guid>https://tv.naver.com/v/40367410</guid>
-            <pubDate>Sun, 17 Sep 2023 08:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230917_32/Jewrj_1694935891033qiT59_PNG/f44304a4-e7e4-409d-9fcf-9a3e1e13e40f.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAVITY - Ready or Not | SBS 230917 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40367257</link>
-            <guid>https://tv.naver.com/v/40367257</guid>
-            <pubDate>Sun, 17 Sep 2023 08:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230917_195/6mBNe_1694935591250So05B_PNG/c4df5ee4-ff66-4fae-b0f9-98d2802600df.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
