@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 06:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 07:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE REI - Baddie(아이브 레이 - 배디) Close-up Cam | Show! MusicCore | MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41753991</link>
+            <guid>https://tv.naver.com/v/41753991</guid>
+            <pubDate>Mon, 23 Oct 2023 07:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231023_224/22KVL_1698045092359lNkov_JPEG/clip_20231023154738_31.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE LEESEO - Baddie(아이브 이서 - 배디) Close-up Cam | Show! MusicCore | MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41753689</link>
+            <guid>https://tv.naver.com/v/41753689</guid>
+            <pubDate>Mon, 23 Oct 2023 07:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231023_149/JAOnQ_169804479682454va0_JPEG/clip_20231023154739_32.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] n.SSign – SPICE(엔싸인 - 스파이스) FanCam | Show! MusicCore | MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
             <content:encoded><![CDATA[3:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231021_174/fHGpA_1697888191964RpQyU_JPEG/clip_20231021195759_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT 127 MARK – Fact Check(엔시티 일이칠 마크 - 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41692018</link>
-            <guid>https://tv.naver.com/v/41692018</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_248/arJy5_1697888190706PMjrh_JPEG/clip_20231021195750_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT 127 JUNGWOO – Fact Check(엔시티 일이칠 정우 - 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231021방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41691884</link>
-            <guid>https://tv.naver.com/v/41691884</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_174/7YbBO_1697887889691Xpxgd_JPEG/clip_20231021195801_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Xdinary Heroes - Break the Brake | SBS 231022 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
