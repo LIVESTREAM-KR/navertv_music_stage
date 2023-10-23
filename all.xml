@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 04:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 05:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 아기다리고기다리던🕺🎶 이번주 쇼챔 본방사수러들 모두 모여주세요 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41745570</link>
+            <guid>https://tv.naver.com/v/41745570</guid>
+            <pubDate>Mon, 23 Oct 2023 05:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231023_183/x0Jdg_1698036390235PY36A_JPEG/CA202310250001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] n.SSign KAZUTA - SPICE (엔싸인 카즈타 - 스파이스) l Show Champion l EP.496 l 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/41635204</link>
             <guid>https://tv.naver.com/v/41635204</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 18 Oct 2023 13:18:55 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231018_100/cYrQc_1697617288922K3r6Y_JPEG/CA202310180047.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Xdinary Heroes (엑스디너리 히어로즈) - Break the Brake | Show Champion | EP.496 | 231018 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41549135</link>
-            <guid>https://tv.naver.com/v/41549135</guid>
-            <pubDate>Wed, 18 Oct 2023 13:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_229/9dsuY_1697616753885KVVpR_JPEG/CA202310180046.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
