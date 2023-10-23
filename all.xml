@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 09:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 10:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] FANTASY BOYS HIKARI – New Tomorrow(판타지 보이즈 히카리 - 뉴 투모로우) FanCam |Show! MusicCore|MBC231021방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41761360</link>
+            <guid>https://tv.naver.com/v/41761360</guid>
+            <pubDate>Mon, 23 Oct 2023 10:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[4:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231023_142/hMnBa_16980528890473EJP6_JPEG/clip_20231023171209_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] FANTASY BOYS Oh HyeonTae - New Tomorrow(판타지 보이즈 오현태-뉴 투모로우)Close-upCam|MusicCore|MBC231014방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
             <content:encoded><![CDATA[3:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231021_151/E8HAl_1697889454108NImnX_JPEG/clip_20231021202459_106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ONEUS - Baila Conmigo(원어스 – 바일라 꼰미고) FanCam | Show! MusicCore | MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41692637</link>
-            <guid>https://tv.naver.com/v/41692637</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_14/XpK2y_169788945238688D72_JPEG/clip_20231021200824_29.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Xdinary Heroes - Break the Brake | SBS 231022 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
