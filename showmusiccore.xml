@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 07:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 08:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] POW YORCH - Dazzling(파우 요치 - 다즐링) Close-up Cam | Show! MusicCore | MBC231014방송]]></title>
+            <link>https://tv.naver.com/v/41756660</link>
+            <guid>https://tv.naver.com/v/41756660</guid>
+            <pubDate>Mon, 23 Oct 2023 08:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231023_127/Z3yAJ_1698047791704Aw0lo_JPEG/clip_20231023163158_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE AN YUJIN - Baddie(아이브 안유진 - 배디) Close-up Cam | Show! MusicCore | MBC231021방송]]></title>
+            <link>https://tv.naver.com/v/41754554</link>
+            <guid>https://tv.naver.com/v/41754554</guid>
+            <pubDate>Mon, 23 Oct 2023 08:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231023_268/VmBIL_1698046892490T06q6_JPEG/clip_20231023163211_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE JANG WONYOUNG - Baddie(아이브 장원영 - 배디) Close-up Cam | Show! MusicCore | MBC231021방송]]></title>
+            <link>https://tv.naver.com/v/41754550</link>
+            <guid>https://tv.naver.com/v/41754550</guid>
+            <pubDate>Mon, 23 Oct 2023 08:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231023_104/HYfet_1698045688892yVqp8_JPEG/clip_20231023154741_33.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] IVE REI - Baddie(아이브 레이 - 배디) Close-up Cam | Show! MusicCore | MBC231021방송]]></title>
             <link>https://tv.naver.com/v/41753991</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231021_122/05bKl_1697888789090XFPYM_JPEG/clip_20231021200206_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT 127 HAECHAN – Fact Check(엔시티 일이칠 해찬 - 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231021방]]></title>
-            <link>https://tv.naver.com/v/41692161</link>
-            <guid>https://tv.naver.com/v/41692161</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_79/wiEPx_1697888491384lrPKP_JPEG/clip_20231021195749_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT 127 - Fact Check(엔시티 일이칠 – 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231021방송]]></title>
-            <link>https://tv.naver.com/v/41692160</link>
-            <guid>https://tv.naver.com/v/41692160</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_251/3B4Fx_1697888489934XFmEm_JPEG/clip_20231021195746_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NCT 127 JAEHYUN – Fact Check(엔시티 일이칠 재현 - 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231021방]]></title>
-            <link>https://tv.naver.com/v/41692020</link>
-            <guid>https://tv.naver.com/v/41692020</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_174/fHGpA_1697888191964RpQyU_JPEG/clip_20231021195759_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
