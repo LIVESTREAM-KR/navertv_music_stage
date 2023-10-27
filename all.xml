@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 08:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 09:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2152,6 +2152,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230706_71/cPmQO_1688627227386Nvr4y_JPEG/1688626442736.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이선지 쿼텟_Triste(원곡 antonio carlos jobim) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41926491</link>
+            <guid>https://tv.naver.com/v/41926491</guid>
+            <pubDate>Fri, 27 Oct 2023 09:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[7:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_44/UrTnF_1698309444304jaM4a_JPEG/bd5ed8e5-73d2-11ee-9ba4-a0369ffb3258_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코요태_실연 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/41601837</link>
             <guid>https://tv.naver.com/v/41601837</guid>
@@ -2382,14 +2390,6 @@
             <pubDate>Sat, 07 Oct 2023 18:18:01 GMT</pubDate>
             <content:encoded><![CDATA[4:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231005_130/8I4Ck_1696494020810WasFg_JPEG/e9cfb13a-6350-11ee-95cd-a0369ffbf8a4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르테나_그 날(원곡 박효신) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/40585643</link>
-            <guid>https://tv.naver.com/v/40585643</guid>
-            <pubDate>Fri, 22 Sep 2023 09:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[5:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_56/WPXOz_1695344828220TYDFX_JPEG/276fde78-58e2-11ee-bd08-505dac8c3639_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
