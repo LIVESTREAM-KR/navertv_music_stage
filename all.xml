@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 01:51:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 02:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[10월 4주차 쇼챔피언 🍩MC 나나츠키금동현🌙 모음.zip (우아! 나나, 빌리 츠키, 이펙스 금동현) | Show Champion | EP.497 | 231025 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/41878347</link>
+            <guid>https://tv.naver.com/v/41878347</guid>
+            <pubDate>Fri, 27 Oct 2023 02:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[5:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231025_241/VaRrV_1698231449235OseJE_JPEG/CA202310250043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠 4K] Queenz Eye (퀸즈 아이) - THIS IS LOVE (퀸즈 아이 - 디스 이즈 러브) | Show Champion | EP.497 | 231025 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/41908627</link>
             <guid>https://tv.naver.com/v/41908627</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 25 Oct 2023 13:17:33 GMT</pubDate>
             <content:encoded><![CDATA[3:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231025_182/zcX3q_1698207692334gCbSY_JPEG/CA202310250012.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Billlie SHEON - DANG! (hocus pocus) (빌리 션 - 댕! (호커스 포커스)) | Show Champion|EP.497|231025 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41855448</link>
-            <guid>https://tv.naver.com/v/41855448</guid>
-            <pubDate>Wed, 25 Oct 2023 13:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231025_83/vmhEE_1698207690918hV8FV_JPEG/CA202310250011.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
