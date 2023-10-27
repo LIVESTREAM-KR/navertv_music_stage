@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 04:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 05:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] EP.590 - JANG WOO HYUK, EPEX, LIGHTSUM, JINI, XG, tripeS EVOLution, ILY:1]]></title>
+            <link>https://tv.naver.com/v/41954563</link>
+            <guid>https://tv.naver.com/v/41954563</guid>
+            <pubDate>Fri, 27 Oct 2023 05:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[56:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231027_179/2GISp_1698369314740pXPpS_JPEG/1698369311160.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] EP.589 - ONEUS, Loossemble, CHUU, JINI, EPEX, n.SSign, XG, tripeS EVOLution]]></title>
             <link>https://tv.naver.com/v/41737044</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
             <content:encoded><![CDATA[48:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230706_71/cPmQO_1688627227386Nvr4y_JPEG/1688626442736.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.575 - YENA(최예나), WEi(위아이), DKB(다크비), THE NEW SIX(TNX)(더뉴식스), LUN8(]]></title>
-            <link>https://tv.naver.com/v/37526708</link>
-            <guid>https://tv.naver.com/v/37526708</guid>
-            <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[53:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_48/TNNDf_1688087341017DuTdA_JPEG/1688086554815.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
