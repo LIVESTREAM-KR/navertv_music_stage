@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Oct 2023 09:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 10:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,118 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] POW DONGYEON - Dazzling(파우 동연 - 다즐링) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42014147</link>
+            <guid>https://tv.naver.com/v/42014147</guid>
+            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_18/fD9Qr_1698487891052DAyrQ_JPEG/clip_20231028183545_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] RIIZE ANTON – Talk Saxy(라이즈 앤톤 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42014145</link>
+            <guid>https://tv.naver.com/v/42014145</guid>
+            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[6:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_185/c02EK_1698487889920Wu2rt_JPEG/clip_20231028183002_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] POW HONG - Dazzling(파우 홍 - 다즐링) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42013927</link>
+            <guid>https://tv.naver.com/v/42013927</guid>
+            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_216/2WtSj_16984872955345cNhD_JPEG/clip_20231028183551_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] POW JUNGBIN - Dazzling(파우 정빈 - 다즐링) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42013926</link>
+            <guid>https://tv.naver.com/v/42013926</guid>
+            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_267/36yJ4_16984872943438KeFR_JPEG/clip_20231028183541_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] POW HYUNBIN - Dazzling(파우 현빈 - 다즐링) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42013925</link>
+            <guid>https://tv.naver.com/v/42013925</guid>
+            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_205/rPzLa_1698487293174hyPr0_JPEG/clip_20231028183537_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] POW YORCH - Dazzling(파우 요치 - 다즐링) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42013923</link>
+            <guid>https://tv.naver.com/v/42013923</guid>
+            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_196/RbSb3_1698487292100zOEl9_JPEG/clip_20231028183529_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] POW – Dazzling(파우 - 다즐링) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42013919</link>
+            <guid>https://tv.naver.com/v/42013919</guid>
+            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_131/Uk3ZC_1698487290551AM13B_JPEG/clip_20231028183343_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] RIIZE WONBIN – Talk Saxy(라이즈 원빈 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42013823</link>
+            <guid>https://tv.naver.com/v/42013823</guid>
+            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_166/dkx3b_1698487049349Grluj_JPEG/clip_20231028182936_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] RIIZE SOHEE – Talk Saxy(라이즈 소희 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42013800</link>
+            <guid>https://tv.naver.com/v/42013800</guid>
+            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_283/vH88p_1698486995142NxU8m_JPEG/clip_20231028182952_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] RIIZE SEUNGHAN – Talk Saxy(라이즈 승한 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42013799</link>
+            <guid>https://tv.naver.com/v/42013799</guid>
+            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_15/ELc9m_1698486993943LQNRz_JPEG/clip_20231028182946_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] RIIZE SUNGCHAN – Talk Saxy(라이즈 성찬 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42013688</link>
+            <guid>https://tv.naver.com/v/42013688</guid>
+            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_41/hbPKI_1698486689364Momlu_JPEG/clip_20231028182931_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] RIIZE SHOTARO – Talk Saxy(라이즈 쇼타로 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42013687</link>
+            <guid>https://tv.naver.com/v/42013687</guid>
+            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_88/nvDAi_1698486688300PG6JV_JPEG/clip_20231028182918_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] RIIZE EUNSEOK – Talk Saxy(라이즈 은석 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42013577</link>
+            <guid>https://tv.naver.com/v/42013577</guid>
+            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_39/NoJK2_16984863901302Bttd_JPEG/clip_20231028182925_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] RIIZE - Talk Saxy(라이즈 – 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42013496</link>
+            <guid>https://tv.naver.com/v/42013496</guid>
+            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_239/6pj6Y_1698486151594goF6g_JPEG/clip_20231028182531_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] FANTASY BOYS HIKARI – New Tomorrow(판타지 보이즈 히카리 - 뉴 투모로우) FanCam |Show! MusicCore|MBC231021방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -142,118 +254,6 @@
             <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231021_121/07ZGz_1697890351834PoIxk_JPEG/clip_20231021200941_31.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ONEUS SEOHO – Baila Conmigo(원어스 서호 - 바일라 꼰미고) FanCam | Show! MusicCore | MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41693052</link>
-            <guid>https://tv.naver.com/v/41693052</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_184/AbzL2_1697890350560lgs51_JPEG/clip_20231021200857_30.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] tripleS EVOLution Kim YooYeon – Invincible(트리플에스 에볼루션 김유연-인빈시블)FanCam|MusicCore|MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41692903</link>
-            <guid>https://tv.naver.com/v/41692903</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_246/91wwD_1697890001323HeGcx_JPEG/clip_20231021201140_34.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] tripleS EVOLution - Invincible(트리플에스 에볼루션 – 인빈시블) FanCam | Show! MusicCore | MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41692902</link>
-            <guid>https://tv.naver.com/v/41692902</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_228/Y6BUE_1697889999810pixof_JPEG/clip_20231021201137_33.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] n.SSign KAZUTA - SPICE(엔싸인 카즈타 - 스파이스) FanCam | Show! MusicCore | MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41692900</link>
-            <guid>https://tv.naver.com/v/41692900</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_94/FwkGe_1697889998525wanpe_JPEG/clip_20231021201016_32.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] YOUNITE - Love it(유나이트 – 정했어) FanCam | Show! MusicCore | MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41692899</link>
-            <guid>https://tv.naver.com/v/41692899</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_127/VdiIO_1697889996706pdIrR_JPEG/clip_20231021200728_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS - New Tomorrow(판타지 보이즈 – 뉴 투모로우) FanCam | Show! MusicCore | MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41692897</link>
-            <guid>https://tv.naver.com/v/41692897</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[4:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_199/hbsXQ_1697889994958Cs9hS_JPEG/clip_20231021200547_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] POW HYUNBIN - Dazzling(파우 현빈 - 다즐링) FanCam | Show! MusicCore | MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41692896</link>
-            <guid>https://tv.naver.com/v/41692896</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_166/JFwCa_1697889994038aCFyX_JPEG/clip_20231021200528_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] POW – Dazzling(파우 - 다즐링) FanCam | Show! MusicCore | MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41692894</link>
-            <guid>https://tv.naver.com/v/41692894</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_76/L5k05_1697889992470fN5iy_JPEG/clip_20231021200525_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE REI – Baddie(아이브 레이 - 배디) FanCam | Show! MusicCore | MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41692893</link>
-            <guid>https://tv.naver.com/v/41692893</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_224/oZNcf_1697889991340dui1o_JPEG/clip_20231021195948_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Xdinary Heroes – Break the Brake(엑스디너리 히어로즈 - 브레이크 더 브레이크) FanCam|Show!MusicCore|MBC231021방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41692762</link>
-            <guid>https://tv.naver.com/v/41692762</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_286/y1lS3_1697889693701Q9Luz_JPEG/clip_20231021200558_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SUNMI – STRANGER(선미 - 스트레인저) FanCam | Show! MusicCore | MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41692761</link>
-            <guid>https://tv.naver.com/v/41692761</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_254/JYE55_1697889692675oJG4S_JPEG/clip_20231021200434_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ONF E-TION – Love Effect(온앤오프 이션 - 바람이 분다) FanCam | Show! MusicCore | MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41692759</link>
-            <guid>https://tv.naver.com/v/41692759</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_247/bUwUF_1697889691594fhg7P_JPEG/clip_20231021200302_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE LEESEO – Baddie(아이브 이서 - 배디) FanCam | Show! MusicCore | MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41692758</link>
-            <guid>https://tv.naver.com/v/41692758</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_166/pW5ib_1697889690065hHhmA_JPEG/clip_20231021200025_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CRAVITY - Cheese(크래비티 – 치즈) FanCam | Show! MusicCore | MBC231021방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41692640</link>
-            <guid>https://tv.naver.com/v/41692640</guid>
-            <pubDate>Sat, 21 Oct 2023 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_151/E8HAl_1697889454108NImnX_JPEG/clip_20231021202459_106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Xdinary Heroes - Break the Brake | SBS 231022 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
