@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Oct 2023 11:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 12:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,20 +168,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231028_27/o3Iyg_1698488491492EghQJ_JPEG/clip_20231028190345_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] POW DONGYEON - Dazzling(파우 동연 - 다즐링) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42014147</link>
-            <guid>https://tv.naver.com/v/42014147</guid>
-            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_18/fD9Qr_1698487891052DAyrQ_JPEG/clip_20231028183545_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예능연구소] RIIZE ANTON – Talk Saxy(라이즈 앤톤 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/42014145</link>
             <guid>https://tv.naver.com/v/42014145</guid>
             <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
             <content:encoded><![CDATA[6:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231028_185/c02EK_1698487889920Wu2rt_JPEG/clip_20231028183002_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] POW DONGYEON - Dazzling(파우 동연 - 다즐링) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42014147</link>
+            <guid>https://tv.naver.com/v/42014147</guid>
+            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_18/fD9Qr_1698487891052DAyrQ_JPEG/clip_20231028183545_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] POW HONG - Dazzling(파우 홍 - 다즐링) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
