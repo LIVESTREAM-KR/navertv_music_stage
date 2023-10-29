@@ -4,9 +4,57 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 06:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 07:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YOUNITE - 정했어(Love it) | SBS 231029 방송]]></title>
+            <link>https://tv.naver.com/v/42036498</link>
+            <guid>https://tv.naver.com/v/42036498</guid>
+            <pubDate>Sun, 29 Oct 2023 07:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_7/uRhJg_1698563490322h9vMJ_PNG/3c9b979d-8de5-4844-81c7-8ad23c72c649.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[tripleS EVOLution - Invincible | SBS 231029 방송]]></title>
+            <link>https://tv.naver.com/v/42036365</link>
+            <guid>https://tv.naver.com/v/42036365</guid>
+            <pubDate>Sun, 29 Oct 2023 07:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_122/qHPX7_1698563191913kOhD4_PNG/e62c4273-119d-4b08-a2c3-7279cb3254fd.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[POW - Dazzling | SBS 231029 방송]]></title>
+            <link>https://tv.naver.com/v/42036202</link>
+            <guid>https://tv.naver.com/v/42036202</guid>
+            <pubDate>Sun, 29 Oct 2023 07:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_100/VIeEW_1698562889530STEDV_PNG/3cc861a4-5b82-41e9-b6fd-9bae02c037fc.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[n.SSign(엔싸인) - Melody | SBS 231029 방송]]></title>
+            <link>https://tv.naver.com/v/42036058</link>
+            <guid>https://tv.naver.com/v/42036058</guid>
+            <pubDate>Sun, 29 Oct 2023 07:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_292/poXHO_1698562590868gBqOn_PNG/ab3d31c6-c514-41bf-85ce-c85494cc83ca.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[영파씨(YOUNG POSSE) - MACARONI CHEESE | SBS 231029 방송]]></title>
+            <link>https://tv.naver.com/v/42035933</link>
+            <guid>https://tv.naver.com/v/42035933</guid>
+            <pubDate>Sun, 29 Oct 2023 07:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_47/8ASLX_1698562289332qtT7y_PNG/47fab6c5-2db5-42fe-b252-14898c154496.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[82MAJOR - FIRST CLASS | SBS 231029 방송]]></title>
+            <link>https://tv.naver.com/v/42035648</link>
+            <guid>https://tv.naver.com/v/42035648</guid>
+            <pubDate>Sun, 29 Oct 2023 07:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_277/uV0T5_1698561752318KHGob_PNG/484927e1-75a3-4fdd-b2a6-bdf05e732548.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Xdinary Heroes - Break the Brake | SBS 231022 방송]]></title>
             <link>https://tv.naver.com/v/41715171</link>
@@ -198,54 +246,6 @@
             <pubDate>Sun, 15 Oct 2023 08:16:08 GMT</pubDate>
             <content:encoded><![CDATA[2:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231015_197/G7pjw_1697355389366UeQwF_PNG/ce9a354d-9023-4951-9e47-8f836ff6bc13.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IVE - Baddie | SBS 231015 방송]]></title>
-            <link>https://tv.naver.com/v/41400755</link>
-            <guid>https://tv.naver.com/v/41400755</guid>
-            <pubDate>Sun, 15 Oct 2023 08:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231015_178/uO5Vf_1697355089908oph03_PNG/d5a21359-77c6-4fdc-a1e8-3c00837ade0a.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IVE - Off The Record | SBS 231015 방송]]></title>
-            <link>https://tv.naver.com/v/41400641</link>
-            <guid>https://tv.naver.com/v/41400641</guid>
-            <pubDate>Sun, 15 Oct 2023 08:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231015_124/hQho5_1697354792450PAOv2_PNG/9b33b566-b7e0-4476-9e9e-c6f858a47b6d.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[온앤오프(ONF) - 바람이 분다 (Love Effect) | SBS 231015 방송]]></title>
-            <link>https://tv.naver.com/v/41400640</link>
-            <guid>https://tv.naver.com/v/41400640</guid>
-            <pubDate>Sun, 15 Oct 2023 08:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231015_48/5YXxk_1697354790488cGBSg_PNG/11162faa-4b25-4567-ae00-7d339318af63.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAVITY - Cheese | SBS 231015 방송]]></title>
-            <link>https://tv.naver.com/v/41400516</link>
-            <guid>https://tv.naver.com/v/41400516</guid>
-            <pubDate>Sun, 15 Oct 2023 08:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231015_55/eZgXN_1697354488736fr6g4_PNG/72d3e7a2-75df-476b-95fc-9346139d646c.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[원어스(ONEUS) - Baila Conmigo | SBS 231015 방송]]></title>
-            <link>https://tv.naver.com/v/41400392</link>
-            <guid>https://tv.naver.com/v/41400392</guid>
-            <pubDate>Sun, 15 Oct 2023 08:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231015_178/aw3sX_1697354191415ET4Ue_PNG/441b5afe-25ed-4542-bfba-b16bbfaad4dc.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Xdinary Heroes - Break the Brake | SBS 231015 방송]]></title>
-            <link>https://tv.naver.com/v/41400122</link>
-            <guid>https://tv.naver.com/v/41400122</guid>
-            <pubDate>Sun, 15 Oct 2023 07:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231015_2/RIDZD_16973535901702Rh8s_PNG/efffd4ba-178e-492d-af6f-332e313ba296.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
