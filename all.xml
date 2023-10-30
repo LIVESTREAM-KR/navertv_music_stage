@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 08:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 09:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE LIZ - Baddie(아이브 리즈 - 배디) Close-up Cam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42081000</link>
+            <guid>https://tv.naver.com/v/42081000</guid>
+            <pubDate>Mon, 30 Oct 2023 09:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_139/SZguQ_16986540932617vyY5_JPEG/clip_20231030165434_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] IVE JANG WONYOUNG - Baddie(아이브 장원영 - 배디) Close-up Cam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42080996</link>
+            <guid>https://tv.naver.com/v/42080996</guid>
+            <pubDate>Mon, 30 Oct 2023 09:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_61/rF59v_1698654091467GNBLD_JPEG/clip_20231030165433_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] Billlie TSUKI - DANG!(hocus pocus)(빌리 츠키 - 댕!(호커스 포커스)) Close-up Cam|MusicCore |MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231028_166/dkx3b_1698487049349Grluj_JPEG/clip_20231028182936_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE SOHEE – Talk Saxy(라이즈 소희 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42013800</link>
-            <guid>https://tv.naver.com/v/42013800</guid>
-            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_283/vH88p_1698486995142NxU8m_JPEG/clip_20231028182952_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE SEUNGHAN – Talk Saxy(라이즈 승한 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42013799</link>
-            <guid>https://tv.naver.com/v/42013799</guid>
-            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_15/ELc9m_1698486993943LQNRz_JPEG/clip_20231028182946_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴(SEVENTEEN) - 음악의 신 | SBS 231029 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
