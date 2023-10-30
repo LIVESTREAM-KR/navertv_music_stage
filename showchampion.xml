@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 04:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 05:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 큰 거 왔다.. 쇼챔에세이 드디어 왔다..👍🏻 쇼챔에세이 시작, 짱 크게 시작, 빵빠레 불면서 시작, 축복 시작]]></title>
+            <link>https://tv.naver.com/v/42068437</link>
+            <guid>https://tv.naver.com/v/42068437</guid>
+            <pubDate>Mon, 30 Oct 2023 05:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_248/BTTQu_1698642090604LLTGr_JPEG/CA202311010002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10월 4주차 쇼챔피언 🍩MC 나나츠키금동현🌙 모음.zip (우아! 나나, 빌리 츠키, 이펙스 금동현) | Show Champion | EP.497 | 231025]]></title>
             <link>https://tv.naver.com/v/41878347</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Oct 2023 13:17:33 GMT</pubDate>
             <content:encoded><![CDATA[3:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231025_146/nnf2u_16982076936416dFVT_JPEG/CA202310250015.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Billlie SIYOON - DANG! (hocus pocus) (빌리 시윤 - 댕! (호커스 포커스)) | Show Champion|EP.497|231025]]></title>
-            <link>https://tv.naver.com/v/41855449</link>
-            <guid>https://tv.naver.com/v/41855449</guid>
-            <pubDate>Wed, 25 Oct 2023 13:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231025_182/zcX3q_1698207692334gCbSY_JPEG/CA202310250012.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
