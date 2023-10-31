@@ -4,9 +4,57 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 01:00:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 01:54:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] FANTASY BOYS KANG MINSEO-New Tomorrow(판타지 보이즈 강민서-뉴 투모로우)Close-up Cam|MusicCore|MBC231028방송]]></title>
+            <link>https://tv.naver.com/v/42110779</link>
+            <guid>https://tv.naver.com/v/42110779</guid>
+            <pubDate>Tue, 31 Oct 2023 01:53:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231031_128/FIy3f_1698715889802gAqo5_JPEG/clip_20231031095750_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] FANTASY BOYS - New Tomorrow(판타지 보이즈 – 뉴 투모로우) FanCam | Show! MusicCore | MBC231028방송]]></title>
+            <link>https://tv.naver.com/v/42110778</link>
+            <guid>https://tv.naver.com/v/42110778</guid>
+            <pubDate>Tue, 31 Oct 2023 01:53:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231031_183/Fb5Yp_1698715888227GDA5t_JPEG/clip_20231031095623_69.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] FANTASY BOYS HIKARU – New Tomorrow(판타지 보이즈 히카루 - 뉴 투모로우) FanCam | Show!MusicCore|MBC231028방]]></title>
+            <link>https://tv.naver.com/v/42110381</link>
+            <guid>https://tv.naver.com/v/42110381</guid>
+            <pubDate>Tue, 31 Oct 2023 01:53:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231031_254/6PdTI_1698715292142Vgu6d_JPEG/clip_20231031095743_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] FANTASY BOYS HIKARI – New Tomorrow(판타지 보이즈 히카리 - 뉴 투모로우) FanCam | Show! MusicCore | MBC2310]]></title>
+            <link>https://tv.naver.com/v/42110378</link>
+            <guid>https://tv.naver.com/v/42110378</guid>
+            <pubDate>Tue, 31 Oct 2023 01:53:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231031_205/X7HZF_16987152908299yFNI_JPEG/clip_20231031095736_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] FANTASY BOYS LEE HANBIN – New Tomorrow(판타지 보이즈 이한빈-뉴 투모로우)FanCam|Show!MusicCore |MBC231028방]]></title>
+            <link>https://tv.naver.com/v/42110377</link>
+            <guid>https://tv.naver.com/v/42110377</guid>
+            <pubDate>Tue, 31 Oct 2023 01:53:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231031_281/SR5Xu_1698715289534rf5nn_JPEG/clip_20231031095721_71.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] FANTASY BOYS HONG SUNGMIN –New Tomorrow(판타지 보이즈 홍성민-뉴 투모로우)FanCam|Show!MusicCore|MBC231028방]]></title>
+            <link>https://tv.naver.com/v/42110193</link>
+            <guid>https://tv.naver.com/v/42110193</guid>
+            <pubDate>Tue, 31 Oct 2023 01:53:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231031_202/bXnv4_1698714991098sW3zl_JPEG/clip_20231031095714_70.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] RIIZE WONBIN - Talk Saxy(라이즈 원빈 - 토크 색시) Close-up Cam | Show! MusicCore | MBC231028방송]]></title>
             <link>https://tv.naver.com/v/42085654</link>
@@ -198,54 +246,6 @@
             <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231028_68/JkNul_1698488793292uoptI_JPEG/clip_20231028190526_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Billlie SHEON – DANG!(hocus pocus)(빌리 션 - 댕! (호커스 포커스)) FanCam | Show! MusicCore|MBC231028방]]></title>
-            <link>https://tv.naver.com/v/42014447</link>
-            <guid>https://tv.naver.com/v/42014447</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_204/VjcVk_16984887917007dowN_JPEG/clip_20231028190515_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Billlie - DANG!(hocus pocus)(빌리 – 댕! (호커스 포커스)) FanCam | Show! MusicCore | MBC231028방송]]></title>
-            <link>https://tv.naver.com/v/42014335</link>
-            <guid>https://tv.naver.com/v/42014335</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_27/o3Iyg_1698488491492EghQJ_JPEG/clip_20231028190345_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] POW DONGYEON - Dazzling(파우 동연 - 다즐링) FanCam | Show! MusicCore | MBC231028방송]]></title>
-            <link>https://tv.naver.com/v/42014147</link>
-            <guid>https://tv.naver.com/v/42014147</guid>
-            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_18/fD9Qr_1698487891052DAyrQ_JPEG/clip_20231028183545_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE ANTON – Talk Saxy(라이즈 앤톤 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송]]></title>
-            <link>https://tv.naver.com/v/42014145</link>
-            <guid>https://tv.naver.com/v/42014145</guid>
-            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[6:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_185/c02EK_1698487889920Wu2rt_JPEG/clip_20231028183002_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] POW HONG - Dazzling(파우 홍 - 다즐링) FanCam | Show! MusicCore | MBC231028방송]]></title>
-            <link>https://tv.naver.com/v/42013927</link>
-            <guid>https://tv.naver.com/v/42013927</guid>
-            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_216/2WtSj_16984872955345cNhD_JPEG/clip_20231028183551_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] POW JUNGBIN - Dazzling(파우 정빈 - 다즐링) FanCam | Show! MusicCore | MBC231028방송]]></title>
-            <link>https://tv.naver.com/v/42013926</link>
-            <guid>https://tv.naver.com/v/42013926</guid>
-            <pubDate>Sat, 28 Oct 2023 10:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_267/36yJ4_16984872943438KeFR_JPEG/clip_20231028183541_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
