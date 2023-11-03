@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 04:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 05:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2032,6 +2032,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] EP.591 - Moon Jong Up, GHOST9, Billlie, YOUNITE, n.SSign, XODIAC (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42240759</link>
+            <guid>https://tv.naver.com/v/42240759</guid>
+            <pubDate>Fri, 03 Nov 2023 05:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[54:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_243/9VdKc_1698913256376fwJvC_JPEG/1698912856064.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] EP.590 - JANG WOO HYUK, EPEX, LIGHTSUM, JINI, XG, tripeS EVOLution, ILY:1 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/41954563</link>
             <guid>https://tv.naver.com/v/41954563</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
             <content:encoded><![CDATA[55:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_200/s21e8_16892363086793vMCl_JPEG/1689235629217.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.576 - YENA(최예나), WEi(위아이), UKISS(유키스), LUN8(루네이트), Lapillus(라필 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/37744938</link>
-            <guid>https://tv.naver.com/v/37744938</guid>
-            <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[48:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_71/cPmQO_1688627227386Nvr4y_JPEG/1688626442736.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이선지 쿼텟_Triste(원곡 antonio carlos jobim) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
