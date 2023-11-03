@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 09:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 10:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2152,6 +2152,62 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_200/s21e8_16892363086793vMCl_JPEG/1689235629217.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신촌블루스_골목길 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42284878</link>
+            <guid>https://tv.naver.com/v/42284878</guid>
+            <pubDate>Fri, 03 Nov 2023 10:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[5:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_66/w6HL8_1698987616713gNmcx_JPEG/c25d3134-7a00-11ee-9b44-a0369ffdab64_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신촌블루스_아쉬움 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42284876</link>
+            <guid>https://tv.naver.com/v/42284876</guid>
+            <pubDate>Fri, 03 Nov 2023 10:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_214/FScjG_16989876103853hvBf_JPEG/e83770d2-7a00-11ee-8fa1-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신촌블루스_내 맘속에 내리는 비는 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42284869</link>
+            <guid>https://tv.naver.com/v/42284869</guid>
+            <pubDate>Fri, 03 Nov 2023 10:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_216/DW3NS_1698987603470wvdV1_JPEG/07af2a7b-7a01-11ee-8fa1-48df37ae3dc4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신촌블루스_붉은 노을 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42284864</link>
+            <guid>https://tv.naver.com/v/42284864</guid>
+            <pubDate>Fri, 03 Nov 2023 10:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_281/Plovk_1698987597045kaOjg_JPEG/2e71f4a1-7a01-11ee-ba6d-80615f0bcdae_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신촌블루스_환상 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42284856</link>
+            <guid>https://tv.naver.com/v/42284856</guid>
+            <pubDate>Fri, 03 Nov 2023 10:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[5:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_160/KUDwu_1698987589762p2hQL_JPEG/5bce80cc-7a01-11ee-bae1-505dac8c38f5_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신촌블루스_세월이 한참 흐른 뒤에야 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42284850</link>
+            <guid>https://tv.naver.com/v/42284850</guid>
+            <pubDate>Fri, 03 Nov 2023 10:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_206/FQ37E_16989875819368wbgL_JPEG/7c2e02f8-7a01-11ee-8fa1-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신촌블루스_건널 수 없는 강 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42284842</link>
+            <guid>https://tv.naver.com/v/42284842</guid>
+            <pubDate>Fri, 03 Nov 2023 10:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_94/kVsAU_1698987573588Erpq7_JPEG/9d163c31-7a01-11ee-92d9-80615f0c46b2_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신촌블루스_Angie (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/42284835</link>
             <guid>https://tv.naver.com/v/42284835</guid>
@@ -2334,62 +2390,6 @@
             <pubDate>Fri, 13 Oct 2023 10:16:35 GMT</pubDate>
             <content:encoded><![CDATA[4:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231013_297/ncycL_1697170059372RLqdv_JPEG/b70f546d-6971-11ee-9178-505dacfba98a_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산시립합창단_OH! Happy Day (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41328433</link>
-            <guid>https://tv.naver.com/v/41328433</guid>
-            <pubDate>Fri, 13 Oct 2023 10:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231013_146/xLopM_1697170051580kRzOj_JPEG/e1ac9935-6971-11ee-968b-80615f0bccec_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산시립합창단_Butterfly(국가대표 OST) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41328428</link>
-            <guid>https://tv.naver.com/v/41328428</guid>
-            <pubDate>Fri, 13 Oct 2023 10:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231013_77/pvAxR_1697170041436WeAQl_JPEG/efef6b37-6971-11ee-9416-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산시립합창단_Funiculi Funicula(푸니쿨리 푸니쿨라) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41328427</link>
-            <guid>https://tv.naver.com/v/41328427</guid>
-            <pubDate>Fri, 13 Oct 2023 09:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231013_202/5zegz_1697170036002Rj5Pz_JPEG/0788861f-6972-11ee-8fa1-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조성모_너의 곁으로 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41328424</link>
-            <guid>https://tv.naver.com/v/41328424</guid>
-            <pubDate>Fri, 13 Oct 2023 09:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[4:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231013_139/Vaclb_1697170030966PFWfT_JPEG/18ac30be-6972-11ee-9244-a0369ffde9a8_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경록_Beautiful life (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41011125</link>
-            <guid>https://tv.naver.com/v/41011125</guid>
-            <pubDate>Sat, 07 Oct 2023 18:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_245/kZISA_1696494195942vGFvt_JPEG/32b357d3-6358-11ee-8b25-a0369ffab040_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딕펑스_썬글라스 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41011004</link>
-            <guid>https://tv.naver.com/v/41011004</guid>
-            <pubDate>Sat, 07 Oct 2023 19:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_85/6EUWs_1696494089967PTv9E_JPEG/163acdd6-6350-11ee-ba6d-80615f0bcdae_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소찬휘_뱅뱅뱅(원곡 빅뱅 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41010994</link>
-            <guid>https://tv.naver.com/v/41010994</guid>
-            <pubDate>Sat, 07 Oct 2023 19:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[4:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_115/h7xaB_169649408298228fo6_JPEG/26617a8b-6350-11ee-9416-48df379cca40_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
