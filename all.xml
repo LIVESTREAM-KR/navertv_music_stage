@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 06:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 07:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[STAGE MIX🪄] FANTASY BOYS – New Tomorrow(판타지 보이즈 - 뉴 투모로우) | Show! Music Core (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42187798</link>
+            <guid>https://tv.naver.com/v/42187798</guid>
+            <pubDate>Fri, 03 Nov 2023 07:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_254/yqoHj_16988290489017rISu_JPEG/clip_20231101173758_32.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] FANTASY BOYS KANG MINSEO-New Tomorrow(판타지 보이즈 강민서-뉴 투모로우)Close-up Cam|MusicCore|MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231028_224/1yAJB_1698489089235e80em_JPEG/clip_20231028190552_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Billlie HARAM – DANG!(hocus pocus)(빌리 하람 - 댕! (호커스 포커스)) FanCam | Show!MusicCore|MBC231028방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42014448</link>
-            <guid>https://tv.naver.com/v/42014448</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_68/JkNul_1698488793292uoptI_JPEG/clip_20231028190526_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴(SEVENTEEN) - 음악의 신 | SBS 231029 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
