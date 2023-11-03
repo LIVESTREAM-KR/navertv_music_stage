@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 08:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 09:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2152,6 +2152,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_200/s21e8_16892363086793vMCl_JPEG/1689235629217.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신촌블루스_Angie (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42284835</link>
+            <guid>https://tv.naver.com/v/42284835</guid>
+            <pubDate>Fri, 03 Nov 2023 09:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_98/pI1XQ_1698987565670chH7E_JPEG/c14e15ab-7a01-11ee-a2d6-80615f0bcc12_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신촌블루스_거리에 서서 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42284823</link>
+            <guid>https://tv.naver.com/v/42284823</guid>
+            <pubDate>Fri, 03 Nov 2023 09:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_5/Y4Ygy_1698987547299aSNKj_JPEG/dc8b81ac-7a01-11ee-97c6-505dac8c385b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이선지 쿼텟_Triste(원곡 antonio carlos jobim) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/41926491</link>
             <guid>https://tv.naver.com/v/41926491</guid>
@@ -2374,22 +2390,6 @@
             <pubDate>Sat, 07 Oct 2023 19:12:36 GMT</pubDate>
             <content:encoded><![CDATA[4:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231005_115/h7xaB_169649408298228fo6_JPEG/26617a8b-6350-11ee-9416-48df379cca40_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현정_혼자한 사랑 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41010988</link>
-            <guid>https://tv.naver.com/v/41010988</guid>
-            <pubDate>Sat, 07 Oct 2023 19:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[4:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_112/K0M38_1696494076579HiMSf_JPEG/3d85665c-6350-11ee-968b-80615f0bccec_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전인권밴드_세계로 가는 기차 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41010981</link>
-            <guid>https://tv.naver.com/v/41010981</guid>
-            <pubDate>Sat, 07 Oct 2023 19:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[6:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_163/NOmTo_1696494070970mHaSi_JPEG/540c7591-6350-11ee-968b-80615f0bccec_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
