@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 12:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 13:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,54 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] MC 리노 서프라이즈 직캠 (LEE KNOW Good-Bye FanCam) | @Show!MusicCore 231104 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42342738</link>
+            <guid>https://tv.naver.com/v/42342738</guid>
+            <pubDate>Sat, 04 Nov 2023 13:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[16:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_258/MxvGB_1699103489316Lxc2n_JPEG/clip_20231104200444_39.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] HeeJin – Algorithm(희진 - 알고리즘) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42341413</link>
+            <guid>https://tv.naver.com/v/42341413</guid>
+            <pubDate>Sat, 04 Nov 2023 13:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_214/8qKRF_1699101090455Y85kI_JPEG/clip_20231104200224_47.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Billlie TSUKI – DANG!(hocus pocus)(빌리 츠키 - 댕! (호커스 포커스)) FanCam | Show! MusicCore | MBC2311 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42341409</link>
+            <guid>https://tv.naver.com/v/42341409</guid>
+            <pubDate>Sat, 04 Nov 2023 13:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_30/B0CHr_1699101089336j14bj_JPEG/clip_20231104195616_37.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VIVIZ EUNHA – MANIAC(비비지 은하 - 매니악) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42341287</link>
+            <guid>https://tv.naver.com/v/42341287</guid>
+            <pubDate>Sat, 04 Nov 2023 13:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_252/lsycA_16991008493298x1Fq_JPEG/clip_20231104195312_35.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Weeekly – VROOM VROOM(위클리 - 브룸 브룸) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42341264</link>
+            <guid>https://tv.naver.com/v/42341264</guid>
+            <pubDate>Sat, 04 Nov 2023 13:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_216/9jV4o_1699100793529HHXKa_JPEG/clip_20231104200138_46.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VIVIZ UMJI – MANIAC(비비지 엄지 - 매니악) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42341263</link>
+            <guid>https://tv.naver.com/v/42341263</guid>
+            <pubDate>Sat, 04 Nov 2023 13:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_19/gdk5t_1699100792235ix0YS_JPEG/clip_20231104195308_33.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] ONF - Love Effect(온앤오프 – 바람이 분다) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -206,54 +254,6 @@
             <pubDate>Sat, 04 Nov 2023 12:22:39 GMT</pubDate>
             <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231104_292/PNsMZ_1699097791008Pa4X3_JPEG/clip_20231104193546_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CRAVITY HYEONGJUN – MEGAPHONE(크래비티 형준 - 메가폰) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42339609</link>
-            <guid>https://tv.naver.com/v/42339609</guid>
-            <pubDate>Sat, 04 Nov 2023 12:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_72/j3clX_1699097491174BFXPR_JPEG/clip_20231104193551_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CRAVITY - MEGAPHONE(크래비티 – 메가폰) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42339608</link>
-            <guid>https://tv.naver.com/v/42339608</guid>
-            <pubDate>Sat, 04 Nov 2023 12:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_161/Auahc_16990974897764j60V_JPEG/clip_20231104193532_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CRAVITY TAEYOUNG – MEGAPHONE(크래비티 태영 - 메가폰) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42339520</link>
-            <guid>https://tv.naver.com/v/42339520</guid>
-            <pubDate>Sat, 04 Nov 2023 12:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_145/bsXS6_16990972520058M8wj_JPEG/clip_20231104193552_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CRAVITY ALLEN – MEGAPHONE(크래비티 앨런 - 메가폰) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42339519</link>
-            <guid>https://tv.naver.com/v/42339519</guid>
-            <pubDate>Sat, 04 Nov 2023 12:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_125/E2pz3_1699097250682m4Il8_JPEG/clip_20231104193543_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CRAVITY WONJIN – MEGAPHONE(크래비티 원진 - 메가폰) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42339259</link>
-            <guid>https://tv.naver.com/v/42339259</guid>
-            <pubDate>Sat, 04 Nov 2023 12:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_26/S8dtE_1699096592596HffpV_JPEG/clip_20231104193548_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NiziU RIMA – HEARTRIS(니쥬 리마 - 하트리스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42338565</link>
-            <guid>https://tv.naver.com/v/42338565</guid>
-            <pubDate>Sat, 04 Nov 2023 11:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_271/rwh2k_1699094793430gCtfl_JPEG/clip_20231104192147_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴(SEVENTEEN) - 음악의 신 | SBS 231029 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
