@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 13:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 14:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] MC 정우 서프라이즈 직캠 (JUNGWOO Good-Bye FanCam) | @Show!MusicCore 231104 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42344278</link>
+            <guid>https://tv.naver.com/v/42344278</guid>
+            <pubDate>Sat, 04 Nov 2023 14:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[15:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_135/B8JMY_1699106189223JgVyl_JPEG/clip_20231104200445_40.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] MC 리노 서프라이즈 직캠 (LEE KNOW Good-Bye FanCam) | @Show!MusicCore 231104 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 04 Nov 2023 12:22:39 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231104_177/63uDG_16990981515194BrO6_JPEG/clip_20231104193549_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CRAVITY WOOBIN – MEGAPHONE(크래비티 우빈 - 메가폰) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42339744</link>
-            <guid>https://tv.naver.com/v/42339744</guid>
-            <pubDate>Sat, 04 Nov 2023 12:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_292/PNsMZ_1699097791008Pa4X3_JPEG/clip_20231104193546_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴(SEVENTEEN) - 음악의 신 | SBS 231029 방송 (SBS 인기가요 ─ 네이버TV)]]></title>

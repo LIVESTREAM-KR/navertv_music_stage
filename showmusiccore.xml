@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 13:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 14:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] MC 정우 서프라이즈 직캠 (JUNGWOO Good-Bye FanCam) | @Show!MusicCore 231104]]></title>
+            <link>https://tv.naver.com/v/42344278</link>
+            <guid>https://tv.naver.com/v/42344278</guid>
+            <pubDate>Sat, 04 Nov 2023 14:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[15:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_135/B8JMY_1699106189223JgVyl_JPEG/clip_20231104200445_40.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] MC 리노 서프라이즈 직캠 (LEE KNOW Good-Bye FanCam) | @Show!MusicCore 231104]]></title>
             <link>https://tv.naver.com/v/42342738</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Nov 2023 12:22:39 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231104_177/63uDG_16990981515194BrO6_JPEG/clip_20231104193549_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] CRAVITY WOOBIN – MEGAPHONE(크래비티 우빈 - 메가폰) FanCam | Show! MusicCore | MBC231104방송]]></title>
-            <link>https://tv.naver.com/v/42339744</link>
-            <guid>https://tv.naver.com/v/42339744</guid>
-            <pubDate>Sat, 04 Nov 2023 12:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_292/PNsMZ_1699097791008Pa4X3_JPEG/clip_20231104193546_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
