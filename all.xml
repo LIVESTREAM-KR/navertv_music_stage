@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 10:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 11:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,78 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NiziU RIMA – HEARTRIS(니쥬 리마 - 하트리스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42338565</link>
+            <guid>https://tv.naver.com/v/42338565</guid>
+            <pubDate>Sat, 04 Nov 2023 11:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_271/rwh2k_1699094793430gCtfl_JPEG/clip_20231104192147_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NiziU MIIHI – HEARTRIS(니쥬 미이히 - 하트리스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42338564</link>
+            <guid>https://tv.naver.com/v/42338564</guid>
+            <pubDate>Sat, 04 Nov 2023 11:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_121/AwU1v_16990947923302bWIe_JPEG/clip_20231104192145_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NiziU NINA – HEARTRIS(니쥬 니나 - 하트리스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42338444</link>
+            <guid>https://tv.naver.com/v/42338444</guid>
+            <pubDate>Sat, 04 Nov 2023 11:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_149/alYKC_1699094551979ajtnn_JPEG/clip_20231104192144_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NiziU AYAKA – HEARTRIS(니쥬 아야카 - 하트리스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42338285</link>
+            <guid>https://tv.naver.com/v/42338285</guid>
+            <pubDate>Sat, 04 Nov 2023 11:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_189/qosIP_1699094191801EaNQ0_JPEG/clip_20231104190429_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NiziU MAYUKA – HEARTRIS(니쥬 마유카 - 하트리스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42338173</link>
+            <guid>https://tv.naver.com/v/42338173</guid>
+            <pubDate>Sat, 04 Nov 2023 11:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_10/8We7j_169909389188901IOb_JPEG/clip_20231104190449_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NiziU RIKU – HEARTRIS(니쥬 리쿠 - 하트리스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42338171</link>
+            <guid>https://tv.naver.com/v/42338171</guid>
+            <pubDate>Sat, 04 Nov 2023 11:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_130/nvMey_1699093890687sITVJ_JPEG/clip_20231104190428_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NiziU RIO – HEARTRIS(니쥬 리오 - 하트리스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42338169</link>
+            <guid>https://tv.naver.com/v/42338169</guid>
+            <pubDate>Sat, 04 Nov 2023 11:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_287/pQfFd_1699093889467fedNq_JPEG/clip_20231104190425_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NiziU MAKO – HEARTRIS(니쥬 마코 - 하트리스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42338049</link>
+            <guid>https://tv.naver.com/v/42338049</guid>
+            <pubDate>Sat, 04 Nov 2023 11:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_285/8cupy_1699093650412LOiLl_JPEG/clip_20231104190423_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NiziU - HEARTRIS(니쥬 – 하트리스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42337888</link>
+            <guid>https://tv.naver.com/v/42337888</guid>
+            <pubDate>Sat, 04 Nov 2023 11:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_11/xL5fC_1699093289913QAUA5_JPEG/clip_20231104185311_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] WayV HENDERY – On My Youth(웨이션브이 헨드리 - 온 마이 유스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -29,7 +101,7 @@
             <guid>https://tv.naver.com/v/42337369</guid>
             <pubDate>Sat, 04 Nov 2023 10:13:01 GMT</pubDate>
             <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_278/VuwMl_1699092390899Gkrfl_JPEG/clip_20231104182940_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_27/IR0Pg_1699096009378oAEpj_JPEG/clip_20231104200310_48.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] WayV YANGYANG – On My Youth(웨이션브이 양양 - 온 마이 유스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -182,78 +254,6 @@
             <pubDate>Mon, 30 Oct 2023 06:17:53 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231030_149/fdyhy_1698643653431TJaG1_JPEG/clip_20231030135500_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] GHOST9 - RUCKUS(고스트나인 – 루커스) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42015205</link>
-            <guid>https://tv.naver.com/v/42015205</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_129/fJkcO_1698490649832rNzBf_JPEG/clip_20231028192729_36.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] LIGHTSUM – Honey or Spice(라잇썸 - 허니 오어 스파이스) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42015062</link>
-            <guid>https://tv.naver.com/v/42015062</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_100/abnGA_1698490292249sGdDJ_JPEG/clip_20231028192454_33.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE LEESEO – Baddie(아이브 이서 - 배디) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42015060</link>
-            <guid>https://tv.naver.com/v/42015060</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_262/nn6tN_1698490290873bHdXW_JPEG/clip_20231028192046_32.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE REI – Baddie(아이브 레이 - 배디) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42015058</link>
-            <guid>https://tv.naver.com/v/42015058</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_182/bGFHy_1698490289629497mu_JPEG/clip_20231028192030_29.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE AN YUJIN – Baddie(아이브 안유진 - 배디) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42015056</link>
-            <guid>https://tv.naver.com/v/42015056</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_226/oOlbj_1698490288589sN5qT_JPEG/clip_20231028192017_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] tripleS EVOLution - Invincible(트리플에스 에볼루션 – 인빈시블) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42014922</link>
-            <guid>https://tv.naver.com/v/42014922</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_98/8gKXZ_1698489990521sgQEj_JPEG/clip_20231028192539_34.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ONF - Love Effect(온앤오프 – 바람이 분다) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42014831</link>
-            <guid>https://tv.naver.com/v/42014831</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_94/VUFjk_1698489757634Wi3Cw_JPEG/clip_20231028192618_35.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE LIZ – Baddie(아이브 리즈 - 배디) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42014829</link>
-            <guid>https://tv.naver.com/v/42014829</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_36/8nw6x_1698489754764VDWyh_JPEG/clip_20231028192039_31.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE JANG WONYOUNG – Baddie(아이브 장원영 - 배디) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42014828</link>
-            <guid>https://tv.naver.com/v/42014828</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_267/LXDzT_1698489753353u3Ejg_JPEG/clip_20231028192034_30.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴(SEVENTEEN) - 음악의 신 | SBS 231029 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
