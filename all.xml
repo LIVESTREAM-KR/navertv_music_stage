@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 09:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 10:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,62 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] WayV HENDERY – On My Youth(웨이션브이 헨드리 - 온 마이 유스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42337370</link>
+            <guid>https://tv.naver.com/v/42337370</guid>
+            <pubDate>Sat, 04 Nov 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_173/7TvdJ_16990923919630Tt2B_JPEG/clip_20231104183035_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] WayV XIAOJUN – On My Youth(웨이션브이 샤오쥔 - 온 마이 유스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42337369</link>
+            <guid>https://tv.naver.com/v/42337369</guid>
+            <pubDate>Sat, 04 Nov 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_278/VuwMl_1699092390899Gkrfl_JPEG/clip_20231104182940_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] WayV YANGYANG – On My Youth(웨이션브이 양양 - 온 마이 유스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42337202</link>
+            <guid>https://tv.naver.com/v/42337202</guid>
+            <pubDate>Sat, 04 Nov 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_37/A0g0U_1699092090657aRsT4_JPEG/clip_20231104183007_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] WayV WINWIN – On My Youth(웨이션브이 윈윈 - 온 마이 유스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42337201</link>
+            <guid>https://tv.naver.com/v/42337201</guid>
+            <pubDate>Sat, 04 Nov 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_41/1DYO0_1699092089430Y2cYO_JPEG/clip_20231104182841_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] WayV KUN – On My Youth(웨이션브이 쿤 - 온 마이 유스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42336916</link>
+            <guid>https://tv.naver.com/v/42336916</guid>
+            <pubDate>Sat, 04 Nov 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_142/cRsVY_1699091490079imOhT_JPEG/clip_20231104182810_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] WayV - On My Youth(웨이션브이 – 온 마이 유스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42336915</link>
+            <guid>https://tv.naver.com/v/42336915</guid>
+            <pubDate>Sat, 04 Nov 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_121/TftJ2_1699091488637n3SV4_JPEG/clip_20231104182732_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] WayV TEN – On My Youth(웨이션브이 텐 - 온 마이 유스) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42336766</link>
+            <guid>https://tv.naver.com/v/42336766</guid>
+            <pubDate>Sat, 04 Nov 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_113/rlS92_16990911935320p7Q2_JPEG/clip_20231104182908_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[STAGE MIX🪄] FANTASY BOYS – New Tomorrow(판타지 보이즈 - 뉴 투모로우) | Show! Music Core (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -198,62 +254,6 @@
             <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231028_267/LXDzT_1698489753353u3Ejg_JPEG/clip_20231028192034_30.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE GAEUL – Baddie(아이브 가을 - 배디) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42014825</link>
-            <guid>https://tv.naver.com/v/42014825</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_142/Mn5UU_1698489752128M1zUS_JPEG/clip_20231028192021_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Billlie SIYOON – DANG!(hocus pocus)(빌리 시윤 - 댕! (호커스 포커스)) FanCam |Show!MusicCore|MBC231028방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42014802</link>
-            <guid>https://tv.naver.com/v/42014802</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_87/OzU7w_1698489689844MqN38_JPEG/clip_20231028190507_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] IVE - Baddie(아이브 – 배디) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42014678</link>
-            <guid>https://tv.naver.com/v/42014678</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_45/1JUC9_1698489398181fPANl_JPEG/clip_20231028191818_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SUNMI – STRANGER(선미 - 스트레인저) FanCam | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42014673</link>
-            <guid>https://tv.naver.com/v/42014673</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_266/1m6WL_1698489393956Nj986_JPEG/clip_20231028191701_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] SUNMI - STRANGER(선미 – 스트레인저) FanCam (Horizontal Ver.) | Show! MusicCore | MBC231028방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42014671</link>
-            <guid>https://tv.naver.com/v/42014671</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_61/P04LA_1698489392598yzk3x_JPEG/clip_20231028191653_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Billlie TSUKI – DANG!(hocus pocus)(빌리 츠키 - 댕! (호커스 포커스)) FanCam | Show!MusicCore|MBC231028방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42014670</link>
-            <guid>https://tv.naver.com/v/42014670</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_92/1O6Al_16984893914121wFxP_JPEG/clip_20231028190520_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Billlie HARUNA – DANG!(hocus pocus)(빌리 하루나 - 댕! (호커스 포커스))FanCam|Show!MusicCore |MBC231028방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42014563</link>
-            <guid>https://tv.naver.com/v/42014563</guid>
-            <pubDate>Sat, 28 Oct 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_224/1yAJB_1698489089235e80em_JPEG/clip_20231028190552_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴(SEVENTEEN) - 음악의 신 | SBS 231029 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
