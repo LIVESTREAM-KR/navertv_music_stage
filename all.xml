@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 06:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 07:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231104_177/63uDG_16990981515194BrO6_JPEG/clip_20231104193549_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NINE.i(나인아이) - NEVERLAND | SBS 231105 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42360058</link>
+            <guid>https://tv.naver.com/v/42360058</guid>
+            <pubDate>Sun, 05 Nov 2023 07:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231105_151/gWi7P_1699167990593qHz3v_PNG/65fe6268-e08b-478d-86d5-db5a77db4c95.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[NiziU(니쥬) - HEARTRIS | SBS 231105 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42359865</link>
+            <guid>https://tv.naver.com/v/42359865</guid>
+            <pubDate>Sun, 05 Nov 2023 07:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231105_299/H17lL_1699167689431P3E1D_PNG/2fd3597a-d09e-4750-aacb-1f9967a8d876.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼카인드(SUPERKIND) - Beam me up(2Dx3D) | SBS 231105 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42359711</link>
+            <guid>https://tv.naver.com/v/42359711</guid>
+            <pubDate>Sun, 05 Nov 2023 07:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231105_177/dGwl0_1699167449290cY5Pj_PNG/880ac1f0-fac2-47eb-8cd8-c2d274917a00.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[eite(에이트) - INDEPENDENT WOMAN | SBS 231105 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42359674</link>
+            <guid>https://tv.naver.com/v/42359674</guid>
+            <pubDate>Sun, 05 Nov 2023 07:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231105_189/CmTge_1699167391366qCANy_PNG/6f4fcd16-2e55-45ff-b7e1-b18ff792e79e.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[밴드유니(Banduni) - 파란밤  | SBS 231105 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42359485</link>
+            <guid>https://tv.naver.com/v/42359485</guid>
+            <pubDate>Sun, 05 Nov 2023 07:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231105_191/mFhEJ_1699167093611QhyPC_PNG/2c29ca80-17c6-4da8-b9ef-78d9e757983a.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[세븐틴(SEVENTEEN) - 음악의 신 | SBS 231029 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/42037844</link>
             <guid>https://tv.naver.com/v/42037844</guid>
@@ -454,46 +494,6 @@
             <pubDate>Sun, 22 Oct 2023 08:15:27 GMT</pubDate>
             <content:encoded><![CDATA[3:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231022_21/U1WWC_16979595921556bXll_PNG/7103f2f4-ef4d-4fb0-86f0-391f123c0c35.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EPEX(이펙스) - FULL METAL JACKET | SBS 231022 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41713995</link>
-            <guid>https://tv.naver.com/v/41713995</guid>
-            <pubDate>Sun, 22 Oct 2023 08:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_89/EcAz7_1697959589994mbIT6_PNG/392aaaaa-2407-482e-bdbc-42b64e502b5f.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAVITY - Cheese | SBS 231022 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41713868</link>
-            <guid>https://tv.naver.com/v/41713868</guid>
-            <pubDate>Sun, 22 Oct 2023 08:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_283/7DOcH_1697959289202GkCdE_PNG/d739c217-581f-4345-a0a9-7f0d362d15f9.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[YOUNITE - 정했어(Love it) | SBS 231022 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41713750</link>
-            <guid>https://tv.naver.com/v/41713750</guid>
-            <pubDate>Sun, 22 Oct 2023 08:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_67/rX1Dt_1697958991345SsxIo_PNG/397fd5d9-33c1-493d-bc19-d89db5a8144a.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[tripleS EVOLution - Invincible | SBS 231022 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41713660</link>
-            <guid>https://tv.naver.com/v/41713660</guid>
-            <pubDate>Sun, 22 Oct 2023 08:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_262/G97HB_1697958751146BEnRu_PNG/9de2d6a8-1aa4-4454-a444-bf60428b1d22.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[n.SSign(엔싸인) - SPICE | SBS 231022 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41713641</link>
-            <guid>https://tv.naver.com/v/41713641</guid>
-            <pubDate>Sun, 22 Oct 2023 07:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_120/S5h2B_1697958690882WAdIL_PNG/b69b57ab-b12b-4e49-9a5d-447fef280ae8.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
