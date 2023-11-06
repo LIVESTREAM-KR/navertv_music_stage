@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 04:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 05:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 따르릉...📞따르릉...📞 (철컥) 안녕하세요 이번 주 쇼챔 무대 보고 광명 찾자✨ 협회에서 나왔습니다 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42395939</link>
+            <guid>https://tv.naver.com/v/42395939</guid>
+            <pubDate>Mon, 06 Nov 2023 05:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231106_94/jIoXg_1699247491600uO0DF_JPEG/CA202311080002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예고] 큰 거 왔다.. 쇼챔에세이 드디어 왔다..👍🏻 쇼챔에세이 시작, 짱 크게 시작, 빵빠레 불면서 시작, 축복 시작 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/42068437</link>
             <guid>https://tv.naver.com/v/42068437</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 25 Oct 2023 13:17:33 GMT</pubDate>
             <content:encoded><![CDATA[3:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231025_295/8hyfv_1698215193026q786X_JPEG/CA202310250019.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Billlie HARUNA - DANG! (hocus pocus) (빌리 하루나 - 댕! (호커스 포커스)) |Show Champion|EP.497|231025 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41855452</link>
-            <guid>https://tv.naver.com/v/41855452</guid>
-            <pubDate>Wed, 25 Oct 2023 13:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231025_146/nnf2u_16982076936416dFVT_JPEG/CA202310250015.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
