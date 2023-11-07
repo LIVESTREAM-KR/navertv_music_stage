@@ -4,9 +4,41 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 08:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 09:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] RIIZE EUNSEOK - Talk Saxy(라이즈 은석 - 토크 색시) Close-up Cam | Show! MusicCore | MBC231104방송]]></title>
+            <link>https://tv.naver.com/v/42467805</link>
+            <guid>https://tv.naver.com/v/42467805</guid>
+            <pubDate>Tue, 07 Nov 2023 09:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_27/4b0hH_1699347689652tQ4jO_JPEG/clip_20231107174408_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] RIIZE ANTON - Talk Saxy(라이즈 앤톤 - 토크 색시) Close-up Cam | Show! MusicCore | MBC231104방송]]></title>
+            <link>https://tv.naver.com/v/42454514</link>
+            <guid>https://tv.naver.com/v/42454514</guid>
+            <pubDate>Tue, 07 Nov 2023 09:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_271/vNFN9_1699335751511WxU9J_JPEG/clip_20231107142553_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] RIIZE SUNGCHAN - Talk Saxy(라이즈 성찬 - 토크 색시) Close-up Cam | Show! MusicCore | MBC231104방송]]></title>
+            <link>https://tv.naver.com/v/42443045</link>
+            <guid>https://tv.naver.com/v/42443045</guid>
+            <pubDate>Tue, 07 Nov 2023 09:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[4:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_121/IvuMS_1699322491763kdlJN_JPEG/clip_20231107102240_49.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] RIIZE WONBIN - Talk Saxy(라이즈 원빈 - 토크 색시) Close-up Cam | Show! MusicCore | MBC231104방송]]></title>
+            <link>https://tv.naver.com/v/42442847</link>
+            <guid>https://tv.naver.com/v/42442847</guid>
+            <pubDate>Tue, 07 Nov 2023 09:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[4:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_28/cygkf_1699322249495vjG9q_JPEG/clip_20231107102255_51.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] Jang Minho – We Were Young(장민호 - 그때 우린 젊었다) FanCam | Show! MusicCore | MBC231104방송]]></title>
             <link>https://tv.naver.com/v/42398988</link>
@@ -214,38 +246,6 @@
             <pubDate>Sat, 04 Nov 2023 12:22:39 GMT</pubDate>
             <content:encoded><![CDATA[3:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231104_78/asqpU_1699099596780up1p0_JPEG/clip_20231104194148_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE - Talk Saxy(라이즈 – 토크 색시) FanCam | Show! MusicCore | MBC231104방송]]></title>
-            <link>https://tv.naver.com/v/42340655</link>
-            <guid>https://tv.naver.com/v/42340655</guid>
-            <pubDate>Sat, 04 Nov 2023 12:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_156/9lXej_1699099595105lEYgf_JPEG/clip_20231104194134_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE SOHEE – Talk Saxy(라이즈 소희 - 토크 색시) FanCam | Show! MusicCore | MBC231104방송]]></title>
-            <link>https://tv.naver.com/v/42340371</link>
-            <guid>https://tv.naver.com/v/42340371</guid>
-            <pubDate>Sat, 04 Nov 2023 12:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_93/D8v54_1699099051268UES1L_JPEG/clip_20231104194146_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE SEUNGHAN – Talk Saxy(라이즈 승한 - 토크 색시) FanCam | Show! MusicCore | MBC231104방송]]></title>
-            <link>https://tv.naver.com/v/42340336</link>
-            <guid>https://tv.naver.com/v/42340336</guid>
-            <pubDate>Sat, 04 Nov 2023 12:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_255/kBJDQ_1699098991816RchDl_JPEG/clip_20231104194151_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE EUNSEOK – Talk Saxy(라이즈 은석 - 토크 색시) FanCam | Show! MusicCore | MBC231104방송]]></title>
-            <link>https://tv.naver.com/v/42340335</link>
-            <guid>https://tv.naver.com/v/42340335</guid>
-            <pubDate>Sat, 04 Nov 2023 12:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_300/rIbrZ_1699098990787s8KTO_JPEG/clip_20231104194143_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
