@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 10:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 11:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[COMEBACK] 골든차일드(Golden Child) - Feel me l 231108 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42533499</link>
+            <guid>https://tv.naver.com/v/42533499</guid>
+            <pubDate>Wed, 08 Nov 2023 11:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231108_206/KkbDM_1699439193537Bxofc_JPEG/CA202311080087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 비비지(VIVIZ) - MANIAC l 231108 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42533244</link>
+            <guid>https://tv.naver.com/v/42533244</guid>
+            <pubDate>Wed, 08 Nov 2023 11:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231108_54/L3gZX_169943889813743Lan_JPEG/CA202311080088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] 웨이션브이(WayV) - On My Youth (English Ver.) l 231108 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42532997</link>
+            <guid>https://tv.naver.com/v/42532997</guid>
+            <pubDate>Wed, 08 Nov 2023 11:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231108_280/upqnF_1699438590841rrjOj_JPEG/CA202311080086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[COMEBACK] 희진(ARTMS HeeJin) - Algorithm l 231108 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/42532771</link>
             <guid>https://tv.naver.com/v/42532771</guid>
@@ -1430,30 +1454,6 @@
             <pubDate>Thu, 26 Oct 2023 08:17:50 GMT</pubDate>
             <content:encoded><![CDATA[3:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231026_169/qEyKP_1698303092577KzIE4_JPEG/CA202310250054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ONF E-TION - Dam Dam Di Ram (온앤오프 이션 - 담담디람) | Show Champion | EP.497 l 231025 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41919836</link>
-            <guid>https://tv.naver.com/v/41919836</guid>
-            <pubDate>Thu, 26 Oct 2023 08:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_257/wUNir_16983030914838Vqr9_JPEG/CA202310250052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ONF - Dam Dam Di Ram (온앤오프 - 담담디람) l Show Champion l EP.497 l 231025 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41912122</link>
-            <guid>https://tv.naver.com/v/41912122</guid>
-            <pubDate>Thu, 26 Oct 2023 08:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_152/gmFei_1698294989951QpYbI_JPEG/CA202310250047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] n.SSign - SPICE (엔싸인 - 스파이스) l Show Champion l EP.497 l 231025 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41870223</link>
-            <guid>https://tv.naver.com/v/41870223</guid>
-            <pubDate>Wed, 25 Oct 2023 13:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231025_217/ddGcD_1698222394020En4Mf_JPEG/CA202310250024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
