@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 11:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 12:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔 1위] 11월 2주 챔피언송 ＜NiziU - HEARTRIS＞ 앵콜 Full ver. l Show Champion l EP.499 l 231108 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42536632</link>
+            <guid>https://tv.naver.com/v/42536632</guid>
+            <pubDate>Wed, 08 Nov 2023 12:26:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231108_159/rcKM4_1699442852410BK22B_JPEG/CA202311080094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[COMEBACK] 골든차일드(Golden Child) - Feel me l 231108 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/42533499</link>
             <guid>https://tv.naver.com/v/42533499</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Thu, 26 Oct 2023 08:17:49 GMT</pubDate>
             <content:encoded><![CDATA[3:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231026_142/dMzPT_1698303450264kU1oG_JPEG/CA202310250053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ONF HYOJIN - Dam Dam Di Ram (온앤오프 효진 - 담담디람) | Show Champion | EP.497 l 231025 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41919837</link>
-            <guid>https://tv.naver.com/v/41919837</guid>
-            <pubDate>Thu, 26 Oct 2023 08:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_169/qEyKP_1698303092577KzIE4_JPEG/CA202310250054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
