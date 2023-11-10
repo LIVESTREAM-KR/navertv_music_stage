@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 04:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 05:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2032,6 +2032,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] EP.592- Peder Elias, GHOST9, Billlie, XODIAC, GreatGuys, SUPERKIND (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42580496</link>
+            <guid>https://tv.naver.com/v/42580496</guid>
+            <pubDate>Fri, 10 Nov 2023 05:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[56:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231109_264/BXv7O_1699514703378qFWEX_JPEG/1699514222990.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] EP.591 - Moon Jong Up, GHOST9, Billlie, YOUNITE, n.SSign, XODIAC (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/42240759</link>
             <guid>https://tv.naver.com/v/42240759</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
             <content:encoded><![CDATA[53:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230721_144/cQnXs_1689898829157i8NLL_JPEG/1689898823905.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.577 - SWAN(수안), 8TURN(에잇턴), KISS OF LIFE(키스오브라이프), LUN8(루네이트) (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38004185</link>
-            <guid>https://tv.naver.com/v/38004185</guid>
-            <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[55:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_200/s21e8_16892363086793vMCl_JPEG/1689235629217.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신촌블루스_골목길 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
