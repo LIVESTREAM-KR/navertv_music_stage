@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 08:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 09:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] TAEMIN – Guilty(태민 - 길티) 1위 직캠 FanCam | Show! MusicCore | MBC231111방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42686027</link>
+            <guid>https://tv.naver.com/v/42686027</guid>
+            <pubDate>Sat, 11 Nov 2023 09:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[6:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_296/SmW2s_1699693590711UUkAc_JPEG/clip_20231111174848_58.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] RIIZE EUNSEOK - Talk Saxy(라이즈 은석 - 토크 색시) Close-up Cam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 04 Nov 2023 12:22:39 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231104_90/WM7pp_1699099598095mxUPH_JPEG/clip_20231104194153_29.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] RIIZE ANTON – Talk Saxy(라이즈 앤톤 - 토크 색시) FanCam | Show! MusicCore | MBC231104방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42340656</link>
-            <guid>https://tv.naver.com/v/42340656</guid>
-            <pubDate>Sat, 04 Nov 2023 12:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_78/asqpU_1699099596780up1p0_JPEG/clip_20231104194148_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태민(TAEMIN) - Guilty | SBS 231105 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
