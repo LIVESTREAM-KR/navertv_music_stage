@@ -4,9 +4,65 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 06:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 07:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ZEROBASEONE - MELTING POINT | SBS 231112 방송]]></title>
+            <link>https://tv.naver.com/v/42713198</link>
+            <guid>https://tv.naver.com/v/42713198</guid>
+            <pubDate>Sun, 12 Nov 2023 07:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231112_16/8KR2i_1699773093023jBVrV_PNG/d52591ad-0372-42aa-a047-b146d8341f74.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[GHOST9 - RUCKUS | SBS 231112 방송]]></title>
+            <link>https://tv.naver.com/v/42713195</link>
+            <guid>https://tv.naver.com/v/42713195</guid>
+            <pubDate>Sun, 12 Nov 2023 07:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231112_105/kt8oM_1699773090604vmb8x_PNG/ade325bf-db4d-4a98-bca7-a058c015effe.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[NiziU(니쥬) - HEARTRIS | SBS 231112 방송]]></title>
+            <link>https://tv.naver.com/v/42713042</link>
+            <guid>https://tv.naver.com/v/42713042</guid>
+            <pubDate>Sun, 12 Nov 2023 07:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231112_284/C7XLn_1699772792284AISxQ_PNG/feb42337-d892-48b4-8c44-9a32552e92c7.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[KISS OF LIFE - Bad News | SBS 231112 방송]]></title>
+            <link>https://tv.naver.com/v/42712735</link>
+            <guid>https://tv.naver.com/v/42712735</guid>
+            <pubDate>Sun, 12 Nov 2023 07:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231112_117/n4VGu_1699772251141ncggm_PNG/be36ef0e-e364-42a9-8d3b-1b3d6d7ab796.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WHIB - BANG! | SBS 231112 방송]]></title>
+            <link>https://tv.naver.com/v/42712698</link>
+            <guid>https://tv.naver.com/v/42712698</guid>
+            <pubDate>Sun, 12 Nov 2023 07:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231112_81/YjrtT_1699772193792qYrg8_PNG/93b6b233-47e3-4bc3-b0df-13878f227676.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Queenz Eye - THIS IS LOVE | SBS 231112 방송]]></title>
+            <link>https://tv.naver.com/v/42712540</link>
+            <guid>https://tv.naver.com/v/42712540</guid>
+            <pubDate>Sun, 12 Nov 2023 07:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231112_298/E3Sb1_1699771891683VBkkX_PNG/82d3d2c7-22db-4a5d-9146-f3015de687c5.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[캐치더영(Catch The Young) - YOUTH!!! | SBS 231112 방송]]></title>
+            <link>https://tv.naver.com/v/42712285</link>
+            <guid>https://tv.naver.com/v/42712285</guid>
+            <pubDate>Sun, 12 Nov 2023 07:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231112_289/blUkH_1699771352168XAEI2_PNG/edcc67c3-c126-4d28-bb82-67ea6b58f451.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[태민(TAEMIN) - Guilty | SBS 231105 방송]]></title>
             <link>https://tv.naver.com/v/42361683</link>
@@ -190,62 +246,6 @@
             <pubDate>Sun, 29 Oct 2023 08:15:48 GMT</pubDate>
             <content:encoded><![CDATA[2:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231029_216/MxK99_1698564995852VkwUH_PNG/769c785a-ad63-4255-aad2-3fb88b477720.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Xdinary Heroes - PLUTO | SBS 231029 방송]]></title>
-            <link>https://tv.naver.com/v/42037225</link>
-            <guid>https://tv.naver.com/v/42037225</guid>
-            <pubDate>Sun, 29 Oct 2023 08:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_119/Y9eQb_16985649921289JJCK_PNG/7b5e97b6-daa0-464f-b84b-37f215d33fcd.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[RIIZE - Talk Saxy | SBS 231029 방송]]></title>
-            <link>https://tv.naver.com/v/42037078</link>
-            <guid>https://tv.naver.com/v/42037078</guid>
-            <pubDate>Sun, 29 Oct 2023 08:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_252/qTif3_16985646899835EugU_PNG/e0fb921c-4e77-4ddc-81c1-001851977efd.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LIGHTSUM - Honey or Spice | SBS 231029 방송]]></title>
-            <link>https://tv.naver.com/v/42036922</link>
-            <guid>https://tv.naver.com/v/42036922</guid>
-            <pubDate>Sun, 29 Oct 2023 08:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_139/Sx6Lq_1698564391564Pwgk9_PNG/d2f48186-f0c9-47bf-8821-9d2248a17862.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KINGDOM(킹덤) - 쿠데타(Coup d'Etat) | SBS 231029 방송]]></title>
-            <link>https://tv.naver.com/v/42036796</link>
-            <guid>https://tv.naver.com/v/42036796</guid>
-            <pubDate>Sun, 29 Oct 2023 08:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_132/uS5l7_169856408886146VlQ_PNG/08b6a4d1-7300-4980-86fa-af89a18295c8.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Billlie - DANG!(hocus pocus) | SBS 231029 방송]]></title>
-            <link>https://tv.naver.com/v/42036650</link>
-            <guid>https://tv.naver.com/v/42036650</guid>
-            <pubDate>Sun, 29 Oct 2023 08:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_189/1lwrx_1698563789835A8Rvl_PNG/747b19a8-0a03-4ca3-88eb-11a58fc0669f.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[YOUNITE - 정했어(Love it) | SBS 231029 방송]]></title>
-            <link>https://tv.naver.com/v/42036498</link>
-            <guid>https://tv.naver.com/v/42036498</guid>
-            <pubDate>Sun, 29 Oct 2023 07:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_7/uRhJg_1698563490322h9vMJ_PNG/3c9b979d-8de5-4844-81c7-8ad23c72c649.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[tripleS EVOLution - Invincible | SBS 231029 방송]]></title>
-            <link>https://tv.naver.com/v/42036365</link>
-            <guid>https://tv.naver.com/v/42036365</guid>
-            <pubDate>Sun, 29 Oct 2023 07:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_122/qHPX7_1698563191913kOhD4_PNG/e62c4273-119d-4b08-a2c3-7279cb3254fd.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
