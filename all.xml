@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 09:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 10:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,38 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] aespa NINGNING - Drama(에스파 닝닝 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42769240</link>
+            <guid>https://tv.naver.com/v/42769240</guid>
+            <pubDate>Mon, 13 Nov 2023 10:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_76/dzKhe_1699868202737Shcem_JPEG/clip_20231113174938_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] aespa WINTER - Drama(에스파 윈터 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42769235</link>
+            <guid>https://tv.naver.com/v/42769235</guid>
+            <pubDate>Mon, 13 Nov 2023 10:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_240/cTFfV_1699868200980tjfgP_JPEG/clip_20231113174925_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] aespa GISELLE - Drama(에스파 지젤 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42769229</link>
+            <guid>https://tv.naver.com/v/42769229</guid>
+            <pubDate>Mon, 13 Nov 2023 10:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_116/rmoeI_16998681987864Iebv_PNG/clip_20231113174919_15.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] aespa KARINA - Drama(에스파 카리나 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42769226</link>
+            <guid>https://tv.naver.com/v/42769226</guid>
+            <pubDate>Mon, 13 Nov 2023 10:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_15/wr6FM_1699868196729wTgwh_JPEG/clip_20231113174914_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] ZEROBASEONE HAN YU JIN - CRUSH(제로베이스원 한유진 - 가시) Close-up Cam | Show! MusicCore | MBC231111방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -222,38 +254,6 @@
             <pubDate>Sat, 11 Nov 2023 11:10:12 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231111_147/ZxG9o_1699700793106bwtvy_JPEG/clip_20231111193026_75.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ZEROBASEONE PARK GUN WOOK - CRUSH(제로베이스원 박건욱 - 가시) FanCam | Show! MusicCore | MBC231111방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42689368</link>
-            <guid>https://tv.naver.com/v/42689368</guid>
-            <pubDate>Sat, 11 Nov 2023 11:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_145/94kNB_1699700792123eY06r_JPEG/clip_20231111192223_39.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ZEROBASEONE KIM JI WOONG - CRUSH(제로베이스원 김지웅 - 가시) FanCam | Show! MusicCore | MBC231111방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42689367</link>
-            <guid>https://tv.naver.com/v/42689367</guid>
-            <pubDate>Sat, 11 Nov 2023 11:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_168/9Ew0R_1699700790916qdqu5_JPEG/clip_20231111192126_33.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ZEROBASEONE SEOK MATTHEW - CRUSH(제로베이스원 석매튜 - 가시) FanCam | Show! MusicCore | MBC231111방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42689212</link>
-            <guid>https://tv.naver.com/v/42689212</guid>
-            <pubDate>Sat, 11 Nov 2023 11:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_241/qy1Cq_16997004927051pLxW_JPEG/clip_20231111192145_35.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ZEROBASEONE – CRUSH(제로베이스원 - 가시) FanCam | Show! MusicCore | MBC231111방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42689211</link>
-            <guid>https://tv.naver.com/v/42689211</guid>
-            <pubDate>Sat, 11 Nov 2023 11:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_64/ODHFz_1699700490967ob1CR_JPEG/clip_20231111191956_31.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids - 락(樂) | SBS 231112 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
