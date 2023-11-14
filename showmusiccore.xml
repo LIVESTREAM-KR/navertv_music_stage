@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 08:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 09:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] 3MC SPECIAL LEE JUNG HA - Love Lee(3MC 스페셜 이정하 - 러브리)Close-up Cam|Show!MusicCore|MBC231111방]]></title>
+            <link>https://tv.naver.com/v/42826177</link>
+            <guid>https://tv.naver.com/v/42826177</guid>
+            <pubDate>Tue, 14 Nov 2023 09:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[4:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231114_29/Q2bmb_1699951291347vp83Q_JPEG/clip_20231114171846_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] 3MC SPECIAL SULLYOON - Love Lee(3MC 스페셜 설윤 - 러브리) Close-up Cam | Show! MusicCore|MBC231111방]]></title>
+            <link>https://tv.naver.com/v/42825895</link>
+            <guid>https://tv.naver.com/v/42825895</guid>
+            <pubDate>Tue, 14 Nov 2023 09:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231114_123/SF8zg_1699950996923axc8Y_PNG/clip_20231114171813_13.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] 3MC SPECIAL YOUNGHOON - Love Lee(3MC 스페셜 영훈 - 러브리) Close-up Cam | Show!MusicCore|MBC231111방]]></title>
+            <link>https://tv.naver.com/v/42825892</link>
+            <guid>https://tv.naver.com/v/42825892</guid>
+            <pubDate>Tue, 14 Nov 2023 09:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231114_61/EfzrQ_1699950994881QDrdU_JPEG/clip_20231114171807_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] aespa NINGNING - Drama(에스파 닝닝 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송]]></title>
             <link>https://tv.naver.com/v/42769240</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 11 Nov 2023 12:22:31 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231111_80/AsLrv_16997010900088wnWD_JPEG/clip_20231111193015_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VIVIZ EUNHA – MANIAC(비비지 은하 - 매니악) FanCam | Show! MusicCore | MBC231111방송]]></title>
-            <link>https://tv.naver.com/v/42689373</link>
-            <guid>https://tv.naver.com/v/42689373</guid>
-            <pubDate>Sat, 11 Nov 2023 11:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_211/fGTzC_1699700795601IdCQL_JPEG/clip_20231111193704_81.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ZEROBASEONE – MELTING POINT(제로베이스원 - 멜팅 포인트) FanCam | Show! MusicCore | MBC231111방송]]></title>
-            <link>https://tv.naver.com/v/42689372</link>
-            <guid>https://tv.naver.com/v/42689372</guid>
-            <pubDate>Sat, 11 Nov 2023 11:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_250/3QUON_1699700794219L31Tu_JPEG/clip_20231111193446_79.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TAEMIN – Guilty(태민 - 길티) FanCam | Show! MusicCore | MBC231111방송]]></title>
-            <link>https://tv.naver.com/v/42689370</link>
-            <guid>https://tv.naver.com/v/42689370</guid>
-            <pubDate>Sat, 11 Nov 2023 11:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_147/ZxG9o_1699700793106bwtvy_JPEG/clip_20231111193026_75.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
