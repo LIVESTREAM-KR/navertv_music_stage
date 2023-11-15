@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 06:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 07:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[STAGE MIX🪄] POW – Dazzling(파우 - 다즐링) | Show! Music Core]]></title>
+            <link>https://tv.naver.com/v/42826719</link>
+            <guid>https://tv.naver.com/v/42826719</guid>
+            <pubDate>Wed, 15 Nov 2023 07:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231114_43/xtNBA_1699951889761adYGr_JPEG/clip_20231114172141_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] 3MC SPECIAL LEE JUNG HA - Love Lee(3MC 스페셜 이정하 - 러브리)Close-up Cam|Show!MusicCore|MBC231111방]]></title>
             <link>https://tv.naver.com/v/42826177</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Nov 2023 12:22:31 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231111_18/QUWRc_1699701092047pQx7w_JPEG/clip_20231111193655_80.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] TAEMIN - Guilty(태민 – 길티) FanCam (Horizontal Ver.) | Show! MusicCore | MBC231111방송]]></title>
-            <link>https://tv.naver.com/v/42689519</link>
-            <guid>https://tv.naver.com/v/42689519</guid>
-            <pubDate>Sat, 11 Nov 2023 12:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_80/AsLrv_16997010900088wnWD_JPEG/clip_20231111193015_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
