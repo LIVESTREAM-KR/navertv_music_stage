@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/musiccore/clips</id>
-    <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
-    <updated>2023-11-15T22:14:30.432Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/musiccore/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 15 Nov 2023 23:14:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[STAGE MIX🪄] POW – Dazzling(파우 - 다즐링) | Show! Music Core]]></title>
+            <link>https://tv.naver.com/v/42826719</link>
+            <guid>https://tv.naver.com/v/42826719</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231114_43/xtNBA_1699951889761adYGr_JPEG/clip_20231114172141_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] 3MC SPECIAL LEE JUNG HA - Love Lee(3MC 스페셜 이정하 - 러브리)Close-up Cam|Show!MusicCore|MBC231111방]]></title>
+            <link>https://tv.naver.com/v/42826177</link>
+            <guid>https://tv.naver.com/v/42826177</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231114_29/Q2bmb_1699951291347vp83Q_JPEG/clip_20231114171846_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] 3MC SPECIAL SULLYOON - Love Lee(3MC 스페셜 설윤 - 러브리) Close-up Cam | Show! MusicCore|MBC231111방]]></title>
+            <link>https://tv.naver.com/v/42825895</link>
+            <guid>https://tv.naver.com/v/42825895</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231114_123/SF8zg_1699950996923axc8Y_PNG/clip_20231114171813_13.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] 3MC SPECIAL YOUNGHOON - Love Lee(3MC 스페셜 영훈 - 러브리) Close-up Cam | Show!MusicCore|MBC231111방]]></title>
+            <link>https://tv.naver.com/v/42825892</link>
+            <guid>https://tv.naver.com/v/42825892</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231114_61/EfzrQ_1699950994881QDrdU_JPEG/clip_20231114171807_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] aespa NINGNING - Drama(에스파 닝닝 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송]]></title>
+            <link>https://tv.naver.com/v/42769240</link>
+            <guid>https://tv.naver.com/v/42769240</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_76/dzKhe_1699868202737Shcem_JPEG/clip_20231113174938_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] aespa WINTER - Drama(에스파 윈터 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송]]></title>
+            <link>https://tv.naver.com/v/42769235</link>
+            <guid>https://tv.naver.com/v/42769235</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_240/cTFfV_1699868200980tjfgP_JPEG/clip_20231113174925_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] aespa GISELLE - Drama(에스파 지젤 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송]]></title>
+            <link>https://tv.naver.com/v/42769229</link>
+            <guid>https://tv.naver.com/v/42769229</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_116/rmoeI_16998681987864Iebv_PNG/clip_20231113174919_15.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] aespa KARINA - Drama(에스파 카리나 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송]]></title>
+            <link>https://tv.naver.com/v/42769226</link>
+            <guid>https://tv.naver.com/v/42769226</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_15/wr6FM_1699868196729wTgwh_JPEG/clip_20231113174914_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ZEROBASEONE HAN YU JIN - CRUSH(제로베이스원 한유진 - 가시) Close-up Cam | Show! MusicCore | MBC231111방]]></title>
+            <link>https://tv.naver.com/v/42767623</link>
+            <guid>https://tv.naver.com/v/42767623</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_108/K5n8h_1699866694027gOXaA_JPEG/clip_20231113164317_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ZEROBASEONE KIM GYU VIN - CRUSH(제로베이스원 김규빈 - 가시) Close-up Cam | Show! MusicCore|MBC231111방송]]></title>
+            <link>https://tv.naver.com/v/42767619</link>
+            <guid>https://tv.naver.com/v/42767619</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_55/pexr9_16998666918047pvu9_JPEG/clip_20231113164310_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ZEROBASEONE Zhang Hao - CRUSH(제로베이스원 장하오 - 가시) Close-up Cam | Show! MusicCore | MBC231111방송]]></title>
+            <link>https://tv.naver.com/v/42767617</link>
+            <guid>https://tv.naver.com/v/42767617</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_246/vX6V2_1699866690139xMdKe_JPEG/clip_20231113164247_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ZEROBASEONE RICKY - CRUSH(제로베이스원 리키 - 가시) Close-up Cam | Show! MusicCore | MBC231111방송]]></title>
+            <link>https://tv.naver.com/v/42767278</link>
+            <guid>https://tv.naver.com/v/42767278</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_297/jp6RE_1699866399745nhXhW_JPEG/clip_20231113164300_25.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ZEROBASEONE SUNG HAN BIN - CRUSH(제로베이스원 성한빈 - 가시) Close-up Cam | Show! MusicCore|MBC231111방]]></title>
+            <link>https://tv.naver.com/v/42767277</link>
+            <guid>https://tv.naver.com/v/42767277</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_24/zdl5z_1699866397802fn5CH_JPEG/clip_20231113164241_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] Stray Kids HYUNJIN - LALALALA(스트레이 키즈 현진 - 락(樂)) Close-up Cam | Show! MusicCore |MBC231111방]]></title>
+            <link>https://tv.naver.com/v/42767271</link>
+            <guid>https://tv.naver.com/v/42767271</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_4/8igqu_1699866394224eovzu_JPEG/clip_20231113154853_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] Stray Kids I.N - LALALALA(스트레이 키즈 아이엔 - 락(樂)) Close-up Cam | Show! MusicCore | MBC231111방송]]></title>
+            <link>https://tv.naver.com/v/42765689</link>
+            <guid>https://tv.naver.com/v/42765689</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_157/ErhPn_1699864892898wwlSq_JPEG/clip_20231113154902_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] Stray Kids FELIX - LALALALA(스트레이 키즈 필릭스 - 락(樂)) Close-up Cam | Show! MusicCore | MBC231111방]]></title>
+            <link>https://tv.naver.com/v/42765688</link>
+            <guid>https://tv.naver.com/v/42765688</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_96/hIU2s_16998648911075XPe6_JPEG/clip_20231113154857_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] Stray Kids LEE KNOW - LALALALA(스트레이 키즈 리노 - 락(樂)) Close-up Cam | Show! MusicCore|MBC231111방]]></title>
+            <link>https://tv.naver.com/v/42765391</link>
+            <guid>https://tv.naver.com/v/42765391</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_145/IMTgO_1699864591211QEyt5_JPEG/clip_20231113154841_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠]ZEROBASEONE PARK GUN WOOK - MELTING POINT(제로베이스원 박건욱-멜팅 포인트)Close-upCam|MusicCore|MBC231111방]]></title>
+            <link>https://tv.naver.com/v/42763726</link>
+            <guid>https://tv.naver.com/v/42763726</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_288/dGflV_1699863151244njFjp_JPEG/clip_20231113145640_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ZEROBASEONE SEOK MATTHEW - MELTING POINT(제로베이스원 석매튜-멜팅 포인트)Close-upCam|MusicCore|MBC231111방]]></title>
+            <link>https://tv.naver.com/v/42762251</link>
+            <guid>https://tv.naver.com/v/42762251</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_185/oXzB9_16998618954903OnC5_JPEG/clip_20231113145635_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ZEROBASEONE HAN YU JIN - MELTING POINT(제로베이스원 한유진 - 멜팅 포인트)FanCam|Show!MusicCore|MBC231111방]]></title>
+            <link>https://tv.naver.com/v/42762246</link>
+            <guid>https://tv.naver.com/v/42762246</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_158/czInB_1699861894297kyz2I_JPEG/clip_20231113145629_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ZEROBASEONE Zhang Hao - MELTING POINT(제로베이스원 장하오 - 멜팅 포인트) FanCam|Show!MusicCore|MBC231111방]]></title>
+            <link>https://tv.naver.com/v/42762241</link>
+            <guid>https://tv.naver.com/v/42762241</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_21/ojWvg_1699861892891Rsv5r_JPEG/clip_20231113145620_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ZEROBASEONE SUNG HAN BIN - MELTING POINT(제로베이스원 성한빈-멜팅 포인트)FanCam|Show!MusicCore|MBC231111방]]></title>
+            <link>https://tv.naver.com/v/42762238</link>
+            <guid>https://tv.naver.com/v/42762238</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_213/VEXOe_1699861891629nIWNj_JPEG/clip_20231113145613_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NiziU RIKU – HEARTRIS(니쥬 리쿠 - 하트리스) FanCam | Show! MusicCore | MBC231111방송]]></title>
+            <link>https://tv.naver.com/v/42689977</link>
+            <guid>https://tv.naver.com/v/42689977</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_36/ibWi3_1699701992918JKeUE_JPEG/clip_20231111194006_84.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KISS OF LIFE – Bad News(키스오브라이프 - 배드 뉴스) FanCam | Show! MusicCore | MBC231111방송]]></title>
+            <link>https://tv.naver.com/v/42689785</link>
+            <guid>https://tv.naver.com/v/42689785</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_210/orgEm_16997016904503zYXs_JPEG/clip_20231111194206_86.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] WHIB – BANG!(휘브 - 뱅!) FanCam | Show! MusicCore | MBC231111방송]]></title>
+            <link>https://tv.naver.com/v/42689660</link>
+            <guid>https://tv.naver.com/v/42689660</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_32/ihqEt_1699701391276JMPx4_JPEG/clip_20231111194242_91.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] KISS OF LIFE JULIE - Bad News(키스오브라이프 쥴리 - 배드 뉴스) FanCam | Show! MusicCore | MBC231111방송]]></title>
+            <link>https://tv.naver.com/v/42689659</link>
+            <guid>https://tv.naver.com/v/42689659</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_213/dej2y_1699701390013vfHyz_JPEG/clip_20231111194214_87.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NiziU MIIHI – HEARTRIS(니쥬 미이히 - 하트리스) FanCam | Show! MusicCore | MBC231111방송]]></title>
+            <link>https://tv.naver.com/v/42689550</link>
+            <guid>https://tv.naver.com/v/42689550</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_4/3G4lv_1699701150984UldI5_JPEG/clip_20231111194031_85.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] NiziU - HEARTRIS(니쥬 – 하트리스) FanCam | Show! MusicCore | MBC231111방송]]></title>
+            <link>https://tv.naver.com/v/42689523</link>
+            <guid>https://tv.naver.com/v/42689523</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_17/QFPDN_16997010952956O9ql_JPEG/clip_20231111193853_83.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] YOUNGJAE - Do It(영재 – 두 잇) FanCam (Horizontal Ver.) | Show! MusicCore | MBC231111방송]]></title>
+            <link>https://tv.naver.com/v/42689522</link>
+            <guid>https://tv.naver.com/v/42689522</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_213/8ZBuB_1699701093648M6zlg_JPEG/clip_20231111193741_82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] VIVIZ - MANIAC(비비지 – 매니악) FanCam | Show! MusicCore | MBC231111방송]]></title>
+            <link>https://tv.naver.com/v/42689521</link>
+            <guid>https://tv.naver.com/v/42689521</guid>
+            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_18/QUWRc_1699701092047pQx7w_JPEG/clip_20231111193655_80.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
