@@ -4,9 +4,41 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 13:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 14:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔 원픽캠 4K] aespa NINGNING - Drama (에스파 닝닝 - 드라마) l Show Champion l EP.500 l 231115]]></title>
+            <link>https://tv.naver.com/v/42892431</link>
+            <guid>https://tv.naver.com/v/42892431</guid>
+            <pubDate>Wed, 15 Nov 2023 14:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_229/F8MqQ_1700046393361T4yyi_JPEG/CA202311150088.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔 원픽캠 4K] aespa KARINA - Drama (에스파 카리나 - 드라마) l Show Champion l EP.500 l 231115]]></title>
+            <link>https://tv.naver.com/v/42892428</link>
+            <guid>https://tv.naver.com/v/42892428</guid>
+            <pubDate>Wed, 15 Nov 2023 14:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_126/uJERA_17000463912513dl5U_JPEG/CA202311150084.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔 원픽캠 4K] aespa WINTER - Drama (에스파 윈터 - 드라마) l Show Champion l EP.500 l 231115]]></title>
+            <link>https://tv.naver.com/v/42892153</link>
+            <guid>https://tv.naver.com/v/42892153</guid>
+            <pubDate>Wed, 15 Nov 2023 14:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_153/yJs5o_17000460922237B9sd_JPEG/CA202311150087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔 원픽캠 4K] aespa GISELLE - Drama (에스파 지젤 - 드라마) l Show Champion l EP.500 l 231115]]></title>
+            <link>https://tv.naver.com/v/42891961</link>
+            <guid>https://tv.naver.com/v/42891961</guid>
+            <pubDate>Wed, 15 Nov 2023 14:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_249/VvyHM_1700045849445xTL3m_JPEG/CA202311150086.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] Youngjae - Do It (영재 - 두잇) l Show Champion l EP.500 l 231115]]></title>
             <link>https://tv.naver.com/v/42894498</link>
@@ -22,14 +54,6 @@
             <pubDate>Wed, 15 Nov 2023 13:18:07 GMT</pubDate>
             <content:encoded><![CDATA[3:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231115_266/kS5Y3_1700048789170eB1lP_JPEG/CA202311150092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] ZEROBASEONE - MELTING POINT (제로베이스원 - 멜팅 포인트) | Show Champion | EP.500 | 231115]]></title>
-            <link>https://tv.naver.com/v/42895080</link>
-            <guid>https://tv.naver.com/v/42895080</guid>
-            <pubDate>Wed, 15 Nov 2023 13:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_298/1Wttr_1700049393056t7lTY_JPEG/CA202311150101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] ZEROBASEONE HAN YUJIN (제로베이스원 한유진) - MELTING POINT | Show Champion | EP.500 | 231115]]></title>
@@ -54,6 +78,14 @@
             <pubDate>Wed, 15 Nov 2023 13:18:07 GMT</pubDate>
             <content:encoded><![CDATA[3:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231115_49/mN8wX_1700049452439YUnnz_JPEG/CA202311150096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠 4K] ZEROBASEONE - MELTING POINT (제로베이스원 - 멜팅 포인트) | Show Champion | EP.500 | 231115]]></title>
+            <link>https://tv.naver.com/v/42895080</link>
+            <guid>https://tv.naver.com/v/42895080</guid>
+            <pubDate>Wed, 15 Nov 2023 13:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_298/1Wttr_1700049393056t7lTY_JPEG/CA202311150101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[쇼챔직캠 4K] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) - MELTING POINT | Show Champion | EP.500 | 231115]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 15 Nov 2023 13:18:07 GMT</pubDate>
             <content:encoded><![CDATA[4:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231115_1/LRjqd_1700041289784CjovY_JPEG/CA202311150054.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] aespa - Drama (에스파 - 드라마) l Show Champion l EP.500 l 231115]]></title>
-            <link>https://tv.naver.com/v/42888070</link>
-            <guid>https://tv.naver.com/v/42888070</guid>
-            <pubDate>Wed, 15 Nov 2023 13:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_272/PKInf_1700041292929l9mcM_JPEG/CA202311150052_01.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 원픽캠 4K] NANA&TSUKI NANA (나나&츠키 나나)-Baby Don’t Stop (원곡 : NCT U) | Show Champion |EP.500| 231115]]></title>
-            <link>https://tv.naver.com/v/42872582</link>
-            <guid>https://tv.naver.com/v/42872582</guid>
-            <pubDate>Wed, 15 Nov 2023 13:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_183/u0jDf_1700026892837mHNIG_JPEG/CA202311150026_01.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] NANA&TSUKI (나나&츠키) - Baby Don’t Stop (원곡 : NCT U) | Show Champion | EP.500 | 231115]]></title>
-            <link>https://tv.naver.com/v/42873583</link>
-            <guid>https://tv.naver.com/v/42873583</guid>
-            <pubDate>Wed, 15 Nov 2023 13:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_70/MAKG7_17000265930884G2BC_JPEG/CA202311150029.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 원픽캠 4K] NANA&TSUKI TSUKI (나나&츠키 츠키)-Baby Don’t Stop (원곡:NCT U) | Show Champion |EP.500| 231115]]></title>
-            <link>https://tv.naver.com/v/42872988</link>
-            <guid>https://tv.naver.com/v/42872988</guid>
-            <pubDate>Wed, 15 Nov 2023 13:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_299/FBMMV_1700026051081Bwg0l_JPEG/CA202311150028.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
