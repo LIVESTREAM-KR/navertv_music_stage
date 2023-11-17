@@ -4,9 +4,17 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 08:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 09:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공소원_휘파람(원곡 이문세)]]></title>
+            <link>https://tv.naver.com/v/42979444</link>
+            <guid>https://tv.naver.com/v/42979444</guid>
+            <pubDate>Fri, 17 Nov 2023 09:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_69/LMk6V_1700188195174lxkfX_JPEG/35da1980-84ef-11ee-805f-a0369ffdb970_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박기영_시작]]></title>
             <link>https://tv.naver.com/v/42635276</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 20 Oct 2023 10:16:09 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231019_286/61nfw_1697703572400PM57g_JPEG/8b6a0d20-6e56-11ee-968b-80615f0bccec_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요아리_빛그림]]></title>
-            <link>https://tv.naver.com/v/41601810</link>
-            <guid>https://tv.naver.com/v/41601810</guid>
-            <pubDate>Fri, 20 Oct 2023 10:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[4:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_60/iaZMq_1697703566172EjugY_JPEG/708e49ca-6e56-11ee-8891-80615f0bce16_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

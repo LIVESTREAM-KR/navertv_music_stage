@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 08:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 09:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[STAGE MIX🪄] tripleS EVOLution – Invincible(트리플에스 에볼루션 - 인빈시블) | Show! Music Core]]></title>
+            <link>https://tv.naver.com/v/43001850</link>
+            <guid>https://tv.naver.com/v/43001850</guid>
+            <pubDate>Fri, 17 Nov 2023 09:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_60/Dhcxn_1700212354731mKlrf_JPEG/clip_20231117174025_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[STAGE MIX🪄] POW – Dazzling(파우 - 다즐링) | Show! Music Core]]></title>
             <link>https://tv.naver.com/v/42826719</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231111_213/8ZBuB_1699701093648M6zlg_JPEG/clip_20231111193741_82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VIVIZ - MANIAC(비비지 – 매니악) FanCam | Show! MusicCore | MBC231111방송]]></title>
-            <link>https://tv.naver.com/v/42689521</link>
-            <guid>https://tv.naver.com/v/42689521</guid>
-            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_18/QUWRc_1699701092047pQx7w_JPEG/clip_20231111193655_80.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

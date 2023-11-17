@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 08:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 09:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[STAGE MIX🪄] tripleS EVOLution – Invincible(트리플에스 에볼루션 - 인빈시블) | Show! Music Core (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43001850</link>
+            <guid>https://tv.naver.com/v/43001850</guid>
+            <pubDate>Fri, 17 Nov 2023 09:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_60/Dhcxn_1700212354731mKlrf_JPEG/clip_20231117174025_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[STAGE MIX🪄] POW – Dazzling(파우 - 다즐링) | Show! Music Core (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231111_213/8ZBuB_1699701093648M6zlg_JPEG/clip_20231111193741_82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VIVIZ - MANIAC(비비지 – 매니악) FanCam | Show! MusicCore | MBC231111방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42689521</link>
-            <guid>https://tv.naver.com/v/42689521</guid>
-            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_18/QUWRc_1699701092047pQx7w_JPEG/clip_20231111193655_80.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids - 락(樂) | SBS 231112 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -2152,6 +2152,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230721_144/cQnXs_1689898829157i8NLL_JPEG/1689898823905.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공소원_휘파람(원곡 이문세) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/42979444</link>
+            <guid>https://tv.naver.com/v/42979444</guid>
+            <pubDate>Fri, 17 Nov 2023 09:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_69/LMk6V_1700188195174lxkfX_JPEG/35da1980-84ef-11ee-805f-a0369ffdb970_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박기영_시작 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/42635276</link>
             <guid>https://tv.naver.com/v/42635276</guid>
@@ -2382,14 +2390,6 @@
             <pubDate>Fri, 20 Oct 2023 10:16:09 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231019_286/61nfw_1697703572400PM57g_JPEG/8b6a0d20-6e56-11ee-968b-80615f0bccec_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요아리_빛그림 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41601810</link>
-            <guid>https://tv.naver.com/v/41601810</guid>
-            <pubDate>Fri, 20 Oct 2023 10:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[4:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_60/iaZMq_1697703566172EjugY_JPEG/708e49ca-6e56-11ee-8891-80615f0bce16_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
