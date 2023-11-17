@@ -4,9 +4,65 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 09:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 10:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이수영_휠릴리]]></title>
+            <link>https://tv.naver.com/v/42979510</link>
+            <guid>https://tv.naver.com/v/42979510</guid>
+            <pubDate>Fri, 17 Nov 2023 10:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[4:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_85/GEhNY_1700188264946z9HPw_JPEG/2d970a09-84ee-11ee-aeb5-d4f5ef58ac88_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이수영_인터뷰]]></title>
+            <link>https://tv.naver.com/v/42979471</link>
+            <guid>https://tv.naver.com/v/42979471</guid>
+            <pubDate>Fri, 17 Nov 2023 10:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[8:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_187/Gb5FQ_1700188219462LperD_JPEG/972aa04b-84ee-11ee-8ba9-d4f5ef5906a4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공소원_인터뷰]]></title>
+            <link>https://tv.naver.com/v/42979454</link>
+            <guid>https://tv.naver.com/v/42979454</guid>
+            <pubDate>Fri, 17 Nov 2023 10:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[8:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_147/yPUWV_1700188205919SLuiH_JPEG/02652fb1-84ef-11ee-ac75-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이수영_Grace]]></title>
+            <link>https://tv.naver.com/v/42979480</link>
+            <guid>https://tv.naver.com/v/42979480</guid>
+            <pubDate>Fri, 17 Nov 2023 10:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_148/OgVmQ_1700188228872eGXi7_JPEG/45d56674-84ee-11ee-b635-48df37e319a2_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이수영_라라라]]></title>
+            <link>https://tv.naver.com/v/42979473</link>
+            <guid>https://tv.naver.com/v/42979473</guid>
+            <pubDate>Fri, 17 Nov 2023 10:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_230/J1lgg_17001882237709urad_JPEG/5d15b310-84ee-11ee-ba6d-80615f0bcdae_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이수영_광화문 연가]]></title>
+            <link>https://tv.naver.com/v/42979465</link>
+            <guid>https://tv.naver.com/v/42979465</guid>
+            <pubDate>Fri, 17 Nov 2023 10:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_86/SiPsA_1700188214923zjORa_JPEG/cc510b0a-84ee-11ee-8f91-505dac8c3721_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공소원_그리움만 쌓이네(원곡 노영심)]]></title>
+            <link>https://tv.naver.com/v/42979460</link>
+            <guid>https://tv.naver.com/v/42979460</guid>
+            <pubDate>Fri, 17 Nov 2023 10:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_283/Es220_1700188209898YAhYv_JPEG/ea6dc83a-84ee-11ee-ba6d-80615f0bcdae_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공소원_휘파람(원곡 이문세)]]></title>
             <link>https://tv.naver.com/v/42979444</link>
@@ -190,62 +246,6 @@
             <pubDate>Fri, 27 Oct 2023 10:15:44 GMT</pubDate>
             <content:encoded><![CDATA[6:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231026_86/OT3CG_1698309431187fqsnc_JPEG/14f37529-73d2-11ee-b635-48df37e319a2_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원태림_클로버]]></title>
-            <link>https://tv.naver.com/v/41926465</link>
-            <guid>https://tv.naver.com/v/41926465</guid>
-            <pubDate>Fri, 27 Oct 2023 10:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_136/nGKoB_1698309423769GEv6P_JPEG/fb29bed9-73d1-11ee-9178-505dacfba98a_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기프트_아직 끝나지 않은 이야기]]></title>
-            <link>https://tv.naver.com/v/41923437</link>
-            <guid>https://tv.naver.com/v/41923437</guid>
-            <pubDate>Fri, 27 Oct 2023 10:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_152/7HKSO_1698306517438B9T81_JPEG/e4b0b89b-73d1-11ee-9a63-a0369ffdb4b0_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코요태_실연]]></title>
-            <link>https://tv.naver.com/v/41601837</link>
-            <guid>https://tv.naver.com/v/41601837</guid>
-            <pubDate>Fri, 20 Oct 2023 09:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_72/6c6eD_1697703594542bSUw4_JPEG/4847f737-6e57-11ee-aeb5-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코요태_인터뷰]]></title>
-            <link>https://tv.naver.com/v/41601831</link>
-            <guid>https://tv.naver.com/v/41601831</guid>
-            <pubDate>Fri, 20 Oct 2023 10:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[12:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_72/CLCn4_1697703590260apDon_JPEG/e1c34e90-6e56-11ee-a314-48df37e2c3ac_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코요태_만남]]></title>
-            <link>https://tv.naver.com/v/41601825</link>
-            <guid>https://tv.naver.com/v/41601825</guid>
-            <pubDate>Fri, 20 Oct 2023 10:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_200/qXBon_1697703584246LxCcm_JPEG/ccbb8c50-6e56-11ee-a314-48df37e2c3ac_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코요태_비몽]]></title>
-            <link>https://tv.naver.com/v/41601820</link>
-            <guid>https://tv.naver.com/v/41601820</guid>
-            <pubDate>Fri, 20 Oct 2023 10:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_149/klj8K_1697703578102mPXhg_JPEG/b859ce99-6e56-11ee-9178-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코요태_순정]]></title>
-            <link>https://tv.naver.com/v/41601815</link>
-            <guid>https://tv.naver.com/v/41601815</guid>
-            <pubDate>Fri, 20 Oct 2023 10:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_286/61nfw_1697703572400PM57g_JPEG/8b6a0d20-6e56-11ee-968b-80615f0bccec_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
