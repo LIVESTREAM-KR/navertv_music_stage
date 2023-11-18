@@ -4,7 +4,7 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 12:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 13:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,20 +176,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231118_109/3BpWt_17003052896927C8lo_JPEG/clip_20231118193243_88.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소] ENHYPEN JAKE - Sweet Venom(엔하이픈 제이크 - 스위트 베놈) FanCam | Show! MusicCore | MBC231118방송]]></title>
-            <link>https://tv.naver.com/v/43039233</link>
-            <guid>https://tv.naver.com/v/43039233</guid>
-            <pubDate>Sat, 18 Nov 2023 11:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_193/SMiQC_170030499394915oJt_JPEG/clip_20231118192644_79.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예능연구소] Red Velvet – Chill Kill(레드벨벳 - 칠 킬) FanCam | Show! MusicCore | MBC231118방송]]></title>
             <link>https://tv.naver.com/v/43039234</link>
             <guid>https://tv.naver.com/v/43039234</guid>
             <pubDate>Sat, 18 Nov 2023 11:10:20 GMT</pubDate>
             <content:encoded><![CDATA[4:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231118_93/yt4xE_1700304995215aA6cI_JPEG/clip_20231118193146_86.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ENHYPEN JAKE - Sweet Venom(엔하이픈 제이크 - 스위트 베놈) FanCam | Show! MusicCore | MBC231118방송]]></title>
+            <link>https://tv.naver.com/v/43039233</link>
+            <guid>https://tv.naver.com/v/43039233</guid>
+            <pubDate>Sat, 18 Nov 2023 11:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_193/SMiQC_170030499394915oJt_JPEG/clip_20231118192644_79.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] Crush - Ego(크러쉬 – 미워(With 두유)) FanCam (Horizontal Ver.) | Show! MusicCore | MBC231118방송]]></title>
