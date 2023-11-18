@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 09:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 10:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,70 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] aespa - Drama(에스파 – 드라마) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43037790</link>
+            <guid>https://tv.naver.com/v/43037790</guid>
+            <pubDate>Sat, 18 Nov 2023 10:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_250/8JciO_1700301991965klgeD_JPEG/clip_20231118183504_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] FANTASY BOYS - Potential(판타지 보이즈 – 포텐셜) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43037633</link>
+            <guid>https://tv.naver.com/v/43037633</guid>
+            <pubDate>Sat, 18 Nov 2023 10:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_298/f68hE_1700301690930VtQi2_JPEG/clip_20231118183537_75.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] FANTASY BOYS - Get it On(판타지 보이즈 – 겟 잇 온) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43037632</link>
+            <guid>https://tv.naver.com/v/43037632</guid>
+            <pubDate>Sat, 18 Nov 2023 10:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_186/CekVq_17003016895961lLza_JPEG/clip_20231118183451_71.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Crush - Hmm-cheat(크러쉬 – 흠칫) FanCam (Horizontal Ver.) | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43037507</link>
+            <guid>https://tv.naver.com/v/43037507</guid>
+            <pubDate>Sat, 18 Nov 2023 10:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_172/aKOj2_1700301450255xtVEW_JPEG/clip_20231118183514_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ENHYPEN – Still Monster(엔하이픈 - 스틸 몬스터) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43037506</link>
+            <guid>https://tv.naver.com/v/43037506</guid>
+            <pubDate>Sat, 18 Nov 2023 10:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_97/q7QFv_1700301448909fg1F4_JPEG/clip_20231118183434_70.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Stray Kids - LALALALA(스트레이 키즈 – 락(樂)) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43037470</link>
+            <guid>https://tv.naver.com/v/43037470</guid>
+            <pubDate>Sat, 18 Nov 2023 10:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_41/LyJwv_1700301391013ChoYj_JPEG/clip_20231118183525_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] AMPERS&ONE – On And On(앰퍼샌드원 - 온 앤 온) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43037310</link>
+            <guid>https://tv.naver.com/v/43037310</guid>
+            <pubDate>Sat, 18 Nov 2023 10:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_278/5Qy6d_1700301090655l7VSX_JPEG/clip_20231118183421_69.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] ENHYPEN – Sweet Venom(엔하이픈 - 스위트 베놈) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43037309</link>
+            <guid>https://tv.naver.com/v/43037309</guid>
+            <pubDate>Sat, 18 Nov 2023 10:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_220/OzObx_1700301089148p19cC_JPEG/clip_20231118183409_68.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] Stray Kids – LALALALA(스트레이 키즈 - 락(樂)) 1위 직캠 FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -190,70 +254,6 @@
             <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231113_158/czInB_1699861894297kyz2I_JPEG/clip_20231113145629_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ZEROBASEONE Zhang Hao - MELTING POINT(제로베이스원 장하오 - 멜팅 포인트) FanCam|Show!MusicCore|MBC231111방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42762241</link>
-            <guid>https://tv.naver.com/v/42762241</guid>
-            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_21/ojWvg_1699861892891Rsv5r_JPEG/clip_20231113145620_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ZEROBASEONE SUNG HAN BIN - MELTING POINT(제로베이스원 성한빈-멜팅 포인트)FanCam|Show!MusicCore|MBC231111방 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42762238</link>
-            <guid>https://tv.naver.com/v/42762238</guid>
-            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_213/VEXOe_1699861891629nIWNj_JPEG/clip_20231113145613_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NiziU RIKU – HEARTRIS(니쥬 리쿠 - 하트리스) FanCam | Show! MusicCore | MBC231111방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42689977</link>
-            <guid>https://tv.naver.com/v/42689977</guid>
-            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_36/ibWi3_1699701992918JKeUE_JPEG/clip_20231111194006_84.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KISS OF LIFE – Bad News(키스오브라이프 - 배드 뉴스) FanCam | Show! MusicCore | MBC231111방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42689785</link>
-            <guid>https://tv.naver.com/v/42689785</guid>
-            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_210/orgEm_16997016904503zYXs_JPEG/clip_20231111194206_86.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] WHIB – BANG!(휘브 - 뱅!) FanCam | Show! MusicCore | MBC231111방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42689660</link>
-            <guid>https://tv.naver.com/v/42689660</guid>
-            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_32/ihqEt_1699701391276JMPx4_JPEG/clip_20231111194242_91.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] KISS OF LIFE JULIE - Bad News(키스오브라이프 쥴리 - 배드 뉴스) FanCam | Show! MusicCore | MBC231111방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42689659</link>
-            <guid>https://tv.naver.com/v/42689659</guid>
-            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_213/dej2y_1699701390013vfHyz_JPEG/clip_20231111194214_87.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NiziU MIIHI – HEARTRIS(니쥬 미이히 - 하트리스) FanCam | Show! MusicCore | MBC231111방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42689550</link>
-            <guid>https://tv.naver.com/v/42689550</guid>
-            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_4/3G4lv_1699701150984UldI5_JPEG/clip_20231111194031_85.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NiziU - HEARTRIS(니쥬 – 하트리스) FanCam | Show! MusicCore | MBC231111방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42689523</link>
-            <guid>https://tv.naver.com/v/42689523</guid>
-            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_17/QFPDN_16997010952956O9ql_JPEG/clip_20231111193853_83.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids - 락(樂) | SBS 231112 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
