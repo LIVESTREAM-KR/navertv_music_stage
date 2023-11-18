@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 08:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 09:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Stray Kids – LALALALA(스트레이 키즈 - 락(樂)) 1위 직캠 FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43035729</link>
+            <guid>https://tv.naver.com/v/43035729</guid>
+            <pubDate>Sat, 18 Nov 2023 09:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[8:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_206/6Zah3_1700298089866LX73K_JPEG/clip_20231118173055_59.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[STAGE MIX🪄] tripleS EVOLution – Invincible(트리플에스 에볼루션 - 인빈시블) | Show! Music Core (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231111_17/QFPDN_16997010952956O9ql_JPEG/clip_20231111193853_83.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] YOUNGJAE - Do It(영재 – 두 잇) FanCam (Horizontal Ver.) | Show! MusicCore | MBC231111방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42689522</link>
-            <guid>https://tv.naver.com/v/42689522</guid>
-            <pubDate>Wed, 15 Nov 2023 23:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_213/8ZBuB_1699701093648M6zlg_JPEG/clip_20231111193741_82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids - 락(樂) | SBS 231112 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
