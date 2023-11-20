@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 01:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 02:28:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,46 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] aespa GISELLE – Drama(에스파 지젤 - 드라마) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43090778</link>
+            <guid>https://tv.naver.com/v/43090778</guid>
+            <pubDate>Mon, 20 Nov 2023 02:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_115/aYKiC_17004471939228tndD_JPEG/clip_20231120104706_36.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] aespa KARINA – Drama(에스파 카리나 - 드라마) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43090513</link>
+            <guid>https://tv.naver.com/v/43090513</guid>
+            <pubDate>Mon, 20 Nov 2023 02:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_87/OzezM_1700446888930vPncO_JPEG/clip_20231120104705_35.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] aespa NINGNING – Drama(에스파 닝닝 - 드라마) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43090066</link>
+            <guid>https://tv.naver.com/v/43090066</guid>
+            <pubDate>Mon, 20 Nov 2023 02:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_216/584xy_1700446352361i4Pfh_JPEG/clip_20231120104709_38.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] aespa WINTER – Drama(에스파 윈터 - 드라마) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43090065</link>
+            <guid>https://tv.naver.com/v/43090065</guid>
+            <pubDate>Mon, 20 Nov 2023 02:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_208/vXWUe_1700446351139b6JVM_JPEG/clip_20231120104708_37.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Stray Kids – LALALALA(스트레이 키즈 - 락(樂)) 1위 직캠 FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43089752</link>
+            <guid>https://tv.naver.com/v/43089752</guid>
+            <pubDate>Mon, 20 Nov 2023 02:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[8:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_194/RjZhC_1700445991578zXPYN_JPEG/clip_20231120103646_32.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] Red Velvet SEULGI - Chill Kill(레드벨벳 슬기 - 칠 킬) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -214,46 +254,6 @@
             <pubDate>Sat, 18 Nov 2023 11:10:20 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231118_61/MPQbp_1700304692692ytI2R_JPEG/clip_20231118192647_81.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ENHYPEN SUNGHOON - Sweet Venom(엔하이픈 성훈 - 스위트 베놈) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/43039095</link>
-            <guid>https://tv.naver.com/v/43039095</guid>
-            <pubDate>Sat, 18 Nov 2023 11:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_206/bFLi4_1700304691424VJjpU_JPEG/clip_20231118192646_80.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ENHYPEN JAY - Sweet Venom(엔하이픈 제이 - 스위트 베놈) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/43039094</link>
-            <guid>https://tv.naver.com/v/43039094</guid>
-            <pubDate>Sat, 18 Nov 2023 11:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_19/kX2Rw_1700304690141QLBvm_JPEG/clip_20231118192642_78.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ENHYPEN NI-KI - Sweet Venom(엔하이픈 니키 - 스위트 베놈) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/43038958</link>
-            <guid>https://tv.naver.com/v/43038958</guid>
-            <pubDate>Sat, 18 Nov 2023 11:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_281/mjIdo_1700304394753d5XOf_JPEG/clip_20231118192648_82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ENHYPEN HEESEUNG - Sweet Venom(엔하이픈 희승 - 스위트 베놈) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/43038955</link>
-            <guid>https://tv.naver.com/v/43038955</guid>
-            <pubDate>Sat, 18 Nov 2023 11:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_35/UAYuL_1700304393717cbxvP_JPEG/clip_20231118192641_77.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ENHYPEN JUNGWON - Sweet Venom(엔하이픈 정원 - 스위트 베놈) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/43038954</link>
-            <guid>https://tv.naver.com/v/43038954</guid>
-            <pubDate>Sat, 18 Nov 2023 11:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_255/xK3xk_1700304392253C8uRj_JPEG/clip_20231118192634_76.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Red Velvet(레드벨벳) - Chill Kill | SBS 231119 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
