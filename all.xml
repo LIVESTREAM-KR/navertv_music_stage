@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 04:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 05:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] DoYou – Ego(두유 - 미워) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43097229</link>
+            <guid>https://tv.naver.com/v/43097229</guid>
+            <pubDate>Mon, 20 Nov 2023 05:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_150/63c3V_1700455889074tIWVc_JPEG/clip_20231120131949_48.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Crush – Ego(크러쉬 - 미워) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43096983</link>
+            <guid>https://tv.naver.com/v/43096983</guid>
+            <pubDate>Mon, 20 Nov 2023 05:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[4:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_284/zs5s6_17004555917233rCbi_JPEG/clip_20231120132928_49.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Crush – Hmm-cheat(크러쉬 - 흠칫) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43096443</link>
+            <guid>https://tv.naver.com/v/43096443</guid>
+            <pubDate>Mon, 20 Nov 2023 05:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_113/vTBFE_1700454990442YjoSp_JPEG/clip_20231120131859_46.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소] FANTASY BOYS HIKARU – Get it On(판타지 보이즈 히카루 - 겟 잇 온) FanCam |MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Sat, 18 Nov 2023 12:23:03 GMT</pubDate>
             <content:encoded><![CDATA[3:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231118_292/qbLDS_1700306492153kReud_JPEG/clip_20231118195646_98.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ENHYPEN JAY - Still Monster(엔하이픈 제이 - 스틸 몬스터) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/43040030</link>
-            <guid>https://tv.naver.com/v/43040030</guid>
-            <pubDate>Sat, 18 Nov 2023 12:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_8/uHDVs_1700306490972vrsuy_JPEG/clip_20231118195643_96.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ENHYPEN NI-KI - Still Monster(엔하이픈 니키 - 스틸 몬스터) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/43040029</link>
-            <guid>https://tv.naver.com/v/43040029</guid>
-            <pubDate>Sat, 18 Nov 2023 12:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_28/oTghY_1700306489870KvKNV_JPEG/clip_20231118195639_92.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] VIVIZ - Untie(비비지 – 언타이) FanCam | Show! MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/43039398</link>
-            <guid>https://tv.naver.com/v/43039398</guid>
-            <pubDate>Sat, 18 Nov 2023 11:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_109/3BpWt_17003052896927C8lo_JPEG/clip_20231118193243_88.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Red Velvet(레드벨벳) - Chill Kill | SBS 231119 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
