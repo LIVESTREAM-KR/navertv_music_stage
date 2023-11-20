@@ -4,9 +4,57 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 08:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 09:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] ENHYPEN JAY - Still Monster(엔하이픈 제이 - 스틸 몬스터) Close-up Cam | Show! MusicCore | MBC231118방송]]></title>
+            <link>https://tv.naver.com/v/43113144</link>
+            <guid>https://tv.naver.com/v/43113144</guid>
+            <pubDate>Mon, 20 Nov 2023 09:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_177/Dv5Wv_1700471554201n4CWj_JPEG/clip_20231120175236_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ENHYPEN JAKE - Sweet Venom(엔하이픈 제이크 - 스위트 베놈) Close-up Cam | Show! MusicCore | MBC231118방송]]></title>
+            <link>https://tv.naver.com/v/43113140</link>
+            <guid>https://tv.naver.com/v/43113140</guid>
+            <pubDate>Mon, 20 Nov 2023 09:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_276/WYi6l_17004715523448da1c_JPEG/clip_20231120175110_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] ENHYPEN SUNOO - Sweet Venom(엔하이픈 선우 - 스위트 베놈) Close-up Cam | Show! MusicCore | MBC231118방송]]></title>
+            <link>https://tv.naver.com/v/43113088</link>
+            <guid>https://tv.naver.com/v/43113088</guid>
+            <pubDate>Mon, 20 Nov 2023 09:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_270/hnKv1_1700471492320c7Qzi_JPEG/clip_20231120175108_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] Red Velvet JOY - Chill Kill(레드벨벳 조이 - 칠 킬) Close-up Cam | Show! MusicCore | MBC231118방송]]></title>
+            <link>https://tv.naver.com/v/43110079</link>
+            <guid>https://tv.naver.com/v/43110079</guid>
+            <pubDate>Mon, 20 Nov 2023 09:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_28/2NpUR_1700468493461zLHQ4_JPEG/clip_20231120165815_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] Red Velvet SEULGI - Chill Kill(레드벨벳 슬기 - 칠 킬) Close-up Cam | Show! MusicCore | MBC231118방송]]></title>
+            <link>https://tv.naver.com/v/43110077</link>
+            <guid>https://tv.naver.com/v/43110077</guid>
+            <pubDate>Mon, 20 Nov 2023 09:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[4:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_73/Y1yZX_1700468491701OMWMc_PNG/clip_20231120165812_73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] Red Velvet IRENE - Chill Kill(레드벨벳 아이린 - 칠 킬) Close-up Cam | Show! MusicCore | MBC231118방송]]></title>
+            <link>https://tv.naver.com/v/43110071</link>
+            <guid>https://tv.naver.com/v/43110071</guid>
+            <pubDate>Mon, 20 Nov 2023 09:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[4:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_73/2szZs_17004684898149Wni1_JPEG/clip_20231120165805_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] FANTASY BOYS LEE HANBIN – Potential(판타지 보이즈 이한빈 - 포텐셜) FanCam | Show! MusicCore |MBC231118방]]></title>
             <link>https://tv.naver.com/v/43099484</link>
@@ -198,54 +246,6 @@
             <pubDate>Sat, 18 Nov 2023 12:23:03 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231118_188/bqqmd_1700307392069cyAB3_JPEG/clip_20231118200300_103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ZEROBASEONE – CRUSH(제로베이스원 - 가시) FanCam | Show! MusicCore | MBC231118방송]]></title>
-            <link>https://tv.naver.com/v/43040320</link>
-            <guid>https://tv.naver.com/v/43040320</guid>
-            <pubDate>Sat, 18 Nov 2023 12:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_89/6rNm1_1700307092560DbLoy_JPEG/clip_20231118201014_113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Stray Kids FELIX – LALALALA(스트레이 키즈 필릭스 - 락(樂)) FanCam | Show! MusicCore | MBC231118방송]]></title>
-            <link>https://tv.naver.com/v/43040318</link>
-            <guid>https://tv.naver.com/v/43040318</guid>
-            <pubDate>Sat, 18 Nov 2023 12:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_63/XuPQF_17003070899812qtYX_JPEG/clip_20231118200306_107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] Stray Kids HYUNJIN – LALALALA(스트레이 키즈 현진 - 락(樂)) FanCam | Show! MusicCore | MBC231118방송]]></title>
-            <link>https://tv.naver.com/v/43040203</link>
-            <guid>https://tv.naver.com/v/43040203</guid>
-            <pubDate>Sat, 18 Nov 2023 12:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_248/fwVnz_1700306855459atQst_JPEG/clip_20231118200303_105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ENHYPEN HEESEUNG - Still Monster(엔하이픈 희승 - 스틸 몬스터) FanCam | Show! MusicCore | MBC231118방송]]></title>
-            <link>https://tv.naver.com/v/43040201</link>
-            <guid>https://tv.naver.com/v/43040201</guid>
-            <pubDate>Sat, 18 Nov 2023 12:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_193/3Wrng_1700306854496Hnd23_JPEG/clip_20231118195645_97.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ENHYPEN JAKE - Still Monster(엔하이픈 제이크 - 스틸 몬스터) FanCam | Show! MusicCore | MBC231118방송]]></title>
-            <link>https://tv.naver.com/v/43040199</link>
-            <guid>https://tv.naver.com/v/43040199</guid>
-            <pubDate>Sat, 18 Nov 2023 12:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_190/jorUy_1700306853599r4B9c_JPEG/clip_20231118195642_95.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ENHYPEN SUNOO - Still Monster(엔하이픈 선우 - 스틸 몬스터) FanCam | Show! MusicCore | MBC231118방송]]></title>
-            <link>https://tv.naver.com/v/43040198</link>
-            <guid>https://tv.naver.com/v/43040198</guid>
-            <pubDate>Sat, 18 Nov 2023 12:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_59/5l2oX_1700306852410vndbX_JPEG/clip_20231118195640_93.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
