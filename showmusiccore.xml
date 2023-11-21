@@ -4,9 +4,25 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 09:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 10:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] Stray Kids I.N - LALALALA(스트레이 키즈 아이엔 - 락(樂)) Close-up Cam | Show! MusicCore | MBC231118방송]]></title>
+            <link>https://tv.naver.com/v/43175624</link>
+            <guid>https://tv.naver.com/v/43175624</guid>
+            <pubDate>Tue, 21 Nov 2023 10:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_22/0KlJD_1700558491790GfkuQ_JPEG/clip_20231121174625_31.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] Stray Kids LEE KNOW - LALALALA(스트레이 키즈 리노 - 락(樂)) Close-up Cam | Show! MusicCore|MBC231118방]]></title>
+            <link>https://tv.naver.com/v/43175623</link>
+            <guid>https://tv.naver.com/v/43175623</guid>
+            <pubDate>Tue, 21 Nov 2023 10:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_96/nmqe3_17005584901006elx8_JPEG/clip_20231121174613_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] Stray Kids FELIX - LALALALA(스트레이 키즈 필릭스 - 락(樂)) Close-up Cam | Show! MusicCore | MBC231118방]]></title>
             <link>https://tv.naver.com/v/43174996</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 03:14:22 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231120_3/BzKJo_1700449052164uflJq_JPEG/clip_20231120113549_44.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] AMPERS&ONE BRIAN - On And On(앰퍼샌드원 브라이언 - 온 앤 온) FanCam | Show! MusicCore | MBC231118방송]]></title>
-            <link>https://tv.naver.com/v/43091971</link>
-            <guid>https://tv.naver.com/v/43091971</guid>
-            <pubDate>Mon, 20 Nov 2023 03:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_214/1ZXEo_1700448691016GA8S1_JPEG/clip_20231120111745_43.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] AMPERS&ONE KAMDEN - On And On(앰퍼샌드원 나캠든 - 온 앤 온) FanCam | Show! MusicCore | MBC231118방송]]></title>
-            <link>https://tv.naver.com/v/43091545</link>
-            <guid>https://tv.naver.com/v/43091545</guid>
-            <pubDate>Mon, 20 Nov 2023 03:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_251/jWtuC_17004480919566uHFP_JPEG/clip_20231120111744_42.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
