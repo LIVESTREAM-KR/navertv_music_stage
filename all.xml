@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 04:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 05:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2032,6 +2032,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] EP.594- Weeekly, GIUK (ONEWE), KISS OF LIFE, Jay Chang, NTX, WHIB, BTF4 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43288628</link>
+            <guid>https://tv.naver.com/v/43288628</guid>
+            <pubDate>Fri, 24 Nov 2023 05:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[51:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231123_161/Gdlkp_1700728024198Nxj81_JPEG/1700727589553.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] EP.592- Peder Elias, GHOST9, Billlie, XODIAC, GreatGuys, SUPERKIND (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/42580496</link>
             <guid>https://tv.naver.com/v/42580496</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
             <content:encoded><![CDATA[51:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230728_193/7hcck_1690502721868xPho0_JPEG/1690502251587.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] Ep.578 - ILY:1(아일리원) , Lapillus(라필루스), 8TURN(에잇턴), LUN8(루네이트) (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38268293</link>
-            <guid>https://tv.naver.com/v/38268293</guid>
-            <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[53:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_144/cQnXs_1689898829157i8NLL_JPEG/1689898823905.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이수영_휠릴리 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
