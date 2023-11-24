@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 08:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 09:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2152,6 +2152,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230728_193/7hcck_1690502721868xPho0_JPEG/1690502251587.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[변진섭_홀로 된다는 것 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43338322</link>
+            <guid>https://tv.naver.com/v/43338322</guid>
+            <pubDate>Fri, 24 Nov 2023 09:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[5:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_269/hpyRB_1700805662859bu8iT_JPEG/668627a3-8a87-11ee-92d9-80615f0c46b2_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이수영_휠릴리 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/42979510</link>
             <guid>https://tv.naver.com/v/42979510</guid>
@@ -2382,14 +2390,6 @@
             <pubDate>Fri, 27 Oct 2023 10:15:44 GMT</pubDate>
             <content:encoded><![CDATA[4:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231026_285/LLnfo_1698309434408nPS7Q_JPEG/52d1c6e4-73d2-11ee-bd08-505dac8c3639_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손모은프로젝트_Daybreak (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/41926474</link>
-            <guid>https://tv.naver.com/v/41926474</guid>
-            <pubDate>Fri, 27 Oct 2023 10:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[6:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_86/OT3CG_1698309431187fqsnc_JPEG/14f37529-73d2-11ee-b635-48df37e319a2_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
