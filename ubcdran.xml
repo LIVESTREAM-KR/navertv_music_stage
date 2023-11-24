@@ -4,7 +4,7 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 09:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 10:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,70 @@
             <pubDate>Fri, 24 Nov 2023 09:14:45 GMT</pubDate>
             <content:encoded><![CDATA[5:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231124_269/hpyRB_1700805662859bu8iT_JPEG/668627a3-8a87-11ee-92d9-80615f0c46b2_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변진섭_인터뷰]]></title>
+            <link>https://tv.naver.com/v/43338315</link>
+            <guid>https://tv.naver.com/v/43338315</guid>
+            <pubDate>Fri, 24 Nov 2023 10:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[11:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_41/Edq4k_1700805659523bnctn_JPEG/e79beb4c-8a86-11ee-8f45-80615f0c465c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변진섭_내게 줄 수 있는 건 오직 사랑뿐]]></title>
+            <link>https://tv.naver.com/v/43338311</link>
+            <guid>https://tv.naver.com/v/43338311</guid>
+            <pubDate>Fri, 24 Nov 2023 10:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[5:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_178/0u44e_1700805655922FF0V1_JPEG/9fd485ac-8a86-11ee-8f45-80615f0c465c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변진섭_숙녀에게(Guitar Version)]]></title>
+            <link>https://tv.naver.com/v/43338302</link>
+            <guid>https://tv.naver.com/v/43338302</guid>
+            <pubDate>Fri, 24 Nov 2023 10:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_298/YL5wt_17008056523843lAVx_JPEG/9218984a-8a86-11ee-bd18-a0369ffab468_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변진섭_연가]]></title>
+            <link>https://tv.naver.com/v/43338295</link>
+            <guid>https://tv.naver.com/v/43338295</guid>
+            <pubDate>Fri, 24 Nov 2023 10:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_178/MHve5_1700805648364uYo5p_JPEG/7bc4ce38-8a86-11ee-9178-505dacfba98a_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변진섭_희망사항]]></title>
+            <link>https://tv.naver.com/v/43338287</link>
+            <guid>https://tv.naver.com/v/43338287</guid>
+            <pubDate>Fri, 24 Nov 2023 10:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_47/8Zj7q_1700805644389l0ssW_JPEG/40d81e56-8a86-11ee-a9b6-80615f0bcd26_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변진섭_비와 당신]]></title>
+            <link>https://tv.naver.com/v/43338280</link>
+            <guid>https://tv.naver.com/v/43338280</guid>
+            <pubDate>Fri, 24 Nov 2023 10:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_288/9kDND_1700805638748z8zNL_JPEG/204334e1-8a86-11ee-b5ae-a0369ff85ee0_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변진섭_숙녀에게]]></title>
+            <link>https://tv.naver.com/v/43338273</link>
+            <guid>https://tv.naver.com/v/43338273</guid>
+            <pubDate>Fri, 24 Nov 2023 10:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_136/gDyeD_17008056350248hMtB_JPEG/02d07262-8a86-11ee-bd08-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변진섭_로라]]></title>
+            <link>https://tv.naver.com/v/43338269</link>
+            <guid>https://tv.naver.com/v/43338269</guid>
+            <pubDate>Fri, 24 Nov 2023 10:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[5:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_250/S5GwM_1700805631455BdPLt_JPEG/e3c732b5-8a85-11ee-ba6d-80615f0bcdae_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이수영_휠릴리]]></title>
@@ -182,70 +246,6 @@
             <pubDate>Fri, 03 Nov 2023 10:16:01 GMT</pubDate>
             <content:encoded><![CDATA[5:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231103_160/KUDwu_1698987589762p2hQL_JPEG/5bce80cc-7a01-11ee-bae1-505dac8c38f5_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신촌블루스_세월이 한참 흐른 뒤에야]]></title>
-            <link>https://tv.naver.com/v/42284850</link>
-            <guid>https://tv.naver.com/v/42284850</guid>
-            <pubDate>Fri, 03 Nov 2023 10:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_206/FQ37E_16989875819368wbgL_JPEG/7c2e02f8-7a01-11ee-8fa1-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신촌블루스_건널 수 없는 강]]></title>
-            <link>https://tv.naver.com/v/42284842</link>
-            <guid>https://tv.naver.com/v/42284842</guid>
-            <pubDate>Fri, 03 Nov 2023 10:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_94/kVsAU_1698987573588Erpq7_JPEG/9d163c31-7a01-11ee-92d9-80615f0c46b2_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신촌블루스_Angie]]></title>
-            <link>https://tv.naver.com/v/42284835</link>
-            <guid>https://tv.naver.com/v/42284835</guid>
-            <pubDate>Fri, 03 Nov 2023 09:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[4:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_98/pI1XQ_1698987565670chH7E_JPEG/c14e15ab-7a01-11ee-a2d6-80615f0bcc12_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신촌블루스_거리에 서서]]></title>
-            <link>https://tv.naver.com/v/42284823</link>
-            <guid>https://tv.naver.com/v/42284823</guid>
-            <pubDate>Fri, 03 Nov 2023 09:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_5/Y4Ygy_1698987547299aSNKj_JPEG/dc8b81ac-7a01-11ee-97c6-505dac8c385b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이선지 쿼텟_Triste(원곡 antonio carlos jobim)]]></title>
-            <link>https://tv.naver.com/v/41926491</link>
-            <guid>https://tv.naver.com/v/41926491</guid>
-            <pubDate>Fri, 27 Oct 2023 09:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[7:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_44/UrTnF_1698309444304jaM4a_JPEG/bd5ed8e5-73d2-11ee-9ba4-a0369ffb3258_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이선지 쿼텟_a night]]></title>
-            <link>https://tv.naver.com/v/41926488</link>
-            <guid>https://tv.naver.com/v/41926488</guid>
-            <pubDate>Fri, 27 Oct 2023 10:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[4:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_34/dY3nI_1698309441259BtXeV_JPEG/9dbba2a4-73d2-11ee-9b44-a0369ffdab64_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이선지쿼텟_blues for summer]]></title>
-            <link>https://tv.naver.com/v/41926482</link>
-            <guid>https://tv.naver.com/v/41926482</guid>
-            <pubDate>Fri, 27 Oct 2023 10:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[7:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_136/kJ95w_16983094381122U8lB_JPEG/72bd02a3-73d2-11ee-9c90-d4f5ef58ad5e_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손모은 프로젝트_La danse]]></title>
-            <link>https://tv.naver.com/v/41926478</link>
-            <guid>https://tv.naver.com/v/41926478</guid>
-            <pubDate>Fri, 27 Oct 2023 10:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[4:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_285/LLnfo_1698309434408nPS7Q_JPEG/52d1c6e4-73d2-11ee-bd08-505dac8c3639_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
