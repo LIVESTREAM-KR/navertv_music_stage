@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 06:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 07:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[STAGE MIX🪄] Stray Kids – LALALALA(스트레이 키즈 - 락(樂)) | Show! Music Core]]></title>
+            <link>https://tv.naver.com/v/43289770</link>
+            <guid>https://tv.naver.com/v/43289770</guid>
+            <pubDate>Fri, 24 Nov 2023 07:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231123_192/NepO3_1700728954024OXW6b_JPEG/clip_20231123171908_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] Stray Kids I.N - LALALALA(스트레이 키즈 아이엔 - 락(樂)) Close-up Cam | Show! MusicCore | MBC231118방송]]></title>
             <link>https://tv.naver.com/v/43175624</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 03:14:22 GMT</pubDate>
             <content:encoded><![CDATA[3:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231120_233/56mMB_1700449053518d4wuD_JPEG/clip_20231120113550_45.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS HONG SUNGMIN – Get it On(판타지 보이즈 홍성민 - 겟 잇 온) FanCam |MusicCore | MBC231118방송]]></title>
-            <link>https://tv.naver.com/v/43092227</link>
-            <guid>https://tv.naver.com/v/43092227</guid>
-            <pubDate>Mon, 20 Nov 2023 03:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_3/BzKJo_1700449052164uflJq_JPEG/clip_20231120113549_44.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
