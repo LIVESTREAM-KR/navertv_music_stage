@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 09:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 10:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소] Red Velvet – Chill Kill(레드벨벳 - 칠 킬) 1위 직캠 FanCam | Show! MusicCore | MBC231125방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43391592</link>
+            <guid>https://tv.naver.com/v/43391592</guid>
+            <pubDate>Sat, 25 Nov 2023 10:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[6:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231125_21/WqE7i_1700905291192ydJgy_JPEG/clip_20231125181447_56.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[STAGE MIX🪄] Stray Kids – LALALALA(스트레이 키즈 - 락(樂)) | Show! Music Core (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Mon, 20 Nov 2023 05:13:31 GMT</pubDate>
             <content:encoded><![CDATA[3:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231120_113/vTBFE_1700454990442YjoSp_JPEG/clip_20231120131859_46.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] FANTASY BOYS HIKARU – Get it On(판타지 보이즈 히카루 - 겟 잇 온) FanCam |MusicCore | MBC231118방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/43092228</link>
-            <guid>https://tv.naver.com/v/43092228</guid>
-            <pubDate>Mon, 20 Nov 2023 03:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_233/56mMB_1700449053518d4wuD_JPEG/clip_20231120113550_45.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Red Velvet(레드벨벳) - Chill Kill | SBS 231119 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
