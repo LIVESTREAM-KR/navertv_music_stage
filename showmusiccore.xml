@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 12:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 13:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소] &TEAM - Dropkick (Korean ver.)(앤팀 – 드롭킥) FanCam | Show! MusicCore | MBC231125방송]]></title>
+            <link>https://tv.naver.com/v/43396702</link>
+            <guid>https://tv.naver.com/v/43396702</guid>
+            <pubDate>Sat, 25 Nov 2023 13:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231125_143/38L4h_1700915249893U0j0j_JPEG/clip_20231125210649_107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] ZEROBASEONE – MELTING POINT(제로베이스원 - 멜팅 포인트) FanCam | Show! MusicCore | MBC231125방송]]></title>
             <link>https://tv.naver.com/v/43396328</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Nov 2023 11:10:32 GMT</pubDate>
             <content:encoded><![CDATA[2:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231125_225/Qkzmx_17009085920377xLJO_JPEG/clip_20231125191230_63.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] THE BOYZ ERIC – WATCH IT(더보이즈 에릭 - 와치 잇) FanCam | Show! MusicCore | MBC231125방송]]></title>
-            <link>https://tv.naver.com/v/43392954</link>
-            <guid>https://tv.naver.com/v/43392954</guid>
-            <pubDate>Sat, 25 Nov 2023 11:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[5:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231125_190/Xf4iD_1700908291427PkVn7_JPEG/clip_20231125185844_61.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
