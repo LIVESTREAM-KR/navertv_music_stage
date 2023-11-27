@@ -4,7 +4,7 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 02:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 02:32:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 24 Nov 2023 10:16:11 GMT</pubDate>
             <content:encoded><![CDATA[11:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231124_41/Edq4k_1700805659523bnctn_JPEG/e79beb4c-8a86-11ee-8f45-80615f0c465c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변진섭_내게 줄 수 있는 건 오직 사랑뿐]]></title>
-            <link>https://tv.naver.com/v/43338311</link>
-            <guid>https://tv.naver.com/v/43338311</guid>
-            <pubDate>Fri, 24 Nov 2023 10:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[5:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_178/0u44e_1700805655922FF0V1_JPEG/9fd485ac-8a86-11ee-8f45-80615f0c465c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[변진섭_숙녀에게(Guitar Version)]]></title>
@@ -78,6 +70,14 @@
             <pubDate>Fri, 24 Nov 2023 10:16:11 GMT</pubDate>
             <content:encoded><![CDATA[5:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231124_250/S5GwM_1700805631455BdPLt_JPEG/e3c732b5-8a85-11ee-ba6d-80615f0bcdae_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변진섭_네게 줄 수 있는 건 오직 사랑뿐]]></title>
+            <link>https://tv.naver.com/v/43338311</link>
+            <guid>https://tv.naver.com/v/43338311</guid>
+            <pubDate>Fri, 24 Nov 2023 10:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[5:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_178/0u44e_1700805655922FF0V1_JPEG/9fd485ac-8a86-11ee-8f45-80615f0c465c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이수영_휠릴리]]></title>
