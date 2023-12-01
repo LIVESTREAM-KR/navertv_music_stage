@@ -4,9 +4,17 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 08:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 09:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전선민_날아(미생OST) (원곡 이승열)]]></title>
+            <link>https://tv.naver.com/v/43642393</link>
+            <guid>https://tv.naver.com/v/43642393</guid>
+            <pubDate>Fri, 01 Dec 2023 09:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231130_125/7kKfH_1701332291172oc3TT_JPEG/308abf57-8f57-11ee-93f0-48df3772587c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[변진섭_홀로 된다는 것]]></title>
             <link>https://tv.naver.com/v/43338322</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Nov 2023 10:16:01 GMT</pubDate>
             <content:encoded><![CDATA[4:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231103_281/Plovk_1698987597045kaOjg_JPEG/2e71f4a1-7a01-11ee-ba6d-80615f0bcdae_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신촌블루스_환상]]></title>
-            <link>https://tv.naver.com/v/42284856</link>
-            <guid>https://tv.naver.com/v/42284856</guid>
-            <pubDate>Fri, 03 Nov 2023 10:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[5:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_160/KUDwu_1698987589762p2hQL_JPEG/5bce80cc-7a01-11ee-bae1-505dac8c38f5_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
