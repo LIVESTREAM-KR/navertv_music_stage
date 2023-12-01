@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 04:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 05:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2032,6 +2032,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] EP.595- Dreamcatcher, ROCKY, BANG YEDAM, ATBO, LUN8wave, KISS OF LIFE (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43674006</link>
+            <guid>https://tv.naver.com/v/43674006</guid>
+            <pubDate>Fri, 01 Dec 2023 05:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[50:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_55/mSjmL_17013892005790cf6c_JPEG/1701388729147.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] EP.594- Weeekly, GIUK (ONEWE), KISS OF LIFE, Jay Chang, NTX, WHIB, BTF4 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/43288628</link>
             <guid>https://tv.naver.com/v/43288628</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
             <content:encoded><![CDATA[50:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230803_150/BJUGY_1691046179976ESA45_JPEG/1691045669223.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K Pop CON TOUR] EP.579 - MIRAE(미래소년), HORI7ON(호라이즌), KISS OF LIFE(키스오브라이프), ICHILL (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38492019</link>
-            <guid>https://tv.naver.com/v/38492019</guid>
-            <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[51:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_193/7hcck_1690502721868xPho0_JPEG/1690502251587.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[변진섭_홀로 된다는 것 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
