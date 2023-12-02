@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 09:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 10:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] ATEEZ SEONGHWA – Crazy Form (에이티즈 성화 - 미친 폼) Close-up Cam | Show! MusicCore | MBC231202방송]]></title>
+            <link>https://tv.naver.com/v/43738297</link>
+            <guid>https://tv.naver.com/v/43738297</guid>
+            <pubDate>Sat, 02 Dec 2023 10:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231202_256/XbPO7_1701508890014RyAc3_JPEG/clip_20231202174223_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#최애직캠] ATEEZ SAN- Crazy Form (에이티즈 산 - 미친 폼) Close-up Cam | Show! MusicCore | MBC231202방송]]></title>
             <link>https://tv.naver.com/v/43737876</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 02 Dec 2023 09:12:27 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231202_274/I3osX_1701504993691GL5nB_JPEG/clip_20231202165541_38.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ATEEZ WOOYOUNG – Crazy Form(에이티즈 우영 - 미친 폼) FanCam | Show! MusicCore | MBC231202방송]]></title>
-            <link>https://tv.naver.com/v/43736421</link>
-            <guid>https://tv.naver.com/v/43736421</guid>
-            <pubDate>Sat, 02 Dec 2023 09:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231202_137/yr7KP_1701504992631Fegtq_JPEG/clip_20231202165727_42.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
