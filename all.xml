@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 08:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 09:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231202_274/I3osX_1701504993691GL5nB_JPEG/clip_20231202165541_38.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방예담 - 하나만 해 | SBS 231203 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43766343</link>
+            <guid>https://tv.naver.com/v/43766343</guid>
+            <pubDate>Sun, 03 Dec 2023 09:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231203_19/2YYzt_1701591992074PNbhf_PNG/36970ebf-1a3b-4c24-8859-cfa8d6657fd4.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[남우현 - Baby Baby | SBS 231203 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/43764940</link>
             <guid>https://tv.naver.com/v/43764940</guid>
@@ -486,14 +494,6 @@
             <pubDate>Sun, 26 Nov 2023 07:13:06 GMT</pubDate>
             <content:encoded><![CDATA[3:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231126_141/ZtgIL_17009818505624RMc9_PNG/6d8dad8e-2fb7-4167-b83d-04eefc28731d.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[장민호 - 아! 님아(Anima) | SBS 231126 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/43416966</link>
-            <guid>https://tv.naver.com/v/43416966</guid>
-            <pubDate>Sun, 26 Nov 2023 07:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231126_146/x1ON7_1700981793286bVgJ2_PNG/dc39b3b7-2fa8-4644-9da3-1ac50ecb02f0.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[안방1열 직캠4K] 빌리 션 'GingaMingaYo(the strange world)' (Billlie SHEON FanCam)│@SBS Inkigayo_2022.03.20. (SBS KPOP PLAY ─ 네이버TV)]]></title>
