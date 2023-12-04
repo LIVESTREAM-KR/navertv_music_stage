@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 23:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 01:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 02:46:41 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NAM WOO HYUN – Baby Baby (남우현 - 베이비 베이비) Close-up Cam | Show! MusicCore | MBC231202방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43786113</link>
+            <guid>https://tv.naver.com/v/43786113</guid>
+            <pubDate>Mon, 04 Dec 2023 01:01:39 GMT</pubDate>
+            <content:encoded><![CDATA[4:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231204_141/czwlK_1701644248993dBzKM_PNG/clip_20231204072032_0.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[#최애직캠] ATEEZ SEONGHWA – Crazy Form (에이티즈 성화 - 미친 폼) Close-up Cam | Show! MusicCore | MBC231202방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 02 Dec 2023 09:12:27 GMT</pubDate>
             <content:encoded><![CDATA[3:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231202_277/TxCPl_1701504995229TNl0p_JPEG/clip_20231202165513_37.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] ATEEZ YUNHO – Crazy Form(에이티즈 윤호 - 미친 폼) FanCam | Show! MusicCore | MBC231202방송 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/43736422</link>
-            <guid>https://tv.naver.com/v/43736422</guid>
-            <pubDate>Sat, 02 Dec 2023 09:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231202_274/I3osX_1701504993691GL5nB_JPEG/clip_20231202165541_38.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방예담 - 하나만 해 | SBS 231203 방송 (SBS 인기가요 ─ 네이버TV)]]></title>
