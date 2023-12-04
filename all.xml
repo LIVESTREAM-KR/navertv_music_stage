@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 05:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 06:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 2023년 쇼챔 연말 결산📝 별 보다 더 빛날 수 있는거임? 무대도? 💫🌟 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/43800687</link>
+            <guid>https://tv.naver.com/v/43800687</guid>
+            <pubDate>Mon, 04 Dec 2023 06:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231204_33/lD4ps_1701667891761EDAsK_JPEG/CA202312060002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[11월 3주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (woo!ah! 나나, Billlie 츠키) l Show Champion l EP.500 l 231115 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/42893678</link>
             <guid>https://tv.naver.com/v/42893678</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Wed, 15 Nov 2023 13:18:07 GMT</pubDate>
             <content:encoded><![CDATA[2:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231115_178/lK5IT_1700044892025xuY3B_JPEG/CA202311150082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] EPEX - Pretty U (원곡 : SEVENTEEN) (이펙스 - 예쁘다 (원곡 : 세븐틴)) | Show Champion | EP.500 | 231115 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/42892151</link>
-            <guid>https://tv.naver.com/v/42892151</guid>
-            <pubDate>Wed, 15 Nov 2023 13:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_160/E5Ki2_1700046090341CF5gp_JPEG/CA202311150085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
