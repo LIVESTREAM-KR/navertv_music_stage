@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 04:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 05:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2032,6 +2032,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] EP.596- BANG YEDAM, ATBO, ONE PACT, NTX, 24K+ (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/44013384</link>
+            <guid>https://tv.naver.com/v/44013384</guid>
+            <pubDate>Fri, 08 Dec 2023 05:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[47:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_253/KZFJJ_1701995910928pAony_JPEG/1701995251736.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] EP.595- Dreamcatcher, ROCKY, BANG YEDAM, ATBO, LUN8wave, KISS OF LIFE (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/43674006</link>
             <guid>https://tv.naver.com/v/43674006</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
             <content:encoded><![CDATA[49:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230810_269/40cja_16916544545534RV2B_JPEG/1691653657212.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K Pop CON TOUR] EP.580 - MIRAE(미래소년), HORI7ON(호라이즌), KISS OF LIFE(키스오브라이프), ICHILL (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/38689397</link>
-            <guid>https://tv.naver.com/v/38689397</guid>
-            <pubDate>Thu, 07 Sep 2023 12:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[50:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230803_150/BJUGY_1691046179976ESA45_JPEG/1691045669223.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노브레인_넌 내게 반했어 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
