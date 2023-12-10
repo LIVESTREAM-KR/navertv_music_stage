@@ -4,7 +4,7 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 08:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 09:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Sun, 10 Dec 2023 07:12:34 GMT</pubDate>
             <content:encoded><![CDATA[3:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231210_220/Uufl1_1702192290241f2rIa_PNG/f9e9e325-e6cd-4095-95ca-21d98187c9bc.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[FANTASY BOYS - Potential | SBS 231210 방송]]></title>
+            <link>https://tv.naver.com/v/44104532</link>
+            <guid>https://tv.naver.com/v/44104532</guid>
+            <pubDate>Sun, 10 Dec 2023 09:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231210_172/W6rKS_1702198290887nNAtH_PNG/a123d86d-6e20-466d-b68b-9784a963f324.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[로아(Roa) - LIAR | SBS 231210 방송]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 03 Dec 2023 07:12:02 GMT</pubDate>
             <content:encoded><![CDATA[2:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231203_133/JdJmg_1701586891014hjBK9_PNG/5d0d7d1e-cdb2-456f-841b-c5f076296a24.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이스트샤인 (EASTSHINE) - Double Down | SBS 231203 방송]]></title>
-            <link>https://tv.naver.com/v/43763427</link>
-            <guid>https://tv.naver.com/v/43763427</guid>
-            <pubDate>Sun, 03 Dec 2023 07:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231203_208/ZuqFi_1701586591898QI5oI_PNG/01132a0e-7179-48c9-9ef0-6ea352406d28.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
