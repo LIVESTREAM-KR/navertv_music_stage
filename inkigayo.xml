@@ -4,9 +4,65 @@
         <title>SBS 인기가요 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 06:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 07:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이스트샤인(EASTSHINE) - Double Down | SBS 231210 방송]]></title>
+            <link>https://tv.naver.com/v/44104685</link>
+            <guid>https://tv.naver.com/v/44104685</guid>
+            <pubDate>Sun, 10 Dec 2023 07:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231210_220/Uufl1_1702192290241f2rIa_PNG/f9e9e325-e6cd-4095-95ca-21d98187c9bc.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[FANTASY BOYS - Potential | SBS 231210 방송]]></title>
+            <link>https://tv.naver.com/v/44104532</link>
+            <guid>https://tv.naver.com/v/44104532</guid>
+            <pubDate>Sun, 10 Dec 2023 07:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231210_115/ZKV2T_1702191993236Uo6gx_PNG/bb844cd8-8691-4296-9836-64800dba8fbf.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[로아(Roa) - LIAR | SBS 231210 방송]]></title>
+            <link>https://tv.naver.com/v/44104240</link>
+            <guid>https://tv.naver.com/v/44104240</guid>
+            <pubDate>Sun, 10 Dec 2023 07:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231210_195/Yh9D4_17021914520359LO6e_PNG/03b07ad7-4227-4bcd-9bce-28f3db3e6375.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[신현희 - I YA E YA(MBTI) | SBS 231210 방송]]></title>
+            <link>https://tv.naver.com/v/44104198</link>
+            <guid>https://tv.naver.com/v/44104198</guid>
+            <pubDate>Sun, 10 Dec 2023 07:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231210_296/weibj_1702191392952wBB3e_PNG/aff8610a-ace2-4f30-93ea-2cb25598a1b9.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ONE PACT(원팩트) - 좋겠다 | SBS 231210 방송]]></title>
+            <link>https://tv.naver.com/v/44104195</link>
+            <guid>https://tv.naver.com/v/44104195</guid>
+            <pubDate>Sun, 10 Dec 2023 07:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231210_82/Vet6I_17021913908567PXQc_PNG/a8d62de7-5507-4de0-9b91-c7706f9be90e.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스 영(Chris Young) - 피어나 | SBS 231210 방송]]></title>
+            <link>https://tv.naver.com/v/44103650</link>
+            <guid>https://tv.naver.com/v/44103650</guid>
+            <pubDate>Sun, 10 Dec 2023 07:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231210_283/CfbYU_1702190552380GNlXK_PNG/c40b3375-7c34-4d26-990e-14dd2683146b.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[홍지윤 - 촉이와요 | SBS 231210 방송]]></title>
+            <link>https://tv.naver.com/v/44103623</link>
+            <guid>https://tv.naver.com/v/44103623</guid>
+            <pubDate>Sun, 10 Dec 2023 07:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231210_15/wCbiE_17021904913671Mxxr_PNG/ab796fea-bb0f-4d4a-b5d9-13c6a97f5f7a.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방예담 - 하나만 해 | SBS 231203 방송]]></title>
             <link>https://tv.naver.com/v/43766343</link>
@@ -190,62 +246,6 @@
             <pubDate>Sun, 26 Nov 2023 08:16:15 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231126_122/ph4m7_170098388896470Pk9_PNG/168ad5e2-4004-407c-a4b7-3daa6072b3c6.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[드림캐쳐 - OOTD | SBS 231126 방송]]></title>
-            <link>https://tv.naver.com/v/43417963</link>
-            <guid>https://tv.naver.com/v/43417963</guid>
-            <pubDate>Sun, 26 Nov 2023 08:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231126_278/1nLDL_1700983595547WwFk3_PNG/e3446098-9a19-4a90-807e-ad768cca3d64.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ZEROBASEONE - MELTING POINT | SBS 231126 방송]]></title>
-            <link>https://tv.naver.com/v/43417828</link>
-            <guid>https://tv.naver.com/v/43417828</guid>
-            <pubDate>Sun, 26 Nov 2023 08:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231126_88/1KLFE_1700983292686Gk8Ox_PNG/6d70bbf3-976b-4c35-bc51-8866a09a106e.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MCND - ODD-VENTURE | SBS 231126 방송]]></title>
-            <link>https://tv.naver.com/v/43417825</link>
-            <guid>https://tv.naver.com/v/43417825</guid>
-            <pubDate>Sun, 26 Nov 2023 08:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231126_56/h51ao_1700983288974oSmnS_PNG/b18eedb2-6fde-4427-8737-14de72ce1544.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[FANTASY BOYS - Potential | SBS 231126 방송]]></title>
-            <link>https://tv.naver.com/v/43417643</link>
-            <guid>https://tv.naver.com/v/43417643</guid>
-            <pubDate>Sun, 26 Nov 2023 08:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231126_29/GEJnN_1700982991165eILY3_PNG/2cab3ab8-216f-4ea2-a4bc-c651e2193891.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KISS OF LIFE - Nobody Knows | SBS 231126 방송]]></title>
-            <link>https://tv.naver.com/v/43417312</link>
-            <guid>https://tv.naver.com/v/43417312</guid>
-            <pubDate>Sun, 26 Nov 2023 07:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231126_259/PZDur_1700982389857PAXNP_PNG/c8139d76-8e7b-4677-96a9-c0468d14a5c2.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방예담 - 하나만 해 | SBS 231126 방송]]></title>
-            <link>https://tv.naver.com/v/43417001</link>
-            <guid>https://tv.naver.com/v/43417001</guid>
-            <pubDate>Sun, 26 Nov 2023 07:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231126_55/e2dHW_1700981853098tJUbc_PNG/d9e5a568-8ead-4031-84e8-32ceb98bef9e.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LUN8wave(루네이브) - 여기 붙어라(Playground) | SBS 231126 방송]]></title>
-            <link>https://tv.naver.com/v/43417000</link>
-            <guid>https://tv.naver.com/v/43417000</guid>
-            <pubDate>Sun, 26 Nov 2023 07:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231126_141/ZtgIL_17009818505624RMc9_PNG/6d8dad8e-2fb7-4167-b83d-04eefc28731d.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
