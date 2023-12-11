@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 06:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 07:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] NAM WOO HYUN - Baby Baby(남우현 - 베이비 베이비) Close-up Cam | Show! MusicCore | MBC231209방송]]></title>
+            <link>https://tv.naver.com/v/44149699</link>
+            <guid>https://tv.naver.com/v/44149699</guid>
+            <pubDate>Mon, 11 Dec 2023 07:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[4:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231211_28/O1RYJ_17022780888825FErK_PNG/clip_20231211153744_0.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] ATBO - Must Have Love(에이티비오 – 머스트 해브 러브) FanCam (Horizontal Ver.)|Show!MusicCore|MBC231209방]]></title>
             <link>https://tv.naver.com/v/44076628</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 04 Dec 2023 01:01:39 GMT</pubDate>
             <content:encoded><![CDATA[4:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231204_141/czwlK_1701644248993dBzKM_PNG/clip_20231204072032_0.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[#최애직캠] ATEEZ SEONGHWA – Crazy Form (에이티즈 성화 - 미친 폼) Close-up Cam | Show! MusicCore | MBC231202방송]]></title>
-            <link>https://tv.naver.com/v/43738297</link>
-            <guid>https://tv.naver.com/v/43738297</guid>
-            <pubDate>Sat, 02 Dec 2023 10:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231202_256/XbPO7_1701508890014RyAc3_JPEG/clip_20231202174223_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
