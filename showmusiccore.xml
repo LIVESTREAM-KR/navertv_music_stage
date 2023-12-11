@@ -4,17 +4,9 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 10:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 11:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[4K STAGE] MAVE: (메이브) - Whats_My_Name (왓츠 마이 네임) | Show! MusicCore | MBC231202방송]]></title>
-            <link>https://tv.naver.com/v/44153734</link>
-            <guid>https://tv.naver.com/v/44153734</guid>
-            <pubDate>Mon, 11 Dec 2023 09:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231211_154/yq5zC_17022816894682xyOb_JPEG/clip_20231211163733_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[#최애직캠] NAM WOO HYUN - Baby Baby(남우현 - 베이비 베이비) Close-up Cam | Show! MusicCore | MBC231209방송]]></title>
             <link>https://tv.naver.com/v/44149699</link>
@@ -246,6 +238,14 @@
             <pubDate>Sat, 09 Dec 2023 08:16:07 GMT</pubDate>
             <content:encoded><![CDATA[3:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231209_161/S3XHt_1702108889667Vk4x3_JPEG/clip_20231209164358_60.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NAM WOO HYUN – Baby Baby (남우현 - 베이비 베이비) Close-up Cam | Show! MusicCore | MBC231202방송]]></title>
+            <link>https://tv.naver.com/v/43786113</link>
+            <guid>https://tv.naver.com/v/43786113</guid>
+            <pubDate>Mon, 11 Dec 2023 11:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[4:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231204_141/czwlK_1701644248993dBzKM_PNG/clip_20231204072032_0.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
