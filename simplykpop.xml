@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 04:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 05:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] EP.597- Moon Jong Up, LUCY, DKB, Lapillus, XODIAC, n.SSign, ONE PACT]]></title>
+            <link>https://tv.naver.com/v/44328239</link>
+            <guid>https://tv.naver.com/v/44328239</guid>
+            <pubDate>Fri, 15 Dec 2023 05:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[50:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231214_151/MxTFL_17025369585551nROh_JPEG/1702536510772.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] EP.596- BANG YEDAM, ATBO, ONE PACT, NTX, 24K+]]></title>
             <link>https://tv.naver.com/v/44013384</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 10 Dec 2023 18:17:02 GMT</pubDate>
             <content:encoded><![CDATA[51:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230817_87/Fv1fU_1692258073214TwUp8_JPEG/1692257413924.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] EP.581 MIRAE(미래소년),  KISS OF LIFE(키스오브라이프),  HORI7ON, ARTBEAT v, Yoon Seob]]></title>
-            <link>https://tv.naver.com/v/38926594</link>
-            <guid>https://tv.naver.com/v/38926594</guid>
-            <pubDate>Sun, 10 Dec 2023 18:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[49:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_269/40cja_16916544545534RV2B_JPEG/1691653657212.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
