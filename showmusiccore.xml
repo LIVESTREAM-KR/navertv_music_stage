@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 09:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 10:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#최애직캠] NMIXX KYUJIN - Soñar (Breaker)(엔믹스 – 소냐르(브레이커)) Close-up Cam | Show! MusicCore | MBC231216방]]></title>
+            <link>https://tv.naver.com/v/44509285</link>
+            <guid>https://tv.naver.com/v/44509285</guid>
+            <pubDate>Mon, 18 Dec 2023 10:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231218_185/jeJVl_1702891893739sPANb_JPEG/clip_20231218181141_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NMIXX SULLYOON - Soñar (Breaker)(엔믹스 – 소냐르(브레이커)) Close-up Cam | Show! MusicCore | MBC23121]]></title>
+            <link>https://tv.naver.com/v/44509282</link>
+            <guid>https://tv.naver.com/v/44509282</guid>
+            <pubDate>Mon, 18 Dec 2023 10:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231218_236/Zh8n3_1702891891855qNAJ9_JPEG/clip_20231218181133_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#최애직캠] NMIXX HAEWON - Soñar (Breaker) (엔믹스 해원 - 소냐르) Close-up Cam | Show! MusicCore | MBC231216방송]]></title>
+            <link>https://tv.naver.com/v/44509278</link>
+            <guid>https://tv.naver.com/v/44509278</guid>
+            <pubDate>Mon, 18 Dec 2023 10:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231218_231/PUlhW_1702891889638NYisg_JPEG/clip_20231218181127_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소] ATEEZ JONGHO – Crazy Form (에이티즈 종호 - 미친 폼) FanCam | Show! MusicCore | MBC231216방송]]></title>
             <link>https://tv.naver.com/v/44431358</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 16 Dec 2023 09:12:36 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231216_255/c7rqe_1702715792841flyvt_JPEG/clip_20231216171652_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NMIXX HAEWON – Soñar (Breaker)(엔믹스 해원 - 소냐르(브레이커)) FanCam | Show! MusicCore | MBC231216방송]]></title>
-            <link>https://tv.naver.com/v/44427475</link>
-            <guid>https://tv.naver.com/v/44427475</guid>
-            <pubDate>Sat, 16 Dec 2023 09:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231216_173/12kgI_1702715791584TR2A8_JPEG/clip_20231216171646_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NMIXX LILY – Soñar (Breaker)(엔믹스 릴리 - 소냐르(브레이커)) FanCam | Show! MusicCore | MBC231216방송]]></title>
-            <link>https://tv.naver.com/v/44427472</link>
-            <guid>https://tv.naver.com/v/44427472</guid>
-            <pubDate>Sat, 16 Dec 2023 09:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231216_210/pA6TA_1702715790371WRAeO_JPEG/clip_20231216171640_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소] NMIXX - Soñar (Breaker)(엔믹스 – 소냐르(브레이커)) FanCam | Show! MusicCore | MBC231216방송]]></title>
-            <link>https://tv.naver.com/v/44427156</link>
-            <guid>https://tv.naver.com/v/44427156</guid>
-            <pubDate>Sat, 16 Dec 2023 09:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231216_73/OJHga_1702715248975Rt2pe_JPEG/clip_20231216171422_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
