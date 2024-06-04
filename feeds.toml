@@ -1,10 +1,11 @@
+[default]
+timeout = 120
+
 [musicbank]
 title = "KBS 뮤직뱅크 ─ 네이버TV"
 url = "https://tv.naver.com/musicbank?tab=clip"
-entrySelector = "ul.CommonPanel_grid_clip_list__8FgqT > li.ClipCardV2_list_item__BUsI8"
-titleSelector = "div.ClipCardV2_title_area__At_Y8 > a.ClipCardV2_link_title__tlhxa"
-linkSelector = "a.ClipCardV2_link_thumbnail__NWYf1"
-imageSelector = "a.ClipCardV2_link_thumbnail__NWYf1 > div.ClipCardV2_preview_area__qDm89 > span > img"
-contentSelector = "a.ClipCardV2_link_thumbnail__NWYf1 > div.ClipCardV2_preview_area__qDm89 > span.ClipCardV2_playtime__IHYFQ"
-waitForSelector = "ul.CommonPanel_grid_clip_list__8FgqT > li.ClipCardV2_list_item__BUsI8"
+entrySelector = "#content > div.showId_panel_section__GUdI_ > div > ul > li"
+titleSelector = "div > div > div.ClipCardV2_title_area__At_Y8 > a"
+linkSelector = "div > div > div.ClipCardV2_title_area__At_Y8 > a"
+waitForSelector = "#content > div.showId_panel_section__GUdI_ > div > ul > li"
 onFail = "stale"
